@@ -1,5 +1,6 @@
 # LeetCode
 My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
+* [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 * [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
