@@ -4,6 +4,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
