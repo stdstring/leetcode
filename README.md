@@ -13,6 +13,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+* [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
