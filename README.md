@@ -13,6 +13,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+* [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
