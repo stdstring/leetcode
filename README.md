@@ -13,6 +13,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 * [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
