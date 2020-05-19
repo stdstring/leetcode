@@ -1,8 +1,10 @@
 const char Empty = '.';
 
-class Solution {
+class Solution
+{
 public:
-    bool isValidSudoku(std::vector<std::vector<char>> const &board) {
+    bool isValidSudoku(std::vector<std::vector<char>> const &board)
+    {
         for(int x = 0; x < 9; ++x)
         {
             if (!checkHorizontalLine(board, x))
@@ -41,7 +43,7 @@ private:
         }
         return true;
     }
-    
+
     bool checkVerticalLine(std::vector<std::vector<char>> const &board, int y)
     {
         int checkMask = 0;
@@ -58,7 +60,7 @@ private:
         }
         return true;
     }
-    
+
     bool checkSquare(std::vector<std::vector<char>> const &board, int leftX, int topY)
     {
         int checkMask = 0;

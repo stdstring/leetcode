@@ -1,9 +1,11 @@
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
 
-class Solution {
+class Solution
+{
 public:
-    int firstBadVersion(int n) {
+    int firstBadVersion(int n)
+    {
         if (isBadVersion(1))
             return 1;
         long long left = 1;

@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    int strStr(std::string const &haystack, std::string const &needle) {
+    int strStr(std::string const &haystack, std::string const &needle)
+    {
         if (needle.size() == 0)
             return 0;
         if (haystack.size() < needle.size())

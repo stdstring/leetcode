@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<int> twoSum(std::vector<int> const &nums, int target) {
+    std::vector<int> twoSum(std::vector<int> const &nums, int target)
+    {
         // create and sort vector of indices
         std::vector<int> indices;
         indices.reserve(nums.size());

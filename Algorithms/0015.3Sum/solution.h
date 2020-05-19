@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<std::vector<int>> threeSum(std::vector<int> const &nums) {
+    std::vector<std::vector<int>> threeSum(std::vector<int> const &nums)
+    {
         std::vector<std::vector<int>> dest;
         std::vector<int> source(nums.begin(), nums.end());
         std::sort(source.begin(), source.end());
@@ -33,6 +35,7 @@ public:
         }
         return dest;
     }
+
 private:
     int nextItemIndex(std::vector<int> const &source, int currentIndex)
     {

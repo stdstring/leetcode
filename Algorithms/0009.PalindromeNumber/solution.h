@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    bool isPalindrome(int x) {
+    bool isPalindrome(int x)
+    {
         if (x == 0)
             return true;
         if (x < 0)

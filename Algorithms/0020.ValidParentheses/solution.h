@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    bool isValid(std::string const &s) {
+    bool isValid(std::string const &s)
+    {
         std::unordered_set<char> openBrackets = {'(', '[', '{'};
         std::unordered_map<char, char> closeBracketMap = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
         std::stack<char> brackets;

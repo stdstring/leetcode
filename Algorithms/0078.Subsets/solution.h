@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<std::vector<int>> subsets(std::vector<int> const &nums) {
+    std::vector<std::vector<int>> subsets(std::vector<int> const &nums)
+    {
         int subsetsCount = 1 << nums.size();
         std::vector<std::vector<int>> subsets;
         subsets.reserve(subsetsCount);

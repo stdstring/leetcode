@@ -8,9 +8,11 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution
+{
 public:
-    ListNode* swapPairs(ListNode* head) {
+    ListNode* swapPairs(ListNode* head)
+    {
         if (head == nullptr)
             return head;
         if (head->next == nullptr)

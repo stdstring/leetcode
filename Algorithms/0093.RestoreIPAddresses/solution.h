@@ -1,13 +1,15 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<std::string> restoreIpAddresses(std::string s) {
+    std::vector<std::string> restoreIpAddresses(std::string const &s)
+    {
         std::array<int, 4> positions;
         positions[0] = 0;
         std::vector<std::string> dest;
         processImpl(s, dest, positions, 1);
         return dest;
     }
-    
+
 private:
     void processImpl(std::string const &source, std::vector<std::string> &dest, std::array<int, 4> &positions, int part)
     {
@@ -40,7 +42,7 @@ private:
         }
         return result;
     }
-    
+
     void tryAppendIpAddress(std::string const &source, std::vector<std::string> &dest, std::array<int, 4> &positions)
     {
         const int maxValue = 255;

@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::string longestCommonPrefix(std::vector<std::string>& strs) {
+    std::string longestCommonPrefix(std::vector<std::string>& strs)
+    {
         if (strs.size() == 0)
             return "";
         std::string dest;
@@ -12,7 +14,7 @@ public:
         }
         return dest;
     }
-    
+
 private:
     bool checkIndex(std::vector<std::string> const& strs, int index)
     {

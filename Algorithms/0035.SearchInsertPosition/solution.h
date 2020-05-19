@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    int searchInsert(std::vector<int> const &nums, int target) {
+    int searchInsert(std::vector<int> const &nums, int target)
+    {
         if (nums.size() == 0)
             return 0;
         if (target <= nums[0])

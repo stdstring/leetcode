@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<int> spiralOrder(std::vector<std::vector<int>> const &matrix) {
+    std::vector<int> spiralOrder(std::vector<std::vector<int>> const &matrix)
+    {
         if (matrix.size() == 0)
             return {};
         int m = matrix.size();
@@ -21,6 +23,7 @@ public:
         }
         return dest;
     }
+
 private:
     void processLayer(std::vector<std::vector<int>> const &matrix, std::vector<int> &dest, int rowMin, int rowMax, int columnMin, int columnMax)
     {

@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::string convertToBase7(int num) {
+    std::string convertToBase7(int num)
+    {
         std::string buf;
         std::div_t dv{};
         dv.quot = num;

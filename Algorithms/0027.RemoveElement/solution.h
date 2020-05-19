@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    int removeElement(std::vector<int>& nums, int val) {
+    int removeElement(std::vector<int>& nums, int val)
+    {
         if (nums.size() == 0)
             return 0;
         int length = 0;

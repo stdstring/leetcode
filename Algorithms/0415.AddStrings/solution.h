@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::string addStrings(std::string const &a, std::string const &b) {
+    std::string addStrings(std::string const &a, std::string const &b)
+    {
         std::string buf;
         size_t maxSize = std::max(a.size(), b.size());
         std::div_t dv{};

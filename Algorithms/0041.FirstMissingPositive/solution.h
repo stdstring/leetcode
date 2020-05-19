@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    int firstMissingPositive(std::vector<int> &nums) {
+    int firstMissingPositive(std::vector<int> &nums)
+    {
         int minValue = 0;
         int maxValue = 0;
         int count = 0;

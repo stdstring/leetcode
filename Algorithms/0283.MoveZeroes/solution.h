@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    void moveZeroes(std::vector<int>& nums) {
+    void moveZeroes(std::vector<int>& nums)
+    {
         int zeroCount = 0;
         for (int index = 0; index < nums.size(); ++index)
         {

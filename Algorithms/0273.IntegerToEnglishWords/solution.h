@@ -1,4 +1,5 @@
-class Solution {
+class Solution
+{
 public:
     std::string numberToWords(int num)
     {
@@ -50,6 +51,7 @@ private:
         {8, "Eight"},
         {9, "Nine"},
     };
+
     std::unordered_map<int, std::string> mTranslationFrom10To19 = {
         {10, "Ten"},
         {11, "Eleven"},
@@ -62,6 +64,7 @@ private:
         {18, "Eighteen"},
         {19, "Nineteen"}
     };
+
     std::unordered_map<int, std::string> mTranslationTensFrom20To90 = {
         {2, "Twenty"},
         {3, "Thirty"},

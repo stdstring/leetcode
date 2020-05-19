@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    std::vector<std::vector<int>> combine(int n, int k) {
+    std::vector<std::vector<int>> combine(int n, int k)
+    {
         std::vector<std::vector<int>> combinations;
         std::vector<int> buffer;
         buffer.reserve(k);
