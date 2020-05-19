@@ -15,6 +15,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+* [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
