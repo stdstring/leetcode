@@ -32,6 +32,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
