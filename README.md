@@ -34,6 +34,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
