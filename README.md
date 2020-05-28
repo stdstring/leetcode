@@ -36,6 +36,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+* [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
