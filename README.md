@@ -21,6 +21,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+* [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
