@@ -33,6 +33,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
