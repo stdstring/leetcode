@@ -46,6 +46,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
