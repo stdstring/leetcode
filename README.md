@@ -5,6 +5,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 * [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
