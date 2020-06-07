@@ -50,6 +50,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
+* [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
