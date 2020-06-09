@@ -45,6 +45,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+* [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
