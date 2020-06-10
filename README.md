@@ -21,6 +21,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+* [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
