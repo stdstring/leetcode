@@ -20,6 +20,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+* [38. Count and Say](https://leetcode.com/problems/count-and-say/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
