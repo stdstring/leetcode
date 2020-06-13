@@ -1,13 +1,12 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include "ListNode.h"
+
+#include "gtest/gtest.h"
+
+using CommonDefs::ListNode;
+
+namespace
+{
+
 class Solution
 {
 public:
@@ -24,9 +23,7 @@ public:
         while (current != nullptr)
         {
             if (hasDuplicates(current))
-            {
                 prev->next = current = removeDuplicates(current);
-            }
             else
             {
                 prev = prev->next;
@@ -44,8 +41,8 @@ private:
 
     ListNode* removeDuplicates(ListNode* current)
     {
-        int val = current->val;
-        while ((current != nullptr) && (current->val == val))
+        const int val = current->val;
+        while (current != nullptr && current->val == val)
         {
             ListNode* next = current->next;
             delete current;
@@ -54,3 +51,26 @@ private:
         return current;
     }
 };
+
+}
+
+using CommonDefs::createLinkedList;
+using CommonDefs::checkAndDeleteLinkedList;
+
+namespace RemoveDuplicatesFromSortedListIITask
+{
+
+TEST(RemoveDuplicatesFromSortedListIITaskTests, Examples)
+{
+    Solution solution;
+    checkAndDeleteLinkedList(std::vector<int>({1, 2, 5}), solution.deleteDuplicates(createLinkedList({1, 2, 3, 3, 4, 4, 5}, false).get()));
+    checkAndDeleteLinkedList(std::vector<int>({2, 3}), solution.deleteDuplicates(createLinkedList({1, 1, 1, 2, 3}, false).get()));
+}
+
+TEST(RemoveDuplicatesFromSortedListIITaskTests, FromWrongAnswers)
+{
+    Solution solution;
+    checkAndDeleteLinkedList(std::vector<int>(), solution.deleteDuplicates(createLinkedList({1, 1}, false).get()));
+}
+
+}

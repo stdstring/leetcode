@@ -5,6 +5,8 @@ project(0083.RemoveDuplicatesFromSortedList CXX)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+include_directories("../CommonDefs")
+
 set(SOURCES solution.cpp)
 
 set(HEADERS)

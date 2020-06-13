@@ -11,7 +11,7 @@ link_directories(external/googletest/bin)
 enable_testing()
 # Algorithms
 add_subdirectory(Algorithms/0001.TwoSum bin/0001.TwoSum)
-#add_subdirectory(Algorithms/0002.AddTwoNumbers bin/0002.AddTwoNumbers) - need ListNode class definition
+add_subdirectory(Algorithms/0002.AddTwoNumbers bin/0002.AddTwoNumbers)
 add_subdirectory(Algorithms/0007.ReverseInteger bin/0007.ReverseInteger)
 add_subdirectory(Algorithms/0008.StringToInteger bin/0008.StringToInteger)
 add_subdirectory(Algorithms/0009.PalindromeNumber bin/0009.PalindromeNumber)
@@ -20,10 +20,10 @@ add_subdirectory(Algorithms/0013.RomanToInteger bin/0013.RomanToInteger)
 add_subdirectory(Algorithms/0014.LongestCommonPrefix bin/0014.LongestCommonPrefix)
 #add_subdirectory(Algorithms/0015.3Sum bin/0015.3Sum) - ordering problem
 add_subdirectory(Algorithms/0017.LetterCombinationsOfPhoneNumber bin/0017.LetterCombinationsOfPhoneNumber)
-#add_subdirectory(Algorithms/0019.RemoveNthNodeFromEndOfList bin/0019.RemoveNthNodeFromEndOfList) - need ListNode class definition
+add_subdirectory(Algorithms/0019.RemoveNthNodeFromEndOfList bin/0019.RemoveNthNodeFromEndOfList)
 add_subdirectory(Algorithms/0020.ValidParentheses bin/0020.ValidParentheses)
-#add_subdirectory(Algorithms/0021.MergeTwoSortedLists bin/0021.MergeTwoSortedLists) - need ListNode class definition
-#add_subdirectory(Algorithms/0024.SwapNodesInPairs bin//0024.SwapNodesInPairs) - need ListNode class definition
+add_subdirectory(Algorithms/0021.MergeTwoSortedLists bin/0021.MergeTwoSortedLists)
+add_subdirectory(Algorithms/0024.SwapNodesInPairs bin//0024.SwapNodesInPairs)
 add_subdirectory(Algorithms/0026.RemoveDuplicatesFromSortedArray bin/0026.RemoveDuplicatesFromSortedArray)
 add_subdirectory(Algorithms/0027.RemoveElement bin/0027.RemoveElement)
 add_subdirectory(Algorithms/0028.Implement_strStr bin/0028.Implement_strStr)
@@ -45,9 +45,9 @@ add_subdirectory(Algorithms/0069.Sqrt bin/0069.Sqrt)
 add_subdirectory(Algorithms/0077.Combinations bin/0077.Combinations)
 #add_subdirectory(Algorithms/0078.Subsets bin/0078.Subsets) - ordering problem
 add_subdirectory(Algorithms/0080.RemoveDuplicatesFromSortedArrayII bin/0080.RemoveDuplicatesFromSortedArrayII)
-#add_subdirectory(Algorithms/0082.RemoveDuplicatesFromSortedListII bin/0082.RemoveDuplicatesFromSortedListII) - need ListNode class definition
-#add_subdirectory(Algorithms/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList) - need ListNode class definition
-#add_subdirectory(Algorithms/0086.PartitionList bin/0086.PartitionList) - need ListNode class definition
+add_subdirectory(Algorithms/0082.RemoveDuplicatesFromSortedListII bin/0082.RemoveDuplicatesFromSortedListII)
+add_subdirectory(Algorithms/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList)
+add_subdirectory(Algorithms/0086.PartitionList bin/0086.PartitionList)
 add_subdirectory(Algorithms/0093.RestoreIPAddresses bin/0093.RestoreIPAddresses)
 add_subdirectory(Algorithms/0118.PascalTriangle bin/0118.PascalTriangle)
 add_subdirectory(Algorithms/0119.PascalTriangleII bin/0119.PascalTriangleII)
@@ -55,10 +55,10 @@ add_subdirectory(Algorithms/0150.EvaluateReversePolishNotation bin/0150.Evaluate
 #add_subdirectory(Algorithms/0155.MinStack bin/0155.MinStack) - think about tests
 add_subdirectory(Algorithms/0201.BitwiseAndOfNumbersRange bin/0201.BitwiseAndOfNumbersRange)
 add_subdirectory(Algorithms/0202.HappyNumber bin/0202.HappyNumber)
-#add_subdirectory(Algorithms/0203.RemoveLinkedListElements bin/0203.RemoveLinkedListElements) - need ListNode class definition
+add_subdirectory(Algorithms/0203.RemoveLinkedListElements bin/0203.RemoveLinkedListElements)
 add_subdirectory(Algorithms/0204.CountPrimes bin/0204.CountPrimes)
 add_subdirectory(Algorithms/0205.IsomorphicStrings bin/0205.IsomorphicStrings)
-#add_subdirectory(Algorithms/0206.ReverseLinkedList bin/0206.ReverseLinkedList) - need ListNode class definition
+add_subdirectory(Algorithms/0206.ReverseLinkedList bin/0206.ReverseLinkedList)
 add_subdirectory(Algorithms/0231.PowerOfTwo bin/0231.PowerOfTwo)
 add_subdirectory(Algorithms/0263.UglyNumber bin/0263.UglyNumber)
 add_subdirectory(Algorithms/0268.MissingNumber bin/0268.MissingNumber)

@@ -1,13 +1,12 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include "ListNode.h"
+
+#include "gtest/gtest.h"
+
+using CommonDefs::ListNode;
+
+namespace
+{
+
 class Solution
 {
 public:
@@ -15,9 +14,7 @@ public:
     {
         ListNode *tail = head;
         for (int index = 0; index < n; ++index)
-        {
             tail = tail->next;
-        }
         if (tail == nullptr)
         {
             ListNode *current = head->next;
@@ -37,3 +34,19 @@ public:
         return head;
     }
 };
+
+}
+
+using CommonDefs::createLinkedList;
+using CommonDefs::checkAndDeleteLinkedList;
+
+namespace RemoveNthNodeFromEndOfListTask
+{
+
+TEST(RemoveNthNodeFromEndOfListTaskTests, Examples)
+{
+    Solution solution;
+    checkAndDeleteLinkedList(std::vector<int>({1, 2, 3, 5}), solution.removeNthFromEnd(createLinkedList({1, 2, 3, 4, 5}, false).get(), 2));
+}
+
+}

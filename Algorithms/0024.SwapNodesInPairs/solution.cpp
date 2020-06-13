@@ -1,13 +1,12 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include "ListNode.h"
+
+#include "gtest/gtest.h"
+
+using CommonDefs::ListNode;
+
+namespace
+{
+
 class Solution
 {
 public:
@@ -22,7 +21,7 @@ public:
         swapNodes(nullptr, current);
         ListNode* prev = current;
         current = current->next;
-        while ((current != nullptr) && (current->next != nullptr))
+        while (current != nullptr && current->next != nullptr)
         {
             swapNodes(prev, current);
             prev = current;
@@ -41,3 +40,19 @@ private:
             prev->next = next;
     }
 };
+
+}
+
+using CommonDefs::createLinkedList;
+using CommonDefs::checkAndDeleteLinkedList;
+
+namespace SwapNodesInPairsTask
+{
+
+TEST(SwapNodesInPairsTaskTests, Examples)
+{
+    Solution solution;
+    checkAndDeleteLinkedList(std::vector<int>({2, 1, 4, 3}), solution.swapPairs(createLinkedList({1, 2, 3, 4}, false).get()));
+}
+
+}

@@ -1,13 +1,12 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include "ListNode.h"
+
+#include "gtest/gtest.h"
+
+using CommonDefs::ListNode;
+
+namespace
+{
+
 class Solution
 {
 public:
@@ -44,3 +43,19 @@ private:
         partitionCurrent->next = nullptr;
     }
 };
+
+}
+
+using CommonDefs::createLinkedList;
+using CommonDefs::checkAndDeleteLinkedList;
+
+namespace PartitionListTask
+{
+
+TEST(PartitionListTaskTests, Examples)
+{
+    Solution solution;
+    checkAndDeleteLinkedList(std::vector<int>({1, 2, 2, 4, 3, 5}), solution.partition(createLinkedList({1, 4, 3, 2, 5, 2}, false).get(), 3));
+}
+
+}
