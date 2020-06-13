@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.7 FATAL_ERROR)
 
-project(0001.TwoSum CXX)
+project(0086.PartitionList CXX)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -13,4 +13,4 @@ add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
 
 target_link_libraries(${PROJECT_NAME} PRIVATE gtest gtest_main)
 
-add_test(NAME 0001.TwoSum COMMAND ${PROJECT_NAME})
+add_test(NAME 0086.PartitionList COMMAND ${PROJECT_NAME})
