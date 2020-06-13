@@ -63,7 +63,7 @@ namespace ThreeSumTask
 TEST(ThreeSumTaskTests, Examples)
 {
     Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{-1, 0, 1}, {-1, -1, 2}}), solution.threeSum({-1, 0, 1, 2, -1, -4}));
+    ASSERT_EQ(std::vector<std::vector<int>>({{-1, -1, 2}, {-1, 0, 1}}), solution.threeSum({-1, 0, 1, 2, -1, -4}));
 }
 
 }

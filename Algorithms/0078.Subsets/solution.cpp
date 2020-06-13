@@ -43,7 +43,7 @@ namespace SubsetsTask
 TEST(SubsetsTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{3}, {1}, {2}, {1,2,3}, {1,3}, {2,3}, {1,2}, {}}), solution.subsets({1, 2, 3}));
+    ASSERT_EQ(std::vector<std::vector<int>>({{}, {1}, {2}, {1, 2}, {3}, {1,3}, {2,3}, {1,2,3}}), solution.subsets({1, 2, 3}));
 }
 
 }

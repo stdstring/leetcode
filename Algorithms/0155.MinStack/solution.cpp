@@ -1,10 +1,14 @@
+#include <stack>
+
+#include "gtest/gtest.h"
+
+namespace
+{
+
 class MinStack
 {
 public:
-    /** initialize your data structure here. */
-    MinStack()
-    {
-    }
+    MinStack() = default;
 
     void push(int x)
     {
@@ -36,11 +40,22 @@ private:
     std::stack<int> mElementsMin;
 };
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(x);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
+}
+
+
+namespace MinStackTask
+{
+
+TEST(MinStackTaskTests, Examples)
+{
+    MinStack minStack;
+    ASSERT_NO_THROW(minStack.push(-2));
+    ASSERT_NO_THROW(minStack.push(0));
+    ASSERT_NO_THROW(minStack.push(-3));
+    ASSERT_EQ(-3, minStack.getMin());
+    ASSERT_NO_THROW(minStack.pop());
+    ASSERT_EQ(0, minStack.top());
+    ASSERT_EQ(-2, minStack.getMin());
+}
+
+}
