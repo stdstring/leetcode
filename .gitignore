@@ -1,2 +1,5 @@
 # gitignore
-
+# for build
+build
+# for extrenal libs (googletest etc)
+external
