@@ -32,6 +32,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+* [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
