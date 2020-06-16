@@ -61,6 +61,7 @@ add_subdirectory(Algorithms/0203.RemoveLinkedListElements bin/0203.RemoveLinkedL
 add_subdirectory(Algorithms/0204.CountPrimes bin/0204.CountPrimes)
 add_subdirectory(Algorithms/0205.IsomorphicStrings bin/0205.IsomorphicStrings)
 add_subdirectory(Algorithms/0206.ReverseLinkedList bin/0206.ReverseLinkedList)
+add_subdirectory(Algorithms/0227.BasicCalculatorII bin/0227.BasicCalculatorII)
 add_subdirectory(Algorithms/0231.PowerOfTwo bin/0231.PowerOfTwo)
 add_subdirectory(Algorithms/0263.UglyNumber bin/0263.UglyNumber)
 add_subdirectory(Algorithms/0268.MissingNumber bin/0268.MissingNumber)
