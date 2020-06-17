@@ -51,6 +51,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
