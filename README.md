@@ -63,6 +63,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+* [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
