@@ -65,6 +65,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
+* [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
