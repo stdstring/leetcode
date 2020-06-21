@@ -62,6 +62,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
+* [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
