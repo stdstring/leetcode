@@ -76,6 +76,7 @@ add_subdirectory(Algorithms/0405.ConvertNumberToHexadecimal bin/0405.ConvertNumb
 add_subdirectory(Algorithms/0412.FizzBuzz bin/0412.FizzBuzz)
 add_subdirectory(Algorithms/0414.ThirdMaximumNumber bin/0414.ThirdMaximumNumber)
 add_subdirectory(Algorithms/0415.AddStrings bin/0415.AddStrings)
+add_subdirectory(Algorithms/0434.NumberOfSegmentsInString bin/0434.NumberOfSegmentsInString)
 add_subdirectory(Algorithms/0443.StringCompression bin/0443.StringCompression)
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
