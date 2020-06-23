@@ -21,6 +21,7 @@ add_subdirectory(Algorithms/0014.LongestCommonPrefix bin/0014.LongestCommonPrefi
 add_subdirectory(Algorithms/0015.3Sum bin/0015.3Sum)
 add_subdirectory(Algorithms/0016.3SumClosest bin/0016.3SumClosest)
 add_subdirectory(Algorithms/0017.LetterCombinationsOfPhoneNumber bin/0017.LetterCombinationsOfPhoneNumber)
+add_subdirectory(Algorithms/0018.4Sum bin/0018.4Sum)
 add_subdirectory(Algorithms/0019.RemoveNthNodeFromEndOfList bin/0019.RemoveNthNodeFromEndOfList)
 add_subdirectory(Algorithms/0020.ValidParentheses bin/0020.ValidParentheses)
 add_subdirectory(Algorithms/0021.MergeTwoSortedLists bin/0021.MergeTwoSortedLists)
