@@ -12,6 +12,7 @@ enable_testing()
 # Algorithms
 add_subdirectory(Algorithms/0001.TwoSum bin/0001.TwoSum)
 add_subdirectory(Algorithms/0002.AddTwoNumbers bin/0002.AddTwoNumbers)
+add_subdirectory(Algorithms/0006.ZigZagConversion bin/0006.ZigZagConversion)
 add_subdirectory(Algorithms/0007.ReverseInteger bin/0007.ReverseInteger)
 add_subdirectory(Algorithms/0008.StringToInteger bin/0008.StringToInteger)
 add_subdirectory(Algorithms/0009.PalindromeNumber bin/0009.PalindromeNumber)
