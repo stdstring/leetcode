@@ -28,6 +28,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
