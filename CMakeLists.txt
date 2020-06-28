@@ -57,6 +57,7 @@ add_subdirectory(Algorithms/0082.RemoveDuplicatesFromSortedListII bin/0082.Remov
 add_subdirectory(Algorithms/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList)
 add_subdirectory(Algorithms/0086.PartitionList bin/0086.PartitionList)
 add_subdirectory(Algorithms/0093.RestoreIPAddresses bin/0093.RestoreIPAddresses)
+add_subdirectory(Algorithms/0100.SameTree bin/0100.SameTree)
 add_subdirectory(Algorithms/0118.PascalTriangle bin/0118.PascalTriangle)
 add_subdirectory(Algorithms/0119.PascalTriangleII bin/0119.PascalTriangleII)
 add_subdirectory(Algorithms/0150.EvaluateReversePolishNotation bin/0150.EvaluateReversePolishNotation)
