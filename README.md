@@ -42,6 +42,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+* [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
