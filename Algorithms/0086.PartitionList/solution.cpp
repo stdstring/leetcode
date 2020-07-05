@@ -55,7 +55,7 @@ namespace PartitionListTask
 TEST(PartitionListTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({1, 2, 2, 4, 3, 5}), solution.partition(createLinkedList({1, 4, 3, 2, 5, 2}, false).get(), 3));
+    checkAndDeleteLinkedList({1, 2, 2, 4, 3, 5}, solution.partition(createLinkedList({1, 4, 3, 2, 5, 2}, false).get(), 3));
 }
 
 }

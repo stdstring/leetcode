@@ -52,7 +52,7 @@ namespace SwapNodesInPairsTask
 TEST(SwapNodesInPairsTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({2, 1, 4, 3}), solution.swapPairs(createLinkedList({1, 2, 3, 4}, false).get()));
+    checkAndDeleteLinkedList({2, 1, 4, 3}, solution.swapPairs(createLinkedList({1, 2, 3, 4}, false).get()));
 }
 
 }

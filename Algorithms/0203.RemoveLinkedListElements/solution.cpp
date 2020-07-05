@@ -49,7 +49,7 @@ namespace RemoveLinkedListElementsTask
 TEST(RemoveLinkedListElementsTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({1, 2, 3, 4, 5}), solution.removeElements(createLinkedList({1, 2, 6, 3, 4, 5, 6}, false).get(), 6));
+    checkAndDeleteLinkedList({1, 2, 3, 4, 5}, solution.removeElements(createLinkedList({1, 2, 6, 3, 4, 5, 6}, false).get(), 6));
 }
 
 }

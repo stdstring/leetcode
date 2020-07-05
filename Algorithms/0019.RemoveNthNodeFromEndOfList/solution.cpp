@@ -46,7 +46,7 @@ namespace RemoveNthNodeFromEndOfListTask
 TEST(RemoveNthNodeFromEndOfListTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({1, 2, 3, 5}), solution.removeNthFromEnd(createLinkedList({1, 2, 3, 4, 5}, false).get(), 2));
+    checkAndDeleteLinkedList({1, 2, 3, 5}, solution.removeNthFromEnd(createLinkedList({1, 2, 3, 4, 5}, false).get(), 2));
 }
 
 }

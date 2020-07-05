@@ -62,7 +62,7 @@ namespace MergeTwoSortedListsTask
 TEST(MergeTwoSortedListsTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({1, 1, 2, 3, 4, 4}), solution.mergeTwoLists(createLinkedList({1, 2, 4}, false).get(), createLinkedList({1, 3, 4}, false).get()));
+    checkAndDeleteLinkedList({1, 1, 2, 3, 4, 4}, solution.mergeTwoLists(createLinkedList({1, 2, 4}, false).get(), createLinkedList({1, 3, 4}, false).get()));
 }
 
 }

@@ -39,7 +39,7 @@ namespace ReverseLinkedListTask
 TEST(ReverseLinkedListTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({5, 4, 3, 2, 1}), solution.reverseList(createLinkedList({1, 2, 3, 4, 5}, false).get()));
+    checkAndDeleteLinkedList({5, 4, 3, 2, 1}, solution.reverseList(createLinkedList({1, 2, 3, 4, 5}, false).get()));
 }
 
 }

@@ -52,7 +52,7 @@ namespace AddTwoNumbersTask
 TEST(AddTwoNumbersTaskTests, Examples)
 {
     const Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({7, 0, 8}), solution.addTwoNumbers(createLinkedList({2, 4, 3}, true).get(), createLinkedList({5, 6, 4}, true).get()));
+    checkAndDeleteLinkedList({7, 0, 8}, solution.addTwoNumbers(createLinkedList({2, 4, 3}, true).get(), createLinkedList({5, 6, 4}, true).get()));
 }
 
 }

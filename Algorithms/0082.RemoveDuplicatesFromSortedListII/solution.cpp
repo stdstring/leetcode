@@ -63,14 +63,14 @@ namespace RemoveDuplicatesFromSortedListIITask
 TEST(RemoveDuplicatesFromSortedListIITaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>({1, 2, 5}), solution.deleteDuplicates(createLinkedList({1, 2, 3, 3, 4, 4, 5}, false).get()));
-    checkAndDeleteLinkedList(std::vector<int>({2, 3}), solution.deleteDuplicates(createLinkedList({1, 1, 1, 2, 3}, false).get()));
+    checkAndDeleteLinkedList({1, 2, 5}, solution.deleteDuplicates(createLinkedList({1, 2, 3, 3, 4, 4, 5}, false).get()));
+    checkAndDeleteLinkedList({2, 3}, solution.deleteDuplicates(createLinkedList({1, 1, 1, 2, 3}, false).get()));
 }
 
 TEST(RemoveDuplicatesFromSortedListIITaskTests, FromWrongAnswers)
 {
     Solution solution;
-    checkAndDeleteLinkedList(std::vector<int>(), solution.deleteDuplicates(createLinkedList({1, 1}, false).get()));
+    checkAndDeleteLinkedList({}, solution.deleteDuplicates(createLinkedList({1, 1}, false).get()));
 }
 
 }
