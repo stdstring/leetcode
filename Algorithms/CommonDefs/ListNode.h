@@ -69,6 +69,8 @@ void checkAndDeleteLinkedList(std::vector<int> const &expectedValues, ListNode *
     std::shared_ptr<ListNode> linkedListHolder(current, linkedListDeleter);
     std::vector<int> actualValues(convertLinkedListToVector(current));
     ASSERT_EQ(expectedValues, actualValues);
+    if (expectedValues.empty())
+        ASSERT_EQ(nullptr, current);
 }
 
 }
