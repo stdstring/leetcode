@@ -62,6 +62,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
