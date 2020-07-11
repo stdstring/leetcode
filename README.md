@@ -35,6 +35,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
 * [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
