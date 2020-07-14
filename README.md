@@ -39,6 +39,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+* [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 * [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
