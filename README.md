@@ -60,6 +60,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [120. Triangle](https://leetcode.com/problems/triangle/description/)
