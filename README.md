@@ -81,6 +81,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
