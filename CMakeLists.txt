@@ -71,6 +71,7 @@ add_subdirectory(Algorithms/0092.ReverseLinkedListII bin/0092.ReverseLinkedListI
 add_subdirectory(Algorithms/0093.RestoreIPAddresses bin/0093.RestoreIPAddresses)
 add_subdirectory(Algorithms/0100.SameTree bin/0100.SameTree)
 add_subdirectory(Algorithms/0101.SymmetricTree bin/0101.SymmetricTree)
+add_subdirectory(Algorithms/0114.FlattenBinaryTreeToLinkedList bin/0114.FlattenBinaryTreeToLinkedList)
 add_subdirectory(Algorithms/0118.PascalTriangle bin/0118.PascalTriangle)
 add_subdirectory(Algorithms/0119.PascalTriangleII bin/0119.PascalTriangleII)
 add_subdirectory(Algorithms/0120.Triangle bin/0120.Triangle)
