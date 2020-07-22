@@ -61,6 +61,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
