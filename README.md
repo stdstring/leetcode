@@ -69,6 +69,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+* [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
