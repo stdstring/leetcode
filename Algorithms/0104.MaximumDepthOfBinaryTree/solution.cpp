@@ -27,7 +27,7 @@ using CommonDefs::createTreeHolder;
 namespace MaximumDepthOfBinaryTreeTask
 {
 
-TEST(SymmetricTreeTaskTests, Examples)
+TEST(MaximumDepthOfBinaryTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(3, solution.maxDepth(createTreeHolder(new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)))).get()));

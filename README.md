@@ -65,6 +65,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
