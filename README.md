@@ -59,6 +59,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
