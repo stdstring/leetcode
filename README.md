@@ -98,6 +98,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
