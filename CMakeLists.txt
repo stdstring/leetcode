@@ -78,6 +78,7 @@ add_subdirectory(Algorithms/0103.BinaryTreeZigzagLevelOrderTraversal bin/0103.Bi
 add_subdirectory(Algorithms/0104.MaximumDepthOfBinaryTree bin/0104.MaximumDepthOfBinaryTree)
 add_subdirectory(Algorithms/0107.BinaryTreeLevelOrderTraversalII bin/0107.BinaryTreeLevelOrderTraversalII)
 add_subdirectory(Algorithms/0108.ConvertSortedArrayToBinarySearchTree bin/0108.ConvertSortedArrayToBinarySearchTree)
+add_subdirectory(Algorithms/0109.ConvertSortedListToBinarySearchTree bin/0109.ConvertSortedListToBinarySearchTree)
 add_subdirectory(Algorithms/0110.BalancedBinaryTree bin/0110.BalancedBinaryTree)
 add_subdirectory(Algorithms/0111.MinimumDepthOfBinaryTree bin/0111.MinimumDepthOfBinaryTree)
 add_subdirectory(Algorithms/0114.FlattenBinaryTreeToLinkedList bin/0114.FlattenBinaryTreeToLinkedList)
