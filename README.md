@@ -88,6 +88,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+* [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
