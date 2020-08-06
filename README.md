@@ -115,6 +115,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+* [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
