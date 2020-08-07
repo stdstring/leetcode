@@ -76,6 +76,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [120. Triangle](https://leetcode.com/problems/triangle/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
