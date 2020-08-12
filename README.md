@@ -114,6 +114,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 * [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
+* [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
