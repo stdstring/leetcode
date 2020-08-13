@@ -120,6 +120,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
+* [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
