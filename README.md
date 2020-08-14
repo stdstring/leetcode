@@ -122,6 +122,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 * [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+* [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
