@@ -133,6 +133,7 @@ add_subdirectory(Algorithms/0434.NumberOfSegmentsInString bin/0434.NumberOfSegme
 add_subdirectory(Algorithms/0441.ArrangingCoins bin/0441.ArrangingCoins)
 add_subdirectory(Algorithms/0443.StringCompression bin/0443.StringCompression)
 add_subdirectory(Algorithms/0445.AddTwoNumbersII bin/0445.AddTwoNumbersII)
+add_subdirectory(Algorithms/0448.FindAllNumbersDisappearedInArray bin/0448.FindAllNumbersDisappearedInArray)
 add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatting)
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
