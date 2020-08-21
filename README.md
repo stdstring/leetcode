@@ -57,6 +57,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+* [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/description/)
