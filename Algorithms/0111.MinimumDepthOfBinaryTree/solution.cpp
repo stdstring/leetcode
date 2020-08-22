@@ -34,13 +34,13 @@ namespace MinimumDepthOfBinaryTreeTask
 TEST(MinimumDepthOfBinaryTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)))).get()));
+    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
 }
 
 TEST(MinimumDepthOfBinaryTreeTaskTests, FromWrongAnswers)
 {
     const Solution solution;
-    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(1, new TreeNode(2), nullptr)).get()));
+    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(1, 2, nullptr)).get()));
 }
 
 }

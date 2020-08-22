@@ -58,15 +58,15 @@ namespace ValidateBinarySearchTreeTask
 TEST(ValidateBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isValidBST(createTreeHolder(new TreeNode(2, new TreeNode(1), new TreeNode(3))).get()));
-    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(5, new TreeNode(1), new TreeNode(4, new TreeNode(3), new TreeNode(6)))).get()));
+    ASSERT_EQ(true, solution.isValidBST(createTreeHolder(new TreeNode(2, 1, 3)).get()));
+    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(5, 1, new TreeNode(4, 3, 6))).get()));
 }
 
 TEST(ValidateBinarySearchTreeTaskTests, FromWrongAnswers)
 {
     const Solution solution;
     ASSERT_EQ(true, solution.isValidBST(nullptr));
-    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(10, new TreeNode(5), new TreeNode(15, new TreeNode(6), new TreeNode(20)))).get()));
+    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(10, 5, new TreeNode(15, 6, 20))).get()));
 }
 
 }

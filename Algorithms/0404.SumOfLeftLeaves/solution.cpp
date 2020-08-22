@@ -39,7 +39,7 @@ namespace SumOfLeftLeavesTask
 TEST(SumOfLeftLeavesTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(24, solution.sumOfLeftLeaves(createTreeHolder(new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)))).get()));
+    ASSERT_EQ(24, solution.sumOfLeftLeaves(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
 }
 
 TEST(SumOfLeftLeavesTaskTests, FromWrongAnswers)
@@ -47,7 +47,7 @@ TEST(SumOfLeftLeavesTaskTests, FromWrongAnswers)
     const Solution solution;
     ASSERT_EQ(0, solution.sumOfLeftLeaves(createTreeHolder(new TreeNode(1)).get()));
     ASSERT_EQ(0, solution.sumOfLeftLeaves(nullptr));
-    ASSERT_EQ(2, solution.sumOfLeftLeaves(createTreeHolder(new TreeNode(1, new TreeNode(2), nullptr)).get()));
+    ASSERT_EQ(2, solution.sumOfLeftLeaves(createTreeHolder(new TreeNode(1, 2, nullptr)).get()));
 }
 
 }

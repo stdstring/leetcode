@@ -41,9 +41,9 @@ namespace FlattenBinaryTreeToLinkedListTask
 TEST(FlattenBinaryTreeToLinkedListTaskTests, Examples)
 {
     Solution solution;
-    TreeNode* tree = new TreeNode(1, new TreeNode(2, new TreeNode(3), new TreeNode(4)), new TreeNode(5, nullptr, new TreeNode(6)));
+    TreeNode* tree = new TreeNode(1, new TreeNode(2, 3, 4), new TreeNode(5, nullptr, 6));
     solution.flatten(tree);
-    checkAndDeleteTree(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, nullptr, new TreeNode(3, nullptr, new TreeNode(4, nullptr, new TreeNode(5, nullptr, new TreeNode(6))))))).get(), tree);
+    checkAndDeleteTree(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, nullptr, new TreeNode(3, nullptr, new TreeNode(4, nullptr, new TreeNode(5, nullptr, 6)))))).get(), tree);
 }
 
 }

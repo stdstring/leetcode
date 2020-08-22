@@ -42,7 +42,7 @@ namespace BinaryTreeLevelOrderTraversalTask
 TEST(BinaryTreeLevelOrderTraversalTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{3}, {9, 20}, {15, 7}}), solution.levelOrder(createTreeHolder(new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)))).get()));
+    ASSERT_EQ(std::vector<std::vector<int>>({{3}, {9, 20}, {15, 7}}), solution.levelOrder(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
 }
 
 }

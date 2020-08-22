@@ -36,9 +36,9 @@ namespace SameTreeTask
 TEST(SameTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isSameTree(createTreeHolder(new TreeNode(1, new TreeNode(2), new TreeNode(3))).get(), createTreeHolder(new TreeNode(1, new TreeNode(2), new TreeNode(3))).get()));
-    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, new TreeNode(2), nullptr)).get(), createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2))).get()));
-    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, new TreeNode(2), new TreeNode(1))).get(), createTreeHolder(new TreeNode(1, new TreeNode(1), new TreeNode(2))).get()));
+    ASSERT_EQ(true, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, 3)).get(), createTreeHolder(new TreeNode(1, 2, 3)).get()));
+    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, nullptr)).get(), createTreeHolder(new TreeNode(1, nullptr, 2)).get()));
+    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, 1)).get(), createTreeHolder(new TreeNode(1, 1, 2)).get()));
 }
 
 }

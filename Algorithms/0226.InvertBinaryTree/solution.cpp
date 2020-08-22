@@ -33,8 +33,8 @@ namespace InvertBinaryTreeTask
 TEST(InvertBinaryTreeTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteTree(createTreeHolder(new TreeNode(4, new TreeNode(7, new TreeNode(9), new TreeNode(6)), new TreeNode(2, new TreeNode(3), new TreeNode(1)))).get(),
-                       solution.invertTree(new TreeNode(4, new TreeNode(2, new TreeNode(1), new TreeNode(3)), new TreeNode(7, new TreeNode(6), new TreeNode(9)))));
+    checkAndDeleteTree(createTreeHolder(new TreeNode(4, new TreeNode(7, 9, 6), new TreeNode(2, 3, 1))).get(),
+                       solution.invertTree(new TreeNode(4, new TreeNode(2, 1, 3), new TreeNode(7, 6, 9))));
 }
 
 }

@@ -41,14 +41,14 @@ namespace ConvertSortedArrayToBinarySearchTreeTask
 TEST(ConvertSortedArrayToBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
-    checkAndDeleteTree(createTreeHolder(new TreeNode(0, new TreeNode(-10, nullptr, new TreeNode(-3)), new TreeNode(5, nullptr, new TreeNode(9)))).get(), solution.sortedArrayToBST({-10, -3, 0, 5, 9}));
+    checkAndDeleteTree(createTreeHolder(new TreeNode(0, new TreeNode(-10, nullptr, -3), new TreeNode(5, nullptr, 9))).get(), solution.sortedArrayToBST({-10, -3, 0, 5, 9}));
 }
 
 TEST(ConvertSortedArrayToBinarySearchTreeTaskTests, FromWrongAnswers)
 {
     const Solution solution;
     checkAndDeleteTree(createTreeHolder(new TreeNode(0)).get(), solution.sortedArrayToBST({0}));
-    checkAndDeleteTree(createTreeHolder(new TreeNode(2, new TreeNode(0, nullptr, new TreeNode(1)), new TreeNode(4, new TreeNode(3), new TreeNode(5)))).get(), solution.sortedArrayToBST({0, 1, 2, 3, 4, 5}));
+    checkAndDeleteTree(createTreeHolder(new TreeNode(2, new TreeNode(0, nullptr, 1), new TreeNode(4, 3, 5))).get(), solution.sortedArrayToBST({0, 1, 2, 3, 4, 5}));
 }
 
 }

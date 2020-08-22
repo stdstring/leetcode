@@ -49,7 +49,7 @@ namespace ConvertSortedListToBinarySearchTreeTask
 TEST(ConvertSortedListToBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
-    checkAndDeleteTree(createTreeHolder(new TreeNode(0, new TreeNode(-10, nullptr, new TreeNode(-3)), new TreeNode(5, nullptr, new TreeNode(9)))).get(),
+    checkAndDeleteTree(createTreeHolder(new TreeNode(0, new TreeNode(-10, nullptr, -3), new TreeNode(5, nullptr, 9))).get(),
                        solution.sortedListToBST(createLinkedList({-10, -3, 0, 5, 9}, true).get()));
 }
 

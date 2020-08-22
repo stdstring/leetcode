@@ -42,8 +42,8 @@ namespace SymmetricTreeTask
 TEST(SymmetricTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isSymmetric(createTreeHolder(new TreeNode(1, new TreeNode(2, new TreeNode(3), new TreeNode(4)), new TreeNode(2, new TreeNode(4), new TreeNode(3)))).get()));
-    ASSERT_EQ(false, solution.isSymmetric(createTreeHolder(new TreeNode(1, new TreeNode(2, nullptr, new TreeNode(3)), new TreeNode(2, nullptr, new TreeNode(3)))).get()));
+    ASSERT_EQ(true, solution.isSymmetric(createTreeHolder(new TreeNode(1, new TreeNode(2, 3, 4), new TreeNode(2, 4, 3))).get()));
+    ASSERT_EQ(false, solution.isSymmetric(createTreeHolder(new TreeNode(1, new TreeNode(2, nullptr, 3), new TreeNode(2, nullptr, 3))).get()));
 }
 
 TEST(SymmetricTreeTaskTests, FromWrongAnswers)

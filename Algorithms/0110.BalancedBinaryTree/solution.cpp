@@ -46,8 +46,8 @@ namespace BalancedBinaryTreeTask
 TEST(BalancedBinaryTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isBalanced(createTreeHolder(new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)))).get()));
-    ASSERT_EQ(false, solution.isBalanced(createTreeHolder(new TreeNode(1, new TreeNode(2, new TreeNode(3, new TreeNode(4), new TreeNode(4)), new TreeNode(3)), new TreeNode(2))).get()));
+    ASSERT_EQ(true, solution.isBalanced(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
+    ASSERT_EQ(false, solution.isBalanced(createTreeHolder(new TreeNode(1, new TreeNode(2, new TreeNode(3, 4, 4), 3), 2)).get()));
 }
 
 }

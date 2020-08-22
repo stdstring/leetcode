@@ -40,7 +40,7 @@ namespace BinaryTreeInorderTraversalTask
 TEST(BinaryTreeInorderTraversalTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<int>({1, 3, 2}), solution.inorderTraversal(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, new TreeNode(3), nullptr))).get()));
+    ASSERT_EQ(std::vector<int>({1, 3, 2}), solution.inorderTraversal(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, 3, nullptr))).get()));
 }
 
 }

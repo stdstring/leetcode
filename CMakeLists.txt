@@ -86,6 +86,7 @@ add_subdirectory(Algorithms/0108.ConvertSortedArrayToBinarySearchTree bin/0108.C
 add_subdirectory(Algorithms/0109.ConvertSortedListToBinarySearchTree bin/0109.ConvertSortedListToBinarySearchTree)
 add_subdirectory(Algorithms/0110.BalancedBinaryTree bin/0110.BalancedBinaryTree)
 add_subdirectory(Algorithms/0111.MinimumDepthOfBinaryTree bin/0111.MinimumDepthOfBinaryTree)
+add_subdirectory(Algorithms/0112.PathSum bin/0112.PathSum)
 add_subdirectory(Algorithms/0114.FlattenBinaryTreeToLinkedList bin/0114.FlattenBinaryTreeToLinkedList)
 add_subdirectory(Algorithms/0118.PascalTriangle bin/0118.PascalTriangle)
 add_subdirectory(Algorithms/0119.PascalTriangleII bin/0119.PascalTriangleII)

@@ -24,6 +24,18 @@ struct TreeNode
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right)
     {
     }
+
+    TreeNode(int x, int leftValue, TreeNode *right) : val(x), left(new TreeNode(leftValue)), right(right)
+    {
+    }
+
+    TreeNode(int x, TreeNode *left, int rightValue) : val(x), left(left), right(new TreeNode(rightValue))
+    {
+    }
+
+    TreeNode(int x, int leftValue, int rightValue) : val(x), left(new TreeNode(leftValue)), right(new TreeNode(rightValue))
+    {
+    }
 };
 
 
