@@ -36,6 +36,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+* [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
