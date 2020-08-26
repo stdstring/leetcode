@@ -14,20 +14,34 @@ public:
             return true;
         if (x < 0)
             return false;
-        std::vector<int> digits;
-        while (x > 0)
+        int digitCount = 0;
+        int divider = 0;
+        calcNumberData(x, digitCount, divider);
+        while (digitCount > 1)
         {
-            digits.push_back(x % 10);
-            x /= 10;
-        }
-        if (digits.back() == 0)
-            return false;
-        for (size_t index = 0; index < digits.size() / 2; ++index)
-        {
-            if (digits[index] != digits[digits.size() - 1 - index])
+            const int firstDigit = x / divider;
+            x = x % divider;
+            const int lastDigit = x % 10;
+            x = x / 10;
+            if (firstDigit != lastDigit)
                 return false;
+            divider /= 100;
+            digitCount -= 2;
         }
         return true;
+    }
+
+private:
+    void calcNumberData(int number, int &digitCount, int &divider) const
+    {
+        long long topBorder = 1;
+        while (number > 0)
+        {
+            number /= 10;
+            ++digitCount;
+            topBorder *= 10;
+        }
+        divider = static_cast<int>(topBorder / 10);
     }
 };
 
@@ -36,12 +50,18 @@ public:
 namespace PalindromeNumberTask
 {
 
-TEST(StringToIntegerTaskTests, Examples)
+TEST(PalindromeNumberTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(true, solution.isPalindrome(121));
     ASSERT_EQ(false, solution.isPalindrome(-121));
     ASSERT_EQ(false, solution.isPalindrome(10));
+}
+
+TEST(PalindromeNumberTaskTests, FromWrongAnswers)
+{
+    const Solution solution;
+    ASSERT_EQ(false, solution.isPalindrome(1000021));
 }
 
 }
