@@ -1,5 +1,4 @@
-#include <deque>
-#include <limits>
+#include <algorithm>
 #include <vector>
 
 #include "gtest/gtest.h"
@@ -7,52 +6,29 @@
 namespace
 {
 
-struct CellCoord
-{
-    CellCoord(int row, int column) : Row(row), Column(column)
-    {
-    }
-
-    int Row;
-    int Column;
-};
-
 class Solution
 {
 public:
     int minPathSum(std::vector<std::vector<int>> const &grid) const
     {
-        const int rowCount = grid.size();
-        const int columnCount = grid.front().size();
-        std::vector<std::vector<int>> pathData(rowCount, std::vector<int>(columnCount, std::numeric_limits<int>::max()));
-        pathData[0][0] = grid[0][0];
-        std::deque<CellCoord> cells;
-        cells.emplace_back(0, 0);
-        while (!cells.empty())
+        const size_t rowCount = grid.size();
+        const size_t columnCount = grid.front().size();
+        std::vector<std::vector<int>> sumData(rowCount, std::vector<int>(columnCount, 0));
+        for (size_t row = 0; row < rowCount; ++row)
         {
-            int row = cells.front().Row;
-            int column = cells.front().Column;
-            if (row < (rowCount - 1))
+            for (size_t column = 0; column < columnCount; ++column)
             {
-                const int currentSum = pathData[row][column] + grid[row + 1][column];
-                if (currentSum < pathData[row + 1][column])
-                {
-                    pathData[row + 1][column] = currentSum;
-                    cells.emplace_back(row + 1, column);
-                }
+                if (row == 0 && column == 0)
+                    sumData[row][column] = grid[row][column];
+                else if (row == 0 && column != 0)
+                    sumData[row][column] = sumData[row][column - 1] + grid[row][column];
+                else if (row != 0 && column == 0)
+                    sumData[row][column] = sumData[row - 1][column] + grid[row][column];
+                else
+                    sumData[row][column] = std::min(sumData[row][column - 1], sumData[row - 1][column]) + grid[row][column];
             }
-            if (column < (columnCount - 1))
-            {
-                const int currentSum = pathData[row][column] + grid[row][column + 1];
-                if (currentSum < pathData[row][column + 1])
-                {
-                    pathData[row][column + 1] = currentSum;
-                    cells.emplace_back(row, column + 1);
-                }
-            }
-            cells.pop_front();
         }
-        return pathData.back().back();
+        return sumData.back().back();
     }
 };
 
