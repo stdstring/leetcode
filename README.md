@@ -40,6 +40,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+* [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
 * [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
