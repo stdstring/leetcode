@@ -39,6 +39,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [51. N-Queens](https://leetcode.com/problems/n-queens/description/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+* [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)
 * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
