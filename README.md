@@ -83,6 +83,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+* [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 * [120. Triangle](https://leetcode.com/problems/triangle/description/)
