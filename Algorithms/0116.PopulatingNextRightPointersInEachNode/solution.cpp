@@ -34,26 +34,10 @@ private:
 }
 
 using CommonDefs::createTreeHolder;
+using CommonDefs::checkTreeNextLinks;
 
 namespace PopulatingNextRightPointersInEachNodeTask
 {
-
-void checkTreeNextLinks(std::vector<std::vector<int>> const &layers, TreeNode* root)
-{
-    TreeNode* leader = root;
-    for (std::vector<int> const &layer : layers)
-    {
-        TreeNode* current = leader;
-        for (int value : layer)
-        {
-            ASSERT_NE(nullptr, current);
-            ASSERT_EQ(value, current->val);
-            current = current->next;
-        }
-        ASSERT_EQ(nullptr, current);
-        leader = leader->left;
-    }
-}
 
 TEST(PopulatingNextRightPointersInEachNodeTaskTests, Examples)
 {

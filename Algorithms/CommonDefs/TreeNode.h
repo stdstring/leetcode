@@ -72,4 +72,35 @@ void checkAndDeleteTree(TreeNode* expected, TreeNode* actual)
     deleteTree(actual);
 }
 
+void checkTreeNextLinks(std::vector<std::vector<int>> const &layers, TreeNode* root)
+{
+    TreeNode* leader = root;
+    for (std::vector<int> const &layer : layers)
+    {
+        ASSERT_NE(nullptr, leader);
+        TreeNode* current = leader;
+        for (int value : layer)
+        {
+            ASSERT_NE(nullptr, current);
+            ASSERT_EQ(value, current->val);
+            current = current->next;
+        }
+        ASSERT_EQ(nullptr, current);
+        while (leader != nullptr)
+        {
+            if (leader->left != nullptr)
+            {
+                leader = leader->left;
+                break;
+            }
+            if (leader->right != nullptr)
+            {
+                leader = leader->right;
+                break;
+            }
+            leader = leader->next;
+        }
+    }
+}
+
 }
