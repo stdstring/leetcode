@@ -120,6 +120,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+* [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
