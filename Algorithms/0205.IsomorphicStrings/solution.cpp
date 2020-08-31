@@ -11,9 +11,9 @@ class Solution
 public:
     bool isIsomorphic(std::string const &s, std::string const &t) const
     {
-        std::array<char, UCHAR_MAX + 1> firstSecondMap;
+        std::array<char, UCHAR_MAX + 1> firstSecondMap{};
         firstSecondMap.fill(0);
-        std::array<char, UCHAR_MAX + 1> secondFirstMap;
+        std::array<char, UCHAR_MAX + 1> secondFirstMap{};
         secondFirstMap.fill(0);
         for(size_t index = 0; index < s.size(); ++index)
         {

@@ -11,7 +11,7 @@ namespace
 class Solution
 {
 public:
-    bool isValid(std::string const &s)
+    bool isValid(std::string const &s) const
     {
         const std::unordered_set<char> openBrackets = {'(', '[', '{'};
         std::unordered_map<char, char> closeBracketMap = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
@@ -19,9 +19,7 @@ public:
         for(char ch : s)
         {
             if (openBrackets.count(ch) > 0)
-            {
                 brackets.push(ch);
-            }
             else
             {
                 if (brackets.empty())
@@ -43,7 +41,7 @@ namespace ValidParenthesesTask
 
 TEST(ValidParenthesesTask, Examples)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(true, solution.isValid("()"));
     ASSERT_EQ(true, solution.isValid("()[]{}"));
     ASSERT_EQ(false, solution.isValid("(]"));

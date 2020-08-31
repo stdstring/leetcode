@@ -10,7 +10,7 @@ class Solution
 public:
     bool isHappy(int n) const
     {
-        std::array<bool, 4 + 9 * 81> sumStorage;
+        std::array<bool, 4 + 9 * 81> sumStorage{};
         sumStorage.fill(false);
         int sum = n;
         while (sum != 1)
@@ -18,8 +18,7 @@ public:
             sum = calcDigitsSquareSum(sum);
             if (sumStorage[sum])
                 return false;
-            else
-                sumStorage[sum] = true;
+            sumStorage[sum] = true;
         }
         return true;
     }

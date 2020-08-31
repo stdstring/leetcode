@@ -1,10 +1,11 @@
 #include <vector>
 
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::TreeNode;
+using CommonLib::TreeNode;
 
 namespace
 {
@@ -23,7 +24,7 @@ private:
     TreeNode* createBST(std::vector<int> const &nums, size_t from, size_t to) const
     {
         const size_t middle = (from + to) / 2;
-        TreeNode *root = new TreeNode(nums[middle]);
+        TreeNode* root = new TreeNode(nums[middle]);
         root->left = from == middle ? nullptr : createBST(nums, from, middle - 1);
         root->right = to == middle ? nullptr : createBST(nums, middle + 1, to);
         return root;
@@ -32,8 +33,8 @@ private:
 
 }
 
-using CommonDefs::createTreeHolder;
-using CommonDefs::checkAndDeleteTree;
+using CommonLib::createTreeHolder;
+using CommonLib::checkAndDeleteTree;
 
 namespace ConvertSortedArrayToBinarySearchTreeTask
 {

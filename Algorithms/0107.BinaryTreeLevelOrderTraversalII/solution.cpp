@@ -2,10 +2,11 @@
 #include <vector>
 
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::TreeNode;
+using CommonLib::TreeNode;
 
 namespace
 {
@@ -36,7 +37,7 @@ private:
 
 }
 
-using CommonDefs::createTreeHolder;
+using CommonLib::createTreeHolder;
 
 namespace BinaryTreeLevelOrderTraversalIITask
 {

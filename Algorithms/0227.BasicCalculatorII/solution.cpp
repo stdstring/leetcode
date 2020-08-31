@@ -13,7 +13,6 @@ enum Operator
 
 struct State
 {
-public:
     State() : firstOperand(0), op(Operator::NONE), secondOperand(1), operandCount(0)
     {
     }

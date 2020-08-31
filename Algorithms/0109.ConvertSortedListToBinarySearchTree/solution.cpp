@@ -1,17 +1,20 @@
 #include <vector>
 
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
-using CommonDefs::TreeNode;
+using CommonLib::ListNode;
+using CommonLib::TreeNode;
 
 namespace
 {
 
-class Solution {
+class Solution
+{
 public:
     TreeNode* sortedListToBST(ListNode* head) const
     {
@@ -30,7 +33,7 @@ private:
     TreeNode* createBST(std::vector<int> const &buffer, size_t from, size_t to) const
     {
         const size_t middle = (from + to) / 2;
-        TreeNode *root = new TreeNode(buffer[middle]);
+        TreeNode* root = new TreeNode(buffer[middle]);
         root->left = from == middle ? nullptr : createBST(buffer, from, middle - 1);
         root->right = to == middle ? nullptr : createBST(buffer, middle + 1, to);
         return root;
@@ -39,9 +42,9 @@ private:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::createTreeHolder;
-using CommonDefs::checkAndDeleteTree;
+using CommonLib::createLinkedList;
+using CommonLib::createTreeHolder;
+using CommonLib::checkAndDeleteTree;
 
 namespace ConvertSortedListToBinarySearchTreeTask
 {

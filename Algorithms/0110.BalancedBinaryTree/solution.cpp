@@ -1,15 +1,17 @@
 #include <algorithm>
 
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::TreeNode;
+using CommonLib::TreeNode;
 
 namespace
 {
 
-class Solution {
+class Solution
+{
 public:
     bool isBalanced(TreeNode* root) const
     {
@@ -38,7 +40,7 @@ private:
 
 }
 
-using CommonDefs::createTreeHolder;
+using CommonLib::createTreeHolder;
 
 namespace BalancedBinaryTreeTask
 {

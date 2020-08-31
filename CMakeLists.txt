@@ -10,6 +10,7 @@ link_directories(external/googletest/bin)
 
 enable_testing()
 # Algorithms
+add_subdirectory(Algorithms/CommonLib bin/CommonLib)
 add_subdirectory(Algorithms/0001.TwoSum bin/0001.TwoSum)
 add_subdirectory(Algorithms/0002.AddTwoNumbers bin/0002.AddTwoNumbers)
 add_subdirectory(Algorithms/0006.ZigZagConversion bin/0006.ZigZagConversion)

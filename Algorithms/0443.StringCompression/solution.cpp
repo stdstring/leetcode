@@ -9,7 +9,7 @@ namespace
 class Solution
 {
 public:
-    int compress(std::vector<char>& chars)
+    int compress(std::vector<char> &chars)
     {
         size_t size = 0;
         std::vector<char>::const_iterator read_iterator = chars.cbegin();

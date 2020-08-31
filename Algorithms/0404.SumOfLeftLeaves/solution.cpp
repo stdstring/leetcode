@@ -1,15 +1,17 @@
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::TreeNode;
+using CommonLib::TreeNode;
 
 namespace
 {
 
 enum Direction {Left, Right};
 
-class Solution {
+class Solution
+{
 public:
     int sumOfLeftLeaves(TreeNode* root) const
     {
@@ -31,7 +33,7 @@ private:
 
 }
 
-using CommonDefs::createTreeHolder;
+using CommonLib::createTreeHolder;
 
 namespace SumOfLeftLeavesTask
 {

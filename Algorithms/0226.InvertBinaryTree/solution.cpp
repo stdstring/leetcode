@@ -1,8 +1,9 @@
 #include "TreeNode.h"
+#include "TreeNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::TreeNode;
+using CommonLib::TreeNode;
 
 namespace
 {
@@ -24,8 +25,8 @@ public:
 
 }
 
-using CommonDefs::createTreeHolder;
-using CommonDefs::checkAndDeleteTree;
+using CommonLib::createTreeHolder;
+using CommonLib::checkAndDeleteTree;
 
 namespace InvertBinaryTreeTask
 {

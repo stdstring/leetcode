@@ -1,46 +1,15 @@
-#pragma once
-
 #include <memory>
+#include <vector>
 
 #include "gtest/gtest.h"
 
-namespace CommonDefs
+#include "TreeNode.h"
+#include "TreeNodeUtils.h"
+
+namespace
 {
 
-struct TreeNode
-{
-    int val;
-    TreeNode* left;
-    TreeNode* right;
-    TreeNode* next;
-
-    TreeNode() : val(0), left(nullptr), right(nullptr), next(nullptr)
-    {
-    }
-
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr), next(nullptr)
-    {
-    }
-
-    TreeNode(int x, TreeNode* left, TreeNode* right) : val(x), left(left), right(right), next(nullptr)
-    {
-    }
-
-    TreeNode(int x, int leftValue, TreeNode* right) : val(x), left(new TreeNode(leftValue)), right(right), next(nullptr)
-    {
-    }
-
-    TreeNode(int x, TreeNode* left, int rightValue) : val(x), left(left), right(new TreeNode(rightValue)), next(nullptr)
-    {
-    }
-
-    TreeNode(int x, int leftValue, int rightValue) : val(x), left(new TreeNode(leftValue)), right(new TreeNode(rightValue)), next(nullptr)
-    {
-    }
-};
-
-
-void deleteTree(TreeNode* root)
+void deleteTree(CommonLib::TreeNode* root)
 {
     if (root == nullptr)
         return;
@@ -49,12 +18,14 @@ void deleteTree(TreeNode* root)
     delete root;
 }
 
-std::shared_ptr<TreeNode> createTreeHolder(TreeNode* root)
+}
+
+std::shared_ptr<CommonLib::TreeNode> CommonLib::createTreeHolder(TreeNode* root)
 {
     return std::shared_ptr<TreeNode>(root, deleteTree);
 }
 
-void checkTree(TreeNode* expected, TreeNode* actual)
+void CommonLib::checkTree(TreeNode* expected, TreeNode* actual)
 {
     if (expected == nullptr)
     {
@@ -66,16 +37,16 @@ void checkTree(TreeNode* expected, TreeNode* actual)
     checkTree(expected->right, actual->right);
 }
 
-void checkAndDeleteTree(TreeNode* expected, TreeNode* actual)
+void CommonLib::checkAndDeleteTree(TreeNode* expected, TreeNode* actual)
 {
     checkTree(expected, actual);
     deleteTree(actual);
 }
 
-void checkTreeNextLinks(std::vector<std::vector<int>> const &layers, TreeNode* root)
+void CommonLib::checkTreeNextLinks(std::vector<std::vector<int>> const &nextLinksLayers, TreeNode* root)
 {
     TreeNode* leader = root;
-    for (std::vector<int> const &layer : layers)
+    for (std::vector<int> const &layer : nextLinksLayers)
     {
         ASSERT_NE(nullptr, leader);
         TreeNode* current = leader;
@@ -86,6 +57,7 @@ void checkTreeNextLinks(std::vector<std::vector<int>> const &layers, TreeNode* r
             current = current->next;
         }
         ASSERT_EQ(nullptr, current);
+        // move to next leader
         while (leader != nullptr)
         {
             if (leader->left != nullptr)
@@ -101,6 +73,4 @@ void checkTreeNextLinks(std::vector<std::vector<int>> const &layers, TreeNode* r
             leader = leader->next;
         }
     }
-}
-
 }

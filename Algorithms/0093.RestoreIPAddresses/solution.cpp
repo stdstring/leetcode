@@ -12,7 +12,7 @@ class Solution
 public:
     std::vector<std::string> restoreIpAddresses(std::string const &s)
     {
-        std::array<size_t, 4> positions;
+        std::array<size_t, 4> positions{};
         positions[0] = 0;
         std::vector<std::string> dest;
         processImpl(s, dest, positions, 1);

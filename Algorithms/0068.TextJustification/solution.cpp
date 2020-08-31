@@ -24,10 +24,10 @@ public:
     {
         std::vector<std::string> dest;
         size_t index = 0;
-        size_t maxSize = static_cast<size_t>(maxWidth);
+        const size_t maxSize = static_cast<size_t>(maxWidth);
         while (index < words.size())
         {
-            PortionData portionData(calcWordsPortionSize(words, maxSize, index));
+            const PortionData portionData(calcWordsPortionSize(words, maxSize, index));
             if ((index + portionData.PortionCount) == words.size())
                 dest.push_back(buildLastLine(words, maxSize, index, portionData.PortionSize));
             else

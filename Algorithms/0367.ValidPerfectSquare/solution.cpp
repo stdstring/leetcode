@@ -9,7 +9,8 @@ public:
     bool isPerfectSquare(int num) const
     {
         int left = 1;
-        int right = 46340; // int(sqrt(2^31 - 1)) == 46340
+        // int(sqrt(2^31 - 1)) == 46340
+        int right = 46340;
         if (num == 1)
             return true;
         if ((right * right) == num)

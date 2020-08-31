@@ -9,7 +9,7 @@ namespace
 class Solution
 {
 public:
-    std::vector<std::vector<int>> threeSum(std::vector<int> const &nums)
+    std::vector<std::vector<int>> threeSum(std::vector<int> const &nums) const
     {
         std::vector<std::vector<int>> dest;
         std::vector<int> source(nums.begin(), nums.end());
@@ -31,13 +31,9 @@ public:
                     secondIndex = nextItemIndex(source, secondIndex);
                 }
                 else if (sum < 0)
-                {
                     secondIndex = nextItemIndex(source, secondIndex);
-                }
                 else if (sum > 0)
-                {
                     --thirdIndex;
-                }
             }
             firstIndex = nextItemIndex(source, firstIndex);
         }
@@ -45,7 +41,7 @@ public:
     }
 
 private:
-    int nextItemIndex(std::vector<int> const &source, size_t currentIndex)
+    int nextItemIndex(std::vector<int> const &source, size_t currentIndex) const
     {
         const int currentValue = source[currentIndex];
         size_t nextIndex = currentIndex + 1;
@@ -62,7 +58,7 @@ namespace ThreeSumTask
 
 TEST(ThreeSumTaskTests, Examples)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(std::vector<std::vector<int>>({{-1, -1, 2}, {-1, 0, 1}}), solution.threeSum({-1, 0, 1, 2, -1, -4}));
 }
 

@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -10,12 +11,12 @@ namespace
 class Solution
 {
 public:
-    bool hasCycle(ListNode *head) const
+    bool hasCycle(ListNode* head) const
     {
         if (head == nullptr || head->next == nullptr)
             return false;
-        ListNode *first = head;
-        ListNode *second = head->next->next;
+        ListNode* first = head;
+        ListNode* second = head->next->next;
         while (first != second)
         {
             if (second == nullptr || second->next == nullptr)

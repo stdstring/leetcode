@@ -18,9 +18,7 @@ public:
         for (size_t index = 1; index < nums.size(); ++index)
         {
             if (current == nums[index])
-            {
                 ++shift;
-            }
             else
             {
                 ++length;

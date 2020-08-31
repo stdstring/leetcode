@@ -1,10 +1,11 @@
 #include <vector>
 
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -17,7 +18,7 @@ public:
         if (head == nullptr)
             return;
         std::vector<ListNode*> nodes;
-        ListNode *current = head;
+        ListNode* current = head;
         while (current != nullptr)
         {
             nodes.push_back(current);
@@ -36,8 +37,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace ReorderListTask
 {

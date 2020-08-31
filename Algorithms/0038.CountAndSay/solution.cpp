@@ -17,7 +17,7 @@ public:
     }
 
 private:
-    std::string generateNext(std::string const & current) const
+    std::string generateNext(std::string const &current) const
     {
         std::string next;
         size_t index = 0;

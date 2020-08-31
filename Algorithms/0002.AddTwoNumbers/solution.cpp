@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -12,8 +13,8 @@ class Solution
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) const
     {
-        ListNode *dest = nullptr;
-        ListNode *current = nullptr;
+        ListNode* dest = nullptr;
+        ListNode* current = nullptr;
         bool carry = false;
         while (l1 != nullptr || l2 != nullptr)
         {
@@ -43,8 +44,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace AddTwoNumbersTask
 {

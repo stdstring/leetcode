@@ -8,7 +8,7 @@ namespace
 class Solution
 {
 public:
-    void moveZeroes(std::vector<int>& nums)
+    void moveZeroes(std::vector<int> &nums)
     {
         size_t zeroCount = 0;
         for (size_t index = 0; index < nums.size(); ++index)
@@ -21,9 +21,7 @@ public:
         if (zeroCount == nums.size())
             return;
         for (size_t index = nums.size() - zeroCount; index < nums.size(); ++index)
-        {
             nums[index] = 0;
-        }
     }
 };
 

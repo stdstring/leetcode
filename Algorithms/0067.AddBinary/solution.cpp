@@ -12,14 +12,14 @@ public:
     std::string addBinary(std::string const &a, std::string const &b) const
     {
         std::string buf;
-        size_t maxSize = std::max(a.size(), b.size());
+        const size_t maxSize = std::max(a.size(), b.size());
         std::div_t dv{};
         char carry = 0;
         for (size_t index = 0; index < maxSize; ++index)
         {
-            char aDigit = (index < a.size()) ? a[a.size() - index - 1] - '0' : 0;
-            char bDigit = (index < b.size()) ? b[b.size() - index - 1] - '0' : 0;
-            char sum = aDigit + bDigit + carry;
+            const char aDigit = (index < a.size()) ? a[a.size() - index - 1] - '0' : 0;
+            const char bDigit = (index < b.size()) ? b[b.size() - index - 1] - '0' : 0;
+            const char sum = aDigit + bDigit + carry;
             dv.quot = sum;
             dv = std::div(dv.quot, 2);
             buf += "01"[dv.rem];

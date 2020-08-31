@@ -8,7 +8,7 @@ namespace
 class Solution
 {
 public:
-    std::vector<std::vector<int>> combine(int n, int k)
+    std::vector<std::vector<int>> combine(int n, int k) const
     {
         std::vector<std::vector<int>> combinations;
         std::vector<int> buffer;
@@ -18,7 +18,7 @@ public:
     }
 
 private:
-    void combineImpl(int n, int k, std::vector<std::vector<int>> &combinations, std::vector<int> &buffer)
+    void combineImpl(int n, int k, std::vector<std::vector<int>> &combinations, std::vector<int> &buffer) const
     {
         if (buffer.size() == k)
             combinations.emplace_back(buffer);

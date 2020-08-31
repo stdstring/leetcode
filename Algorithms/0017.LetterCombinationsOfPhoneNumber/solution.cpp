@@ -9,7 +9,7 @@ namespace
 class Solution
 {
 public:
-    std::vector<std::string> letterCombinations(std::string const &digits)
+    std::vector<std::string> letterCombinations(std::string const &digits) const
     {
         if (digits.empty())
             return {};
@@ -19,7 +19,7 @@ public:
     }
 
 private:
-    void createLetterCombinations(std::string const &source, std::vector<std::string> &dest, std::string const &prefix)
+    void createLetterCombinations(std::string const &source, std::vector<std::string> &dest, std::string const &prefix) const
     {
         const size_t currentIndex = prefix.size();
         const int currentDigit = source[currentIndex] - '0';
@@ -46,14 +46,14 @@ namespace LetterCombinationsOfPhoneNumberTask
 
 TEST(LetterCombinationsOfPhoneNumberTask, Examples)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(std::vector<std::string>({"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"}), solution.letterCombinations("23"));
 }
 
 TEST(LetterCombinationsOfPhoneNumberTask, FromWrongAnswers)
 {
-    Solution solution;
-    ASSERT_EQ(std::vector<std::string>({}), solution.letterCombinations(""));
+    const Solution solution;
+    ASSERT_EQ(std::vector<std::string>(), solution.letterCombinations(""));
 }
 
 }

@@ -22,7 +22,7 @@ public:
         int right = nums.size() - 1;
         while (right - left > 1)
         {
-            int middle = (right + left) / 2;
+            const int middle = (right + left) / 2;
             if (nums[middle] == target)
                 return middle;
             else if (nums[middle] < target)

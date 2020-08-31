@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -13,9 +14,7 @@ public:
     ListNode* deleteDuplicates(ListNode* head)
     {
         while ((head != nullptr) && hasDuplicates(head))
-        {
             head = removeDuplicates(head);
-        }
         if (head == nullptr)
             return head;
         ListNode* prev = head;
@@ -54,8 +53,8 @@ private:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace RemoveDuplicatesFromSortedListIITask
 {

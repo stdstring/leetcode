@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -12,23 +13,23 @@ class Solution
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n)
     {
-        ListNode *tail = head;
+        ListNode* tail = head;
         for (int index = 0; index < n; ++index)
             tail = tail->next;
         if (tail == nullptr)
         {
-            ListNode *current = head->next;
+            ListNode* current = head->next;
             delete head;
             return current;
         }
         tail = tail->next;
-        ListNode *prev = head;
+        ListNode* prev = head;
         while (tail != nullptr)
         {
             tail = tail->next;
             prev = prev->next;
         }
-        ListNode *current = prev->next;
+        ListNode* current = prev->next;
         prev->next = current->next;
         delete current;
         return head;
@@ -37,8 +38,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace RemoveNthNodeFromEndOfListTask
 {

@@ -8,7 +8,7 @@ namespace
 class Solution
 {
 public:
-    int countPrimes(int n)
+    int countPrimes(int n) const
     {
         if (n <= 2)
             return 0;
@@ -28,17 +28,17 @@ public:
     }
 
 private:
-    int calcSieveSize(int n)
+    int calcSieveSize(int n) const
     {
         return (n / 2) - 1;
     }
 
-    int calcIndex(int number)
+    int calcIndex(int number) const
     {
         return (number - 3) / 2;
     }
 
-    void erasePrimeFactors(long long prime, int n, std::vector<int> &sieve)
+    void erasePrimeFactors(long long prime, int n, std::vector<int> &sieve) const
     {
         for(long long number = prime * prime; number < n; number += 2 * prime)
         {
@@ -54,13 +54,13 @@ namespace CountPrimesTask
 
 TEST(CountPrimesTaskTests, Examples)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(4, solution.countPrimes(10));
 }
 
 TEST(CountPrimesTaskTests, FromWrongAnswers)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(41537, solution.countPrimes(499979));
     ASSERT_EQ(0, solution.countPrimes(2));
     ASSERT_EQ(0, solution.countPrimes(0));

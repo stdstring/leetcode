@@ -8,7 +8,7 @@ namespace
 class Solution
 {
 public:
-    int removeDuplicates(std::vector<int>& nums)
+    int removeDuplicates(std::vector<int> &nums)
     {
         if (nums.empty())
             return 0;
@@ -27,9 +27,7 @@ public:
                     ++length;
                 }
                 else
-                {
                     ++shift;
-                }
             }
             else
             {

@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -14,17 +15,17 @@ public:
     {
         if (m == n)
             return head;
-        ListNode *beforeCurrent = nullptr;
+        ListNode* beforeCurrent = nullptr;
         // rewind to node with number m
         for (int position = 1; position < m; ++position)
             beforeCurrent = beforeCurrent == nullptr ? head : beforeCurrent->next;
         // reverse nodes with numbers from m to n
-        ListNode *mNode = beforeCurrent == nullptr ? head : beforeCurrent->next;
-        ListNode *prev = mNode;
-        ListNode *current = mNode->next;
+        ListNode* mNode = beforeCurrent == nullptr ? head : beforeCurrent->next;
+        ListNode* prev = mNode;
+        ListNode* current = mNode->next;
         for (int position = m + 1; position <= n; ++position)
         {
-            ListNode *next = current->next;
+            ListNode* next = current->next;
             current->next = prev;
             prev = current;
             current = next;
@@ -38,8 +39,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace ReverseLinkedListIITask
 {

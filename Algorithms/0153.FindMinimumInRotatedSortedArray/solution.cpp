@@ -18,7 +18,7 @@ public:
         size_t right = nums.size() - 1;
         while ((right - left) > 1)
         {
-            size_t middle = (right + left) / 2;
+            const size_t middle = (right + left) / 2;
             if (nums[left] > nums[middle])
                 right = middle;
             else

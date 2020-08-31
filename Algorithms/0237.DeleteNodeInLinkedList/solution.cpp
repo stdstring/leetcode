@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -12,7 +13,7 @@ class Solution
 public:
     void deleteNode(ListNode* node)
     {
-        ListNode *next = node->next;
+        ListNode* next = node->next;
         node->val = next->val;
         node->next = next->next;
         delete next;
@@ -28,8 +29,8 @@ ListNode* findNode(ListNode* node, int value)
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace DeleteNodeInLinkedListTask
 {

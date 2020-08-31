@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -15,17 +16,17 @@ public:
         // remove from head
         while(head != nullptr && head->val == val)
         {
-            ListNode *node = head;
+            ListNode* node = head;
             head = head->next;
             delete node;
         }
         if (head == nullptr)
             return head;
         // remove from body
-        ListNode *prev = head;
+        ListNode* prev = head;
         while (prev->next != nullptr)
         {
-            ListNode *current = prev->next;
+            ListNode* current = prev->next;
             if (current->val == val)
             {
                 prev->next = current->next;
@@ -40,8 +41,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace RemoveLinkedListElementsTask
 {

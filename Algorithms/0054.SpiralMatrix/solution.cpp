@@ -37,35 +37,23 @@ private:
         if (rowMin == rowMax)
         {
             for(int column = columnMin; column <= columnMax; ++column)
-            {
                 dest.push_back(matrix[rowMin][column]);
-            }
             return;
         }
         if (columnMin == columnMax)
         {
             for(int row = rowMin; row <= rowMax; ++row)
-            {
                 dest.push_back(matrix[row][columnMin]);
-            }
             return;
         }
         for(int column = columnMin; column <= columnMax; ++column)
-        {
             dest.push_back(matrix[rowMin][column]);
-        }
         for(int row = rowMin + 1; row <= rowMax; ++row)
-        {
             dest.push_back(matrix[row][columnMax]);
-        }
         for(int column = columnMax - 1; column >= columnMin; --column)
-        {
             dest.push_back(matrix[rowMax][column]);
-        }
         for(int row = rowMax - 1; row > rowMin; --row)
-        {
             dest.push_back(matrix[row][columnMin]);
-        }
     }
 };
 

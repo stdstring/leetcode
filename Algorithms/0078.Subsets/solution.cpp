@@ -15,9 +15,7 @@ public:
         subsets.reserve(subsetsCount);
         subsets.emplace_back();
         for (size_t mask = 1; mask < subsetsCount; ++mask)
-        {
             subsets.push_back(createSubsetByMask(nums, mask));
-        }
         return subsets;
     }
 

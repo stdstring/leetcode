@@ -16,7 +16,7 @@ public:
         {
             if (maxData.size() == 3 && nums[index] <= maxData.back())
                 continue;
-            if (maxData[0] == nums[index] || (maxData.size() > 1 && maxData[1] == nums[index])  || (maxData.size() > 2 && maxData[2] == nums[index]))
+            if (maxData[0] == nums[index] || (maxData.size() > 1 && maxData[1] == nums[index]) || (maxData.size() > 2 && maxData[2] == nums[index]))
                 continue;
             if (maxData.size() < 3)
                 maxData.emplace_back(nums[index]);

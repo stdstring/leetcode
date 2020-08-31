@@ -2,10 +2,11 @@
 #include <vector>
 
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -15,9 +16,9 @@ class Solution
 public:
     ListNode* mergeKLists(std::vector<ListNode*> const &lists)
     {
-        auto comp = [](ListNode *left, ListNode *right){ return left->val > right->val; };
+        auto comp = [](ListNode* left, ListNode* right){ return left->val > right->val; };
         std::priority_queue<ListNode*, std::vector<ListNode*>, decltype(comp)> queue(comp);
-        for (ListNode *head : lists)
+        for (ListNode* head : lists)
         {
             while (head != nullptr)
             {
@@ -25,8 +26,8 @@ public:
                 head = head->next;
             }
         }
-        ListNode *head = nullptr;
-        ListNode *current = nullptr;
+        ListNode* head = nullptr;
+        ListNode* current = nullptr;
         while (!queue.empty())
         {
             if (current == nullptr)
@@ -46,8 +47,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace MergeKSortedListsTask
 {

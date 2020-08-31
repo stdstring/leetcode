@@ -8,7 +8,7 @@ namespace
 class Solution
 {
 public:
-    void rotate(std::vector<std::vector<int>>& matrix)
+    void rotate(std::vector<std::vector<int>> &matrix)
     {
         const int n = matrix.size();
         int minIndex = 0;

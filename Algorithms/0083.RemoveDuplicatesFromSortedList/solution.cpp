@@ -1,8 +1,9 @@
 #include "ListNode.h"
+#include "ListNodeUtils.h"
 
 #include "gtest/gtest.h"
 
-using CommonDefs::ListNode;
+using CommonLib::ListNode;
 
 namespace
 {
@@ -14,8 +15,8 @@ public:
     {
         if (head == nullptr)
             return head;
-        ListNode *prev = head;
-        ListNode *current = head->next;
+        ListNode* prev = head;
+        ListNode* current = head->next;
         while (current != nullptr)
         {
             if (current->val == prev->val)
@@ -33,8 +34,8 @@ public:
 
 }
 
-using CommonDefs::createLinkedList;
-using CommonDefs::checkAndDeleteLinkedList;
+using CommonLib::createLinkedList;
+using CommonLib::checkAndDeleteLinkedList;
 
 namespace RemoveDuplicatesFromSortedListTask
 {
