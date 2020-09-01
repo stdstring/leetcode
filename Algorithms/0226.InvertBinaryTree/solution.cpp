@@ -25,8 +25,7 @@ public:
 
 }
 
-using CommonLib::createTreeHolder;
-using CommonLib::checkAndDeleteTree;
+using CommonLib::Codec;
 
 namespace InvertBinaryTreeTask
 {
@@ -34,8 +33,9 @@ namespace InvertBinaryTreeTask
 TEST(InvertBinaryTreeTaskTests, Examples)
 {
     Solution solution;
-    checkAndDeleteTree(createTreeHolder(new TreeNode(4, new TreeNode(7, 9, 6), new TreeNode(2, 3, 1))).get(),
-                       solution.invertTree(new TreeNode(4, new TreeNode(2, 1, 3), new TreeNode(7, 6, 9))));
+    const std::shared_ptr<TreeNode> tree = Codec::createTree("[4,2,7,1,3,6,9]");
+    solution.invertTree(tree.get());
+    ASSERT_EQ("[4,7,2,9,6,3,1]", Codec::createData(tree));
 }
 
 }

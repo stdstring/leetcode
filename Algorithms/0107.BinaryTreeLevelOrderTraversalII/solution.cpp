@@ -37,7 +37,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace BinaryTreeLevelOrderTraversalIITask
 {
@@ -45,7 +45,7 @@ namespace BinaryTreeLevelOrderTraversalIITask
 TEST(BinaryTreeLevelOrderTraversalIITaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{15, 7}, {9, 20}, {3}}), solution.levelOrderBottom(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
+    ASSERT_EQ(std::vector<std::vector<int>>({{15, 7}, {9, 20}, {3}}), solution.levelOrderBottom(Codec::createTree("[3,9,20,null,null,15,7]").get()));
 }
 
 }

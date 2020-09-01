@@ -33,7 +33,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace BinaryTreeInorderTraversalTask
 {
@@ -41,7 +41,7 @@ namespace BinaryTreeInorderTraversalTask
 TEST(BinaryTreeInorderTraversalTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<int>({1, 3, 2}), solution.inorderTraversal(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, 3, nullptr))).get()));
+    ASSERT_EQ(std::vector<int>({1, 3, 2}), solution.inorderTraversal(Codec::createTree("[1,null,2,3]").get()));
 }
 
 }

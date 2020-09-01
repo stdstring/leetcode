@@ -34,7 +34,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 using CommonLib::checkTreeNextLinks;
 
 namespace PopulatingNextRightPointersInEachNodeTask
@@ -43,7 +43,7 @@ namespace PopulatingNextRightPointersInEachNodeTask
 TEST(PopulatingNextRightPointersInEachNodeTaskTests, Examples)
 {
     Solution solution;
-    checkTreeNextLinks({{1}, {2, 3}, {4, 5, 6, 7}}, solution.connect(createTreeHolder(new TreeNode(1, new TreeNode(2, 4, 5), new TreeNode(3, 6, 7))).get()));
+    checkTreeNextLinks({{1}, {2, 3}, {4, 5, 6, 7}}, solution.connect(Codec::createTree("[1,2,3,4,5,6,7]").get()));
 }
 
 }

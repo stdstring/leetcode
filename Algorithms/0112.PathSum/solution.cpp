@@ -31,7 +31,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace PathSumTask
 {
@@ -39,14 +39,14 @@ namespace PathSumTask
 TEST(PathSumTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.hasPathSum(createTreeHolder(new TreeNode(5, new TreeNode(4, new TreeNode(11, 7, 2), nullptr), new TreeNode(8, 13, new TreeNode(4, nullptr, 1)))).get(), 22));
+    ASSERT_EQ(true, solution.hasPathSum(Codec::createTree("[5,4,8,11,null,13,4,7,2,null,null,null,1]").get(), 22));
 }
 
 TEST(PathSumTaskTests, FromWrongAnswers)
 {
     const Solution solution;
-    ASSERT_EQ(false, solution.hasPathSum(createTreeHolder(new TreeNode(1, 2, nullptr)).get(), 1));
-    ASSERT_EQ(false, solution.hasPathSum(nullptr, 0));
+    ASSERT_EQ(false, solution.hasPathSum(Codec::createTree("[1,2]").get(), 1));
+    ASSERT_EQ(false, solution.hasPathSum(Codec::createTree("[]").get(), 0));
 }
 
 }

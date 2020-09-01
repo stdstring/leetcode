@@ -29,7 +29,7 @@ public:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace SameTreeTask
 {
@@ -37,9 +37,9 @@ namespace SameTreeTask
 TEST(SameTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, 3)).get(), createTreeHolder(new TreeNode(1, 2, 3)).get()));
-    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, nullptr)).get(), createTreeHolder(new TreeNode(1, nullptr, 2)).get()));
-    ASSERT_EQ(false, solution.isSameTree(createTreeHolder(new TreeNode(1, 2, 1)).get(), createTreeHolder(new TreeNode(1, 1, 2)).get()));
+    ASSERT_EQ(true, solution.isSameTree(Codec::createTree("[1,2,3]").get(), Codec::createTree("[1,2,3]").get()));
+    ASSERT_EQ(false, solution.isSameTree(Codec::createTree("[1,2]").get(), Codec::createTree("[1,null,2]").get()));
+    ASSERT_EQ(false, solution.isSameTree(Codec::createTree("[1,2,1]").get(), Codec::createTree("[1,1,2]").get()));
 }
 
 }

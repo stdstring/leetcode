@@ -27,7 +27,7 @@ public:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace MinimumDepthOfBinaryTreeTask
 {
@@ -35,13 +35,13 @@ namespace MinimumDepthOfBinaryTreeTask
 TEST(MinimumDepthOfBinaryTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
+    ASSERT_EQ(2, solution.minDepth(Codec::createTree("[3,9,20,null,null,15,7]").get()));
 }
 
 TEST(MinimumDepthOfBinaryTreeTaskTests, FromWrongAnswers)
 {
     const Solution solution;
-    ASSERT_EQ(2, solution.minDepth(createTreeHolder(new TreeNode(1, 2, nullptr)).get()));
+    ASSERT_EQ(2, solution.minDepth(Codec::createTree("[1,2]").get()));
 }
 
 }

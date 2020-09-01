@@ -51,7 +51,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace ValidateBinarySearchTreeTask
 {
@@ -59,15 +59,15 @@ namespace ValidateBinarySearchTreeTask
 TEST(ValidateBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isValidBST(createTreeHolder(new TreeNode(2, 1, 3)).get()));
-    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(5, 1, new TreeNode(4, 3, 6))).get()));
+    ASSERT_EQ(true, solution.isValidBST(Codec::createTree("[2,1,3]").get()));
+    ASSERT_EQ(false, solution.isValidBST(Codec::createTree("[5,1,4,null,null,3,6]").get()));
 }
 
 TEST(ValidateBinarySearchTreeTaskTests, FromWrongAnswers)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isValidBST(nullptr));
-    ASSERT_EQ(false, solution.isValidBST(createTreeHolder(new TreeNode(10, 5, new TreeNode(15, 6, 20))).get()));
+    ASSERT_EQ(true, solution.isValidBST(Codec::createTree("[]").get()));
+    ASSERT_EQ(false, solution.isValidBST(Codec::createTree("[10,5,15,null,null,6,20]").get()));
 }
 
 }

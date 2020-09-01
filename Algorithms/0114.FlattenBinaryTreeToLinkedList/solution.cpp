@@ -33,8 +33,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
-using CommonLib::checkAndDeleteTree;
+using CommonLib::Codec;
 
 namespace FlattenBinaryTreeToLinkedListTask
 {
@@ -42,9 +41,9 @@ namespace FlattenBinaryTreeToLinkedListTask
 TEST(FlattenBinaryTreeToLinkedListTaskTests, Examples)
 {
     Solution solution;
-    TreeNode* tree = new TreeNode(1, new TreeNode(2, 3, 4), new TreeNode(5, nullptr, 6));
-    solution.flatten(tree);
-    checkAndDeleteTree(createTreeHolder(new TreeNode(1, nullptr, new TreeNode(2, nullptr, new TreeNode(3, nullptr, new TreeNode(4, nullptr, new TreeNode(5, nullptr, 6)))))).get(), tree);
+    const std::shared_ptr<TreeNode> tree = Codec::createTree("[1,2,5,3,4,null,6]");
+    solution.flatten(tree.get());
+    ASSERT_EQ("[1,null,2,null,3,null,4,null,5,null,6]", Codec::createData(tree));
 }
 
 }

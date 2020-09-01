@@ -43,8 +43,8 @@ private:
 }
 
 using CommonLib::createLinkedList;
+using CommonLib::Codec;
 using CommonLib::createTreeHolder;
-using CommonLib::checkAndDeleteTree;
 
 namespace ConvertSortedListToBinarySearchTreeTask
 {
@@ -52,8 +52,7 @@ namespace ConvertSortedListToBinarySearchTreeTask
 TEST(ConvertSortedListToBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
-    checkAndDeleteTree(createTreeHolder(new TreeNode(0, new TreeNode(-10, nullptr, -3), new TreeNode(5, nullptr, 9))).get(),
-                       solution.sortedListToBST(createLinkedList({-10, -3, 0, 5, 9}, true).get()));
+    ASSERT_EQ("[0,-10,5,null,-3,null,9]", Codec::createData(createTreeHolder(solution.sortedListToBST(createLinkedList({-10, -3, 0, 5, 9}, true).get()))));
 }
 
 }

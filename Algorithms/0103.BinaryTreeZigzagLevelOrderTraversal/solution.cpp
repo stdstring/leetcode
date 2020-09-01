@@ -38,7 +38,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace BinaryTreeZigzagLevelOrderTraversalTask
 {
@@ -46,7 +46,7 @@ namespace BinaryTreeZigzagLevelOrderTraversalTask
 TEST(BinaryTreeZigzagLevelOrderTraversalTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{3}, {20, 9}, {15, 7}}), solution.zigzagLevelOrder(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
+    ASSERT_EQ(std::vector<std::vector<int>>({{3}, {20, 9}, {15, 7}}), solution.zigzagLevelOrder(Codec::createTree("[3,9,20,null,null,15,7]").get()));
 }
 
 }

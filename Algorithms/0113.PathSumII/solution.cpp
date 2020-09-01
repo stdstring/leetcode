@@ -53,7 +53,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace PathSumIITask
 {
@@ -61,8 +61,7 @@ namespace PathSumIITask
 TEST(PathSumIITaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(std::vector<std::vector<int>>({{5 ,4, 11, 2}, {5, 8, 4, 5}}),
-              solution.pathSum(createTreeHolder(new TreeNode(5, new TreeNode(4, new TreeNode(11, 7, 2), nullptr), new TreeNode(8, 13, new TreeNode(4, 5, 1)))).get(), 22));
+    ASSERT_EQ(std::vector<std::vector<int>>({{5 ,4, 11, 2}, {5, 8, 4, 5}}), solution.pathSum(Codec::createTree("[5,4,8,11,null,13,4,7,2,null,null,5,1]").get(), 22));
 }
 
 }

@@ -23,7 +23,7 @@ public:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace MaximumDepthOfBinaryTreeTask
 {
@@ -31,7 +31,7 @@ namespace MaximumDepthOfBinaryTreeTask
 TEST(MaximumDepthOfBinaryTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(3, solution.maxDepth(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
+    ASSERT_EQ(3, solution.maxDepth(Codec::createTree("[3,9,20,null,null,15,7]").get()));
 }
 
 }

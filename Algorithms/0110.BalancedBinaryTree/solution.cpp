@@ -40,7 +40,7 @@ private:
 
 }
 
-using CommonLib::createTreeHolder;
+using CommonLib::Codec;
 
 namespace BalancedBinaryTreeTask
 {
@@ -48,8 +48,8 @@ namespace BalancedBinaryTreeTask
 TEST(BalancedBinaryTreeTaskTests, Examples)
 {
     const Solution solution;
-    ASSERT_EQ(true, solution.isBalanced(createTreeHolder(new TreeNode(3, 9, new TreeNode(20, 15, 7))).get()));
-    ASSERT_EQ(false, solution.isBalanced(createTreeHolder(new TreeNode(1, new TreeNode(2, new TreeNode(3, 4, 4), 3), 2)).get()));
+    ASSERT_EQ(true, solution.isBalanced(Codec::createTree("[3,9,20,null,null,15,7]").get()));
+    ASSERT_EQ(false, solution.isBalanced(Codec::createTree("[1,2,2,3,3,null,null,4,4]").get()));
 }
 
 }
