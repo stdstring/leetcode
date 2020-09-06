@@ -93,6 +93,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [120. Triangle](https://leetcode.com/problems/triangle/description/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+* [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
