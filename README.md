@@ -130,6 +130,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+* [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 * [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)
