@@ -146,6 +146,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+* [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
