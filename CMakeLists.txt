@@ -160,6 +160,7 @@ add_subdirectory(Algorithms/0448.FindAllNumbersDisappearedInArray bin/0448.FindA
 add_subdirectory(Algorithms/0449.SerializeAndDeserializeBST bin/0449.SerializeAndDeserializeBST)
 add_subdirectory(Algorithms/0476.NumberComplement bin/0476.NumberComplement)
 add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatting)
+add_subdirectory(Algorithms/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/0500.KeyboardRow bin/0500.KeyboardRow)
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
