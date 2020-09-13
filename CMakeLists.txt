@@ -163,6 +163,7 @@ add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatt
 add_subdirectory(Algorithms/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/0500.KeyboardRow bin/0500.KeyboardRow)
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
+add_subdirectory(Algorithms/0507.PerfectNumber bin/0507.PerfectNumber)
 add_subdirectory(Algorithms/0541.ReverseStringII bin/0541.ReverseStringII)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntegerMapping bin/1309.DecryptStringFromAlphabetToIntegerMapping)

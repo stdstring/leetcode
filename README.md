@@ -152,6 +152,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
+* [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
