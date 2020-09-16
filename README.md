@@ -97,6 +97,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)

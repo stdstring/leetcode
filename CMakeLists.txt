@@ -108,6 +108,7 @@ add_subdirectory(Algorithms/0129.SumRootToLeafNumbers bin/0129.SumRootToLeafNumb
 add_subdirectory(Algorithms/0141.LinkedListCycle bin/0141.LinkedListCycle)
 add_subdirectory(Algorithms/0143.ReorderList bin/0143.ReorderList)
 add_subdirectory(Algorithms/0144.BinaryTreePreorderTraversal bin/0144.BinaryTreePreorderTraversal)
+add_subdirectory(Algorithms/0145.BinaryTreePostorderTraversal bin/0145.BinaryTreePostorderTraversal)
 add_subdirectory(Algorithms/0150.EvaluateReversePolishNotation bin/0150.EvaluateReversePolishNotation)
 add_subdirectory(Algorithms/0151.ReverseWordsInString bin/0151.ReverseWordsInString)
 add_subdirectory(Algorithms/0153.FindMinimumInRotatedSortedArray bin/0153.FindMinimumInRotatedSortedArray)
