@@ -129,6 +129,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
+* [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
