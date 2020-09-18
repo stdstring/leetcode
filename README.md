@@ -131,6 +131,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+* [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 * [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)

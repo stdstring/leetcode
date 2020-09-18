@@ -142,6 +142,7 @@ add_subdirectory(Algorithms/0297.SerializeAndDeserializeBinaryTree bin/0297.Seri
 add_subdirectory(Algorithms/0299.BullsAndCows bin/0299.BullsAndCows)
 add_subdirectory(Algorithms/0326.PowerOfThree bin/0326.PowerOfThree)
 add_subdirectory(Algorithms/0328.OddEvenLinkedList bin/0328.OddEvenLinkedList)
+add_subdirectory(Algorithms/0342.PowerOfFour bin/0342.PowerOfFour)
 add_subdirectory(Algorithms/0344.ReverseString bin/0344.ReverseString)
 add_subdirectory(Algorithms/0345.ReverseVowelsOfString bin/0345.ReverseVowelsOfString)
 add_subdirectory(Algorithms/0357.CountNumbersWithUniqueDigits bin/0357.CountNumbersWithUniqueDigits)
