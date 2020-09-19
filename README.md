@@ -153,6 +153,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
+* [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
