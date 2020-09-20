@@ -159,6 +159,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+* [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
