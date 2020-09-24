@@ -117,6 +117,7 @@ add_subdirectory(Algorithms/0153.FindMinimumInRotatedSortedArray bin/0153.FindMi
 add_subdirectory(Algorithms/0155.MinStack bin/0155.MinStack)
 add_subdirectory(Algorithms/0165.CompareVersionNumbers bin/0165.CompareVersionNumbers)
 add_subdirectory(Algorithms/0167.TwoSumII bin/0167.TwoSumII)
+add_subdirectory(Algorithms/0168.ExcelSheetColumnTitle bin/0168.ExcelSheetColumnTitle)
 add_subdirectory(Algorithms/0201.BitwiseAndOfNumbersRange bin/0201.BitwiseAndOfNumbersRange)
 add_subdirectory(Algorithms/0202.HappyNumber bin/0202.HappyNumber)
 add_subdirectory(Algorithms/0203.RemoveLinkedListElements bin/0203.RemoveLinkedListElements)
