@@ -107,6 +107,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+* [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
