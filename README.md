@@ -126,6 +126,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+* [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
