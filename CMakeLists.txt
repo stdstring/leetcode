@@ -144,6 +144,7 @@ add_subdirectory(Algorithms/0273.IntegerToEnglishWords bin/0273.IntegerToEnglish
 add_subdirectory(Algorithms/0278.FirstBadVersion bin/0278.FirstBadVersion)
 add_subdirectory(Algorithms/0283.MoveZeroes bin/0283.MoveZeroes)
 add_subdirectory(Algorithms/0290.WordPattern bin/0290.WordPattern)
+add_subdirectory(Algorithms/0292.NimGame bin/0292.NimGame)
 add_subdirectory(Algorithms/0297.SerializeAndDeserializeBinaryTree bin/0297.SerializeAndDeserializeBinaryTree)
 add_subdirectory(Algorithms/0299.BullsAndCows bin/0299.BullsAndCows)
 add_subdirectory(Algorithms/0326.PowerOfThree bin/0326.PowerOfThree)
