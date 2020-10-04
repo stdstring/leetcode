@@ -159,6 +159,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 * [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
+* [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
