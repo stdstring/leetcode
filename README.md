@@ -171,6 +171,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
+* [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)

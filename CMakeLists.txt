@@ -182,6 +182,7 @@ add_subdirectory(Algorithms/0492.ConstructTheRectangle bin/0492.ConstructTheRect
 add_subdirectory(Algorithms/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/0500.KeyboardRow bin/0500.KeyboardRow)
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
+add_subdirectory(Algorithms/0506.RelativeRanks bin/0506.RelativeRanks)
 add_subdirectory(Algorithms/0507.PerfectNumber bin/0507.PerfectNumber)
 add_subdirectory(Algorithms/0509.FibonacciNumber bin/0509.FibonacciNumber)
 add_subdirectory(Algorithms/0520.DetectCapital bin/0520.DetectCapital)
