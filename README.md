@@ -177,6 +177,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)
+* [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
 * [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
