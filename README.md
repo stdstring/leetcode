@@ -180,5 +180,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
 * [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
+* [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
