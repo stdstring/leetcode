@@ -194,6 +194,7 @@ add_subdirectory(Algorithms/0541.ReverseStringII bin/0541.ReverseStringII)
 add_subdirectory(Algorithms/0551.StudentAttendanceRecordI bin/0551.StudentAttendanceRecordI)
 add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAttendanceRecordII)
 add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsInStringIII)
+add_subdirectory(Algorithms/0566.ReshapeMatrix bin/0566.ReshapeMatrix)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntegerMapping bin/1309.DecryptStringFromAlphabetToIntegerMapping)
 
