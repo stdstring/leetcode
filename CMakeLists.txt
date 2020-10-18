@@ -122,6 +122,7 @@ add_subdirectory(Algorithms/0168.ExcelSheetColumnTitle bin/0168.ExcelSheetColumn
 add_subdirectory(Algorithms/0171.ExcelSheetColumnNumber bin/0171.ExcelSheetColumnNumber)
 add_subdirectory(Algorithms/0172.FactorialTrailingZeroes bin/0172.FactorialTrailingZeroes)
 add_subdirectory(Algorithms/0190.ReverseBits bin/0190.ReverseBits)
+add_subdirectory(Algorithms/0191.NumberOf1Bits bin/0191.NumberOf1Bits)
 add_subdirectory(Algorithms/0201.BitwiseAndOfNumbersRange bin/0201.BitwiseAndOfNumbersRange)
 add_subdirectory(Algorithms/0202.HappyNumber bin/0202.HappyNumber)
 add_subdirectory(Algorithms/0203.RemoveLinkedListElements bin/0203.RemoveLinkedListElements)
