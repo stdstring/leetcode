@@ -108,6 +108,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+* [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 * [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
 * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)
