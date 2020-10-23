@@ -121,6 +121,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+* [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
