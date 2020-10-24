@@ -94,7 +94,7 @@ std::string CommonLib::Codec::serialize(std::shared_ptr<TreeNode> const &root) c
 std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::deserialize(std::string const &data) const
 {
     //data[0] == '['
-        //data[data.size() - 1] == ']'
+    //data[data.size() - 1] == ']'
     size_t index = 1;
     std::deque<TreeNode*> processedNodes;
     TreeNode* root = nullptr;
