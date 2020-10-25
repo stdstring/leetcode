@@ -147,6 +147,7 @@ add_subdirectory(Algorithms/0237.DeleteNodeInLinkedList bin/0237.DeleteNodeInLin
 add_subdirectory(Algorithms/0239.SlidingWindowMaximum bin/0239.SlidingWindowMaximum)
 add_subdirectory(Algorithms/0242.ValidAnagram bin/0242.ValidAnagram)
 add_subdirectory(Algorithms/0257.BinaryTreePaths bin/0257.BinaryTreePaths)
+add_subdirectory(Algorithms/0258.AddDigits bin/0258.AddDigits)
 add_subdirectory(Algorithms/0263.UglyNumber bin/0263.UglyNumber)
 add_subdirectory(Algorithms/0268.MissingNumber bin/0268.MissingNumber)
 add_subdirectory(Algorithms/0273.IntegerToEnglishWords bin/0273.IntegerToEnglishWords)
