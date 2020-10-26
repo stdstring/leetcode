@@ -142,6 +142,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
