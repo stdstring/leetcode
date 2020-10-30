@@ -134,6 +134,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)
 * [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+* [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
