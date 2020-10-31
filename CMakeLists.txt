@@ -144,6 +144,7 @@ add_subdirectory(Algorithms/0225.ImplementStackUsingQueues bin/0225.ImplementSta
 add_subdirectory(Algorithms/0226.InvertBinaryTree bin/0226.InvertBinaryTree)
 add_subdirectory(Algorithms/0227.BasicCalculatorII bin/0227.BasicCalculatorII)
 add_subdirectory(Algorithms/0228.SummaryRanges bin/0228.SummaryRanges)
+add_subdirectory(Algorithms/0230.KthSmallestElementInBST bin/0230.KthSmallestElementInBST)
 add_subdirectory(Algorithms/0231.PowerOfTwo bin/0231.PowerOfTwo)
 add_subdirectory(Algorithms/0232.ImplementQueueUsingStacks bin/0232.ImplementQueueUsingStacks)
 add_subdirectory(Algorithms/0235.LowestCommonAncestorOfBinarySearchTree bin/0235.LowestCommonAncestorOfBinarySearchTree)
