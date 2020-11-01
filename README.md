@@ -145,6 +145,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
+* [274. H-Index](https://leetcode.com/problems/h-index/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
