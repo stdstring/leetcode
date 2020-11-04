@@ -155,6 +155,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
