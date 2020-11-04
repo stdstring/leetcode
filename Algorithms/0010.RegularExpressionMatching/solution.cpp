@@ -9,16 +9,16 @@ namespace
 class State
 {
 public:
-    State(int patternStart, int matchStart, int matchSize) :
+    State(size_t patternStart, size_t matchStart, size_t matchSize) :
         patternStart(patternStart),
         matchStart(matchStart),
         matchSize(matchSize)
     {
     }
 
-    int patternStart;
-    int matchStart;
-    int matchSize;
+    size_t patternStart;
+    size_t matchStart;
+    size_t matchSize;
 };
 
 enum Action { NEXT, REVERT };

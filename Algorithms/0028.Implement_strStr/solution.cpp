@@ -26,7 +26,7 @@ public:
                 }
             }
             if (isMatch)
-                return i;
+                return static_cast<int>(i);
         }
         return -1;
     }

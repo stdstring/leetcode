@@ -24,7 +24,7 @@ public:
         {
             const size_t middle = (left + right) / 2;
             if (nums[middle] == target)
-                return middle;
+                return static_cast<int>(middle);
             if (nums[left] < target && nums[middle] > target)
                 right = middle;
             else if (nums[middle] < target && nums[right] > target)
@@ -34,7 +34,7 @@ public:
             else
                 left = middle;
         }
-        return  nums[right] == target ? static_cast<int>(right) : -1;
+        return nums[right] == target ? static_cast<int>(right) : -1;
     }
 };
 

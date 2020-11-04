@@ -42,7 +42,7 @@ private:
     {
         for(long long number = prime * prime; number < n; number += 2 * prime)
         {
-            sieve[calcIndex(number)] = 0;
+            sieve[calcIndex(static_cast<int>(number))] = 0;
         }
     }
 };

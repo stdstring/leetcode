@@ -12,21 +12,21 @@ public:
     std::vector<int> twoSum(std::vector<int> const &nums, int target) const
     {
         // create and sort vector of indices
-        std::vector<int> indices;
+        std::vector<size_t> indices;
         indices.reserve(nums.size());
-        for (int index = 0; index < nums.size(); ++index)
+        for (size_t index = 0; index < nums.size(); ++index)
         {
             indices.push_back(index);
         }
-        std::sort(indices.begin(), indices.end(), [&nums](int left, int right){ return nums[left] < nums[right]; });
+        std::sort(indices.begin(), indices.end(), [&nums](size_t left, size_t right){ return nums[left] < nums[right]; });
         // use two pointer approach
-        int left = 0;
-        int right = indices.size() - 1;
+        size_t left = 0;
+        size_t right = indices.size() - 1;
         while (left != right)
         {
             const int value = nums[indices[left]] + nums[indices[right]];
             if (value == target)
-                return {indices[left], indices[right]};
+                return {static_cast<int>(indices[left]), static_cast<int>(indices[right])};
             if (value < target)
                 ++left;
             else if (value > target)

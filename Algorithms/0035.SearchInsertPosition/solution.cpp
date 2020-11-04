@@ -15,22 +15,22 @@ public:
         if (target <= nums[0])
             return 0;
         if (target == nums.back())
-            return nums.size() - 1;
+            return static_cast<int>(nums.size() - 1);
         if (target > nums.back())
-            return nums.size();
-        int left = 0;
-        int right = nums.size() - 1;
+            return static_cast<int>(nums.size());
+        size_t left = 0;
+        size_t right = nums.size() - 1;
         while (right - left > 1)
         {
-            const int middle = (right + left) / 2;
+            const size_t middle = (right + left) / 2;
             if (nums[middle] == target)
-                return middle;
-            else if (nums[middle] < target)
+                return static_cast<int>(middle);
+            if (nums[middle] < target)
                 left = middle;
             else if (nums[middle] > target)
                 right = middle;
         }
-        return right;
+        return static_cast<int>(right);
     }
 };
 

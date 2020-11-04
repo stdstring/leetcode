@@ -11,8 +11,8 @@ public:
     int hIndex(std::vector<int> const &citations) const
     {
         // calc data
-        std::vector<size_t> citationsCountData(citations.size(), 0);
-        size_t bigCitationsCount = 0;
+        std::vector<int> citationsCountData(citations.size(), 0);
+        int bigCitationsCount = 0;
         for (int citation : citations)
         {
             if (citation > static_cast<int>(citations.size()))
@@ -22,7 +22,7 @@ public:
         }
         // calc hIndex
         int citationsCount = bigCitationsCount;
-        int hIndex = citationsCountData.size();
+        int hIndex = static_cast<int>(citationsCountData.size());
         for (size_t index = citationsCountData.size(); index > 0; --index)
         {
             const int count = citationsCountData[index - 1];

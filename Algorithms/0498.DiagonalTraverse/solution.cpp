@@ -12,16 +12,16 @@ public:
     {
         if (matrix.empty())
             return {};
-        const int rowCount = matrix.size();
-        const int columnCount = matrix.front().size();
+        const size_t rowCount = matrix.size();
+        const size_t columnCount = matrix.front().size();
         std::vector<int> dest;
-        int rowLeftBottomStart = 0;
-        int columnLeftBottomStart = 0;
-        int rowTopRightStart = 0;
-        int columnTopRightStart = 0;
+        size_t rowLeftBottomStart = 0;
+        size_t columnLeftBottomStart = 0;
+        size_t rowTopRightStart = 0;
+        size_t columnTopRightStart = 0;
         int rowDelta = -1;
         int columnDelta = 1;
-        for (int index = 0; index < rowCount + columnCount - 1; ++index)
+        for (size_t index = 0; index < rowCount + columnCount - 1; ++index)
         {
             processDiagonal(matrix, index % 2 == 0 ? rowLeftBottomStart : rowTopRightStart, index % 2 == 0 ? columnLeftBottomStart : columnTopRightStart, rowDelta, columnDelta, dest);
             rowDelta = -rowDelta;
@@ -33,10 +33,10 @@ public:
     }
 
 private:
-    void processDiagonal(std::vector<std::vector<int>> const &matrix, int row, int column, int rowDelta, int columnDelta, std::vector<int> &dest) const
+    void processDiagonal(std::vector<std::vector<int>> const &matrix, size_t row, size_t column, int rowDelta, int columnDelta, std::vector<int> &dest) const
     {
-        const int rowCount = matrix.size();
-        const int columnCount = matrix.front().size();
+        const size_t rowCount = matrix.size();
+        const size_t columnCount = matrix.front().size();
         while (0 <= row && row < rowCount && 0 <= column && column < columnCount)
         {
             dest.push_back(matrix[row][column]);

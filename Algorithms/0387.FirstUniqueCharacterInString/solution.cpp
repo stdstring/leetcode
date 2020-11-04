@@ -18,7 +18,7 @@ public:
         {
             const size_t charIndex = s[index] - 'a';
             if (charPositions[charIndex] != -1)
-                charPositions[charIndex] = charPositions[charIndex] == 0 ? (index + 1) : -1;
+                charPositions[charIndex] = charPositions[charIndex] == 0 ? static_cast<int>(index + 1) : -1;
         }
         int uniqCharIndex = -1;
         for (size_t charIndex = 0; charIndex < alphabetSize; ++charIndex)

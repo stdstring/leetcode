@@ -35,16 +35,16 @@ private:
         {
             const size_t middle = (left + right) / 2;
             if (nums[middle] == target)
-                return middle;
+                return static_cast<int>(middle);
             if (nums[middle] < target)
                 left = middle;
             else
                 right = middle;
         }
         if (nums[left] == target)
-            return left;
+            return static_cast<int>(left);
         if (nums[right] == target)
-            return right;
+            return static_cast<int>(right);
         return -1;
     }
 

@@ -10,12 +10,12 @@ class Solution
 public:
     void rotate(std::vector<std::vector<int>> &matrix)
     {
-        const int n = matrix.size();
-        int minIndex = 0;
-        int maxIndex = n - 1;
+        const size_t n = matrix.size();
+        size_t minIndex = 0;
+        size_t maxIndex = n - 1;
         while (minIndex < maxIndex)
         {
-            for (int shift = 0; shift < maxIndex - minIndex; ++shift)
+            for (size_t shift = 0; shift < maxIndex - minIndex; ++shift)
             {
                 const int value1 = matrix[minIndex][minIndex + shift];
                 const int value2 = matrix[minIndex + shift][maxIndex];

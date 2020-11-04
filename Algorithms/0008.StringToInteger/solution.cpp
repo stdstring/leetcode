@@ -51,7 +51,7 @@ TEST(StringToIntegerTaskTests, Examples)
     ASSERT_EQ(-42, solution.myAtoi("   -42"));
     ASSERT_EQ(4193, solution.myAtoi("4193 with words"));
     ASSERT_EQ(0, solution.myAtoi("words and 987"));
-    ASSERT_EQ(-2147483648, solution.myAtoi("-91283472332"));
+    ASSERT_EQ(INT_MIN, solution.myAtoi("-91283472332"));
 }
 
 }

@@ -12,7 +12,7 @@ public:
     {
         std::string result(s);
         int forward = findVowelForward(result, 0);
-        int backward = findVowelBackward(result, result.size() - 1);
+        int backward = findVowelBackward(result, static_cast<int>(result.size() - 1));
         while (forward < backward)
         {
             std::swap(result[forward], result[backward]);
@@ -39,7 +39,7 @@ private:
 
     int findVowelForward(std::string const &source, int index) const
     {
-        while (index < source.size() && !isVowel(source[index]))
+        while (index < static_cast<int>(source.size()) && !isVowel(source[index]))
             ++index;
         return index;
     }

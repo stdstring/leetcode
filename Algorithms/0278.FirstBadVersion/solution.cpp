@@ -24,11 +24,11 @@ public:
     {
         if (isBadVersion(1))
             return 1;
-        long long left = 1;
-        long long right = n;
+        int left = 1;
+        int right = n;
         while (right - left > 1)
         {
-            const long long middle = (right  + left) / 2;
+            const int middle = static_cast<int>((0ll + right + left) / 2);
             if (isBadVersion(middle))
                 right = middle;
             else

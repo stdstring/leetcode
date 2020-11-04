@@ -41,7 +41,7 @@ public:
         }
         if (sum >= s)
             minLength = minLength == 0 ? right - left : std::min(right - left, minLength);
-        return minLength;
+        return static_cast<int>(minLength);
     }
 };
 

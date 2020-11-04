@@ -11,7 +11,7 @@ class Solution
 public:
     int missingNumber(std::vector<int> const &nums) const
     {
-        const int maxN = nums.size() + 1;
+        const int maxN = static_cast<int>(nums.size() + 1);
         const int actualSum = std::accumulate(nums.cbegin(), nums.cend(), 0);
         const int expectedSum = (0 + maxN - 1) * maxN / 2;
         return expectedSum - actualSum;

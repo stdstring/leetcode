@@ -12,15 +12,15 @@ public:
     {
         if (s.empty())
             return 0;
-        int backIndex = s.size() - 1;
+        size_t backIndex = s.size() - 1;
         // skip last spaces
         while ((backIndex >= 0) && (s[backIndex] == ' '))
             --backIndex;
         // find last word
-        int frontIndex = backIndex;
+        size_t frontIndex = backIndex;
         while ((frontIndex >= 0) && (s[frontIndex] != ' '))
             --frontIndex;
-        return backIndex - frontIndex;
+        return static_cast<int>(backIndex - frontIndex);
     }
 };
 

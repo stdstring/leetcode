@@ -20,7 +20,7 @@ public:
         for (size_t number = 1; number <= nums.size(); ++number)
         {
             if (nums[number - 1] > 0)
-                dest.push_back(number);
+                dest.push_back(static_cast<int>(number));
         }
         return dest;
     }

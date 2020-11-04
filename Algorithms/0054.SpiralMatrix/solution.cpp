@@ -12,8 +12,8 @@ public:
     {
         if (matrix.empty())
             return {};
-        const int m = matrix.size();
-        const int n = matrix[0].size();
+        const int m = static_cast<int>(matrix.size());
+        const int n = static_cast<int>(matrix[0].size());
         std::vector<int> dest;
         dest.reserve(m * n);
         int rowMin = 0;

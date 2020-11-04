@@ -21,7 +21,7 @@ public:
             return false;
         // search row
         bool searchRowResult;
-        int rowIndex;
+        size_t rowIndex;
         std::tie(searchRowResult, rowIndex) = searchRow(matrix, target);
         if (!searchRowResult)
             return false;

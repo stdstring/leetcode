@@ -32,12 +32,12 @@ public:
         for (int i = calcHighestSignificantBitNumber(ldividend); i >= 0; --i)
         {
             remainder <<= 1;
-            if ((ldividend & (1 << i)) > 0)
+            if ((ldividend & (1ll << i)) > 0)
                 remainder |= 1;
             if (remainder >= ldivisor)
             {
                 remainder -= ldivisor;
-                quotient |= (1 << i);
+                quotient |= (1ll << i);
             }
         }
         return static_cast<int>(negativeResult ? -quotient : quotient);
@@ -48,7 +48,7 @@ private:
     {
         for (long long number = 31; number >= 0; --number)
         {
-            if ((1 << number) <= n)
+            if ((1ll << number) <= n)
                 return static_cast<int>(number);
         }
         return 0;
@@ -71,10 +71,10 @@ TEST(DivideTwoIntegersTaskTests, FromWrongAnswers)
 {
     const Solution solution;
     ASSERT_EQ(-1, solution.divide(-1, 1));
-    ASSERT_EQ(std::numeric_limits<int>::max(), solution.divide(-2147483648, -1));
+    ASSERT_EQ(std::numeric_limits<int>::max(), solution.divide(INT_MIN, -1));
     ASSERT_EQ(2147483647, solution.divide(2147483647, 1));
-    ASSERT_EQ(715827882, solution.divide(-2147483648, -3));
-    ASSERT_EQ(-1073741824, solution.divide(-2147483648, 2));
+    ASSERT_EQ(715827882, solution.divide(INT_MIN, -3));
+    ASSERT_EQ(-1073741824, solution.divide(INT_MIN, 2));
 }
 
 }

@@ -22,7 +22,7 @@ public:
             // 2 step
             storage.push_back(storage[index]);
         }
-        return storage[n - 1];
+        return static_cast<int>(storage[n - 1]);
     }
 };
 

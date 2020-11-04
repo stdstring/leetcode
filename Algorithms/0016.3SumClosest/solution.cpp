@@ -41,7 +41,7 @@ public:
     }
 
 private:
-    int nextItemIndex(std::vector<int> const &source, size_t currentIndex) const
+    size_t nextItemIndex(std::vector<int> const &source, size_t currentIndex) const
     {
         const int currentValue = source[currentIndex];
         size_t nextIndex = currentIndex + 1;

@@ -20,11 +20,11 @@ public:
 private:
     void combineImpl(int n, int k, std::vector<std::vector<int>> &combinations, std::vector<int> &buffer) const
     {
-        if (buffer.size() == k)
+        const int size = static_cast<int>(buffer.size());
+        if (size == k)
             combinations.emplace_back(buffer);
         else
         {
-            int size = buffer.size();
             for (int number = size == 0 ? 1 : buffer.back() + 1; number <= (n - k + size + 1); ++number)
             {
                 buffer.push_back(number);
@@ -42,7 +42,7 @@ namespace CombinationsTask
 
 TEST(CombinationsTaskTests, Examples)
 {
-    Solution solution;
+    const Solution solution;
     ASSERT_EQ(std::vector<std::vector<int>>({{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}}), solution.combine(4, 2));
 }
 

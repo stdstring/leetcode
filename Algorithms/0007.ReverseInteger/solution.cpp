@@ -50,7 +50,7 @@ TEST(ReverseIntegerTaskTests, Examples)
 TEST(ReverseIntegerTaskTests, FromWrongAnswers)
 {
     const Solution solution;
-    ASSERT_EQ(0, solution.reverse(-2147483648));
+    ASSERT_EQ(0, solution.reverse(INT_MIN));
 }
 
 }

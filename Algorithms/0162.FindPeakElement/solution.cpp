@@ -17,7 +17,7 @@ public:
         for (size_t index = 1; index < nums.size() - 1; ++index)
         {
             if ((nums[index - 1] < nums[index]) && (nums[index + 1] < nums[index]))
-                return index;
+                return static_cast<int>(index);
         }
         return static_cast<int>(nums.size() - 1);
     }

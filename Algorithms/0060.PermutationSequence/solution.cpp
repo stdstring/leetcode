@@ -21,7 +21,7 @@ public:
         int lexNumber = k - 1;
         while (!alphabet.empty())
         {
-            lexNumberSup /= alphabet.size();
+            lexNumberSup /= static_cast<int>(alphabet.size());
             const int index = lexNumber / lexNumberSup;
             result.push_back(alphabet[index]);
             alphabet.erase(index, 1);

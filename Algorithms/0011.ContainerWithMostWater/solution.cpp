@@ -16,7 +16,7 @@ public:
         size_t right = height.size() - 1;
         while (left < right)
         {
-            int currentArea = (right - left) * std::min(height[right], height[left]);
+            int currentArea = static_cast<int>(right - left) * std::min(height[right], height[left]);
             maxArea = std::max(maxArea, currentArea);
             if (height[left] < height[right])
                 ++left;

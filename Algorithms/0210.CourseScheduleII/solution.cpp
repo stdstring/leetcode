@@ -33,7 +33,7 @@ public:
         for (size_t course = 0; course < courses.size(); ++course)
         {
             if (courses[course].prerequisitesCount == 0)
-                independentCourses.push(course);
+                independentCourses.push(static_cast<int>(course));
         }
         std::vector<int> topologicalSort;
         while (!independentCourses.empty())

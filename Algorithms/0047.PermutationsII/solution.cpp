@@ -25,12 +25,12 @@ public:
 private:
     void generate(std::vector<int> const &numbers, std::vector<bool> &usedNumbers, std::vector<int> &current, std::vector<std::vector<int>> &dest) const
     {
-        int lastUsedIndex = -1;
+        size_t lastUsedIndex = numbers.size();
         for (size_t index = 0; index < numbers.size(); ++index)
         {
             if (!usedNumbers[index])
             {
-                if (lastUsedIndex != -1 && numbers[lastUsedIndex] == numbers[index])
+                if (lastUsedIndex != numbers.size() && numbers[lastUsedIndex] == numbers[index])
                     continue;
                 lastUsedIndex = index;
                 current.push_back(numbers[index]);

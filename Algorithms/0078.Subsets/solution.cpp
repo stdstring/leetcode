@@ -10,23 +10,23 @@ class Solution
 public:
     std::vector<std::vector<int>> subsets(std::vector<int> const &nums) const
     {
-        const size_t subsetsCount = 1 << nums.size();
+        const unsigned int subsetsCount = 1u << nums.size();
         std::vector<std::vector<int>> subsets;
         subsets.reserve(subsetsCount);
         subsets.emplace_back();
-        for (size_t mask = 1; mask < subsetsCount; ++mask)
+        for (unsigned int mask = 1; mask < subsetsCount; ++mask)
             subsets.push_back(createSubsetByMask(nums, mask));
         return subsets;
     }
 
 private:
-    std::vector<int> createSubsetByMask(std::vector<int> const &nums, int mask) const
+    std::vector<int> createSubsetByMask(std::vector<int> const &nums, unsigned int mask) const
     {
         std::vector<int> subset;
         subset.reserve(nums.size());
         for (size_t index = 0; index < nums.size(); ++index)
         {
-            if ((mask & (1 << index)) > 0)
+            if ((mask & (1u << index)) > 0)
                 subset.push_back(nums[index]);
         }
         return subset;

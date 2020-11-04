@@ -21,7 +21,7 @@ public:
             sequenceCountData[sequence] += 1;
         }
         std::vector<std::string> dest;
-        for (size_t mask = 0; mask < maskSize; ++mask)
+        for (unsigned int mask = 0; mask < maskSize; ++mask)
         {
             if (sequenceCountData[mask] > 1)
                 dest.push_back(restoreSequence(mask));

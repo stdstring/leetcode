@@ -27,7 +27,7 @@ public:
             if (canFormTwoDigitsCode(s, index))
                 storage[index + 2] += storage[index];
         }
-        return storage[s.size()];
+        return static_cast<int>(storage[s.size()]);
     }
 
 private:
