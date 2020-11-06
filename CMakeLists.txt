@@ -199,6 +199,7 @@ add_subdirectory(Algorithms/0451.SortCharactersByFrequency bin/0451.SortCharacte
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
 add_subdirectory(Algorithms/0476.NumberComplement bin/0476.NumberComplement)
 add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatting)
+add_subdirectory(Algorithms/0485.MaxConsecutiveOnes bin/0485.MaxConsecutiveOnes)
 add_subdirectory(Algorithms/0492.ConstructTheRectangle bin/0492.ConstructTheRectangle)
 add_subdirectory(Algorithms/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/0500.KeyboardRow bin/0500.KeyboardRow)
