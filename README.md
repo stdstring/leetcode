@@ -187,6 +187,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 * [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
