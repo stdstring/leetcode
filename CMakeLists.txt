@@ -200,6 +200,7 @@ add_subdirectory(Algorithms/0449.SerializeAndDeserializeBST bin/0449.SerializeAn
 add_subdirectory(Algorithms/0451.SortCharactersByFrequency bin/0451.SortCharactersByFrequency)
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
+add_subdirectory(Algorithms/0475.Heaters bin/0475.Heaters)
 add_subdirectory(Algorithms/0476.NumberComplement bin/0476.NumberComplement)
 add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatting)
 add_subdirectory(Algorithms/0485.MaxConsecutiveOnes bin/0485.MaxConsecutiveOnes)
