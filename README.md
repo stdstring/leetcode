@@ -33,6 +33,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 * [38. Count and Say](https://leetcode.com/problems/count-and-say/description/)
 * [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 * [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 * [46. Permutations](https://leetcode.com/problems/permutations/description/)
