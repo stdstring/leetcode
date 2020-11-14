@@ -43,6 +43,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 * [51. N-Queens](https://leetcode.com/problems/n-queens/description/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 * [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
