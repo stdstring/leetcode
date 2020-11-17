@@ -166,6 +166,7 @@ add_subdirectory(Algorithms/0273.IntegerToEnglishWords bin/0273.IntegerToEnglish
 add_subdirectory(Algorithms/0274.HIndex bin/0274.HIndex)
 add_subdirectory(Algorithms/0275.HIndexII bin/0275.HIndexII)
 add_subdirectory(Algorithms/0278.FirstBadVersion bin/0278.FirstBadVersion)
+add_subdirectory(Algorithms/0279.PerfectSquares bin/0279.PerfectSquares)
 add_subdirectory(Algorithms/0283.MoveZeroes bin/0283.MoveZeroes)
 add_subdirectory(Algorithms/0289.GameOfLife bin/0289.GameOfLife)
 add_subdirectory(Algorithms/0290.WordPattern bin/0290.WordPattern)

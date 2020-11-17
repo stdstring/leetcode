@@ -155,6 +155,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
 * [275. H-Index II](https://leetcode.com/problems/h-index-ii/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
