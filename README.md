@@ -162,6 +162,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
+* [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
