@@ -175,6 +175,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+* [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 * [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
