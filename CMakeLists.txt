@@ -192,6 +192,7 @@ add_subdirectory(Algorithms/0388.LongestAbsoluteFilePath bin/0388.LongestAbsolut
 add_subdirectory(Algorithms/0389.FindDifference bin/0389.FindDifference)
 add_subdirectory(Algorithms/0392.IsSubsequence bin/0392.IsSubsequence)
 add_subdirectory(Algorithms/0393.UTF8Validation bin/0393.UTF8Validation)
+add_subdirectory(Algorithms/0396.RotateFunction bin/0396.RotateFunction)
 add_subdirectory(Algorithms/0397.IntegerReplacement bin/0397.IntegerReplacement)
 add_subdirectory(Algorithms/0404.SumOfLeftLeaves bin/0404.SumOfLeftLeaves)
 add_subdirectory(Algorithms/0405.ConvertNumberToHexadecimal bin/0405.ConvertNumberToHexadecimal)

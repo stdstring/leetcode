@@ -181,6 +181,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
+* [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
