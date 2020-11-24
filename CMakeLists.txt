@@ -187,6 +187,7 @@ add_subdirectory(Algorithms/0357.CountNumbersWithUniqueDigits bin/0357.CountNumb
 add_subdirectory(Algorithms/0367.ValidPerfectSquare bin/0367.ValidPerfectSquare)
 add_subdirectory(Algorithms/0374.GuessNumberHigherOrLower bin/0374.GuessNumberHigherOrLower)
 add_subdirectory(Algorithms/0383.RansomNote bin/0383.RansomNote)
+add_subdirectory(Algorithms/0384.ShuffleArray bin/0384.ShuffleArray)
 add_subdirectory(Algorithms/0387.FirstUniqueCharacterInString bin/0387.FirstUniqueCharacterInString)
 add_subdirectory(Algorithms/0388.LongestAbsoluteFilePath bin/0388.LongestAbsoluteFilePath)
 add_subdirectory(Algorithms/0389.FindDifference bin/0389.FindDifference)

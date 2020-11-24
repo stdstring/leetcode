@@ -17,7 +17,7 @@ public:
             ++usedLetters[isupper(ch) ? ch - 'A' : alphabetSize + ch - 'a'];
         size_t pairsCount = 0;
         bool hasUnpaired = false;
-        for (unsigned int usedLetter : usedLetters)
+        for (size_t usedLetter : usedLetters)
         {
             if (usedLetter > 0)
             {
