@@ -215,6 +215,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+* [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)
 * [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
