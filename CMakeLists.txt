@@ -233,6 +233,7 @@ add_subdirectory(Algorithms/0537.ComplexNumberMultiplication bin/0537.ComplexNum
 add_subdirectory(Algorithms/0539.MinimumTimeDifference bin/0539.MinimumTimeDifference)
 add_subdirectory(Algorithms/0540.SingleElementInSortedArray bin/0540.SingleElementInSortedArray)
 add_subdirectory(Algorithms/0541.ReverseStringII bin/0541.ReverseStringII)
+add_subdirectory(Algorithms/0547.FriendCircles bin/0547.FriendCircles)
 add_subdirectory(Algorithms/0551.StudentAttendanceRecordI bin/0551.StudentAttendanceRecordI)
 add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAttendanceRecordII)
 add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsInStringIII)

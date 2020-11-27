@@ -26,7 +26,7 @@ public:
                     waysCountData[sum + coin - 1] += waysCountData[sum - 1];
             }
         }
-        return waysCountData.back();
+        return static_cast<int>(waysCountData.back());
     }
 };
 
