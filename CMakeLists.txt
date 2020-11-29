@@ -239,6 +239,7 @@ add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAtten
 add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsInStringIII)
 add_subdirectory(Algorithms/0561.ArrayPartitionI bin/0561.ArrayPartitionI)
 add_subdirectory(Algorithms/0566.ReshapeMatrix bin/0566.ReshapeMatrix)
+add_subdirectory(Algorithms/0593.ValidSquare bin/0593.ValidSquare)
 add_subdirectory(Algorithms/0599.MinimumIndexSumOfTwoLists bin/0599.MinimumIndexSumOfTwoLists)
 add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
