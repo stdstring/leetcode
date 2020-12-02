@@ -42,7 +42,7 @@ using CommonLib::checkAndDeleteLinkedList;
 namespace OddEvenLinkedListTask
 {
 
-TEST(DeleteNodeInLinkedListTask, Examples)
+TEST(OddEvenLinkedListTaskTests, Examples)
 {
     Solution solution;
     checkAndDeleteLinkedList({1, 3, 5, 2, 4}, solution.oddEvenList(createLinkedList({1, 2, 3, 4, 5}, false).get()));
