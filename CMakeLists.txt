@@ -241,6 +241,7 @@ add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsIn
 add_subdirectory(Algorithms/0561.ArrayPartitionI bin/0561.ArrayPartitionI)
 add_subdirectory(Algorithms/0566.ReshapeMatrix bin/0566.ReshapeMatrix)
 add_subdirectory(Algorithms/0593.ValidSquare bin/0593.ValidSquare)
+add_subdirectory(Algorithms/0594.LongestHarmoniousSubsequence bin/0594.LongestHarmoniousSubsequence)
 add_subdirectory(Algorithms/0599.MinimumIndexSumOfTwoLists bin/0599.MinimumIndexSumOfTwoLists)
 add_subdirectory(Algorithms/0605.CanPlaceFlowers bin/0605.CanPlaceFlowers)
 add_subdirectory(Algorithms/0622.DesignCircularQueue bin/0622.DesignCircularQueue)

@@ -230,6 +230,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
+* [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
