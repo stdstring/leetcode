@@ -43,6 +43,7 @@ add_subdirectory(Algorithms/0034.FindFirstAndLastPositionOfElementInSortedArray 
 add_subdirectory(Algorithms/0035.SearchInsertPosition bin/0035.SearchInsertPosition)
 add_subdirectory(Algorithms/0036.ValidSudoku bin/0036.ValidSudoku)
 add_subdirectory(Algorithms/0038.CountAndSay bin/0038.CountAndSay)
+add_subdirectory(Algorithms/0039.CombinationSum bin/0039.CombinationSum)
 add_subdirectory(Algorithms/0041.FirstMissingPositive bin/0041.FirstMissingPositive)
 add_subdirectory(Algorithms/0042.TrappingRainWater bin/0042.TrappingRainWater)
 add_subdirectory(Algorithms/0043.MultiplyStrings bin/0043.MultiplyStrings)
