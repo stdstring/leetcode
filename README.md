@@ -154,6 +154,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/description/)
 * [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+* [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
 * [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 * [274. H-Index](https://leetcode.com/problems/h-index/description/)
