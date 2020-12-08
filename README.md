@@ -241,3 +241,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
+* [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
