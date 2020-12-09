@@ -75,6 +75,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/description/)
+* [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)
 * [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)

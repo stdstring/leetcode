@@ -86,6 +86,7 @@ add_subdirectory(Algorithms/0081.SearchInRotatedSortedArrayII bin/0081.SearchInR
 add_subdirectory(Algorithms/0082.RemoveDuplicatesFromSortedListII bin/0082.RemoveDuplicatesFromSortedListII)
 add_subdirectory(Algorithms/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList)
 add_subdirectory(Algorithms/0086.PartitionList bin/0086.PartitionList)
+add_subdirectory(Algorithms/0090.SubsetsII bin/0090.SubsetsII)
 add_subdirectory(Algorithms/0091.DecodeWays bin/0091.DecodeWays)
 add_subdirectory(Algorithms/0092.ReverseLinkedListII bin/0092.ReverseLinkedListII)
 add_subdirectory(Algorithms/0093.RestoreIPAddresses bin/0093.RestoreIPAddresses)
