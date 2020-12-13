@@ -5,9 +5,9 @@ project(CommonLib CXX)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(SOURCES ListNode.cpp ListNodeUtils.cpp TreeNode.cpp TreeNodeUtils.cpp)
+set(SOURCES ListNode.cpp ListNodeUtils.cpp TreeNode.cpp TreeNodeUtils.cpp Node.cpp NodeUtils.cpp)
 
-set(HEADERS ListNode.h ListNodeUtils.h TreeNode.h TreeNodeUtils.h)
+set(HEADERS ListNode.h ListNodeUtils.h TreeNode.h TreeNodeUtils.h Node.h NodeUtils.h)
 
 add_library(${PROJECT_NAME} ${SOURCES} ${HEADERS})
 
