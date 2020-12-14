@@ -27,7 +27,7 @@ std::shared_ptr<CommonLib::ListNode> CommonLib::createLinkedList(std::vector<int
     ListNode *current = nullptr;
     for (std::vector<int>::const_reverse_iterator it = source.crbegin(); it != source.crend(); ++it)
         current = new ListNode(*it, current);
-    return std::shared_ptr<ListNode>(current, withDeleter ? deleteLinkedList : [](ListNode* root) { /* do nothing */ });
+    return createLinkedListHolder<CommonLib::ListNode>(current, withDeleter);
 }
 
 std::vector<int> CommonLib::convertLinkedListToVector(ListNode* current)

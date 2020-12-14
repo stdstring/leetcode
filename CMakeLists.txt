@@ -119,6 +119,7 @@ add_subdirectory(Algorithms/0129.SumRootToLeafNumbers bin/0129.SumRootToLeafNumb
 add_subdirectory(Algorithms/0133.CloneGraph bin/0133.CloneGraph)
 add_subdirectory(Algorithms/0134.GasStation bin/0134.GasStation)
 add_subdirectory(Algorithms/0136.SingleNumber bin/0136.SingleNumber)
+add_subdirectory(Algorithms/0138.CopyListWithRandomPointer bin/0138.CopyListWithRandomPointer)
 add_subdirectory(Algorithms/0141.LinkedListCycle bin/0141.LinkedListCycle)
 add_subdirectory(Algorithms/0143.ReorderList bin/0143.ReorderList)
 add_subdirectory(Algorithms/0144.BinaryTreePreorderTraversal bin/0144.BinaryTreePreorderTraversal)
