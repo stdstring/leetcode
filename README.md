@@ -128,6 +128,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 * [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
