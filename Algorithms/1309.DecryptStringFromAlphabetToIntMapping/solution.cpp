@@ -36,10 +36,10 @@ private:
 
 }
 
-namespace DecryptStringFromAlphabetToIntegerMappingTask
+namespace DecryptStringFromAlphabetToIntMappingTask
 {
 
-TEST(DecryptStringFromAlphabetToIntegerMappingTaskTests, Examples)
+TEST(DecryptStringFromAlphabetToIntMappingTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ("jkab", solution.freqAlphabets("10#11#12"));

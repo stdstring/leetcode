@@ -52,10 +52,10 @@ private:
 using CommonLib::Codec;
 using CommonLib::createTreeHolder;
 
-namespace ConstructBinaryTreeFromInorderPostorderTraversalTask
+namespace ConstructBinTreeFromInorderPostorderTraversalTask
 {
 
-TEST(ConstructBinaryTreeFromPreorderInorderTraversalTaskTests, Examples)
+TEST(ConstructBinTreeFromPreorderInorderTraversalTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ("[3,9,20,null,null,15,7]", Codec::createData(createTreeHolder(solution.buildTree({9, 3, 15, 20, 7}, {9, 15, 7, 20, 3}))));
