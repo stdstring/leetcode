@@ -70,6 +70,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 * [77. Combinations](https://leetcode.com/problems/combinations/description/)
 * [78. Subsets](https://leetcode.com/problems/subsets/description/)
+* [79. Word Search](https://leetcode.com/problems/word-search/description/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 * [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
