@@ -127,6 +127,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 * [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+* [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)
 * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
