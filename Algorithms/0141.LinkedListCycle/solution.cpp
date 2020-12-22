@@ -30,24 +30,18 @@ public:
 
 }
 
+using CommonLib::createLinkedList;
+using CommonLib::createLinkedListWithCycle;
+
 namespace LinkedListCycleTask
 {
 
 TEST(ReorderListTaskTests, Examples)
 {
     const Solution solution;
-    const std::shared_ptr<ListNode> case1Node4 = std::make_shared<ListNode>(-4);
-    const std::shared_ptr<ListNode> case1Node3 = std::make_shared<ListNode>(0, case1Node4.get());
-    const std::shared_ptr<ListNode> case1Node2 = std::make_shared<ListNode>(2, case1Node3.get());
-    const std::shared_ptr<ListNode> case1Node1 = std::make_shared<ListNode>(3, case1Node2.get());
-    case1Node4->next = case1Node2.get();
-    ASSERT_EQ(true, solution.hasCycle(case1Node1.get()));
-    const std::shared_ptr<ListNode> case2Node2 = std::make_shared<ListNode>(2);
-    const std::shared_ptr<ListNode> case2Node1 = std::make_shared<ListNode>(1, case2Node2.get());
-    case2Node2->next = case2Node1.get();
-    ASSERT_EQ(true, solution.hasCycle(case2Node1.get()));
-    const std::shared_ptr<ListNode> case3Node1 = std::make_shared<ListNode>(1);
-    ASSERT_EQ(false, solution.hasCycle(case3Node1.get()));
+    ASSERT_TRUE(solution.hasCycle(createLinkedListWithCycle({3, 2, 0, -4}, 1).get()));
+    ASSERT_TRUE(solution.hasCycle(createLinkedListWithCycle({1, 2}, 0).get()));
+    ASSERT_FALSE(solution.hasCycle(createLinkedList({1}, true).get()));
 }
 
 }

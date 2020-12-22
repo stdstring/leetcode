@@ -112,6 +112,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 * [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
