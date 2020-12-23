@@ -264,6 +264,7 @@ add_subdirectory(Algorithms/0605.CanPlaceFlowers bin/0605.CanPlaceFlowers)
 add_subdirectory(Algorithms/0622.DesignCircularQueue bin/0622.DesignCircularQueue)
 add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
+add_subdirectory(Algorithms/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 
