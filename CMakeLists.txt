@@ -196,6 +196,7 @@ add_subdirectory(Algorithms/0303.RangeSumQueryImmutable bin/0303.RangeSumQueryIm
 add_subdirectory(Algorithms/0304.RangeSumQuery2DImmutable bin/0304.RangeSumQuery2DImmutable)
 add_subdirectory(Algorithms/0326.PowerOfThree bin/0326.PowerOfThree)
 add_subdirectory(Algorithms/0328.OddEvenLinkedList bin/0328.OddEvenLinkedList)
+add_subdirectory(Algorithms/0338.CountingBits bin/0338.CountingBits)
 add_subdirectory(Algorithms/0342.PowerOfFour bin/0342.PowerOfFour)
 add_subdirectory(Algorithms/0344.ReverseString bin/0344.ReverseString)
 add_subdirectory(Algorithms/0345.ReverseVowelsOfString bin/0345.ReverseVowelsOfString)
