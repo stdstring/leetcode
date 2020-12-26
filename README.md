@@ -201,6 +201,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
 * [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 * [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)
+* [394. Decode String](https://leetcode.com/problems/decode-string/description/)
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [400. Nth Digit](https://leetcode.com/problems/nth-digit/description/)
