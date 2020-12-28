@@ -250,6 +250,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
+* [591. Tag Validator](https://leetcode.com/problems/tag-validator/description/)
 * [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
 * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
