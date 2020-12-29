@@ -61,20 +61,16 @@ private:
         while (pos < code.size())
         {
             if (code[pos] != TagStart)
-            {
                 ++pos;
-                continue;
-            }
-            if (isCDataStart(code, pos))
+            else if (isCDataStart(code, pos))
             {
                 if (!checkCData(code, pos))
                     return false;
-                continue;
             }
-            if (isCloseTagStart(code, pos))
+            else if (isCloseTagStart(code, pos))
                 break;
             // process inner closed tag
-            if (!isValid(code, pos))
+            else if (!isValid(code, pos))
                 return false;
         }
         return true;
