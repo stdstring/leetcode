@@ -1,5 +1,4 @@
 #include <string>
-#include <tuple>
 
 #include "gtest/gtest.h"
 
@@ -16,60 +15,64 @@ class Solution
 public:
     int calculate(std::string const &source) const
     {
-        return static_cast<int>(std::get<0>(processExpression(source, 0)));
+        size_t pos = 0;
+        return static_cast<int>(processExpression(source, pos));
     }
 
 private:
-    std::tuple<long long, size_t> processExpression(std::string const &source, size_t pos) const
+    long long processExpression(std::string const &source, size_t &pos) const
     {
-        pos = skipWhitespaces(source, pos);
+        skipWhitespaces(source, pos);
         long long result = 0;
         bool hasValue = false;
         while (pos < source.size() && source[pos] != ')')
         {
             if (!hasValue)
             {
-                std::tie(result, pos) = source[pos] == '(' ? processExpression(source, pos + 1) : readNumber(source, pos);
+                result = source[pos] == '(' ? processExpression(source, ++pos) : readNumber(source, pos);
+                // for processing such cases: "(  3   )"
+                skipWhitespaces(source, pos);
                 hasValue = true;
                 continue;
             }
-            Operator op;
-            std::tie(op, pos) = readOp(source, pos++);
-            long long secondOperand;
-            std::tie(secondOperand, pos) = source[pos] == '(' ? processExpression(source, pos + 1) : readNumber(source, pos);
+            skipWhitespaces(source, pos);
+            // operator
+            const Operator op = readOp(source, pos);
+            skipWhitespaces(source, pos);
+            // right operand
+            const long long secondOperand = source[pos] == '(' ? processExpression(source, ++pos) : readNumber(source, pos);
             result = processOp(result, op, secondOperand);
+            skipWhitespaces(source, pos);
         }
-        return std::make_tuple(result, pos < source.size() ? skipWhitespaces(source, pos + 1) : pos);
+        if (pos < source.size() && source[pos] == ')')
+            ++pos;
+        return result;
     }
 
-    size_t skipWhitespaces(std::string const &source, size_t pos) const
+    void skipWhitespaces(std::string const &source, size_t &pos) const
     {
         while (pos < source.size() && source[pos] == ' ')
             ++pos;
-        return pos;
     }
 
-    std::tuple<long long, size_t> readNumber(std::string const &source, size_t pos) const
+    long long readNumber(std::string const &source, size_t &pos) const
     {
         long long result = 0;
         while (pos < source.size() && '0' <= source[pos] && source[pos] <= '9')
-        {
-            result = 10 * result + (source[pos] - '0');
-            ++pos;
-        }
-        return std::make_tuple(result, skipWhitespaces(source, pos));
+            result = 10 * result + (source[pos++] - '0');
+        return result;
     }
 
-    std::tuple<Operator, size_t> readOp(std::string const &source, size_t pos) const
+    Operator readOp(std::string const &source, size_t &pos) const
     {
-        switch (source[pos])
+        switch (source[pos++])
         {
-            case '+':
-                return std::make_tuple(Operator::ADD, skipWhitespaces(source, pos + 1));
-            case '-':
-                return std::make_tuple(Operator::SUB, skipWhitespaces(source, pos + 1));
-            default:
-                return std::make_tuple(Operator::NONE, pos + 1);
+        case '+':
+            return Operator::ADD;
+        case '-':
+            return Operator::SUB;
+        default:
+            return Operator::NONE;
         }
     }
 
