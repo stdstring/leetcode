@@ -183,6 +183,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
+* [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
