@@ -179,6 +179,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
+* [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 * [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
