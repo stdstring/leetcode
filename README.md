@@ -264,5 +264,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
+* [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
