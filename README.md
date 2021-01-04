@@ -161,6 +161,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)

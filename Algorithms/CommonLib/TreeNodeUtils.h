@@ -11,6 +11,7 @@ namespace CommonLib
 
 std::shared_ptr<TreeNode> createTreeHolder(TreeNode* root);
 void checkTreeNextLinks(std::vector<std::vector<int>> const &nextLinksLayers, TreeNode* root);
+TreeNode* findNodeByValue(TreeNode* root, int value);
 
 class Codec
 {

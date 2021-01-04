@@ -59,6 +59,18 @@ void CommonLib::checkTreeNextLinks(std::vector<std::vector<int>> const &nextLink
     }
 }
 
+CommonLib::TreeNode* CommonLib::findNodeByValue(CommonLib::TreeNode* root, int value)
+{
+    if (root == nullptr)
+        return nullptr;
+    if (root->val == value)
+        return root;
+    TreeNode* leftSearch = findNodeByValue(root->left, value);
+    if (leftSearch != nullptr)
+        return leftSearch;
+    return findNodeByValue(root->right, value);
+}
+
 // Encodes a tree to a single string.
 std::string CommonLib::Codec::serialize(std::shared_ptr<TreeNode> const &root) const
 {

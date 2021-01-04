@@ -26,6 +26,7 @@ public:
 }
 
 using CommonLib::Codec;
+using CommonLib::findNodeByValue;
 
 namespace LowestCommonAncestorOfBinarySearchTreeTask
 {
@@ -34,10 +35,10 @@ TEST(LowestCommonAncestorOfBinarySearchTreeTaskTests, Examples)
 {
     const Solution solution;
     const std::shared_ptr<TreeNode> tree1 = Codec::createTree("[6,2,8,0,4,7,9,null,null,3,5]");
-    ASSERT_EQ(6, solution.lowestCommonAncestor(tree1.get(), tree1.get()->left, tree1.get()->right)->val);
-    ASSERT_EQ(2, solution.lowestCommonAncestor(tree1.get(), tree1.get()->left, tree1.get()->left->right)->val);
+    ASSERT_EQ(6, solution.lowestCommonAncestor(tree1.get(), findNodeByValue(tree1.get(), 2), findNodeByValue(tree1.get(), 8))->val);
+    ASSERT_EQ(2, solution.lowestCommonAncestor(tree1.get(), findNodeByValue(tree1.get(), 2), findNodeByValue(tree1.get(), 4))->val);
     const std::shared_ptr<TreeNode> tree2 = Codec::createTree("[2,1]");
-    ASSERT_EQ(2, solution.lowestCommonAncestor(tree1.get(), tree2.get(), tree2.get()->left)->val);
+    ASSERT_EQ(2, solution.lowestCommonAncestor(tree1.get(), findNodeByValue(tree2.get(), 2), findNodeByValue(tree2.get(), 1))->val);
 }
 
 }

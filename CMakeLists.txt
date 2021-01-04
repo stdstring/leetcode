@@ -172,6 +172,7 @@ add_subdirectory(Algorithms/0232.ImplementQueueUsingStacks bin/0232.ImplementQue
 add_subdirectory(Algorithms/0233.NumberOfDigitOne bin/0233.NumberOfDigitOne)
 add_subdirectory(Algorithms/0234.PalindromeLinkedList bin/0234.PalindromeLinkedList)
 add_subdirectory(Algorithms/0235.LowestCommonAncestorOfBinarySearchTree bin/0235.LowestCommonAncestorOfBinarySearchTree)
+add_subdirectory(Algorithms/0236.LowestCommonAncestorOfBinaryTree bin/0236.LowestCommonAncestorOfBinaryTree)
 add_subdirectory(Algorithms/0237.DeleteNodeInLinkedList bin/0237.DeleteNodeInLinkedList)
 add_subdirectory(Algorithms/0239.SlidingWindowMaximum bin/0239.SlidingWindowMaximum)
 add_subdirectory(Algorithms/0242.ValidAnagram bin/0242.ValidAnagram)
