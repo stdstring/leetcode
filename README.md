@@ -175,6 +175,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [275. H-Index II](https://leetcode.com/problems/h-index-ii/description/)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 * [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+* [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
