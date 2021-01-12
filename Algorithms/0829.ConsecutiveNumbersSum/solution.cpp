@@ -27,7 +27,7 @@ public:
                 break;
             ++termCount;
         }
-        return caseCount;
+        return static_cast<int>(caseCount);
     }
 };
 
