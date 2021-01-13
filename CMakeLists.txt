@@ -147,6 +147,7 @@ add_subdirectory(Algorithms/0187.RepeatedDNASequences bin/0187.RepeatedDNASequen
 add_subdirectory(Algorithms/0190.ReverseBits bin/0190.ReverseBits)
 add_subdirectory(Algorithms/0191.NumberOf1Bits bin/0191.NumberOf1Bits)
 add_subdirectory(Algorithms/0198.HouseRobber bin/0198.HouseRobber)
+add_subdirectory(Algorithms/0199.BinaryTreeRightSideView bin/0199.BinaryTreeRightSideView)
 add_subdirectory(Algorithms/0200.NumberOfIslands bin/0200.NumberOfIslands)
 add_subdirectory(Algorithms/0201.BitwiseAndOfNumbersRange bin/0201.BitwiseAndOfNumbersRange)
 add_subdirectory(Algorithms/0202.HappyNumber bin/0202.HappyNumber)
