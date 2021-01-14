@@ -218,6 +218,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
 * [400. Nth Digit](https://leetcode.com/problems/nth-digit/description/)
+* [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
