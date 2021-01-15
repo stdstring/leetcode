@@ -136,6 +136,7 @@ add_subdirectory(Algorithms/0153.FindMinimumInRotatedSortedArray bin/0153.FindMi
 add_subdirectory(Algorithms/0155.MinStack bin/0155.MinStack)
 add_subdirectory(Algorithms/0162.FindPeakElement bin/0162.FindPeakElement)
 add_subdirectory(Algorithms/0165.CompareVersionNumbers bin/0165.CompareVersionNumbers)
+add_subdirectory(Algorithms/0166.FractionToRecurringDecimal bin/0166.FractionToRecurringDecimal)
 add_subdirectory(Algorithms/0167.TwoSumII bin/0167.TwoSumII)
 add_subdirectory(Algorithms/0168.ExcelSheetColumnTitle bin/0168.ExcelSheetColumnTitle)
 add_subdirectory(Algorithms/0169.MajorityElement bin/0169.MajorityElement)

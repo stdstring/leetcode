@@ -125,6 +125,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
+* [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
 * [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
