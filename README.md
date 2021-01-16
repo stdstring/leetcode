@@ -154,6 +154,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
+* [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
 * [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)
 * [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
