@@ -284,6 +284,7 @@ add_subdirectory(Algorithms/0594.LongestHarmoniousSubsequence bin/0594.LongestHa
 add_subdirectory(Algorithms/0599.MinimumIndexSumOfTwoLists bin/0599.MinimumIndexSumOfTwoLists)
 add_subdirectory(Algorithms/0605.CanPlaceFlowers bin/0605.CanPlaceFlowers)
 add_subdirectory(Algorithms/0622.DesignCircularQueue bin/0622.DesignCircularQueue)
+add_subdirectory(Algorithms/0645.SetMismatch bin/0645.SetMismatch)
 add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
 add_subdirectory(Algorithms/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
