@@ -280,5 +280,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
+* [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
