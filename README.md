@@ -272,6 +272,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+* [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
