@@ -195,6 +195,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 * [306. Additive Number](https://leetcode.com/problems/additive-number/description/)
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
+* [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
