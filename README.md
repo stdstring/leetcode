@@ -284,6 +284,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
+* [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
