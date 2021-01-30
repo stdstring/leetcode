@@ -246,6 +246,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
+* [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
