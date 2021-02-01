@@ -300,6 +300,7 @@ add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeStat
 add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbersSum)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
+add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 
