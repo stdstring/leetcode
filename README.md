@@ -245,6 +245,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
+* [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
 * [478. Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)

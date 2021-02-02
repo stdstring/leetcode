@@ -256,6 +256,7 @@ add_subdirectory(Algorithms/0451.SortCharactersByFrequency bin/0451.SortCharacte
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
 add_subdirectory(Algorithms/0468.ValidateIPAddress bin/0468.ValidateIPAddress)
+add_subdirectory(Algorithms/0474.OnesAndZeroes bin/0474.OnesAndZeroes)
 add_subdirectory(Algorithms/0475.Heaters bin/0475.Heaters)
 add_subdirectory(Algorithms/0476.NumberComplement bin/0476.NumberComplement)
 add_subdirectory(Algorithms/0478.GenerateRandomPointInCircle bin/0478.GenerateRandomPointInCircle)
