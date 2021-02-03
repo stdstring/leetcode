@@ -270,6 +270,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)
 * [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
 * [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/)
+* [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
