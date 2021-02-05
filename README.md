@@ -283,6 +283,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
+* [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)

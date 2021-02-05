@@ -103,7 +103,12 @@ std::string CommonLib::Codec::serialize(std::shared_ptr<TreeNode> const &root) c
 }
 
 // Decodes your encoded data to tree.
-std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::deserialize(std::string const &data) const
+std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::deserialize(std::string const& data) const
+{
+    return createTreeHolder(deserializeRaw(data));
+}
+
+CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const &data) const
 {
     //data[0] == '['
     //data[data.size() - 1] == ']'
@@ -141,12 +146,17 @@ std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::deserialize(std::string c
         }
         index = endIndex;
     }
-    return createTreeHolder(root);
+    return root;
 }
 
 std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::createTree(std::string const &data)
 {
     return Codec().deserialize(data);
+}
+
+CommonLib::TreeNode* CommonLib::Codec::createTreeRaw(std::string const& data)
+{
+    return Codec().deserializeRaw(data);
 }
 
 std::string CommonLib::Codec::createData(std::shared_ptr<TreeNode> const &root)
