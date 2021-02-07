@@ -284,6 +284,7 @@ add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAtten
 add_subdirectory(Algorithms/0554.BrickWall bin/0554.BrickWall)
 add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsInStringIII)
 add_subdirectory(Algorithms/0561.ArrayPartitionI bin/0561.ArrayPartitionI)
+add_subdirectory(Algorithms/0565.ArrayNesting bin/0565.ArrayNesting)
 add_subdirectory(Algorithms/0566.ReshapeMatrix bin/0566.ReshapeMatrix)
 add_subdirectory(Algorithms/0567.PermutationInString bin/0567.PermutationInString)
 add_subdirectory(Algorithms/0572.SubtreeOfAnotherTree bin/0572.SubtreeOfAnotherTree)

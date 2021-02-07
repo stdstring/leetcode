@@ -273,6 +273,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
+* [565. Array Nesting](https://leetcode.com/problems/array-nesting/description/)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 * [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
