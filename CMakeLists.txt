@@ -310,5 +310,6 @@ add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
+add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 
