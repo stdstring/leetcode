@@ -12,57 +12,92 @@ namespace
 class Solution
 {
 public:
-    bool isSolvable(std::vector<std::string> const &words, std::string const &result) const
+    bool isSolvable(std::vector<std::string> const& words, std::string const& result) const
     {
         size_t maxWordSize = 0;
-        for (std::string const &word : words)
+        for (std::string const& word : words)
             maxWordSize = std::max(maxWordSize, word.size());
         if ((result.size() < maxWordSize) || (result.size() - maxWordSize > 1))
             return false;
-        std::unordered_map<char, int> letterConstraints;
-        for (std::string const &word : words)
+        std::vector<std::string> destWords;
+        std::string destResult;
+        const int lettersCount = transformInput(words, result, destWords, destResult);
+        std::vector<int> letterConstraints(lettersCount, 0);
+        for (std::string const& destWord : destWords)
         {
-            for (char ch : word)
-                letterConstraints[ch] = 0b1111111111;
+            for (char ch : destWord)
+                letterConstraints[ch - FirstChar] = 0b1111111111;
         }
-        for (char ch : result)
-            letterConstraints[ch] = 0b1111111111;
-        for (std::string const &word : words)
+        for (char ch : destResult)
+            letterConstraints[ch - FirstChar] = 0b1111111111;
+        for (std::string const& destWord : destWords)
         {
-            if (word.size() > 1)
-                letterConstraints[word.front()] = 0b1111111110;
+            if (destWord.size() > 1)
+                letterConstraints[destWord.front() - FirstChar] = 0b1111111110;
         }
-        if (result.size() > 1)
-            letterConstraints[result.front()] = 0b1111111110;
-        return processDigitPos(words, result, letterConstraints, 0, 0, 0);
+        if (destResult.size() > 1)
+            letterConstraints[destResult.front() - FirstChar] = 0b1111111110;
+        return processDigitPos(destWords, destResult, letterConstraints, 0, 0, 0);
     }
 
 private:
-    bool canUseDigit(std::unordered_map<char, int> const &letterConstraints, char letter, int digit) const
+    constexpr static size_t FirstChar = 'A';
+
+    int transformInput(std::vector<std::string> const& sourceWords, std::string const& sourceResult, std::vector<std::string>& destWords, std::string& destResult) const
     {
-        return (letterConstraints.at(letter) & (1 << digit)) != 0;
+        std::unordered_map<char, char> letterMap;
+        char lettersCount = 0;
+        for (std::string const& sourceWord : sourceWords)
+        {
+            for (char ch : sourceWord)
+            {
+                if (letterMap.count(ch) == 0)
+                    letterMap[ch] = FirstChar + (lettersCount++);
+            }
+        }
+        for (char ch : sourceResult)
+        {
+            if (letterMap.count(ch) == 0)
+                letterMap[ch] = FirstChar + (lettersCount++);
+        }
+        for (std::string const& sourceWord : sourceWords)
+        {
+            destWords.emplace_back("");
+            for (char ch : sourceWord)
+                destWords.back().push_back(letterMap[ch]);
+        }
+        for (char ch : sourceResult)
+            destResult.push_back(letterMap[ch]);
+        return static_cast<int>(lettersCount);
     }
 
-    std::unordered_map<char, int> useDigit(std::unordered_map<char, int> letterConstraints, char letter, int digit) const
+    bool canUseDigit(std::vector<int> const &letterConstraints, char letter, int digit) const
     {
-        const int digitMask = 1 << digit;
-        for (auto &entry : letterConstraints)
-            entry.second = entry.first == letter ? digitMask : entry.second & (~digitMask);
+        const int mask = 1 << digit;
+        return (letterConstraints[letter - FirstChar] & mask) != 0;
+    }
+
+    std::vector<int> useDigit(std::vector<int> letterConstraints, char letter, int digit) const
+    {
+        const int mask = 1 << digit;
+        size_t letterIndex = letter - FirstChar;
+        for (size_t index = 0; index < letterConstraints.size(); ++index)
+            letterConstraints[index] = index == letterIndex ? mask : letterConstraints[index] & (~mask);
         return letterConstraints;
     }
 
-    bool checkConstraints(std::unordered_map<char, int> const &letterConstraints) const
+    bool checkConstraints(std::vector<int> const& letterConstraints) const
     {
         std::array<int, 10> usedDigits{};
         usedDigits.fill(0);
-        for (auto const &entry : letterConstraints)
+        for (int letterMask : letterConstraints)
         {
-            if (entry.second == 0)
+            if (letterMask == 0)
                 return false;
             for (int digit = 0; digit <= 9; ++digit)
             {
                 const int mask = 1 << digit;
-                if ((entry.second & mask) != 0)
+                if ((letterMask & mask) != 0)
                     usedDigits[digit] = 1;
             }
         }
@@ -75,7 +110,7 @@ private:
         return letterConstraints.size() <= (10ul - unusedCount);
     }
 
-    bool processDigitPos(std::vector<std::string> const &words, std::string const &result, std::unordered_map<char, int> const &letterConstraints, size_t digitPos, size_t row, int sum) const
+    bool processDigitPos(std::vector<std::string> const& words, std::string const& result, std::vector<int> const& letterConstraints, size_t digitPos, size_t row, int sum) const
     {
         if (!checkConstraints(letterConstraints))
             return false;
@@ -87,7 +122,7 @@ private:
             return !canUseDigit(letterConstraints, letter, sum % 10) ? false : processDigitPos(words, result, useDigit(letterConstraints, letter, sum % 10), digitPos + 1, 0, sum / 10);
         }
         if (digitPos >= words[row].size())
-            return processDigitPos(words, result, letterConstraints, digitPos, row + 1, sum);
+             return processDigitPos(words, result, letterConstraints, digitPos, row + 1, sum);
         for (int digit = 0; digit <= 9; ++digit)
         {
             const char letter = words[row][words[row].size() - 1 - digitPos];
