@@ -296,6 +296,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
+* [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
