@@ -80,40 +80,14 @@ private:
     std::vector<int> useDigit(std::vector<int> letterConstraints, char letter, int digit) const
     {
         const int mask = 1 << digit;
-        size_t letterIndex = letter - FirstChar;
+        const size_t letterIndex = letter - FirstChar;
         for (size_t index = 0; index < letterConstraints.size(); ++index)
             letterConstraints[index] = index == letterIndex ? mask : letterConstraints[index] & (~mask);
         return letterConstraints;
     }
 
-    bool checkConstraints(std::vector<int> const& letterConstraints) const
-    {
-        std::array<int, 10> usedDigits{};
-        usedDigits.fill(0);
-        for (int letterMask : letterConstraints)
-        {
-            if (letterMask == 0)
-                return false;
-            for (int digit = 0; digit <= 9; ++digit)
-            {
-                const int mask = 1 << digit;
-                if ((letterMask & mask) != 0)
-                    usedDigits[digit] = 1;
-            }
-        }
-        size_t unusedCount = 10;
-        for (int digit = 0; digit <= 9; ++digit)
-        {
-            if (usedDigits[digit] == 1)
-                --unusedCount;
-        }
-        return letterConstraints.size() <= (10ul - unusedCount);
-    }
-
     bool processDigitPos(std::vector<std::string> const& words, std::string const& result, std::vector<int> const& letterConstraints, size_t digitPos, size_t row, int sum) const
     {
-        if (!checkConstraints(letterConstraints))
-            return false;
         if (digitPos == result.size())
             return sum == 0;
         if (row == words.size())

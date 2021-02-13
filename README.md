@@ -298,6 +298,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
+* [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
