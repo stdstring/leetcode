@@ -12,7 +12,7 @@ namespace
 class Solution
 {
 public:
-    bool isSolvable(std::vector<std::string> const& words, std::string const& result) const
+    bool isSolvable(std::vector<std::string> const &words, std::string const &result) const
     {
         size_t maxWordSize = 0;
         for (std::string const& word : words)
@@ -43,7 +43,7 @@ public:
 private:
     constexpr static size_t FirstChar = 'A';
 
-    int transformInput(std::vector<std::string> const& sourceWords, std::string const& sourceResult, std::vector<std::string>& destWords, std::string& destResult) const
+    int transformInput(std::vector<std::string> const &sourceWords, std::string const &sourceResult, std::vector<std::string> &destWords, std::string &destResult) const
     {
         std::unordered_map<char, char> letterMap;
         char lettersCount = 0;
@@ -86,7 +86,7 @@ private:
         return letterConstraints;
     }
 
-    bool processDigitPos(std::vector<std::string> const& words, std::string const& result, std::vector<int> const& letterConstraints, size_t digitPos, size_t row, int sum) const
+    bool processDigitPos(std::vector<std::string> const &words, std::string const &result, std::vector<int> const &letterConstraints, size_t digitPos, size_t row, int sum) const
     {
         if (digitPos == result.size())
             return sum == 0;
