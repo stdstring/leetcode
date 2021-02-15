@@ -314,5 +314,6 @@ add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPerm
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
+add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 
