@@ -284,6 +284,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+* [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/)
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
