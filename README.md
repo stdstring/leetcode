@@ -290,6 +290,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 * [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
+* [640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
