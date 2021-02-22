@@ -288,6 +288,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
+* [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 * [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
 * [640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/)
