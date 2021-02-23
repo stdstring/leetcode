@@ -30,7 +30,7 @@ std::vector<CommonLib::Node*> createNodesList(CommonLib::Node* node)
     return nodesList;
 }
 
-void deleteTree(CommonLib::Node* node)
+void deleteGraph(CommonLib::Node* node)
 {
     if (node == nullptr)
         return;
@@ -43,7 +43,7 @@ void deleteTree(CommonLib::Node* node)
 
 std::shared_ptr<CommonLib::Node> CommonLib::createGraphHolder(CommonLib::Node* node)
 {
-    return std::shared_ptr<CommonLib::Node>(node, deleteTree);
+    return std::shared_ptr<CommonLib::Node>(node, deleteGraph);
 }
 
 std::shared_ptr<CommonLib::Node> CommonLib::createFromAdjacencyList(std::vector<std::vector<int>> const &adjacencyList)
@@ -56,7 +56,7 @@ std::shared_ptr<CommonLib::Node> CommonLib::createFromAdjacencyList(std::vector<
     for (size_t number = 1; number <= adjacencyList.size(); ++number)
     {
         for (int toLink : adjacencyList[number - 1])
-            nodesList[number - 1]->neighbors.push_back(nodesList[toLink - 1]);
+            nodesList[number - 1]->neighbors.push_back(nodesList[static_cast<size_t>(toLink) - 1]);
     }
     return createGraphHolder(nodesList.front());
 }
