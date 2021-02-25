@@ -313,6 +313,7 @@ add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpressio
 add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
+add_subdirectory(Algorithms/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbersSum)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
