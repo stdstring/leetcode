@@ -304,6 +304,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
+* [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
