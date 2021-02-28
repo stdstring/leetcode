@@ -20,6 +20,50 @@ public:
     Node* child;
 };
 
+}
+
+namespace
+{
+
+class Solution
+{
+public:
+    Node* flatten(Node* head)
+    {
+        flattenDescendants(head);
+        return head;
+    }
+
+private:
+    Node* flattenDescendants(Node* head)
+    {
+        Node* prev = nullptr;
+        Node* current = head;
+        while (current != nullptr)
+        {
+            current->prev = prev;
+            if (prev != nullptr)
+                prev->next = current;
+            prev = current;
+            Node* next = current->next;
+            if (current->child != nullptr)
+            {
+                prev = flattenDescendants(current->child);
+                current->next = current->child;
+                current->child->prev = current;
+                current->child = nullptr;
+            }
+            current = next;
+        }
+        return prev;
+    }
+};
+
+}
+
+namespace
+{
+
 void deleteStructure(Node* head)
 {
     while (head != nullptr)
@@ -169,45 +213,6 @@ std::string Codec::createData(Node* head)
 {
     return Codec().serialize(head);
 }
-
-}
-
-namespace
-{
-
-class Solution
-{
-public:
-    Node* flatten(Node* head)
-    {
-        flattenDescendants(head);
-        return head;
-    }
-
-private:
-    Node* flattenDescendants(Node* head)
-    {
-        Node* prev = nullptr;
-        Node* current = head;
-        while (current != nullptr)
-        {
-            current->prev = prev;
-            if (prev != nullptr)
-                prev->next = current;
-            prev = current;
-            Node* next = current->next;
-            if (current->child != nullptr)
-            {
-                prev = flattenDescendants(current->child);
-                current->next = current->child;
-                current->child->prev = current;
-                current->child = nullptr;
-            }
-            current = next;
-        }
-        return prev;
-    }
-};
 
 }
 
