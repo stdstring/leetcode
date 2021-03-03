@@ -255,6 +255,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
 * [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
+* [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
