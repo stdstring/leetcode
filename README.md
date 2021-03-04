@@ -258,6 +258,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
+* [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
 * [504. Base 7](https://leetcode.com/problems/base-7/description/)
 * [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 * [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
