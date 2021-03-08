@@ -333,6 +333,7 @@ add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
+add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 

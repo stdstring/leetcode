@@ -322,5 +322,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
+* [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
