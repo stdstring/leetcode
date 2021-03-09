@@ -331,6 +331,7 @@ add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPerm
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
+add_subdirectory(Algorithms/1541.MinimumInsertionsToBalanceParenthesesString bin/1541.MinimumInsertionsToBalanceParenthesesString)
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
