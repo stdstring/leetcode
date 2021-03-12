@@ -320,6 +320,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
+* [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 * [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
 * [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
