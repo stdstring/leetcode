@@ -329,3 +329,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
+* [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
