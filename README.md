@@ -331,3 +331,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
+* [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
