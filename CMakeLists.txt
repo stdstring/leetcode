@@ -341,6 +341,7 @@ add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.Maxi
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
+add_subdirectory(Algorithms/1779.FindNearestPointThatHasSameXOrYCoord bin/1779.FindNearestPointThatHasSameXOrYCoord)
 add_subdirectory(Algorithms/1784.CheckBinaryStringHasAtMostOneSegmentOnes bin/1784.CheckBinaryStringHasAtMostOneSegmentOnes)
 add_subdirectory(Algorithms/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 
