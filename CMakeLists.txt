@@ -325,6 +325,7 @@ add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbe
 add_subdirectory(Algorithms/0832.FlippingImage bin/0832.FlippingImage)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
+add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
 add_subdirectory(Algorithms/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)

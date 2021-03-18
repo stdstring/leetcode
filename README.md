@@ -314,6 +314,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
+* [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
