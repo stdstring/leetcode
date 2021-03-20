@@ -336,3 +336,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/)
 * [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
 * [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
+* [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
