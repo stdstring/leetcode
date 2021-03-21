@@ -302,6 +302,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+* [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
