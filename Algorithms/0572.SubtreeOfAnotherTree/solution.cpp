@@ -45,18 +45,18 @@ using CommonLib::Codec;
 namespace SubtreeOfAnotherTreeTask
 {
 
-    TEST(SubtreeOfAnotherTreeTaskTests, Examples)
-    {
-        const Solution solution;
-        ASSERT_EQ(true, solution.isSubtree(Codec::createTree("[3,4,5,1,2]").get(), Codec::createTree("[4,1,2]").get()));
-        ASSERT_EQ(false, solution.isSubtree(Codec::createTree("[3,4,5,1,2,null,null,null,null,0]").get(), Codec::createTree("[4,1,2]").get()));
-    }
+TEST(SubtreeOfAnotherTreeTaskTests, Examples)
+{
+    const Solution solution;
+    ASSERT_EQ(true, solution.isSubtree(Codec::createTree("[3,4,5,1,2]").get(), Codec::createTree("[4,1,2]").get()));
+    ASSERT_EQ(false, solution.isSubtree(Codec::createTree("[3,4,5,1,2,null,null,null,null,0]").get(), Codec::createTree("[4,1,2]").get()));
+}
 
-    TEST(SubtreeOfAnotherTreeTaskTests, FromWrongAnswers)
-    {
-        const Solution solution;
-        ASSERT_EQ(false, solution.isSubtree(Codec::createTree("[3,4,5,1,2]").get(), Codec::createTree("[4,1,2,1]").get()));
-        ASSERT_EQ(true, solution.isSubtree(Codec::createTree("[1,1]").get(), Codec::createTree("[1]").get()));
-    }
+TEST(SubtreeOfAnotherTreeTaskTests, FromWrongAnswers)
+{
+    const Solution solution;
+    ASSERT_EQ(false, solution.isSubtree(Codec::createTree("[3,4,5,1,2]").get(), Codec::createTree("[4,1,2,1]").get()));
+    ASSERT_EQ(true, solution.isSubtree(Codec::createTree("[1,1]").get(), Codec::createTree("[1]").get()));
+}
 
 }
