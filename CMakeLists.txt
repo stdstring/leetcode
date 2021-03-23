@@ -350,4 +350,5 @@ add_subdirectory(Algorithms/1779.FindNearestPointThatHasSameXOrYCoord bin/1779.F
 add_subdirectory(Algorithms/1784.CheckBinaryStringHasAtMostOneSegmentOnes bin/1784.CheckBinaryStringHasAtMostOneSegmentOnes)
 add_subdirectory(Algorithms/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
+add_subdirectory(Algorithms/1800.MaximumAscendingSubarraySum bin/1800.MaximumAscendingSubarraySum)
 
