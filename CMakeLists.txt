@@ -312,6 +312,7 @@ add_subdirectory(Algorithms/0636.ExclusiveTimeOfFunctions bin/0636.ExclusiveTime
 add_subdirectory(Algorithms/0640.SolveEquation bin/0640.SolveEquation)
 add_subdirectory(Algorithms/0641.DesignCircularDeque bin/0641.DesignCircularDeque)
 add_subdirectory(Algorithms/0645.SetMismatch bin/0645.SetMismatch)
+add_subdirectory(Algorithms/0646.MaximumLengthOfPairChain bin/0646.MaximumLengthOfPairChain)
 add_subdirectory(Algorithms/0654.MaximumBinaryTree bin/0654.MaximumBinaryTree)
 add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
 add_subdirectory(Algorithms/0695.MaxAreaOfIsland bin/0695.MaxAreaOfIsland)
