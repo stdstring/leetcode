@@ -108,6 +108,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
 * [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+* [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
 * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 * [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)

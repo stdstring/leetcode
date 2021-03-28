@@ -119,6 +119,7 @@ add_subdirectory(Algorithms/0121.BestTimeToBuyAndSellStock bin/0121.BestTimeToBu
 add_subdirectory(Algorithms/0125.ValidPalindrome bin/0125.ValidPalindrome)
 add_subdirectory(Algorithms/0129.SumRootToLeafNumbers bin/0129.SumRootToLeafNumbers)
 add_subdirectory(Algorithms/0130.SurroundedRegions bin/0130.SurroundedRegions)
+add_subdirectory(Algorithms/0131.PalindromePartitioning bin/0131.PalindromePartitioning)
 add_subdirectory(Algorithms/0133.CloneGraph bin/0133.CloneGraph)
 add_subdirectory(Algorithms/0134.GasStation bin/0134.GasStation)
 add_subdirectory(Algorithms/0136.SingleNumber bin/0136.SingleNumber)
