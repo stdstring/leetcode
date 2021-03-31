@@ -290,6 +290,7 @@ add_subdirectory(Algorithms/0538.ConvertBSTToGreaterTree bin/0538.ConvertBSTToGr
 add_subdirectory(Algorithms/0539.MinimumTimeDifference bin/0539.MinimumTimeDifference)
 add_subdirectory(Algorithms/0540.SingleElementInSortedArray bin/0540.SingleElementInSortedArray)
 add_subdirectory(Algorithms/0541.ReverseStringII bin/0541.ReverseStringII)
+add_subdirectory(Algorithms/0543.DiameterOfBinaryTree bin/0543.DiameterOfBinaryTree)
 add_subdirectory(Algorithms/0547.FriendCircles bin/0547.FriendCircles)
 add_subdirectory(Algorithms/0551.StudentAttendanceRecordI bin/0551.StudentAttendanceRecordI)
 add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAttendanceRecordII)
