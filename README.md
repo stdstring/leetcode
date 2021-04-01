@@ -247,6 +247,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 * [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
+* [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 * [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
