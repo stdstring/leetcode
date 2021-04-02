@@ -235,6 +235,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
+* [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
