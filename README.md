@@ -282,6 +282,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
 * [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 * [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/)
+* [542. 01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 * [547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)
 * [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
