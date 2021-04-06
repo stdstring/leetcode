@@ -27,6 +27,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
+* [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)

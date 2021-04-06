@@ -38,6 +38,7 @@ add_subdirectory(Algorithms/0026.RemoveDuplicatesFromSortedArray bin/0026.Remove
 add_subdirectory(Algorithms/0027.RemoveElement bin/0027.RemoveElement)
 add_subdirectory(Algorithms/0028.Implement_strStr bin/0028.Implement_strStr)
 add_subdirectory(Algorithms/0029.DivideTwoIntegers bin/0029.DivideTwoIntegers)
+add_subdirectory(Algorithms/0031.NextPermutation bin/0031.NextPermutation)
 add_subdirectory(Algorithms/0033.SearchInRotatedSortedArray bin/0033.SearchInRotatedSortedArray)
 add_subdirectory(Algorithms/0034.FindFirstLastElementPositionInSortedArray bin/0034.FindFirstLastElementPositionElementInSortedArray)
 add_subdirectory(Algorithms/0035.SearchInsertPosition bin/0035.SearchInsertPosition)
