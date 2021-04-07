@@ -318,6 +318,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
+* [722. Remove Comments](https://leetcode.com/problems/remove-comments/description/)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)

@@ -329,6 +329,7 @@ add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigi
 add_subdirectory(Algorithms/0695.MaxAreaOfIsland bin/0695.MaxAreaOfIsland)
 add_subdirectory(Algorithms/0707.DesignLinkedList bin/0707.DesignLinkedList)
 add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
+add_subdirectory(Algorithms/0722.RemoveComments bin/0722.RemoveComments)
 add_subdirectory(Algorithms/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
 add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpression)
 add_subdirectory(Algorithms/0783.MinimumDistanceBetweenBSTNodes bin/0783.MinimumDistanceBetweenBSTNodes)
