@@ -315,6 +315,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+* [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
