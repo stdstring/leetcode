@@ -318,6 +318,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+* [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
