@@ -327,6 +327,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
