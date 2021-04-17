@@ -255,6 +255,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
+* [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
 * [475. Heaters](https://leetcode.com/problems/heaters/description/)
 * [476. Number Complement](https://leetcode.com/problems/number-complement/description/)
