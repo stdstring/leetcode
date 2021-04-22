@@ -342,6 +342,7 @@ add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpressio
 add_subdirectory(Algorithms/0738.MonotoneIncreasingDigits bin/0738.MonotoneIncreasingDigits)
 add_subdirectory(Algorithms/0739.DailyTemperatures bin/0739.DailyTemperatures)
 add_subdirectory(Algorithms/0783.MinimumDistanceBetweenBSTNodes bin/0783.MinimumDistanceBetweenBSTNodes)
+add_subdirectory(Algorithms/0784.LetterCasePermutation bin/0784.LetterCasePermutation)
 add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
