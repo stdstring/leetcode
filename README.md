@@ -330,6 +330,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 * [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+* [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
