@@ -347,6 +347,7 @@ add_subdirectory(Algorithms/0783.MinimumDistanceBetweenBSTNodes bin/0783.Minimum
 add_subdirectory(Algorithms/0784.LetterCasePermutation bin/0784.LetterCasePermutation)
 add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/0796.RotateString bin/0796.RotateString)
+add_subdirectory(Algorithms/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)
 add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/0819.MostCommonWord bin/0819.MostCommonWord)
