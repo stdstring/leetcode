@@ -18,6 +18,7 @@ class Codec
 public:
     // Encodes a tree to a single string.
     std::string serialize(std::shared_ptr<TreeNode> const &root) const;
+    std::string serializeRaw(TreeNode* root) const;
     // Decodes your encoded data to tree.
     std::shared_ptr<TreeNode> deserialize(std::string const &data) const;
     TreeNode* deserializeRaw(std::string const& data) const;
@@ -25,6 +26,7 @@ public:
     static std::shared_ptr<TreeNode> createTree(std::string const &data);
     static TreeNode* createTreeRaw(std::string const& data);
     static std::string createData(std::shared_ptr<TreeNode> const &root);
+    static std::string createDataRaw(TreeNode* root);
 };
 
 }

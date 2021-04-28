@@ -74,11 +74,16 @@ CommonLib::TreeNode* CommonLib::findNodeByValue(CommonLib::TreeNode* root, int v
 // Encodes a tree to a single string.
 std::string CommonLib::Codec::serialize(std::shared_ptr<TreeNode> const &root) const
 {
+    return serializeRaw(root.get());
+}
+
+std::string CommonLib::Codec::serializeRaw(TreeNode* root) const
+{
     std::string dest;
     dest.push_back('[');
     std::deque<TreeNode*> processedNodes;
     if (root != nullptr)
-        processedNodes.push_back(root.get());
+        processedNodes.push_back(root);
     int lastNonNullIndex = root != nullptr ? 0 : -1;
     while (lastNonNullIndex >= 0)
     {
@@ -162,4 +167,9 @@ CommonLib::TreeNode* CommonLib::Codec::createTreeRaw(std::string const& data)
 std::string CommonLib::Codec::createData(std::shared_ptr<TreeNode> const &root)
 {
     return Codec().serialize(root);
+}
+
+std::string CommonLib::Codec::createDataRaw(TreeNode* root)
+{
+    return Codec().serializeRaw(root);
 }

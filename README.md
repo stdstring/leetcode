@@ -85,6 +85,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 * [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+* [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
