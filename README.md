@@ -347,6 +347,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+* [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
