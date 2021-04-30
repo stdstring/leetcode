@@ -342,6 +342,7 @@ add_subdirectory(Algorithms/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCha
 add_subdirectory(Algorithms/0722.RemoveComments bin/0722.RemoveComments)
 add_subdirectory(Algorithms/0725.SplitLinkedListInParts bin/0725.SplitLinkedListInParts)
 add_subdirectory(Algorithms/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
+add_subdirectory(Algorithms/0728.SelfDividingNumbers bin/0728.SelfDividingNumbers)
 add_subdirectory(Algorithms/0735.AsteroidCollision bin/0735.AsteroidCollision)
 add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpression)
 add_subdirectory(Algorithms/0738.MonotoneIncreasingDigits bin/0738.MonotoneIncreasingDigits)
