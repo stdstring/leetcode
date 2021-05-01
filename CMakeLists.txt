@@ -361,6 +361,7 @@ add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbe
 add_subdirectory(Algorithms/0832.FlippingImage bin/0832.FlippingImage)
 add_subdirectory(Algorithms/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
+add_subdirectory(Algorithms/0856.ScoreOfParentheses bin/0856.ScoreOfParentheses)
 add_subdirectory(Algorithms/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
