@@ -340,6 +340,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)
+* [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
