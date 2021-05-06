@@ -246,6 +246,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+* [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 * [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 * [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
 * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
