@@ -355,6 +355,7 @@ add_subdirectory(Algorithms/0784.LetterCasePermutation bin/0784.LetterCasePermut
 add_subdirectory(Algorithms/0785.IsGraphBipartite bin/0785.IsGraphBipartite)
 add_subdirectory(Algorithms/0790.DominoAndTrominoTiling bin/0790.DominoAndTrominoTiling)
 add_subdirectory(Algorithms/0791.CustomSortString bin/0791.CustomSortString)
+add_subdirectory(Algorithms/0792.NumberOfMatchingSubsequences bin/0792.NumberOfMatchingSubsequences)
 add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)
