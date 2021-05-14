@@ -387,6 +387,7 @@ add_subdirectory(Algorithms/1514.PathWithMaximumProbability bin/1514.PathWithMax
 add_subdirectory(Algorithms/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
 add_subdirectory(Algorithms/1525.NumberOfGoodWaysToSplitString bin/1525.NumberOfGoodWaysToSplitString)
 add_subdirectory(Algorithms/1528.ShuffleString bin/1528.ShuffleString)
+add_subdirectory(Algorithms/1534.CountGoodTriplets bin/1534.CountGoodTriplets)
 add_subdirectory(Algorithms/1541.MinimumInsertionsToBalanceParenthesesString bin/1541.MinimumInsertionsToBalanceParenthesesString)
 add_subdirectory(Algorithms/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)

@@ -376,6 +376,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 * [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/)
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
+* [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 * [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
 * [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
