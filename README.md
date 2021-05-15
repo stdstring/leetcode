@@ -358,6 +358,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+* [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
