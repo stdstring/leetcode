@@ -363,6 +363,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
+* [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
