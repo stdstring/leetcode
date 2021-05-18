@@ -365,6 +365,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
+* [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
