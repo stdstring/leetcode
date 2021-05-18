@@ -6,7 +6,7 @@ The **tilt** of a tree node is the **absolute difference** between the sum of al
 
 ##### Example 1:
 
-![Example1](images/tilt1.jpg)
+![Example1](images/example1.jpg)
 
 ```
 Input: root = [1,2,3]
@@ -19,7 +19,7 @@ Sum of every tilt : 0 + 0 + 1 = 1
 ```
 ##### Example 2:
 
-![Example2](images/tilt2.jpg)
+![Example2](images/example2.jpg)
 
 ```
 Input: root = [4,2,9,3,5,null,7]
@@ -35,7 +35,7 @@ Sum of every tilt : 0 + 0 + 0 + 2 + 7 + 6 = 15
 ```
 ##### Example 3:
 
-![Example3](images/tilt3.jpg)
+![Example3](images/example3.jpg)
 
 ```
 Input: root = [21,7,14,1,1,2,2,3,3]

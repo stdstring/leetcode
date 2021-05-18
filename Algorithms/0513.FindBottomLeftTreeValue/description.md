@@ -4,7 +4,7 @@ Given the ```root``` of a binary tree, return the leftmost value in the last row
 
 ##### Example 1:
 
-![Example 1](images/tree1.jpg)
+![Example 1](images/example1.jpg)
 
 ```
 Input: root = [2,1,3]
@@ -12,7 +12,7 @@ Output: 1
 ```
 ##### Example 2:
 
-![Example 2](images/tree2.jpg)
+![Example 2](images/example2.jpg)
 
 ```
 Input: root = [1,2,3,4,null,5,6,null,null,7]

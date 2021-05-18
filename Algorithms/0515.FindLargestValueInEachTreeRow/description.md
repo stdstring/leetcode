@@ -4,7 +4,7 @@ Given the ```root``` of a binary tree, return *an array of the largest value in 
 
 ##### Example 1:
 
-![Example1](images/largest_e1.jpg)
+![Example1](images/example1.jpg)
 
 ```
 Input: root = [1,3,2,5,3,null,9]
