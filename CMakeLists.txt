@@ -116,6 +116,7 @@ add_subdirectory(Algorithms/0111.MinimumDepthOfBinaryTree bin/0111.MinimumDepthO
 add_subdirectory(Algorithms/0112.PathSum bin/0112.PathSum)
 add_subdirectory(Algorithms/0113.PathSumII bin/0113.PathSumII)
 add_subdirectory(Algorithms/0114.FlattenBinaryTreeToLinkedList bin/0114.FlattenBinaryTreeToLinkedList)
+add_subdirectory(Algorithms/0115.DistinctSubsequences bin/0115.DistinctSubsequences)
 add_subdirectory(Algorithms/0116.PopulatingNextRightPointersInEachNode bin/0116.PopulatingNextRightPointersInEachNode)
 add_subdirectory(Algorithms/0117.PopulatingNextRightPointersInEachNodeII bin/0117.PopulatingNextRightPointersInEachNodeII)
 add_subdirectory(Algorithms/0118.PascalTriangle bin/0118.PascalTriangle)

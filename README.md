@@ -105,6 +105,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 * [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+* [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)
 * [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
