@@ -229,6 +229,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
 * [385. Mini Parser](https://leetcode.com/problems/mini-parser/description/)
+* [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 * [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)
 * [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
