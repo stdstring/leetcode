@@ -345,6 +345,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
+* [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)
 * [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 * [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
