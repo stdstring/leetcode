@@ -244,6 +244,7 @@ add_subdirectory(Algorithms/0386.LexicographicalNumbers bin/0386.Lexicographical
 add_subdirectory(Algorithms/0387.FirstUniqueCharacterInString bin/0387.FirstUniqueCharacterInString)
 add_subdirectory(Algorithms/0388.LongestAbsoluteFilePath bin/0388.LongestAbsoluteFilePath)
 add_subdirectory(Algorithms/0389.FindDifference bin/0389.FindDifference)
+add_subdirectory(Algorithms/0390.EliminationGame bin/0390.EliminationGame)
 add_subdirectory(Algorithms/0392.IsSubsequence bin/0392.IsSubsequence)
 add_subdirectory(Algorithms/0393.UTF8Validation bin/0393.UTF8Validation)
 add_subdirectory(Algorithms/0394.DecodeString bin/0394.DecodeString)
