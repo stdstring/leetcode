@@ -294,6 +294,7 @@ add_subdirectory(Algorithms/0503.NextGreaterElementII bin/0503.NextGreaterElemen
 add_subdirectory(Algorithms/0504.Base7 bin/0504.Base7)
 add_subdirectory(Algorithms/0506.RelativeRanks bin/0506.RelativeRanks)
 add_subdirectory(Algorithms/0507.PerfectNumber bin/0507.PerfectNumber)
+add_subdirectory(Algorithms/0508.MostFrequentSubtreeSum bin/0508.MostFrequentSubtreeSum)
 add_subdirectory(Algorithms/0509.FibonacciNumber bin/0509.FibonacciNumber)
 add_subdirectory(Algorithms/0513.FindBottomLeftTreeValue bin/0513.FindBottomLeftTreeValue)
 add_subdirectory(Algorithms/0515.FindLargestValueInEachTreeRow bin/0515.FindLargestValueInEachTreeRow)
