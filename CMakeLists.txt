@@ -315,6 +315,7 @@ add_subdirectory(Algorithms/0551.StudentAttendanceRecordI bin/0551.StudentAttend
 add_subdirectory(Algorithms/0552.StudentAttendanceRecordII bin/0552.StudentAttendanceRecordII)
 add_subdirectory(Algorithms/0553.OptimalDivision bin/0553.OptimalDivision)
 add_subdirectory(Algorithms/0554.BrickWall bin/0554.BrickWall)
+add_subdirectory(Algorithms/0556.NextGreaterElementIII bin/0556.NextGreaterElementIII)
 add_subdirectory(Algorithms/0557.ReverseWordsInStringIII bin/0557.ReverseWordsInStringIII)
 add_subdirectory(Algorithms/0561.ArrayPartitionI bin/0561.ArrayPartitionI)
 add_subdirectory(Algorithms/0563.BinaryTreeTilt bin/0563.BinaryTreeTilt)
