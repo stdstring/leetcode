@@ -14,6 +14,7 @@ public:
         const int columnMax = cols - 1;
         std::vector<std::vector<int>> coords;
         const size_t coordsCount = static_cast<size_t>(rows) * cols;
+        coords.reserve(coordsCount);
         int length = 1;
         coords.push_back({rStart, cStart});
         int currentRow = rStart;
