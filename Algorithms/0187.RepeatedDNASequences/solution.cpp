@@ -1,5 +1,5 @@
-#include <array>
 #include <string>
+#include <unordered_map>
 #include <vector>
 
 #include "gtest/gtest.h"
@@ -12,7 +12,7 @@ class Solution
 public:
     std::vector<std::string> findRepeatedDnaSequences(std::string const &s) const
     {
-        std::vector<unsigned int> sequenceCountData(maskSize, 0);
+        std::unordered_map<unsigned int, size_t> sequenceCountData;
         unsigned int sequence = generateInitSequence(s);
         sequenceCountData[sequence] = 1;
         for (size_t index = sequenceSize; index < s.size(); ++index)
@@ -21,10 +21,10 @@ public:
             sequenceCountData[sequence] += 1;
         }
         std::vector<std::string> dest;
-        for (unsigned int mask = 0; mask < maskSize; ++mask)
+        for (auto const &entry : sequenceCountData)
         {
-            if (sequenceCountData[mask] > 1)
-                dest.push_back(restoreSequence(mask));
+            if (entry.second > 1)
+                dest.push_back(restoreSequence(entry.first));
         }
         return dest;
     }
