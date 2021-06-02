@@ -5,6 +5,16 @@
 namespace
 {
 
+struct Item
+{
+    Item(int val, int minVal) : value(val), minValue(minVal)
+    {
+    }
+
+    int value;
+    int minValue;
+};
+
 class MinStack
 {
 public:
@@ -12,32 +22,27 @@ public:
 
     void push(int x)
     {
-        mElements.push(x);
-        if (mElementsMin.empty() || x < mElementsMin.top())
-            mElementsMin.push(x);
-        else
-            mElementsMin.push(mElementsMin.top());
+        int minValue = mData.empty() || x < mData.top().minValue ? x : mData.top().minValue;
+        mData.emplace(x, minValue);
     }
 
     void pop()
     {
-        mElements.pop();
-        mElementsMin.pop();
+        mData.pop();
     }
 
     int top()
     {
-        return mElements.top();
+        return mData.top().value;
     }
 
     int getMin()
     {
-        return mElementsMin.top();
+        return mData.top().minValue;
     }
 
 private:
-    std::stack<int> mElements;
-    std::stack<int> mElementsMin;
+    std::stack<Item> mData;
 };
 
 }
