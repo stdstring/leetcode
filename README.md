@@ -379,6 +379,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
+* [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
