@@ -29,7 +29,7 @@ public:
 private:
     void append(std::string &result, char ch, int &charRest, int otherRest) const
     {
-        const size_t count = (charRest > otherRest) && (charRest > 1) ? 2 : 1;
+        const int count = (charRest > otherRest) && (charRest > 1) ? 2 : 1;
         result.append(count, ch);
         charRest -= count;
     }
