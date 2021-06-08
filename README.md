@@ -382,6 +382,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
+* [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)

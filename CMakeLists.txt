@@ -393,6 +393,7 @@ add_subdirectory(Algorithms/0880.DecodedStringAtIndex bin/0880.DecodedStringAtIn
 add_subdirectory(Algorithms/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSequences)
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
+add_subdirectory(Algorithms/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
 add_subdirectory(Algorithms/0970.PowerfulIntegers bin/0970.PowerfulIntegers)
 add_subdirectory(Algorithms/0976.LargestPerimeterTriangle bin/0976.LargestPerimeterTriangle)
 add_subdirectory(Algorithms/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
