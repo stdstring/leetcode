@@ -349,6 +349,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+* [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)
 * [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
