@@ -347,6 +347,7 @@ add_subdirectory(Algorithms/0646.MaximumLengthOfPairChain bin/0646.MaximumLength
 add_subdirectory(Algorithms/0650.2KeysKeyboard bin/0650.2KeysKeyboard)
 add_subdirectory(Algorithms/0654.MaximumBinaryTree bin/0654.MaximumBinaryTree)
 add_subdirectory(Algorithms/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
+add_subdirectory(Algorithms/0674.LongestContinuousIncSubseq bin/0674.LongestContinuousIncSubseq)
 add_subdirectory(Algorithms/0680.ValidPalindromeII bin/0680.ValidPalindromeII)
 add_subdirectory(Algorithms/0695.MaxAreaOfIsland bin/0695.MaxAreaOfIsland)
 add_subdirectory(Algorithms/0707.DesignLinkedList bin/0707.DesignLinkedList)
