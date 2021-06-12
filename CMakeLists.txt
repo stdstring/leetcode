@@ -388,6 +388,7 @@ add_subdirectory(Algorithms/0833.FindAndReplaceInString bin/0833.FindAndReplaceI
 add_subdirectory(Algorithms/0838.PushDominoes bin/0838.PushDominoes)
 add_subdirectory(Algorithms/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
+add_subdirectory(Algorithms/0849.MaximizeDistanceToClosestPerson bin/0849.MaximizeDistanceToClosestPerson)
 add_subdirectory(Algorithms/0856.ScoreOfParentheses bin/0856.ScoreOfParentheses)
 add_subdirectory(Algorithms/0863.AllNodesDistanceKInBinaryTree bin/0863.AllNodesDistanceKInBinaryTree)
 add_subdirectory(Algorithms/0867.TransposeMatrix bin/0867.TransposeMatrix)
