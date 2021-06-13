@@ -380,6 +380,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+* [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
