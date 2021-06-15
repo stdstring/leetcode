@@ -408,6 +408,7 @@ add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.Smalles
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
 add_subdirectory(Algorithms/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
+add_subdirectory(Algorithms/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
