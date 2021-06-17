@@ -287,6 +287,7 @@ add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatt
 add_subdirectory(Algorithms/0485.MaxConsecutiveOnes bin/0485.MaxConsecutiveOnes)
 add_subdirectory(Algorithms/0492.ConstructTheRectangle bin/0492.ConstructTheRectangle)
 add_subdirectory(Algorithms/0494.TargetSum bin/0494.TargetSum)
+add_subdirectory(Algorithms/0495.TeemoAttacking bin/0495.TeemoAttacking)
 add_subdirectory(Algorithms/0496.NextGreaterElementI bin/0496.NextGreaterElementI)
 add_subdirectory(Algorithms/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/0500.KeyboardRow bin/0500.KeyboardRow)
