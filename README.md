@@ -373,6 +373,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
+* [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)

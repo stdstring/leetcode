@@ -384,6 +384,7 @@ add_subdirectory(Algorithms/0816.AmbiguousCoordinates bin/0816.AmbiguousCoordina
 add_subdirectory(Algorithms/0819.MostCommonWord bin/0819.MostCommonWord)
 add_subdirectory(Algorithms/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbersSum)
+add_subdirectory(Algorithms/0831.MaskingPersonalInformation bin/0831.MaskingPersonalInformation)
 add_subdirectory(Algorithms/0832.FlippingImage bin/0832.FlippingImage)
 add_subdirectory(Algorithms/0833.FindAndReplaceInString bin/0833.FindAndReplaceInString)
 add_subdirectory(Algorithms/0838.PushDominoes bin/0838.PushDominoes)
