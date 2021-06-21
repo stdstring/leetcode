@@ -401,6 +401,7 @@ add_subdirectory(Algorithms/0880.DecodedStringAtIndex bin/0880.DecodedStringAtIn
 add_subdirectory(Algorithms/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/0890.FindReplacePattern bin/0890.FindReplacePattern)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
+add_subdirectory(Algorithms/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSequences)
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
 add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfterNDays)

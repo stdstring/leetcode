@@ -390,6 +390,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/)
+* [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
