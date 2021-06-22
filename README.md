@@ -378,6 +378,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
+* [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
