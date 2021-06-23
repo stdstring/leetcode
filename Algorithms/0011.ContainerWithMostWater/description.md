@@ -6,7 +6,7 @@ Given ```n``` non-negative integers ```a1, a2, ..., an``` , where each represent
 
 ##### Example 1:
 
-![Example 1](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
+![Example 1](images/example1.jpg)
 
 ```
 Input: height = [1,8,6,2,5,4,8,3,7]
