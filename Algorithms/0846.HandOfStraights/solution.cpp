@@ -22,7 +22,7 @@ public:
             int prevCard = iterator->first;
             --iterator->second;
             iterator = checkMoveNext(cardMap, iterator);
-            for (size_t groupIndex = 1; groupIndex < groupSize; ++groupIndex)
+            for (size_t groupIndex = 1; groupIndex < static_cast<size_t>(groupSize); ++groupIndex)
             {
                 if (iterator == cardMap.end())
                     return false;
