@@ -415,6 +415,7 @@ add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAA
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
+add_subdirectory(Algorithms/1089.DuplicateZeros bin/1089.DuplicateZeros)
 add_subdirectory(Algorithms/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
 add_subdirectory(Algorithms/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
