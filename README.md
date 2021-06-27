@@ -398,6 +398,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
+* [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
