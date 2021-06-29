@@ -219,6 +219,7 @@ add_subdirectory(Algorithms/0303.RangeSumQueryImmutable bin/0303.RangeSumQueryIm
 add_subdirectory(Algorithms/0304.RangeSumQuery2DImmutable bin/0304.RangeSumQuery2DImmutable)
 add_subdirectory(Algorithms/0306.AdditiveNumber bin/0306.AdditiveNumber)
 add_subdirectory(Algorithms/0307.RangeSumQueryMutable bin/0307.RangeSumQueryMutable)
+add_subdirectory(Algorithms/0313.SuperUglyNumber bin/0313.SuperUglyNumber)
 add_subdirectory(Algorithms/0318.MaximumProductOfWordLengths bin/0318.MaximumProductOfWordLengths)
 add_subdirectory(Algorithms/0319.BulbSwitcher bin/0319.BulbSwitcher)
 add_subdirectory(Algorithms/0322.CoinChange bin/0322.CoinChange)
