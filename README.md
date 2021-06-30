@@ -215,6 +215,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 * [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
+* [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
 * [343. Integer Break](https://leetcode.com/problems/integer-break/description/)
