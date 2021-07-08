@@ -230,6 +230,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)
+* [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
