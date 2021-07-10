@@ -132,6 +132,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [148. Sort List](https://leetcode.com/problems/sort-list/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+* [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
