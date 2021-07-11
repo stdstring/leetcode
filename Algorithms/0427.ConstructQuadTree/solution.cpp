@@ -83,7 +83,7 @@ std::shared_ptr<Node> createQuadTreeHolder(Node* root)
     return std::shared_ptr<Node>(root, deleteQuadTree);
 }
 
-void appendNode(std::stringstream &stream, Node* node)
+void writeNode(std::stringstream &stream, Node* node)
 {
     if (stream.str().size() > 1)
         stream << ',';
@@ -120,7 +120,7 @@ std::string Codec::serializeRaw(Node* root) const
     while (lastNonNullIndex >= 0)
     {
         Node* current = processedNodes.front();
-        appendNode(dest, current);
+        writeNode(dest, current);
         processedNodes.pop_front();
         --lastNonNullIndex;
         if (current != nullptr)

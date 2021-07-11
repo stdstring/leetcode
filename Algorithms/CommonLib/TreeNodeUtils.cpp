@@ -1,5 +1,6 @@
 #include <deque>
 #include <memory>
+#include <sstream>
 #include <string>
 #include <vector>
 
@@ -18,6 +19,32 @@ void deleteTree(CommonLib::TreeNode* root)
     deleteTree(root->left);
     deleteTree(root->right);
     delete root;
+}
+
+void writeNode(std::stringstream& stream, CommonLib::TreeNode* node)
+{
+    if (stream.str().size() > 1)
+        stream << ',';
+    if (node == nullptr)
+        stream << "null";
+    else
+        stream << node->val;
+}
+
+CommonLib::TreeNode* readNode(std::stringstream& stream)
+{
+    constexpr char nullHead = 'n';
+    constexpr size_t nullTailSize = 3;
+    if (stream.get() == nullHead)
+    {
+        for (size_t index = 0; index < nullTailSize; ++index)
+            stream.get();
+        return nullptr;
+    }
+    stream.unget();
+    int value;
+    stream >> value;
+    return new CommonLib::TreeNode(value);
 }
 
 }
@@ -79,8 +106,8 @@ std::string CommonLib::Codec::serialize(std::shared_ptr<TreeNode> const &root) c
 
 std::string CommonLib::Codec::serializeRaw(TreeNode* root) const
 {
-    std::string dest;
-    dest.push_back('[');
+    std::stringstream dest;
+    dest  <<  '[';
     std::deque<TreeNode*> processedNodes;
     if (root != nullptr)
         processedNodes.push_back(root);
@@ -88,9 +115,7 @@ std::string CommonLib::Codec::serializeRaw(TreeNode* root) const
     while (lastNonNullIndex >= 0)
     {
         TreeNode* current = processedNodes.front();
-        if (dest.size() > 1)
-            dest.push_back(',');
-        dest.append(current == nullptr ? "null" : std::to_string(current->val));
+        writeNode(dest, current);
         processedNodes.pop_front();
         --lastNonNullIndex;
         if (current != nullptr)
@@ -103,8 +128,8 @@ std::string CommonLib::Codec::serializeRaw(TreeNode* root) const
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
         }
     }
-    dest.push_back(']');
-    return dest;
+    dest << ']';
+    return dest.str();
 }
 
 // Decodes your encoded data to tree.
@@ -113,24 +138,20 @@ std::shared_ptr<CommonLib::TreeNode> CommonLib::Codec::deserialize(std::string c
     return createTreeHolder(deserializeRaw(data));
 }
 
-CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const &data) const
+CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const& data) const
 {
-    //data[0] == '['
-    //data[data.size() - 1] == ']'
-    size_t index = 1;
+    constexpr size_t emptySize = 2;
+    if (data.size() == emptySize)
+        return nullptr;
+    std::stringstream source(data);
+    char delimiter;
+    source >> delimiter;
     std::deque<TreeNode*> processedNodes;
     TreeNode* root = nullptr;
     bool leftChild = true;
-    while (index < (data.size() - 1))
+    while (delimiter != ']')
     {
-        // process ',' char
-        if (root != nullptr)
-            ++index;
-        size_t endIndex = index + 1;
-        while (data[endIndex] != ',' && data[endIndex] != ']')
-            ++endIndex;
-        std::string part = data.substr(index, endIndex - index);
-        TreeNode* current = part == "null" ? nullptr : new TreeNode(std::stoi(part));
+        TreeNode* current = readNode(source);
         if (current != nullptr)
             processedNodes.push_back(current);
         if (root == nullptr)
@@ -149,7 +170,7 @@ CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const &data) c
                 leftChild = true;
             }
         }
-        index = endIndex;
+        source >> delimiter;
     }
     return root;
 }
