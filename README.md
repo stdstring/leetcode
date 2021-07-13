@@ -229,6 +229,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+* [372. Super Pow](https://leetcode.com/problems/super-pow/description/)
 * [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
 * [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)

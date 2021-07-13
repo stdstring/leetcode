@@ -240,6 +240,7 @@ add_subdirectory(Algorithms/0350.IntersectionOfTwoArraysII bin/0350.Intersection
 add_subdirectory(Algorithms/0357.CountNumbersWithUniqueDigits bin/0357.CountNumbersWithUniqueDigits)
 add_subdirectory(Algorithms/0367.ValidPerfectSquare bin/0367.ValidPerfectSquare)
 add_subdirectory(Algorithms/0371.SumOfTwoIntegers bin/0371.SumOfTwoIntegers)
+add_subdirectory(Algorithms/0372.SuperPow bin/0372.SuperPow)
 add_subdirectory(Algorithms/0373.FindKPairsWithSmallestSums bin/0373.FindKPairsWithSmallestSums)
 add_subdirectory(Algorithms/0374.GuessNumberHigherOrLower bin/0374.GuessNumberHigherOrLower)
 add_subdirectory(Algorithms/0376.WiggleSubsequence bin/0376.WiggleSubsequence)
