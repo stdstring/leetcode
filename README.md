@@ -423,6 +423,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
+* [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
