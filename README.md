@@ -303,6 +303,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+* [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
 * [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)
 * [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
 * [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)
