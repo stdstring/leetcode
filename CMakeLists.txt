@@ -315,6 +315,7 @@ add_subdirectory(Algorithms/0521.LongestUncommonSubsequenceI bin/0521.LongestUnc
 add_subdirectory(Algorithms/0529.Minesweeper bin/0529.Minesweeper)
 add_subdirectory(Algorithms/0530.MinimumAbsoluteDifferenceInBST bin/0530.MinimumAbsoluteDifferenceInBST)
 add_subdirectory(Algorithms/0532.KdiffPairsInArray bin/0532.KdiffPairsInArray)
+add_subdirectory(Algorithms/0535.EncodeDecodeTinyURL bin/0535.EncodeDecodeTinyURL)
 add_subdirectory(Algorithms/0537.ComplexNumberMultiplication bin/0537.ComplexNumberMultiplication)
 add_subdirectory(Algorithms/0538.ConvertBSTToGreaterTree bin/0538.ConvertBSTToGreaterTree)
 add_subdirectory(Algorithms/0539.MinimumTimeDifference bin/0539.MinimumTimeDifference)
