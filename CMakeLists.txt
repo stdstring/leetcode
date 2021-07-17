@@ -438,6 +438,7 @@ add_subdirectory(Algorithms/1019.NextGreaterNodeInLinkedList bin/1019.NextGreate
 add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
 add_subdirectory(Algorithms/1041.RobotBoundedInCircle bin/1041.RobotBoundedInCircle)
 add_subdirectory(Algorithms/1089.DuplicateZeros bin/1089.DuplicateZeros)
+add_subdirectory(Algorithms/1104.PathInZigzagLabelledBinaryTree bin/1104.PathInZigzagLabelledBinaryTree)
 add_subdirectory(Algorithms/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
 add_subdirectory(Algorithms/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)

@@ -427,6 +427,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
+* [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
