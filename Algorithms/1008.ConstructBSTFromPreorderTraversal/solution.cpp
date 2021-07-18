@@ -63,17 +63,19 @@ using CommonLib::createTreeHolder;
 
 namespace ConstructBSTFromPreorderTraversalTask
 {
-    TEST(ConstructBSTFromPreorderTraversalTaskTests, Examples)
-    {
-        const Solution solution;
-        ASSERT_EQ("[8,5,10,1,7,null,12]", Codec::createData(createTreeHolder(solution.bstFromPreorder({8, 5, 1, 7, 10, 12}))));
-        ASSERT_EQ("[1,null,3]", Codec::createData(createTreeHolder(solution.bstFromPreorder({1, 3}))));
-    }
 
-    TEST(ConstructBSTFromPreorderTraversalTaskTests, FromWrongAnswers)
-    {
-        const Solution solution;
-        ASSERT_EQ("[15,13,18,12]", Codec::createData(createTreeHolder(solution.bstFromPreorder({15, 13, 12, 18}))));
-        ASSERT_EQ("[3,2,8,null,null,4,19,null,null,15,null,13]", Codec::createData(createTreeHolder(solution.bstFromPreorder({3, 2, 8, 4, 19, 15, 13}))));
-    }
+TEST(ConstructBSTFromPreorderTraversalTaskTests, Examples)
+{
+    const Solution solution;
+    ASSERT_EQ("[8,5,10,1,7,null,12]", Codec::createData(createTreeHolder(solution.bstFromPreorder({8, 5, 1, 7, 10, 12}))));
+    ASSERT_EQ("[1,null,3]", Codec::createData(createTreeHolder(solution.bstFromPreorder({1, 3}))));
+}
+
+TEST(ConstructBSTFromPreorderTraversalTaskTests, FromWrongAnswers)
+{
+    const Solution solution;
+    ASSERT_EQ("[15,13,18,12]", Codec::createData(createTreeHolder(solution.bstFromPreorder({15, 13, 12, 18}))));
+    ASSERT_EQ("[3,2,8,null,null,4,19,null,null,15,null,13]", Codec::createData(createTreeHolder(solution.bstFromPreorder({3, 2, 8, 4, 19, 15, 13}))));
+}
+
 }
