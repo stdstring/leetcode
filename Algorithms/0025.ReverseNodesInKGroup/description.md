@@ -6,7 +6,7 @@ Given a linked list, reverse the nodes of a linked list *k* at a time and return
 
 ##### Example 1:
 
-![Example1](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex1.jpg)
+![Example1](images/example1.jpg)
 
 ```
 Input: head = [1,2,3,4,5], k = 2
@@ -15,7 +15,7 @@ Output: [2,1,4,3,5]
 
 ##### Example 2:
 
-![Example2](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex2.jpg)
+![Example2](images/example2.jpg)
 
 ```
 Input: head = [1,2,3,4,5], k = 3
