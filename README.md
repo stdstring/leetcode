@@ -353,6 +353,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
+* [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [722. Remove Comments](https://leetcode.com/problems/remove-comments/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
