@@ -450,6 +450,7 @@ add_subdirectory(Algorithms/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.D
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
+add_subdirectory(Algorithms/1416.RestoreTheArray bin/1416.RestoreTheArray)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/1514.PathWithMaximumProbability bin/1514.PathWithMaximumProbability)
 add_subdirectory(Algorithms/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
