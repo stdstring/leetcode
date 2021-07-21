@@ -427,6 +427,7 @@ add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfter
 add_subdirectory(Algorithms/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
 add_subdirectory(Algorithms/0966.VowelSpellchecker bin/0966.VowelSpellchecker)
 add_subdirectory(Algorithms/0970.PowerfulIntegers bin/0970.PowerfulIntegers)
+add_subdirectory(Algorithms/0972.EqualRationalNumbers bin/0972.EqualRationalNumbers)
 add_subdirectory(Algorithms/0976.LargestPerimeterTriangle bin/0976.LargestPerimeterTriangle)
 add_subdirectory(Algorithms/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
 add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAAorBBB)

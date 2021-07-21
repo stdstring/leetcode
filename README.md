@@ -416,6 +416,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
+* [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
