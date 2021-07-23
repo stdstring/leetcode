@@ -405,6 +405,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
+* [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
 * [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/)
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)

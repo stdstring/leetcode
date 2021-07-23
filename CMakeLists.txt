@@ -416,6 +416,7 @@ add_subdirectory(Algorithms/0880.DecodedStringAtIndex bin/0880.DecodedStringAtIn
 add_subdirectory(Algorithms/0881.BoatsToSavePeople bin/0881.BoatsToSavePeople)
 add_subdirectory(Algorithms/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/0890.FindReplacePattern bin/0890.FindReplacePattern)
+add_subdirectory(Algorithms/0892.SurfaceArea3DShapes bin/0892.SurfaceArea3DShapes)
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
