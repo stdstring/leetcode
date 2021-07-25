@@ -385,6 +385,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
 * [816. Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
+* [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/)
