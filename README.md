@@ -114,6 +114,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+* [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
