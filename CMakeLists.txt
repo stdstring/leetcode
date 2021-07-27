@@ -396,6 +396,7 @@ add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWo
 add_subdirectory(Algorithms/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/0809.ExpressiveWords bin/0809.ExpressiveWords)
 add_subdirectory(Algorithms/0814.BinaryTreePruning bin/0814.BinaryTreePruning)
+add_subdirectory(Algorithms/0815.BusRoutes bin/0815.BusRoutes)
 add_subdirectory(Algorithms/0816.AmbiguousCoordinates bin/0816.AmbiguousCoordinates)
 add_subdirectory(Algorithms/0819.MostCommonWord bin/0819.MostCommonWord)
 add_subdirectory(Algorithms/0821.ShortestDistanceToCharacter bin/0821.ShortestDistanceToCharacter)
