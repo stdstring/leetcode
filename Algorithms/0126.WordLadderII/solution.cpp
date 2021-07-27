@@ -8,16 +8,6 @@
 namespace
 {
 
-struct Node
-{
-    Node(size_t index) : Index(index)
-    {
-    }
-
-    size_t Index;
-    std::vector<size_t> Neighbors;
-};
-
 class Solution
 {
 public:
@@ -37,7 +27,7 @@ public:
             return {};
         if (beginWordPos == words.size())
             words.push_back(beginWord);
-        const std::vector<Node> graph(createGraph(words));
+        const std::vector<std::vector<size_t>> graph(createGraph(words));
         std::vector<size_t> minPath(calcMinPath(graph, beginWordPos));
         if (minPath[endWordPos] == NoPathValue)
             return {};
@@ -50,13 +40,12 @@ public:
 private:
     static constexpr size_t NoPathValue = INT_MAX;
 
-    std::vector<Node> createGraph(std::vector<std::string> const &wordList) const
+    std::vector<std::vector<size_t>> createGraph(std::vector<std::string> const &wordList) const
     {
-        std::vector<Node> nodes;
+        std::vector<std::vector<size_t>> nodes(wordList.size());
         std::unordered_map<std::string, std::vector<size_t>> connectedWordsMap;
         for (size_t index = 0; index < wordList.size(); ++index)
         {
-            nodes.emplace_back(index);
             std::string key(wordList[index]);
             for (size_t charIndex = 0; charIndex < key.size(); ++charIndex)
             {
@@ -72,43 +61,38 @@ private:
             {
                 for (size_t toIndex = fromIndex + 1; toIndex < entry.second.size(); ++toIndex)
                 {
-                    nodes[entry.second[fromIndex]].Neighbors.push_back(entry.second[toIndex]);
-                    nodes[entry.second[toIndex]].Neighbors.push_back(entry.second[fromIndex]);
+                    nodes[entry.second[fromIndex]].push_back(entry.second[toIndex]);
+                    nodes[entry.second[toIndex]].push_back(entry.second[fromIndex]);
                 }
             }
         }
         return nodes;
     }
 
-    std::vector<size_t> calcMinPath(std::vector<Node> const &nodes, size_t beginNodePos) const
+    std::vector<size_t> calcMinPath(std::vector<std::vector<size_t>> const &nodes, size_t beginNodePos) const
     {
-        // Dijkstra's algorithm
-        std::vector<int> processed(nodes.size(), 0);
-        std::vector<size_t> minPath(nodes.size(), NoPathValue);
-        minPath[beginNodePos] = 0;
-        auto cmp = [&minPath](Node const* left, Node const* right){ return minPath[left->Index] > minPath[right->Index]; };
-        std::priority_queue<Node const*, std::vector<Node const*>, decltype(cmp)> queue(cmp);
-        queue.push(&nodes[beginNodePos]);
+        // BFS
+        std::queue<size_t> queue;
+        std::vector<size_t> distances(nodes.size(), NoPathValue);
+        queue.push(beginNodePos);
+        distances[beginNodePos] = 0;
         while (!queue.empty())
         {
-            Node const* current = queue.top();
-            queue.pop();
-            if (processed[current->Index])
-                continue;
-            for (size_t neighbor : current->Neighbors)
+            for (size_t link : nodes[queue.front()])
             {
-                if (processed[neighbor])
-                    continue;
-                minPath[neighbor] = std::min(minPath[neighbor], minPath[current->Index] + 1);
-                queue.push(&nodes[neighbor]);
+                if (distances[link] == NoPathValue)
+                {
+                    distances[link] = distances[queue.front()] + 1;
+                    queue.push(link);
+                }
             }
-            processed[current->Index] = true;
+            queue.pop();
         }
-        return minPath;
+        return distances;
     }
 
     void createSequences(std::vector<std::string> const &wordList,
-                         std::vector<Node> const &graph,
+                         std::vector<std::vector<size_t>> const &graph,
                          std::vector<size_t> const &minPath,
                          std::vector<std::vector<std::string>> &dest,
                          std::vector<std::string> &sequence,
@@ -124,7 +108,7 @@ private:
         }
         else
         {
-            for (size_t neighbor : graph[current].Neighbors)
+            for (size_t neighbor : graph[current])
             {
                 if (minPath[neighbor] + 1 == currentPathValue)
                     createSequences(wordList, graph, minPath, dest, sequence, neighbor);
