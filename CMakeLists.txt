@@ -482,4 +482,5 @@ add_subdirectory(Algorithms/1784.CheckBinaryStringHasAtMostOneSegmentOnes bin/17
 add_subdirectory(Algorithms/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
 add_subdirectory(Algorithms/1800.MaximumAscendingSubarraySum bin/1800.MaximumAscendingSubarraySum)
+add_subdirectory(Algorithms/1807.EvaluateBracketPairsOfString bin/1807.EvaluateBracketPairsOfString)
 
