@@ -378,6 +378,7 @@ add_subdirectory(Algorithms/0738.MonotoneIncreasingDigits bin/0738.MonotoneIncre
 add_subdirectory(Algorithms/0739.DailyTemperatures bin/0739.DailyTemperatures)
 add_subdirectory(Algorithms/0744.FindSmallestLetterGreaterThanTarget bin/0744.FindSmallestLetterGreaterThanTarget)
 add_subdirectory(Algorithms/0747.LargestNumberAtLeastTwiceOthers bin/0747.LargestNumberAtLeastTwiceOthers)
+add_subdirectory(Algorithms/0752.OpenLock bin/0752.OpenLock)
 add_subdirectory(Algorithms/0763.PartitionLabels bin/0763.PartitionLabels)
 add_subdirectory(Algorithms/0766.ToeplitzMatrix bin/0766.ToeplitzMatrix)
 add_subdirectory(Algorithms/0768.MaxChunksToMakeSortedII bin/0768.MaxChunksToMakeSortedII)
