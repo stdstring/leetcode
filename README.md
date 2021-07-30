@@ -352,6 +352,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
+* [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
