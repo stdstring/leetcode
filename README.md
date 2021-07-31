@@ -358,6 +358,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
+* [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
 * [722. Remove Comments](https://leetcode.com/problems/remove-comments/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
