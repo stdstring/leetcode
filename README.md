@@ -451,6 +451,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
+* [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
