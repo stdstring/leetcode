@@ -4,7 +4,7 @@ Given ```n``` non-negative integers representing an elevation map where the widt
 
 ##### Example 1:
 
-![Example1](https://assets.leetcode.com/uploads/2018/10/22/rainwatertrap.png)
+![Example 1](images/example1.png)
 
 ```
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
