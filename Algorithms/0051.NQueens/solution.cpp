@@ -68,6 +68,7 @@ TEST(NQueensTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(std::vector<std::vector<std::string>>({{".Q..", "...Q", "Q...", "..Q."}, {"..Q.", "Q...", "...Q", ".Q.."}}), solution.solveNQueens(4));
+    ASSERT_EQ(std::vector<std::vector<std::string>>({{"Q"}}), solution.solveNQueens(1));
 }
 
 }
