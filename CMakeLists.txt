@@ -443,6 +443,7 @@ add_subdirectory(Algorithms/0972.EqualRationalNumbers bin/0972.EqualRationalNumb
 add_subdirectory(Algorithms/0976.LargestPerimeterTriangle bin/0976.LargestPerimeterTriangle)
 add_subdirectory(Algorithms/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
 add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAAorBBB)
+add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEvenNumbersAfterQueries)
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/1001.GridIllumination bin/1001.GridIllumination)
 add_subdirectory(Algorithms/1003.CheckIfWordValidAfterSubstitutions bin/1003.CheckIfWordValidAfterSubstitutions)

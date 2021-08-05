@@ -432,6 +432,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
+* [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)
 * [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/description/)
 * [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
