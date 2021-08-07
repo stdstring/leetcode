@@ -1,5 +1,5 @@
-#include <deque>
 #include <memory>
+#include <queue>
 #include <sstream>
 #include <string>
 #include <vector>
@@ -108,22 +108,22 @@ std::string CommonLib::Codec::serializeRaw(TreeNode* root) const
 {
     std::stringstream dest;
     dest  <<  '[';
-    std::deque<TreeNode*> processedNodes;
+    std::queue<TreeNode*> processedNodes;
     if (root != nullptr)
-        processedNodes.push_back(root);
+        processedNodes.push(root);
     int lastNonNullIndex = root != nullptr ? 0 : -1;
     while (lastNonNullIndex >= 0)
     {
         TreeNode* current = processedNodes.front();
         writeNode(dest, current);
-        processedNodes.pop_front();
+        processedNodes.pop();
         --lastNonNullIndex;
         if (current != nullptr)
         {
-            processedNodes.push_back(current->left);
+            processedNodes.push(current->left);
             if (current->left)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
-            processedNodes.push_back(current->right);
+            processedNodes.push(current->right);
             if (current->right)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
         }
@@ -146,14 +146,14 @@ CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const& data) c
     std::stringstream source(data);
     char delimiter;
     source >> delimiter;
-    std::deque<TreeNode*> processedNodes;
+    std::queue<TreeNode*> processedNodes;
     TreeNode* root = nullptr;
     bool leftChild = true;
     while (delimiter != ']')
     {
         TreeNode* current = readNode(source);
         if (current != nullptr)
-            processedNodes.push_back(current);
+            processedNodes.push(current);
         if (root == nullptr)
             root = current;
         else
@@ -166,7 +166,7 @@ CommonLib::TreeNode* CommonLib::Codec::deserializeRaw(std::string const& data) c
             else
             {
                 processedNodes.front()->right = current;
-                processedNodes.pop_front();
+                processedNodes.pop();
                 leftChild = true;
             }
         }
