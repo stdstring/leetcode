@@ -1,5 +1,5 @@
-#include <deque>
 #include <memory>
+#include <queue>
 #include <sstream>
 #include <vector>
 
@@ -98,13 +98,13 @@ class Codec
 {
 public:
     // Encodes a tree to a single string.
-    std::string serialize(std::shared_ptr<Node> const& root) const;
+    std::string serialize(std::shared_ptr<Node> const &root) const;
     std::string serializeRaw(Node* root) const;
 
-    static std::string createData(std::shared_ptr<Node> const& root);
+    static std::string createData(std::shared_ptr<Node> const &root);
 };
 
-std::string Codec::serialize(std::shared_ptr<Node> const& root) const
+std::string Codec::serialize(std::shared_ptr<Node> const &root) const
 {
     return serializeRaw(root.get());
 }
@@ -113,28 +113,28 @@ std::string Codec::serializeRaw(Node* root) const
 {
     std::stringstream dest;
     dest << '[';
-    std::deque<Node*> processedNodes;
+    std::queue<Node*> processedNodes;
     if (root != nullptr)
-        processedNodes.push_back(root);
+        processedNodes.push(root);
     int lastNonNullIndex = root != nullptr ? 0 : -1;
     while (lastNonNullIndex >= 0)
     {
         Node* current = processedNodes.front();
         writeNode(dest, current);
-        processedNodes.pop_front();
+        processedNodes.pop();
         --lastNonNullIndex;
         if (current != nullptr)
         {
-            processedNodes.push_back(current->topLeft);
+            processedNodes.push(current->topLeft);
             if (current->topLeft)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
-            processedNodes.push_back(current->topRight);
+            processedNodes.push(current->topRight);
             if (current->topRight)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
-            processedNodes.push_back(current->bottomLeft);
+            processedNodes.push(current->bottomLeft);
             if (current->bottomLeft)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
-            processedNodes.push_back(current->bottomRight);
+            processedNodes.push(current->bottomRight);
             if (current->bottomRight)
                 lastNonNullIndex = static_cast<int>(processedNodes.size()) - 1;
         }
@@ -143,7 +143,7 @@ std::string Codec::serializeRaw(Node* root) const
     return dest.str();
 }
 
-std::string Codec::createData(std::shared_ptr<Node> const& root)
+std::string Codec::createData(std::shared_ptr<Node> const &root)
 {
     return Codec().serialize(root);
 }
