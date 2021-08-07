@@ -262,6 +262,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 * [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
+* [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 * [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
