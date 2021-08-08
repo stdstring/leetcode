@@ -423,6 +423,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/)
 * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
+* [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
