@@ -430,6 +430,7 @@ add_subdirectory(Algorithms/0892.SurfaceArea3DShapes bin/0892.SurfaceArea3DShape
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
+add_subdirectory(Algorithms/0925.LongPressedName bin/0925.LongPressedName)
 add_subdirectory(Algorithms/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/0927.ThreeEqualParts bin/0927.ThreeEqualParts)
 add_subdirectory(Algorithms/0931.MinimumFallingPathSum bin/0931.MinimumFallingPathSum)
