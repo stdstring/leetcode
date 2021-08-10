@@ -388,6 +388,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [809. Expressive Words](https://leetcode.com/problems/expressive-words/description/)
+* [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/description/)
 * [816. Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/)
