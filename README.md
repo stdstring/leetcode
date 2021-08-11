@@ -430,6 +430,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+* [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)

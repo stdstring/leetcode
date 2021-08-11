@@ -441,6 +441,7 @@ add_subdirectory(Algorithms/0939.MinimumAreaRectangle bin/0939.MinimumAreaRectan
 add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSequences)
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
 add_subdirectory(Algorithms/0950.RevealCardsIncreasingOrder bin/0950.RevealCardsIncreasingOrder)
+add_subdirectory(Algorithms/0954.ArrayOfDoubledPairs bin/0954.ArrayOfDoubledPairs)
 add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfterNDays)
 add_subdirectory(Algorithms/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
 add_subdirectory(Algorithms/0966.VowelSpellchecker bin/0966.VowelSpellchecker)
