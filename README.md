@@ -461,6 +461,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
+* [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
