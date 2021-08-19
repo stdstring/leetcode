@@ -455,6 +455,7 @@ add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEven
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/0999.AvailableCapturesForRook bin/0999.AvailableCapturesForRook)
 add_subdirectory(Algorithms/1001.GridIllumination bin/1001.GridIllumination)
+add_subdirectory(Algorithms/1002.FindCommonCharacters bin/1002.FindCommonCharacters)
 add_subdirectory(Algorithms/1003.CheckIfWordValidAfterSubstitutions bin/1003.CheckIfWordValidAfterSubstitutions)
 add_subdirectory(Algorithms/1006.ClumsyFactorial bin/1006.ClumsyFactorial)
 add_subdirectory(Algorithms/1007.MinDominoRotationsForEqualRow bin/1007.MinDominoRotationsForEqualRow)

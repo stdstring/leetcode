@@ -444,6 +444,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)
 * [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
 * [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/description/)
+* [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
 * [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
 * [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/)
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)
