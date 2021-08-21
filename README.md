@@ -495,3 +495,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 * [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/)
 * [1807. Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/)
+* [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)

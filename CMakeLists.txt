@@ -506,4 +506,5 @@ add_subdirectory(Algorithms/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.Chec
 add_subdirectory(Algorithms/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
 add_subdirectory(Algorithms/1800.MaximumAscendingSubarraySum bin/1800.MaximumAscendingSubarraySum)
 add_subdirectory(Algorithms/1807.EvaluateBracketPairsOfString bin/1807.EvaluateBracketPairsOfString)
+add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
 
