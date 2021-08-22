@@ -385,6 +385,7 @@ add_subdirectory(Algorithms/0747.LargestNumberAtLeastTwiceOthers bin/0747.Larges
 add_subdirectory(Algorithms/0752.OpenLock bin/0752.OpenLock)
 add_subdirectory(Algorithms/0763.PartitionLabels bin/0763.PartitionLabels)
 add_subdirectory(Algorithms/0766.ToeplitzMatrix bin/0766.ToeplitzMatrix)
+add_subdirectory(Algorithms/0767.ReorganizeString bin/0767.ReorganizeString)
 add_subdirectory(Algorithms/0768.MaxChunksToMakeSortedII bin/0768.MaxChunksToMakeSortedII)
 add_subdirectory(Algorithms/0769.MaxChunksToMakeSorted bin/0769.MaxChunksToMakeSorted)
 add_subdirectory(Algorithms/0779.KthSymbolInGrammar bin/0779.KthSymbolInGrammar)

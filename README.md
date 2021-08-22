@@ -374,6 +374,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)
+* [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 * [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
