@@ -304,6 +304,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
+* [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
