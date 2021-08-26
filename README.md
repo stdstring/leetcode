@@ -418,6 +418,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
+* [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
 * [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
