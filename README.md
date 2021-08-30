@@ -473,6 +473,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
+* [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
