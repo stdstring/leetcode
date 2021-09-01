@@ -455,6 +455,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/)
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)
 * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+* [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
 * [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)

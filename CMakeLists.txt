@@ -466,6 +466,7 @@ add_subdirectory(Algorithms/1003.CheckIfWordValidAfterSubstitutions bin/1003.Che
 add_subdirectory(Algorithms/1006.ClumsyFactorial bin/1006.ClumsyFactorial)
 add_subdirectory(Algorithms/1007.MinDominoRotationsForEqualRow bin/1007.MinDominoRotationsForEqualRow)
 add_subdirectory(Algorithms/1008.ConstructBSTFromPreorderTraversal bin/1008.ConstructBSTFromPreorderTraversal)
+add_subdirectory(Algorithms/1017.ConvertToBaseNeg2 bin/1017.ConvertToBaseNeg2)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1019.NextGreaterNodeInLinkedList bin/1019.NextGreaterNodeInLinkedList)
 add_subdirectory(Algorithms/1028.RecoverTreeFromPreorderTraversal bin/1028.RecoverTreeFromPreorderTraversal)
