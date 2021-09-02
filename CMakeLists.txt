@@ -370,6 +370,7 @@ add_subdirectory(Algorithms/0674.LongestContinuousIncSubseq bin/0674.LongestCont
 add_subdirectory(Algorithms/0677.MapSumPairs bin/0677.MapSumPairs)
 add_subdirectory(Algorithms/0680.ValidPalindromeII bin/0680.ValidPalindromeII)
 add_subdirectory(Algorithms/0682.BaseballGame bin/0682.BaseballGame)
+add_subdirectory(Algorithms/0692.TopKFrequentWords bin/0692.TopKFrequentWords)
 add_subdirectory(Algorithms/0695.MaxAreaOfIsland bin/0695.MaxAreaOfIsland)
 add_subdirectory(Algorithms/0707.DesignLinkedList bin/0707.DesignLinkedList)
 add_subdirectory(Algorithms/0709.ToLowerCase bin/0709.ToLowerCase)
