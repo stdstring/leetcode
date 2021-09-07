@@ -495,6 +495,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
+* [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)

@@ -506,6 +506,7 @@ add_subdirectory(Algorithms/1545.FindKthBitInNthBinaryString bin/1545.FindKthBit
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
+add_subdirectory(Algorithms/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 add_subdirectory(Algorithms/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
