@@ -437,6 +437,7 @@ add_subdirectory(Algorithms/0883.ProjectionAreaOf3DShapes bin/0883.ProjectionAre
 add_subdirectory(Algorithms/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/0890.FindReplacePattern bin/0890.FindReplacePattern)
 add_subdirectory(Algorithms/0892.SurfaceArea3DShapes bin/0892.SurfaceArea3DShapes)
+add_subdirectory(Algorithms/0896.MonotonicArray bin/0896.MonotonicArray)
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
