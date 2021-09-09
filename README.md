@@ -221,6 +221,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
 * [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+* [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
 * [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
 * [343. Integer Break](https://leetcode.com/problems/integer-break/description/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
