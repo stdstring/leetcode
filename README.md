@@ -380,6 +380,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)
 * [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
+* [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/)
 * [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)
 * [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
