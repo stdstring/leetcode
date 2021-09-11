@@ -409,6 +409,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
+* [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
