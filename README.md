@@ -163,6 +163,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+* [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 * [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)
