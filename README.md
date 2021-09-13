@@ -474,6 +474,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
+* [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
