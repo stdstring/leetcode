@@ -344,6 +344,7 @@ add_subdirectory(Algorithms/0567.PermutationInString bin/0567.PermutationInStrin
 add_subdirectory(Algorithms/0572.SubtreeOfAnotherTree bin/0572.SubtreeOfAnotherTree)
 add_subdirectory(Algorithms/0576.OutOfBoundaryPaths bin/0576.OutOfBoundaryPaths)
 add_subdirectory(Algorithms/0581.ShortestUnsortedContinuousSubarray bin/0581.ShortestUnsortedContinuousSubarray)
+add_subdirectory(Algorithms/0583.DeleteOperationForTwoStrings bin/0583.DeleteOperationForTwoStrings)
 add_subdirectory(Algorithms/0591.TagValidator bin/0591.TagValidator)
 add_subdirectory(Algorithms/0592.FractionAdditionSubtraction bin/0592.FractionAdditionSubtraction)
 add_subdirectory(Algorithms/0593.ValidSquare bin/0593.ValidSquare)

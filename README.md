@@ -333,6 +333,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 * [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/)
 * [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
+* [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/)
 * [591. Tag Validator](https://leetcode.com/problems/tag-validator/description/)
 * [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
 * [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
