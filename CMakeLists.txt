@@ -531,4 +531,5 @@ add_subdirectory(Algorithms/1807.EvaluateBracketPairsOfString bin/1807.EvaluateB
 add_subdirectory(Algorithms/1814.CountNicePairsInArray bin/1814.CountNicePairsInArray)
 add_subdirectory(Algorithms/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
+add_subdirectory(Algorithms/2000.ReversePrefixOfWord bin/2000.ReversePrefixOfWord)
 

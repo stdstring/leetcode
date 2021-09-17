@@ -520,3 +520,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
+* [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
