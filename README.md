@@ -446,6 +446,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/)
 * [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
+* [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)

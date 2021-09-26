@@ -457,6 +457,7 @@ add_subdirectory(Algorithms/0931.MinimumFallingPathSum bin/0931.MinimumFallingPa
 add_subdirectory(Algorithms/0935.KnightDialer bin/0935.KnightDialer)
 add_subdirectory(Algorithms/0937.ReorderDataInLogFiles bin/0937.ReorderDataInLogFiles)
 add_subdirectory(Algorithms/0939.MinimumAreaRectangle bin/0939.MinimumAreaRectangle)
+add_subdirectory(Algorithms/0941.ValidMountainArray bin/0941.ValidMountainArray)
 add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSequences)
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
 add_subdirectory(Algorithms/0950.RevealCardsIncreasingOrder bin/0950.RevealCardsIncreasingOrder)
