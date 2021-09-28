@@ -454,6 +454,7 @@ add_subdirectory(Algorithms/0919.CompleteBinaryTreeInserter bin/0919.CompleteBin
 add_subdirectory(Algorithms/0925.LongPressedName bin/0925.LongPressedName)
 add_subdirectory(Algorithms/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/0927.ThreeEqualParts bin/0927.ThreeEqualParts)
+add_subdirectory(Algorithms/0929.UniqueEmailAddresses bin/0929.UniqueEmailAddresses)
 add_subdirectory(Algorithms/0931.MinimumFallingPathSum bin/0931.MinimumFallingPathSum)
 add_subdirectory(Algorithms/0935.KnightDialer bin/0935.KnightDialer)
 add_subdirectory(Algorithms/0937.ReorderDataInLogFiles bin/0937.ReorderDataInLogFiles)

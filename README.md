@@ -443,6 +443,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
 * [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/)
+* [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)
 * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/)
