@@ -148,6 +148,7 @@ add_subdirectory(Algorithms/0151.ReverseWordsInString bin/0151.ReverseWordsInStr
 add_subdirectory(Algorithms/0152.MaximumProductSubarray bin/0152.MaximumProductSubarray)
 add_subdirectory(Algorithms/0153.FindMinimumInRotatedSortedArray bin/0153.FindMinimumInRotatedSortedArray)
 add_subdirectory(Algorithms/0155.MinStack bin/0155.MinStack)
+add_subdirectory(Algorithms/0160.IntersectionOfTwoLinkedLists bin/0160.IntersectionOfTwoLinkedLists)
 add_subdirectory(Algorithms/0162.FindPeakElement bin/0162.FindPeakElement)
 add_subdirectory(Algorithms/0165.CompareVersionNumbers bin/0165.CompareVersionNumbers)
 add_subdirectory(Algorithms/0166.FractionToRecurringDecimal bin/0166.FractionToRecurringDecimal)

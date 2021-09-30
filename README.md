@@ -137,6 +137,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 * [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 * [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
 * [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
