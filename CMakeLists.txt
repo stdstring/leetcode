@@ -534,6 +534,7 @@ add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVow
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 add_subdirectory(Algorithms/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
+add_subdirectory(Algorithms/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
 add_subdirectory(Algorithms/1773.CountItemsMatchingRule bin/1773.CountItemsMatchingRule)
 add_subdirectory(Algorithms/1779.FindNearestPointThatHasSameXOrYCoord bin/1779.FindNearestPointThatHasSameXOrYCoord)
 add_subdirectory(Algorithms/1780.CheckIfNumberSumOfPowersOfThree bin/1780.CheckIfNumberSumOfPowersOfThree)
