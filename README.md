@@ -487,6 +487,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
+* [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
