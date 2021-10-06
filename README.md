@@ -482,6 +482,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
+* [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
 * [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
