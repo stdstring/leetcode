@@ -492,6 +492,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
+* [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)

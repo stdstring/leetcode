@@ -503,6 +503,7 @@ add_subdirectory(Algorithms/1137.NthTribonacciNumber bin/1137.NthTribonacciNumbe
 add_subdirectory(Algorithms/1138.AlphabetBoardPath bin/1138.AlphabetBoardPath)
 add_subdirectory(Algorithms/1143.LongestCommonSubsequence bin/1143.LongestCommonSubsequence)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
+add_subdirectory(Algorithms/1160.FindWordsThatCanBeFormedByChars bin/1160.FindWordsThatCanBeFormedByChars)
 add_subdirectory(Algorithms/1189.MaximumNumberOfBalloons bin/1189.MaximumNumberOfBalloons)
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
 add_subdirectory(Algorithms/1222.QueensThatCanAttackTheKing bin/1222.QueensThatCanAttackTheKing)
