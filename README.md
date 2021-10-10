@@ -499,6 +499,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
 * [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
+* [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)

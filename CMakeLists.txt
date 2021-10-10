@@ -510,6 +510,7 @@ add_subdirectory(Algorithms/1190.RevSubstrBetweenEachPairOfParentheses bin/1190.
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
 add_subdirectory(Algorithms/1222.QueensThatCanAttackTheKing bin/1222.QueensThatCanAttackTheKing)
 add_subdirectory(Algorithms/1239.MaxLengthOfConcatStrWithUniqChars bin/1239.MaxLengthOfConcatStrWithUniqChars)
+add_subdirectory(Algorithms/1249.MinRemoveToMakeValidParentheses bin/1249.MinRemoveToMakeValidParentheses)
 add_subdirectory(Algorithms/1260.Shift2DGrid bin/1260.Shift2DGrid)
 add_subdirectory(Algorithms/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
 add_subdirectory(Algorithms/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
