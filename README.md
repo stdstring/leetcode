@@ -391,6 +391,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
 * [768. Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 * [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
