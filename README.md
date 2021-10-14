@@ -514,6 +514,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
+* [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)

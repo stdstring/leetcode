@@ -525,6 +525,7 @@ add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.Max
 add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDaysBetweenTwoDates)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
+add_subdirectory(Algorithms/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/1416.RestoreTheArray bin/1416.RestoreTheArray)
 add_subdirectory(Algorithms/1448.CountGoodNodesInBinaryTree bin/1448.CountGoodNodesInBinaryTree)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
