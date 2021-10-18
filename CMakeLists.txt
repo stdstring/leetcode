@@ -484,6 +484,7 @@ add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAA
 add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEvenNumbersAfterQueries)
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/0989.AddToArrayFormOfInteger bin/0989.AddToArrayFormOfInteger)
+add_subdirectory(Algorithms/0993.CousinsInBinaryTree bin/0993.CousinsInBinaryTree)
 add_subdirectory(Algorithms/0999.AvailableCapturesForRook bin/0999.AvailableCapturesForRook)
 add_subdirectory(Algorithms/1001.GridIllumination bin/1001.GridIllumination)
 add_subdirectory(Algorithms/1002.FindCommonCharacters bin/1002.FindCommonCharacters)
