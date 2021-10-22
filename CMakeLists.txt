@@ -528,6 +528,7 @@ add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.
 add_subdirectory(Algorithms/1324.PrintWordsVertically bin/1324.PrintWordsVertically)
 add_subdirectory(Algorithms/1328.BreakPalindrome bin/1328.BreakPalindrome)
 add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.MaximumProductOfSplittedBinaryTree)
+add_subdirectory(Algorithms/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
 add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDaysBetweenTwoDates)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
