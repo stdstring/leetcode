@@ -43,10 +43,10 @@ public:
 
 }
 
-namespace MinimumInsertionsToBalanceParenthesesStringTask
+namespace MinInsertionsToBalanceParenthesesStrTask
 {
 
-TEST(MinimumInsertionsToBalanceParenthesesStringTaskTests, Examples)
+TEST(MinInsertionsToBalanceParenthesesStrTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(1, solution.minInsertions("(()))"));
