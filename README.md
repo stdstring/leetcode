@@ -524,6 +524,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+* [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
