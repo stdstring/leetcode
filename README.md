@@ -521,6 +521,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 * [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
+* [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)

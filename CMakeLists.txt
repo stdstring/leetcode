@@ -532,6 +532,7 @@ add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.Max
 add_subdirectory(Algorithms/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
 add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDaysBetweenTwoDates)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
+add_subdirectory(Algorithms/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/1416.RestoreTheArray bin/1416.RestoreTheArray)
