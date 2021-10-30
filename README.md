@@ -517,6 +517,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
+* [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
 * [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
