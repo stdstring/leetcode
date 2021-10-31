@@ -513,6 +513,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
 * [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
+* [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
