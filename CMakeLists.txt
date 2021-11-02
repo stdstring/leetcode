@@ -438,6 +438,7 @@ add_subdirectory(Algorithms/0834.SumOfDistancesInTree bin/0834.SumOfDistancesInT
 add_subdirectory(Algorithms/0838.PushDominoes bin/0838.PushDominoes)
 add_subdirectory(Algorithms/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
 add_subdirectory(Algorithms/0842.SplitArrayIntoFibonacciSequence bin/0842.SplitArrayIntoFibonacciSequence)
+add_subdirectory(Algorithms/0843.GuessWord bin/0843.GuessWord)
 add_subdirectory(Algorithms/0846.HandOfStraights bin/0846.HandOfStraights)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/0849.MaximizeDistanceToClosestPerson bin/0849.MaximizeDistanceToClosestPerson)
