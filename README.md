@@ -368,6 +368,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+* [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
