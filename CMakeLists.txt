@@ -506,6 +506,7 @@ add_subdirectory(Algorithms/1026.MaxDiffBetweenNodeAndAncestor bin/1026.MaxDiffB
 add_subdirectory(Algorithms/1028.RecoverTreeFromPreorderTraversal bin/1028.RecoverTreeFromPreorderTraversal)
 add_subdirectory(Algorithms/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
 add_subdirectory(Algorithms/1041.RobotBoundedInCircle bin/1041.RobotBoundedInCircle)
+add_subdirectory(Algorithms/1047.RemoveAllAdjacentDuplicatesInString bin/1047.RemoveAllAdjacentDuplicatesInString)
 add_subdirectory(Algorithms/1079.LetterTilePossibilities bin/1079.LetterTilePossibilities)
 add_subdirectory(Algorithms/1089.DuplicateZeros bin/1089.DuplicateZeros)
 add_subdirectory(Algorithms/1104.PathInZigzagLabelledBinaryTree bin/1104.PathInZigzagLabelledBinaryTree)
