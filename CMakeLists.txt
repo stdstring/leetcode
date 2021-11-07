@@ -134,6 +134,7 @@ add_subdirectory(Algorithms/0131.PalindromePartitioning bin/0131.PalindromeParti
 add_subdirectory(Algorithms/0133.CloneGraph bin/0133.CloneGraph)
 add_subdirectory(Algorithms/0134.GasStation bin/0134.GasStation)
 add_subdirectory(Algorithms/0136.SingleNumber bin/0136.SingleNumber)
+add_subdirectory(Algorithms/0137.SingleNumberII bin/0137.SingleNumberII)
 add_subdirectory(Algorithms/0138.CopyListWithRandomPointer bin/0138.CopyListWithRandomPointer)
 add_subdirectory(Algorithms/0141.LinkedListCycle bin/0141.LinkedListCycle)
 add_subdirectory(Algorithms/0142.LinkedListCycleII bin/0142.LinkedListCycleII)
