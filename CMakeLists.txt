@@ -403,6 +403,7 @@ add_subdirectory(Algorithms/0744.FindSmallestLetterGreaterThanTarget bin/0744.Fi
 add_subdirectory(Algorithms/0747.LargestNumberAtLeastTwiceOthers bin/0747.LargestNumberAtLeastTwiceOthers)
 add_subdirectory(Algorithms/0748.ShortestCompletingWord bin/0748.ShortestCompletingWord)
 add_subdirectory(Algorithms/0752.OpenLock bin/0752.OpenLock)
+add_subdirectory(Algorithms/0762.PrimeNumberOfSetBitsInBinRepr bin/0762.PrimeNumberOfSetBitsInBinRepr)
 add_subdirectory(Algorithms/0763.PartitionLabels bin/0763.PartitionLabels)
 add_subdirectory(Algorithms/0764.LargestPlusSign bin/0764.LargestPlusSign)
 add_subdirectory(Algorithms/0766.ToeplitzMatrix bin/0766.ToeplitzMatrix)
