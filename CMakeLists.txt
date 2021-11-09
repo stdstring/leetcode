@@ -555,6 +555,7 @@ add_subdirectory(Algorithms/1514.PathWithMaximumProbability bin/1514.PathWithMax
 add_subdirectory(Algorithms/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
 add_subdirectory(Algorithms/1525.NumberOfGoodWaysToSplitString bin/1525.NumberOfGoodWaysToSplitString)
 add_subdirectory(Algorithms/1528.ShuffleString bin/1528.ShuffleString)
+add_subdirectory(Algorithms/1529.BulbSwitcherIV bin/1529.BulbSwitcherIV)
 add_subdirectory(Algorithms/1534.CountGoodTriplets bin/1534.CountGoodTriplets)
 add_subdirectory(Algorithms/1535.FindWinnerOfArrayGame bin/1535.FindWinnerOfArrayGame)
 add_subdirectory(Algorithms/1541.MinInsertionsToBalanceParenthesesStr bin/1541.MinInsertionsToBalanceParenthesesStr)
