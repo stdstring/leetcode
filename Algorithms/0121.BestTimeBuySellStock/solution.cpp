@@ -9,7 +9,7 @@ namespace
 class Solution
 {
 public:
-    int maxProfit(std::vector<int> const &prices) const
+    [[nodiscard]] int maxProfit(std::vector<int> const &prices) const
     {
         int profit = 0;
         size_t buyIndex = 0;
@@ -26,10 +26,10 @@ public:
 
 }
 
-namespace BestTimeToBuyAndSellStockTask
+namespace BestTimeBuySellStockTask
 {
 
-TEST(BestTimeToBuyAndSellStockTaskTests, Examples)
+TEST(BestTimeBuySellStockTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(5, solution.maxProfit({7, 1, 5, 3, 6, 4}));
