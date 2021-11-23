@@ -439,6 +439,7 @@ add_subdirectory(Algorithms/0820.ShortEncodingOfWords bin/0820.ShortEncodingOfWo
 add_subdirectory(Algorithms/0821.ShortestDistanceToCharacter bin/0821.ShortestDistanceToCharacter)
 add_subdirectory(Algorithms/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbersSum)
+add_subdirectory(Algorithms/0830.PositionsOfLargeGroups bin/0830.PositionsOfLargeGroups)
 add_subdirectory(Algorithms/0831.MaskingPersonalInformation bin/0831.MaskingPersonalInformation)
 add_subdirectory(Algorithms/0832.FlippingImage bin/0832.FlippingImage)
 add_subdirectory(Algorithms/0833.FindAndReplaceInString bin/0833.FindAndReplaceInString)
