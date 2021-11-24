@@ -483,6 +483,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
 * [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 * [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)
+* [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
