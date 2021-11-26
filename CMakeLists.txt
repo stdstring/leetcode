@@ -553,6 +553,7 @@ add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultiple
 add_subdirectory(Algorithms/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
 add_subdirectory(Algorithms/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
+add_subdirectory(Algorithms/1405.LongestHappyString bin/1405.LongestHappyString)
 add_subdirectory(Algorithms/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
 add_subdirectory(Algorithms/1416.RestoreTheArray bin/1416.RestoreTheArray)
