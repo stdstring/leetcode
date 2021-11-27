@@ -430,6 +430,7 @@ add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWo
 add_subdirectory(Algorithms/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/0807.MaxIncreaseToKeepCitySkyline bin/0807.MaxIncreaseToKeepCitySkyline)
 add_subdirectory(Algorithms/0809.ExpressiveWords bin/0809.ExpressiveWords)
+add_subdirectory(Algorithms/0811.SubdomainVisitCount bin/0811.SubdomainVisitCount)
 add_subdirectory(Algorithms/0812.LargestTriangleArea bin/0812.LargestTriangleArea)
 add_subdirectory(Algorithms/0814.BinaryTreePruning bin/0814.BinaryTreePruning)
 add_subdirectory(Algorithms/0815.BusRoutes bin/0815.BusRoutes)
