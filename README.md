@@ -150,6 +150,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 * [179. Largest Number](https://leetcode.com/problems/largest-number/description/)
 * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 * [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 * [198. House Robber](https://leetcode.com/problems/house-robber/description/)

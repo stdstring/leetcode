@@ -161,6 +161,7 @@ add_subdirectory(Algorithms/0172.FactorialTrailingZeroes bin/0172.FactorialTrail
 add_subdirectory(Algorithms/0173.BinarySearchTreeIterator bin/0173.BinarySearchTreeIterator)
 add_subdirectory(Algorithms/0179.LargestNumber bin/0179.LargestNumber)
 add_subdirectory(Algorithms/0187.RepeatedDNASequences bin/0187.RepeatedDNASequences)
+add_subdirectory(Algorithms/0189.RotateArray bin/0189.RotateArray)
 add_subdirectory(Algorithms/0190.ReverseBits bin/0190.ReverseBits)
 add_subdirectory(Algorithms/0191.NumberOf1Bits bin/0191.NumberOf1Bits)
 add_subdirectory(Algorithms/0198.HouseRobber bin/0198.HouseRobber)
