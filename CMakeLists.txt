@@ -372,6 +372,7 @@ add_subdirectory(Algorithms/0637.AverageOfLevelsInBinaryTree bin/0637.AverageOfL
 add_subdirectory(Algorithms/0639.DecodeWaysII bin/0639.DecodeWaysII)
 add_subdirectory(Algorithms/0640.SolveEquation bin/0640.SolveEquation)
 add_subdirectory(Algorithms/0641.DesignCircularDeque bin/0641.DesignCircularDeque)
+add_subdirectory(Algorithms/0643.MaxAverageSubarrayI bin/0643.MaxAverageSubarrayI)
 add_subdirectory(Algorithms/0645.SetMismatch bin/0645.SetMismatch)
 add_subdirectory(Algorithms/0646.MaximumLengthOfPairChain bin/0646.MaximumLengthOfPairChain)
 add_subdirectory(Algorithms/0648.ReplaceWords bin/0648.ReplaceWords)

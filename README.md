@@ -361,6 +361,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
 * [640. Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/)
 * [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)
+* [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
