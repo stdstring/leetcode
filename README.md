@@ -265,6 +265,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+* [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 * [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
