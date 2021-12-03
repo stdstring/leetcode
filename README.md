@@ -441,6 +441,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/)
 * [843. Guess the Word](https://leetcode.com/problems/guess-the-word/description/)
+* [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 * [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
