@@ -507,6 +507,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
 * [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
+* [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
