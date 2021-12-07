@@ -538,6 +538,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+* [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)

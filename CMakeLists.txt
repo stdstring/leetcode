@@ -549,6 +549,7 @@ add_subdirectory(Algorithms/1255.MaxScoreWordsFormedByLetters bin/1255.MaxScoreW
 add_subdirectory(Algorithms/1260.Shift2DGrid bin/1260.Shift2DGrid)
 add_subdirectory(Algorithms/1268.SearchSuggestionsSystem bin/1268.SearchSuggestionsSystem)
 add_subdirectory(Algorithms/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
+add_subdirectory(Algorithms/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
 add_subdirectory(Algorithms/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
