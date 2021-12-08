@@ -605,4 +605,5 @@ add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTr
 add_subdirectory(Algorithms/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOfWordsYouCanType)
 add_subdirectory(Algorithms/2000.ReversePrefixOfWord bin/2000.ReversePrefixOfWord)
 add_subdirectory(Algorithms/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalValueOfVarAfterPerformOp)
+add_subdirectory(Algorithms/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
 
