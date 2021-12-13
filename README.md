@@ -559,6 +559,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
+* [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
 * [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/)
 * [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
