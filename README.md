@@ -453,6 +453,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
 * [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/)
 * [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
+* [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/)
 * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/)
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
 * [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)
