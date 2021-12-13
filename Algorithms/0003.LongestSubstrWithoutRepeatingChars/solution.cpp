@@ -37,10 +37,10 @@ public:
 
 }
 
-namespace LongestSubstringWithoutRepeatingCharactersTask
+namespace LongestSubstrWithoutRepeatingCharsTask
 {
 
-TEST(LongestSubstringWithoutRepeatingCharactersTaskTests, Examples)
+TEST(LongestSubstrWithoutRepeatingCharsTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(3, solution.lengthOfLongestSubstring("abcabcbb"));

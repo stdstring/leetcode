@@ -29,17 +29,17 @@ public:
 
 }
 
-namespace CheckBinaryStringHasAtMostOneSegmentOnesTask
+namespace CheckBinStrHasAtMostOneSegmentOnesTask
 {
 
-TEST(CheckBinaryStringHasAtMostOneSegmentOnesTaskTests, Examples)
+TEST(CheckBinStrHasAtMostOneSegmentOnesTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(false, solution.checkOnesSegment("1001"));
     ASSERT_EQ(true, solution.checkOnesSegment("110"));
 }
 
-TEST(CheckBinaryStringHasAtMostOneSegmentOnesTaskTests, FromWrongAnswers)
+TEST(CheckBinStrHasAtMostOneSegmentOnesTaskTests, FromWrongAnswers)
 {
     const Solution solution;
     ASSERT_EQ(true, solution.checkOnesSegment("1"));

@@ -87,17 +87,17 @@ private:
 
 }
 
-namespace FindFirstLastElementPositionInSortedArrayTask
+namespace FindFirstLastElementPosInSortedArrayTask
 {
 
-TEST(FindFirstLastElementPositionInSortedArrayTaskTests, Examples)
+TEST(FindFirstLastElementPosInSortedArrayTaskTests, Examples)
 {
     const Solution solution;
     ASSERT_EQ(std::vector<int>({3, 4}), solution.searchRange({5, 7, 7, 8, 8, 10}, 8));
     ASSERT_EQ(std::vector<int>({-1, -1}), solution.searchRange({5, 7, 7, 8, 8, 10}, 6));
 }
 
-TEST(FindFirstLastElementPositionInSortedArrayTaskTests, FromWrongAnswers)
+TEST(FindFirstLastElementPosInSortedArrayTaskTests, FromWrongAnswers)
 {
     const Solution solution;
     ASSERT_EQ(std::vector<int>({-1, -1}), solution.searchRange({}, 0));

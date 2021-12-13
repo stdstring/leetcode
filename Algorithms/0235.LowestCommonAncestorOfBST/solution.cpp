@@ -28,10 +28,10 @@ public:
 using CommonLib::Codec;
 using CommonLib::findNodeByValue;
 
-namespace LowestCommonAncestorOfBinarySearchTreeTask
+namespace LowestCommonAncestorOfBSTTask
 {
 
-TEST(LowestCommonAncestorOfBinarySearchTreeTaskTests, Examples)
+TEST(LowestCommonAncestorOfBSTTaskTests, Examples)
 {
     const Solution solution;
     const std::shared_ptr<TreeNode> tree1 = Codec::createTree("[6,2,8,0,4,7,9,null,null,3,5]");
