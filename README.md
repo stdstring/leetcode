@@ -473,6 +473,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)
 * [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 * [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/)
+* [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 * [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
