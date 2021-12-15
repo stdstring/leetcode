@@ -117,7 +117,6 @@ namespace BulbSwitcherIITask
 
 TEST(BulbSwitcherIITaskTests, Examples)
 {
-    const Solution solution;
     checkFlipLights(1, 1, 2);
     checkFlipLights(2, 1, 3);
     checkFlipLights(3, 1, 4);

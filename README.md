@@ -476,6 +476,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 * [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
+* [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)
 * [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
