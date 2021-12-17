@@ -373,6 +373,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
+* [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
 * [672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
