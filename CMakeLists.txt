@@ -495,6 +495,7 @@ add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSe
 add_subdirectory(Algorithms/0945.MinIncrementToMakeArrayUnique bin/0945.MinIncrementToMakeArrayUnique)
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
 add_subdirectory(Algorithms/0950.RevealCardsIncreasingOrder bin/0950.RevealCardsIncreasingOrder)
+add_subdirectory(Algorithms/0951.FlipEquivalentBinaryTrees bin/0951.FlipEquivalentBinaryTrees)
 add_subdirectory(Algorithms/0954.ArrayOfDoubledPairs bin/0954.ArrayOfDoubledPairs)
 add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfterNDays)
 add_subdirectory(Algorithms/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
