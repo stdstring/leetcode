@@ -12,15 +12,6 @@
 namespace
 {
 
-void deleteTree(CommonLib::TreeNode* root)
-{
-    if (root == nullptr)
-        return;
-    deleteTree(root->left);
-    deleteTree(root->right);
-    delete root;
-}
-
 void writeNode(std::stringstream& stream, CommonLib::TreeNode* node)
 {
     if (stream.str().size() > 1)
@@ -47,6 +38,15 @@ CommonLib::TreeNode* readNode(std::stringstream& stream)
     return new CommonLib::TreeNode(value);
 }
 
+}
+
+void CommonLib::deleteTree(TreeNode* root)
+{
+    if (root == nullptr)
+        return;
+    deleteTree(root->left);
+    deleteTree(root->right);
+    delete root;
 }
 
 std::shared_ptr<CommonLib::TreeNode> CommonLib::createTreeHolder(TreeNode* root)
