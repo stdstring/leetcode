@@ -494,6 +494,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/)
+* [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
