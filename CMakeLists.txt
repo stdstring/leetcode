@@ -560,6 +560,7 @@ add_subdirectory(Algorithms/1239.MaxLengthOfConcatStrWithUniqChars bin/1239.MaxL
 add_subdirectory(Algorithms/1249.MinRemoveToMakeValidParentheses bin/1249.MinRemoveToMakeValidParentheses)
 add_subdirectory(Algorithms/1255.MaxScoreWordsFormedByLetters bin/1255.MaxScoreWordsFormedByLetters)
 add_subdirectory(Algorithms/1260.Shift2DGrid bin/1260.Shift2DGrid)
+add_subdirectory(Algorithms/1261.FindElementsInContaminatedBinTree bin/1261.FindElementsInContaminatedBinTree)
 add_subdirectory(Algorithms/1268.SearchSuggestionsSystem bin/1268.SearchSuggestionsSystem)
 add_subdirectory(Algorithms/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
 add_subdirectory(Algorithms/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
