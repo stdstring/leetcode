@@ -416,6 +416,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+* [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)
