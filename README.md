@@ -572,6 +572,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/)
+* [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 * [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)
