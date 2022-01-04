@@ -527,6 +527,7 @@ add_subdirectory(Algorithms/1003.CheckIfWordValidAfterSubstitutions bin/1003.Che
 add_subdirectory(Algorithms/1006.ClumsyFactorial bin/1006.ClumsyFactorial)
 add_subdirectory(Algorithms/1007.MinDominoRotationsForEqualRow bin/1007.MinDominoRotationsForEqualRow)
 add_subdirectory(Algorithms/1008.ConstructBSTFromPreorderTraversal bin/1008.ConstructBSTFromPreorderTraversal)
+add_subdirectory(Algorithms/1009.ComplementOfBase10Integer bin/1009.ComplementOfBase10Integer)
 add_subdirectory(Algorithms/1010.PairsOfSongsWithTotalDurationsDivBy60 bin/1010.PairsOfSongsWithTotalDurationsDivBy60)
 add_subdirectory(Algorithms/1015.SmallestIntegerDivisibleByK bin/1015.SmallestIntegerDivisibleByK)
 add_subdirectory(Algorithms/1017.ConvertToBaseNeg2 bin/1017.ConvertToBaseNeg2)

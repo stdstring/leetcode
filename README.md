@@ -516,6 +516,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/)
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)
 * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+* [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/)
 * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/)
 * [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)
 * [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/)
