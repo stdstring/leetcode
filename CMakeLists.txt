@@ -481,6 +481,7 @@ add_subdirectory(Algorithms/0892.SurfaceArea3DShapes bin/0892.SurfaceArea3DShape
 add_subdirectory(Algorithms/0894.AllPossibleFullBinaryTrees bin/0894.AllPossibleFullBinaryTrees)
 add_subdirectory(Algorithms/0896.MonotonicArray bin/0896.MonotonicArray)
 add_subdirectory(Algorithms/0902.NumbersAtMostNGivenDigitSet bin/0902.NumbersAtMostNGivenDigitSet)
+add_subdirectory(Algorithms/0909.SnakesAndLadders bin/0909.SnakesAndLadders)
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
