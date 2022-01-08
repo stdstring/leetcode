@@ -599,6 +599,7 @@ add_subdirectory(Algorithms/1443.MinTimeToCollectAllApplesInTree bin/1443.MinTim
 add_subdirectory(Algorithms/1446.ConsecutiveCharacters bin/1446.ConsecutiveCharacters)
 add_subdirectory(Algorithms/1448.CountGoodNodesInBinaryTree bin/1448.CountGoodNodesInBinaryTree)
 add_subdirectory(Algorithms/1451.RearrangeWordsInSentence bin/1451.RearrangeWordsInSentence)
+add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/1513.NumberOfSubstringsWithOnly1 bin/1513.NumberOfSubstringsWithOnly1)
