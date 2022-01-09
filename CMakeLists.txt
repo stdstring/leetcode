@@ -308,6 +308,7 @@ add_subdirectory(Algorithms/0473.MatchsticksToSquare bin/0473.MatchsticksToSquar
 add_subdirectory(Algorithms/0474.OnesAndZeroes bin/0474.OnesAndZeroes)
 add_subdirectory(Algorithms/0475.Heaters bin/0475.Heaters)
 add_subdirectory(Algorithms/0476.NumberComplement bin/0476.NumberComplement)
+add_subdirectory(Algorithms/0477.TotalHammingDistance bin/0477.TotalHammingDistance)
 add_subdirectory(Algorithms/0478.GenerateRandomPointInCircle bin/0478.GenerateRandomPointInCircle)
 add_subdirectory(Algorithms/0480.SlidingWindowMedian bin/0480.SlidingWindowMedian)
 add_subdirectory(Algorithms/0482.LicenseKeyFormatting bin/0482.LicenseKeyFormatting)
