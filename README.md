@@ -453,6 +453,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
+* [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 * [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)
 * [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/)
