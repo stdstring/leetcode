@@ -380,6 +380,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
+* [679. 24 Game](https://leetcode.com/problems/24-game/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
 * [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
