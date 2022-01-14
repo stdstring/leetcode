@@ -471,6 +471,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
 * [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
+* [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)
 * [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
 * [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
