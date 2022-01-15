@@ -579,6 +579,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
 * [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
+* [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/)
 * [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 * [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
