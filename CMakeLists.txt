@@ -331,6 +331,7 @@ add_subdirectory(Algorithms/0515.FindLargestValueInEachTreeRow bin/0515.FindLarg
 add_subdirectory(Algorithms/0518.CoinChange2 bin/0518.CoinChange2)
 add_subdirectory(Algorithms/0520.DetectCapital bin/0520.DetectCapital)
 add_subdirectory(Algorithms/0521.LongestUncommonSubsequenceI bin/0521.LongestUncommonSubsequenceI)
+add_subdirectory(Algorithms/0522.LongestUncommonSubsequenceII bin/0522.LongestUncommonSubsequenceII)
 add_subdirectory(Algorithms/0524.LongestWordInDictThroughDeleting bin/0524.LongestWordInDictThroughDeleting)
 add_subdirectory(Algorithms/0529.Minesweeper bin/0529.Minesweeper)
 add_subdirectory(Algorithms/0530.MinimumAbsoluteDifferenceInBST bin/0530.MinimumAbsoluteDifferenceInBST)

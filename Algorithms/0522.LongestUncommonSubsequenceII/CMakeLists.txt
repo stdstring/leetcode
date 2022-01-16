@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.7 FATAL_ERROR)
 
-project(0521.LongestUncommonSubsequenceI CXX)
+project(0522.LongestUncommonSubsequenceII CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -13,4 +13,4 @@ add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
 
 target_link_libraries(${PROJECT_NAME} PRIVATE gtest gtest_main)
 
-add_test(NAME 0521.LongestUncommonSubsequenceI COMMAND ${PROJECT_NAME})
+add_test(NAME 0522.LongestUncommonSubsequenceII COMMAND ${PROJECT_NAME})
