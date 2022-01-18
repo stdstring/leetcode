@@ -392,6 +392,7 @@ add_subdirectory(Algorithms/0669.TrimBinarySearchTree bin/0669.TrimBinarySearchT
 add_subdirectory(Algorithms/0670.MaximumSwap bin/0670.MaximumSwap)
 add_subdirectory(Algorithms/0672.BulbSwitcherII bin/0672.BulbSwitcherII)
 add_subdirectory(Algorithms/0674.LongestContinuousIncSubseq bin/0674.LongestContinuousIncSubseq)
+add_subdirectory(Algorithms/0676.ImplementMagicDictionary bin/0676.ImplementMagicDictionary)
 add_subdirectory(Algorithms/0677.MapSumPairs bin/0677.MapSumPairs)
 add_subdirectory(Algorithms/0679.TwentyFourGame bin/0679.TwentyFourGame)
 add_subdirectory(Algorithms/0680.ValidPalindromeII bin/0680.ValidPalindromeII)

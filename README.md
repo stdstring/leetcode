@@ -381,6 +381,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)
 * [672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
+* [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
 * [679. 24 Game](https://leetcode.com/problems/24-game/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
