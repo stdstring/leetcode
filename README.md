@@ -555,6 +555,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+* [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/)
 * [1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
