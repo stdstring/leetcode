@@ -614,6 +614,7 @@ add_subdirectory(Algorithms/1451.RearrangeWordsInSentence bin/1451.RearrangeWord
 add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
+add_subdirectory(Algorithms/1510.StoneGameIV bin/1510.StoneGameIV)
 add_subdirectory(Algorithms/1513.NumberOfSubstringsWithOnly1 bin/1513.NumberOfSubstringsWithOnly1)
 add_subdirectory(Algorithms/1514.PathWithMaximumProbability bin/1514.PathWithMaximumProbability)
 add_subdirectory(Algorithms/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
