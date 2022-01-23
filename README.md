@@ -572,6 +572,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+* [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)

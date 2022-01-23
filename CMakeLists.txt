@@ -583,6 +583,7 @@ add_subdirectory(Algorithms/1261.FindElementsInContaminatedBinTree bin/1261.Find
 add_subdirectory(Algorithms/1268.SearchSuggestionsSystem bin/1268.SearchSuggestionsSystem)
 add_subdirectory(Algorithms/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
 add_subdirectory(Algorithms/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
+add_subdirectory(Algorithms/1291.SequentialDigits bin/1291.SequentialDigits)
 add_subdirectory(Algorithms/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
 add_subdirectory(Algorithms/1302.DeepestLeavesSum bin/1302.DeepestLeavesSum)
 add_subdirectory(Algorithms/1305.AllElementsInTwoBST bin/1305.AllElementsInTwoBST)
