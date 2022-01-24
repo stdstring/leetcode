@@ -601,6 +601,7 @@ add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDa
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
 add_subdirectory(Algorithms/1367.LinkedListInBinaryTree bin/1367.LinkedListInBinaryTree)
+add_subdirectory(Algorithms/1374.GenerateStrWithCharsThatHaveOddCounts bin/1374.GenerateStrWithCharsThatHaveOddCounts)
 add_subdirectory(Algorithms/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/1405.LongestHappyString bin/1405.LongestHappyString)
