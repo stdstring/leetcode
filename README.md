@@ -272,6 +272,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
+* [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 * [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)
