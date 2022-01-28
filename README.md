@@ -516,6 +516,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 * [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+* [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/)
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)

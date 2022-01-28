@@ -527,6 +527,7 @@ add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEven
 add_subdirectory(Algorithms/0986.IntervalListIntersections bin/0986.IntervalListIntersections)
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/0989.AddToArrayFormOfInteger bin/0989.AddToArrayFormOfInteger)
+add_subdirectory(Algorithms/0990.SatisfiabilityOfEqualityEquations bin/0990.SatisfiabilityOfEqualityEquations)
 add_subdirectory(Algorithms/0993.CousinsInBinaryTree bin/0993.CousinsInBinaryTree)
 add_subdirectory(Algorithms/0994.RottingOranges bin/0994.RottingOranges)
 add_subdirectory(Algorithms/0997.FindTownJudge bin/0997.FindTownJudge)
