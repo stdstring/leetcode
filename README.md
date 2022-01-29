@@ -79,6 +79,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+* [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [89. Gray Code](https://leetcode.com/problems/gray-code/description/)

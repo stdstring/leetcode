@@ -90,6 +90,7 @@ add_subdirectory(Algorithms/0080.RemoveDuplicatesFromSortedArrayII bin/0080.Remo
 add_subdirectory(Algorithms/0081.SearchInRotatedSortedArrayII bin/0081.SearchInRotatedSortedArrayII)
 add_subdirectory(Algorithms/0082.RemoveDuplicatesFromSortedListII bin/0082.RemoveDuplicatesFromSortedListII)
 add_subdirectory(Algorithms/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList)
+add_subdirectory(Algorithms/0084.LargestRectangleInHistogram bin/0084.LargestRectangleInHistogram)
 add_subdirectory(Algorithms/0086.PartitionList bin/0086.PartitionList)
 add_subdirectory(Algorithms/0088.MergeSortedArray bin/0088.MergeSortedArray)
 add_subdirectory(Algorithms/0089.GrayCode bin/0089.GrayCode)
