@@ -233,6 +233,7 @@ add_subdirectory(Algorithms/0307.RangeSumQueryMutable bin/0307.RangeSumQueryMuta
 add_subdirectory(Algorithms/0309.BestTimeBuySellStockWithCooldown bin/0309.BestTimeBuySellStockWithCooldown)
 add_subdirectory(Algorithms/0310.MinimumHeightTrees bin/0310.MinimumHeightTrees)
 add_subdirectory(Algorithms/0313.SuperUglyNumber bin/0313.SuperUglyNumber)
+add_subdirectory(Algorithms/0316.RemoveDuplicateLetters bin/0316.RemoveDuplicateLetters)
 add_subdirectory(Algorithms/0318.MaximumProductOfWordLengths bin/0318.MaximumProductOfWordLengths)
 add_subdirectory(Algorithms/0319.BulbSwitcher bin/0319.BulbSwitcher)
 add_subdirectory(Algorithms/0322.CoinChange bin/0322.CoinChange)
