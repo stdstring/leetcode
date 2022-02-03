@@ -304,6 +304,7 @@ add_subdirectory(Algorithms/0449.SerializeAndDeserializeBST bin/0449.SerializeAn
 add_subdirectory(Algorithms/0450.DeleteNodeInBST bin/0450.DeleteNodeInBST)
 add_subdirectory(Algorithms/0451.SortCharactersByFrequency bin/0451.SortCharactersByFrequency)
 add_subdirectory(Algorithms/0452.MinNumberOfArrowsToBurstBalloons bin/0452.MinNumberOfArrowsToBurstBalloons)
+add_subdirectory(Algorithms/0454.4SumII bin/0454.4SumII)
 add_subdirectory(Algorithms/0455.AssignCookies bin/0455.AssignCookies)
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
