@@ -499,6 +499,7 @@ add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.Pa
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
 add_subdirectory(Algorithms/0919.CompleteBinaryTreeInserter bin/0919.CompleteBinaryTreeInserter)
+add_subdirectory(Algorithms/0921.MinAddToMakeParenthesesValid bin/0921.MinAddToMakeParenthesesValid)
 add_subdirectory(Algorithms/0922.SortArrayByParityII bin/0922.SortArrayByParityII)
 add_subdirectory(Algorithms/0925.LongPressedName bin/0925.LongPressedName)
 add_subdirectory(Algorithms/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)

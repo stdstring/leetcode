@@ -488,6 +488,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
 * [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/)
+* [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
