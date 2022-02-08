@@ -262,6 +262,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [394. Decode String](https://leetcode.com/problems/decode-string/description/)
 * [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/)
 * [397. Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)
+* [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
 * [400. Nth Digit](https://leetcode.com/problems/nth-digit/description/)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
