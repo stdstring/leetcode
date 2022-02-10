@@ -347,6 +347,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/)
 * [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/)
 * [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
+* [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)
 * [565. Array Nesting](https://leetcode.com/problems/array-nesting/description/)
