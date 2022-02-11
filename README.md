@@ -515,6 +515,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
+* [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
 * [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/)
 * [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
