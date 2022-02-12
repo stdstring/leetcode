@@ -577,6 +577,7 @@ add_subdirectory(Algorithms/1123.LowestCommonAncestorDeepestLeaves bin/1123.Lowe
 add_subdirectory(Algorithms/1137.NthTribonacciNumber bin/1137.NthTribonacciNumber)
 add_subdirectory(Algorithms/1138.AlphabetBoardPath bin/1138.AlphabetBoardPath)
 add_subdirectory(Algorithms/1143.LongestCommonSubsequence bin/1143.LongestCommonSubsequence)
+add_subdirectory(Algorithms/1145.BinaryTreeColoringGame bin/1145.BinaryTreeColoringGame)
 add_subdirectory(Algorithms/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/1160.FindWordsThatCanBeFormedByChars bin/1160.FindWordsThatCanBeFormedByChars)
 add_subdirectory(Algorithms/1161.MaxLevelSumOfBinaryTree bin/1161.MaxLevelSumOfBinaryTree)

@@ -566,6 +566,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 * [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+* [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
