@@ -587,6 +587,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+* [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
