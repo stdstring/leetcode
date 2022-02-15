@@ -555,6 +555,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/)
 * [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/)
+* [1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/)
 * [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
