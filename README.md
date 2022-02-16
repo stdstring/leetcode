@@ -446,6 +446,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
 * [815. Bus Routes](https://leetcode.com/problems/bus-routes/description/)
 * [816. Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/)
+* [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/)
 * [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)

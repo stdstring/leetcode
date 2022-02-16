@@ -1,3 +1,4 @@
+#include <memory>
 #include <vector>
 
 #include "ListNode.h"
@@ -46,12 +47,12 @@ namespace ReorderListTask
 TEST(ReorderListTaskTests, Examples)
 {
     Solution solution;
-    ListNode* head1 = createLinkedList({1, 2, 3, 4}, false).get();
-    solution.reorderList(head1);
-    checkAndDeleteLinkedList({1, 4, 2, 3}, head1);
-    ListNode* head2 = createLinkedList({1, 2, 3, 4, 5}, false).get();
-    solution.reorderList(head2);
-    checkAndDeleteLinkedList({1, 5, 2, 4, 3}, head2);
+    const std::shared_ptr<ListNode> head1(createLinkedList({1, 2, 3, 4}, false));
+    solution.reorderList(head1.get());
+    checkAndDeleteLinkedList({1, 4, 2, 3}, head1.get());
+    const std::shared_ptr<ListNode> head2(createLinkedList({1, 2, 3, 4, 5}, false));
+    solution.reorderList(head2.get());
+    checkAndDeleteLinkedList({1, 5, 2, 4, 3}, head2.get());
 }
 
 TEST(ReorderListTaskTests, FromWrongAnswers)

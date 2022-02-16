@@ -457,6 +457,7 @@ add_subdirectory(Algorithms/0812.LargestTriangleArea bin/0812.LargestTriangleAre
 add_subdirectory(Algorithms/0814.BinaryTreePruning bin/0814.BinaryTreePruning)
 add_subdirectory(Algorithms/0815.BusRoutes bin/0815.BusRoutes)
 add_subdirectory(Algorithms/0816.AmbiguousCoordinates bin/0816.AmbiguousCoordinates)
+add_subdirectory(Algorithms/0817.LinkedListComponents bin/0817.LinkedListComponents)
 add_subdirectory(Algorithms/0819.MostCommonWord bin/0819.MostCommonWord)
 add_subdirectory(Algorithms/0820.ShortEncodingOfWords bin/0820.ShortEncodingOfWords)
 add_subdirectory(Algorithms/0821.ShortestDistanceToCharacter bin/0821.ShortestDistanceToCharacter)
