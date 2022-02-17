@@ -574,6 +574,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 * [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/)
 * [1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/)
+* [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
