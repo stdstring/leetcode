@@ -647,6 +647,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/submissions/description/)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
+* [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/)
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
