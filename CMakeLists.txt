@@ -658,6 +658,7 @@ add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVow
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 add_subdirectory(Algorithms/1663.SmallestStringWithGivenNumValue bin/1663.SmallestStringWithGivenNumValue)
 add_subdirectory(Algorithms/1669.MergeInBetweenLinkedLists bin/1669.MergeInBetweenLinkedLists)
+add_subdirectory(Algorithms/1670.DesignFrontMiddleBackQueue bin/1670.DesignFrontMiddleBackQueue)
 add_subdirectory(Algorithms/1672.RichestCustomerWealth bin/1672.RichestCustomerWealth)
 add_subdirectory(Algorithms/1675.MinimizeDeviationInArray bin/1675.MinimizeDeviationInArray)
 add_subdirectory(Algorithms/1678.GoalParserInterpretation bin/1678.GoalParserInterpretation)
