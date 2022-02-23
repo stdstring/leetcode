@@ -683,4 +683,5 @@ add_subdirectory(Algorithms/2000.ReversePrefixOfWord bin/2000.ReversePrefixOfWor
 add_subdirectory(Algorithms/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalValueOfVarAfterPerformOp)
 add_subdirectory(Algorithms/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
+add_subdirectory(Algorithms/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
 
