@@ -52,7 +52,7 @@ using CommonLib::checkAndDeleteLinkedList;
 namespace DeleteMiddleNodeOfLinkedListTask
 {
 
-TEST(SwappingNodesInLinkedListTaskTests, Examples)
+TEST(DeleteMiddleNodeOfLinkedListTaskTests, Examples)
 {
     const Solution solution;
     checkAndDeleteLinkedList({1, 3, 4, 1, 2, 6}, solution.deleteMiddle(createLinkedList({1, 3, 4, 7, 1, 2, 6}, true).get()));
