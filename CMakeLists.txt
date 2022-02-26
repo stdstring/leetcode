@@ -474,6 +474,7 @@ add_subdirectory(Algorithms/0842.SplitArrayIntoFibonacciSequence bin/0842.SplitA
 add_subdirectory(Algorithms/0843.GuessWord bin/0843.GuessWord)
 add_subdirectory(Algorithms/0845.LongestMountainInArray bin/0845.LongestMountainInArray)
 add_subdirectory(Algorithms/0846.HandOfStraights bin/0846.HandOfStraights)
+add_subdirectory(Algorithms/0847.ShortestPathVisitingAllNodes bin/0847.ShortestPathVisitingAllNodes)
 add_subdirectory(Algorithms/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/0849.MaximizeDistanceToClosestPerson bin/0849.MaximizeDistanceToClosestPerson)
 add_subdirectory(Algorithms/0856.ScoreOfParentheses bin/0856.ScoreOfParentheses)

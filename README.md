@@ -463,6 +463,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [843. Guess the Word](https://leetcode.com/problems/guess-the-word/description/)
 * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 * [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
+* [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
