@@ -627,6 +627,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/)
+* [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 * [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
