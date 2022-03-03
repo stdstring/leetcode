@@ -294,6 +294,7 @@ add_subdirectory(Algorithms/0430.FlattenMultilevelDoublyLinkedList bin/0430.Flat
 add_subdirectory(Algorithms/0433.MinimumGeneticMutation bin/0433.MinimumGeneticMutation)
 add_subdirectory(Algorithms/0434.NumberOfSegmentsInString bin/0434.NumberOfSegmentsInString)
 add_subdirectory(Algorithms/0435.NonOverlappingIntervals bin/0435.NonOverlappingIntervals)
+add_subdirectory(Algorithms/0436.FindRightInterval bin/0436.FindRightInterval)
 add_subdirectory(Algorithms/0437.PathSumIII bin/0437.PathSumIII)
 add_subdirectory(Algorithms/0438.FindAllAnagramsInString bin/0438.FindAllAnagramsInString)
 add_subdirectory(Algorithms/0441.ArrangingCoins bin/0441.ArrangingCoins)
