@@ -449,6 +449,7 @@ add_subdirectory(Algorithms/0792.NumberOfMatchingSubsequences bin/0792.NumberOfM
 add_subdirectory(Algorithms/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)
+add_subdirectory(Algorithms/0799.ChampagneTower bin/0799.ChampagneTower)
 add_subdirectory(Algorithms/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/0807.MaxIncreaseToKeepCitySkyline bin/0807.MaxIncreaseToKeepCitySkyline)

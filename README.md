@@ -438,6 +438,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
+* [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/description/)
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)
