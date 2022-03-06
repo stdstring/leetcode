@@ -612,6 +612,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/)
 * [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 * [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
+* [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/)
 * [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/)
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/)

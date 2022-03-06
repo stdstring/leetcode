@@ -623,6 +623,7 @@ add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.Max
 add_subdirectory(Algorithms/1345.JumpGameIV bin/1345.JumpGameIV)
 add_subdirectory(Algorithms/1347.MinStepsNumberToMake2StringsAnagram bin/1347.MinStepsNumberToMake2StringsAnagram)
 add_subdirectory(Algorithms/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
+add_subdirectory(Algorithms/1359.CountAllValidPickupAndDeliveryOptions bin/1359.CountAllValidPickupAndDeliveryOptions)
 add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDaysBetweenTwoDates)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
