@@ -416,6 +416,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+* [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)
 * [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
