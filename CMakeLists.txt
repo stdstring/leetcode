@@ -699,4 +699,5 @@ add_subdirectory(Algorithms/2125.NumberOfLaserBeamsInBank bin/2125.NumberOfLaser
 add_subdirectory(Algorithms/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
 add_subdirectory(Algorithms/2135.CountWordsObtainedAfterAddingLetter bin/2135.CountWordsObtainedAfterAddingLetter)
 add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
+add_subdirectory(Algorithms/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
 
