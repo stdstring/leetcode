@@ -636,6 +636,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 * [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
+* [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
 * [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)
