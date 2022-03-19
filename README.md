@@ -491,6 +491,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
 * [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)
 * [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
+* [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/)
 * [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
