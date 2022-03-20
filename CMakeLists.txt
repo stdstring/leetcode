@@ -706,6 +706,7 @@ add_subdirectory(Algorithms/2126.DestroyingAsteroids bin/2126.DestroyingAsteroid
 add_subdirectory(Algorithms/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
 add_subdirectory(Algorithms/2135.CountWordsObtainedAfterAddingLetter bin/2135.CountWordsObtainedAfterAddingLetter)
 add_subdirectory(Algorithms/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.Find3ConsecutiveIntsThatSumToGivenNum)
+add_subdirectory(Algorithms/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
 add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
 add_subdirectory(Algorithms/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
 
