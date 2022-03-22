@@ -701,6 +701,7 @@ add_subdirectory(Algorithms/2074.ReverseNodesInEvenLengthGroups bin/2074.Reverse
 add_subdirectory(Algorithms/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
 add_subdirectory(Algorithms/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
+add_subdirectory(Algorithms/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
 add_subdirectory(Algorithms/2125.NumberOfLaserBeamsInBank bin/2125.NumberOfLaserBeamsInBank)
 add_subdirectory(Algorithms/2126.DestroyingAsteroids bin/2126.DestroyingAsteroids)
 add_subdirectory(Algorithms/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
