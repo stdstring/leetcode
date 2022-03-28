@@ -686,6 +686,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
+* [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
