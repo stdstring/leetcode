@@ -208,6 +208,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)
+* [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 * [292. Nim Game](https://leetcode.com/problems/nim-game/description/)
