@@ -8,11 +8,14 @@ namespace
 class Solution
 {
 public:
-    bool validPalindrome(std::string const &s) const
+    [[nodiscard]] bool validPalindrome(std::string const &s) const
     {
-        bool hasDelete = false;
-        size_t start = 0;
-        size_t finish = s.size() - 1;
+        return validPalindrome(s, 0, s.size() - 1, true);
+    }
+
+private:
+    [[nodiscard]] bool validPalindrome(std::string const &s, size_t start, size_t finish, bool allowDelete) const
+    {
         while (start < finish)
         {
             if (s[start] == s[finish])
@@ -22,25 +25,16 @@ public:
             }
             else
             {
-                if (hasDelete)
+                if (!allowDelete)
                     return false;
-                hasDelete = true;
                 if ((start + 1) == finish)
                     return true;
-                // process "...abc...cbab..."
-                if ((s[start + 1] == s[finish]) && (s[start] == s[finish - 1]) && (s[start + 2] == s[finish - 1]))
-                    ++start;
-                // process "...babc...cba..."
-                else if ((s[start + 1] == s[finish]) && (s[start] == s[finish - 1]) && (s[start + 1] == s[finish - 2]))
-                    --finish;
-                // process "...xab...ba..."
-                else if (s[start + 1] == s[finish])
-                    ++start;
-                // process "...ab...bax..."
-                else if (s[start] == s[finish - 1])
-                    --finish;
-                else
-                    return false;
+                bool result = false;
+                if (s[start + 1] == s[finish])
+                    result |= validPalindrome(s, start + 1, finish, false);
+                if (s[start] == s[finish - 1])
+                    result |= validPalindrome(s, start, finish - 1, false);
+                return result;
             }
         }
         return true;
@@ -62,6 +56,7 @@ TEST(ValidPalindromeIITaskTests, Examples)
 TEST(ValidPalindromeIITaskTests, FromWrongAnswers)
 {
     const Solution solution;
+    ASSERT_EQ(true, solution.validPalindrome("acxcybycxcxa"));
     ASSERT_EQ(true, solution.validPalindrome("aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga"));
 }
 
