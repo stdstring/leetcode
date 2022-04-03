@@ -615,6 +615,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
+* [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
