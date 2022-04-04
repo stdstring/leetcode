@@ -640,6 +640,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
+* [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/)
 * [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)

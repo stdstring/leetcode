@@ -652,6 +652,7 @@ add_subdirectory(Algorithms/1433.CheckIfStringCanBreakAnotherString bin/1433.Che
 add_subdirectory(Algorithms/1456.MaxNumberOfVowelsInSubstrOfGivenLength bin/1456.MaxNumberOfVowelsInSubstrOfGivenLength)
 add_subdirectory(Algorithms/1443.MinTimeToCollectAllApplesInTree bin/1443.MinTimeToCollectAllApplesInTree)
 add_subdirectory(Algorithms/1446.ConsecutiveCharacters bin/1446.ConsecutiveCharacters)
+add_subdirectory(Algorithms/1447.SimplifiedFractions bin/1447.SimplifiedFractions)
 add_subdirectory(Algorithms/1448.CountGoodNodesInBinaryTree bin/1448.CountGoodNodesInBinaryTree)
 add_subdirectory(Algorithms/1451.RearrangeWordsInSentence bin/1451.RearrangeWordsInSentence)
 add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
