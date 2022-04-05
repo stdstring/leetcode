@@ -621,6 +621,7 @@ add_subdirectory(Algorithms/1290.ConvertBinNumberInLinkedListToInt bin/1290.Conv
 add_subdirectory(Algorithms/1291.SequentialDigits bin/1291.SequentialDigits)
 add_subdirectory(Algorithms/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
 add_subdirectory(Algorithms/1302.DeepestLeavesSum bin/1302.DeepestLeavesSum)
+add_subdirectory(Algorithms/1304.FindNUniqueIntSumUpToZero bin/1304.FindNUniqueIntSumUpToZero)
 add_subdirectory(Algorithms/1305.AllElementsInTwoBST bin/1305.AllElementsInTwoBST)
 add_subdirectory(Algorithms/1306.JumpGameIII bin/1306.JumpGameIII)
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)

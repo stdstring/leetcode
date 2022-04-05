@@ -610,6 +610,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)
 * [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)
+* [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
