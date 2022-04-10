@@ -709,6 +709,7 @@ add_subdirectory(Algorithms/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOf
 add_subdirectory(Algorithms/1952.ThreeDivisors bin/1952.ThreeDivisors)
 add_subdirectory(Algorithms/2000.ReversePrefixOfWord bin/2000.ReversePrefixOfWord)
 add_subdirectory(Algorithms/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalValueOfVarAfterPerformOp)
+add_subdirectory(Algorithms/2048.NextGreaterNumericallyBalancedNumber bin/2048.NextGreaterNumericallyBalancedNumber)
 add_subdirectory(Algorithms/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints bin/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints)
 add_subdirectory(Algorithms/2063.VowelsOfAllSubstrings bin/2063.VowelsOfAllSubstrings)
 add_subdirectory(Algorithms/2074.ReverseNodesInEvenLengthGroups bin/2074.ReverseNodesInEvenLengthGroups)

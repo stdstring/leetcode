@@ -698,6 +698,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
+* [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/)
 * [2074. Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
