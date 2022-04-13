@@ -569,6 +569,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
+* [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/)
 * [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/)
 * [1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/)
@@ -719,3 +720,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/description/)
 * [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 * [2195. Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/)
+* [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/)

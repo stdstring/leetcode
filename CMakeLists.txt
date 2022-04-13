@@ -580,6 +580,7 @@ add_subdirectory(Algorithms/1041.RobotBoundedInCircle bin/1041.RobotBoundedInCir
 add_subdirectory(Algorithms/1046.LastStoneWeight bin/1046.LastStoneWeight)
 add_subdirectory(Algorithms/1047.RemoveAllAdjacentDuplicatesInString bin/1047.RemoveAllAdjacentDuplicatesInString)
 add_subdirectory(Algorithms/1048.LongestStringChain bin/1048.LongestStringChain)
+add_subdirectory(Algorithms/1073.AddingTwoNegabinaryNumbers bin/1073.AddingTwoNegabinaryNumbers)
 add_subdirectory(Algorithms/1078.OccurrencesAfterBigram bin/1078.OccurrencesAfterBigram)
 add_subdirectory(Algorithms/1079.LetterTilePossibilities bin/1079.LetterTilePossibilities)
 add_subdirectory(Algorithms/1080.InsufficientNodesInRootToLeafPath bin/080.InsufficientNodesInRootToLeafPath)
@@ -730,4 +731,5 @@ add_subdirectory(Algorithms/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.
 add_subdirectory(Algorithms/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
 add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
 add_subdirectory(Algorithms/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
+add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 
