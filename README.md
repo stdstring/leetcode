@@ -402,6 +402,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 * [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
+* [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 * [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
