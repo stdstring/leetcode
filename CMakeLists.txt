@@ -732,5 +732,6 @@ add_subdirectory(Algorithms/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.
 add_subdirectory(Algorithms/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
 add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
 add_subdirectory(Algorithms/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
+add_subdirectory(Algorithms/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
 add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 
