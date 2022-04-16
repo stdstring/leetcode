@@ -734,4 +734,5 @@ add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInB
 add_subdirectory(Algorithms/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
 add_subdirectory(Algorithms/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
 add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
+add_subdirectory(Algorithms/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 
