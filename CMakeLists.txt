@@ -509,6 +509,7 @@ add_subdirectory(Algorithms/0893.GroupsOfSpecialEquivalentStrings bin/0893.Group
 add_subdirectory(Algorithms/0894.AllPossibleFullBinaryTrees bin/0894.AllPossibleFullBinaryTrees)
 add_subdirectory(Algorithms/0895.MaxFrequencyStack bin/0895.MaxFrequencyStack)
 add_subdirectory(Algorithms/0896.MonotonicArray bin/0896.MonotonicArray)
+add_subdirectory(Algorithms/0897.IncreasingOrderSearchTree bin/0897.IncreasingOrderSearchTree)
 add_subdirectory(Algorithms/0902.NumbersAtMostNGivenDigitSet bin/0902.NumbersAtMostNGivenDigitSet)
 add_subdirectory(Algorithms/0909.SnakesAndLadders bin/0909.SnakesAndLadders)
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
