@@ -103,6 +103,7 @@ add_subdirectory(Algorithms/0095.UniqueBinarySearchTreesII bin/0095.UniqueBinary
 add_subdirectory(Algorithms/0096.UniqueBinarySearchTrees bin/0096.UniqueBinarySearchTrees)
 add_subdirectory(Algorithms/0097.InterleavingString bin/0097.InterleavingString)
 add_subdirectory(Algorithms/0098.ValidateBinarySearchTree bin/0098.ValidateBinarySearchTree)
+add_subdirectory(Algorithms/0099.RecoverBST bin/0099.RecoverBST)
 add_subdirectory(Algorithms/0100.SameTree bin/0100.SameTree)
 add_subdirectory(Algorithms/0101.SymmetricTree bin/0101.SymmetricTree)
 add_subdirectory(Algorithms/0102.BinaryTreeLevelOrderTraversal bin/0102.BinaryTreeLevelOrderTraversal)
