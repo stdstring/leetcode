@@ -407,6 +407,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 * [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 * [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+* [705. Design HashSet](https://leetcode.com/problems/design-hashset/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
