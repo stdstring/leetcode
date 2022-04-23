@@ -580,6 +580,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/)
 * [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)
 * [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
+* [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
 * [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
