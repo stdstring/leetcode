@@ -646,6 +646,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 * [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
+* [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
