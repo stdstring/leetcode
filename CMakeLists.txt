@@ -688,6 +688,7 @@ add_subdirectory(Algorithms/1535.FindWinnerOfArrayGame bin/1535.FindWinnerOfArra
 add_subdirectory(Algorithms/1541.MinInsertionsToBalanceParenthesesStr bin/1541.MinInsertionsToBalanceParenthesesStr)
 add_subdirectory(Algorithms/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
+add_subdirectory(Algorithms/1584.MinCostToConnectAllPoints bin/1584.MinCostToConnectAllPoints)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/1629.SlowestKey bin/1629.SlowestKey)
