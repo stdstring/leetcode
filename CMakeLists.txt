@@ -611,6 +611,7 @@ add_subdirectory(Algorithms/1171.RemoveZeroSumConsNodesFromLinkedList bin/1171.R
 add_subdirectory(Algorithms/1189.MaximumNumberOfBalloons bin/1189.MaximumNumberOfBalloons)
 add_subdirectory(Algorithms/1190.RevSubstrBetweenEachPairOfParentheses bin/1190.RevSubstrBetweenEachPairOfParentheses)
 add_subdirectory(Algorithms/1200.MinAbsoluteDifference bin/1200.MinAbsoluteDifference)
+add_subdirectory(Algorithms/1202.SmallestStringWithSwaps bin/1202.SmallestStringWithSwaps)
 add_subdirectory(Algorithms/1209.RemoveAllAdjacentDuplicatesInStringII bin/1209.RemoveAllAdjacentDuplicatesInStringII)
 add_subdirectory(Algorithms/1217.MinCostToMoveChipsToSamePosition bin/1217.MinCostToMoveChipsToSamePosition)
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
