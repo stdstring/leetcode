@@ -695,6 +695,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/)
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
+* [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)

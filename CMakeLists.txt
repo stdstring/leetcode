@@ -706,6 +706,7 @@ add_subdirectory(Algorithms/1672.RichestCustomerWealth bin/1672.RichestCustomerW
 add_subdirectory(Algorithms/1675.MinimizeDeviationInArray bin/1675.MinimizeDeviationInArray)
 add_subdirectory(Algorithms/1678.GoalParserInterpretation bin/1678.GoalParserInterpretation)
 add_subdirectory(Algorithms/1679.MaxNumberOfKSumPairs bin/1679.MaxNumberOfKSumPairs)
+add_subdirectory(Algorithms/1680.ConcatOfConsecutiveBinaryNumbers bin/1680.ConcatOfConsecutiveBinaryNumbers)
 add_subdirectory(Algorithms/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
 add_subdirectory(Algorithms/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
