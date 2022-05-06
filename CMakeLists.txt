@@ -745,6 +745,7 @@ add_subdirectory(Algorithms/2135.CountWordsObtainedAfterAddingLetter bin/2135.Co
 add_subdirectory(Algorithms/2147.NumberOfWaysToDivideLongCorridor bin/2147.NumberOfWaysToDivideLongCorridor)
 add_subdirectory(Algorithms/2162.MinCostToSetCookingTime bin/2162.MinCostToSetCookingTime)
 add_subdirectory(Algorithms/2165.SmallestValueOfRearrangedNumber bin/2165.SmallestValueOfRearrangedNumber)
+add_subdirectory(Algorithms/2169.CountOpsToObtainZero bin/2169.CountOpsToObtainZero)
 add_subdirectory(Algorithms/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.Find3ConsecutiveIntsThatSumToGivenNum)
 add_subdirectory(Algorithms/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
 add_subdirectory(Algorithms/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
