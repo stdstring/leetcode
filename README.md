@@ -301,6 +301,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+* [456. 132 Pattern](https://leetcode.com/problems/132-pattern/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 * [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)

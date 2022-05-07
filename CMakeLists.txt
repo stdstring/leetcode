@@ -312,6 +312,7 @@ add_subdirectory(Algorithms/0451.SortCharactersByFrequency bin/0451.SortCharacte
 add_subdirectory(Algorithms/0452.MinNumberOfArrowsToBurstBalloons bin/0452.MinNumberOfArrowsToBurstBalloons)
 add_subdirectory(Algorithms/0454.4SumII bin/0454.4SumII)
 add_subdirectory(Algorithms/0455.AssignCookies bin/0455.AssignCookies)
+add_subdirectory(Algorithms/0456.132Pattern bin/0456.132Pattern)
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
 add_subdirectory(Algorithms/0468.ValidateIPAddress bin/0468.ValidateIPAddress)
