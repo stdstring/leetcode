@@ -663,6 +663,7 @@ add_subdirectory(Algorithms/1374.GenerateStrWithCharsThatHaveOddCounts bin/1374.
 add_subdirectory(Algorithms/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
+add_subdirectory(Algorithms/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
 add_subdirectory(Algorithms/1405.LongestHappyString bin/1405.LongestHappyString)
 add_subdirectory(Algorithms/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
