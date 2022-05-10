@@ -657,6 +657,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
+* [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)
 * [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
