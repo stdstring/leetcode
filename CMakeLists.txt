@@ -573,6 +573,7 @@ add_subdirectory(Algorithms/1008.ConstructBSTFromPreorderTraversal bin/1008.Cons
 add_subdirectory(Algorithms/1009.ComplementOfBase10Integer bin/1009.ComplementOfBase10Integer)
 add_subdirectory(Algorithms/1010.PairsOfSongsWithTotalDurationsDivBy60 bin/1010.PairsOfSongsWithTotalDurationsDivBy60)
 add_subdirectory(Algorithms/1015.SmallestIntegerDivisibleByK bin/1015.SmallestIntegerDivisibleByK)
+add_subdirectory(Algorithms/1016.BinaryStringWithSubstrings1ToN bin/1016.BinaryStringWithSubstrings1ToN)
 add_subdirectory(Algorithms/1017.ConvertToBaseNeg2 bin/1017.ConvertToBaseNeg2)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1019.NextGreaterNodeInLinkedList bin/1019.NextGreaterNodeInLinkedList)
