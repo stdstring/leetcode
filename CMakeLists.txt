@@ -436,6 +436,7 @@ add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpressio
 add_subdirectory(Algorithms/0738.MonotoneIncreasingDigits bin/0738.MonotoneIncreasingDigits)
 add_subdirectory(Algorithms/0739.DailyTemperatures bin/0739.DailyTemperatures)
 add_subdirectory(Algorithms/0740.DeleteAndEarn bin/0740.DeleteAndEarn)
+add_subdirectory(Algorithms/0743.NetworkDelayTime bin/0743.NetworkDelayTime)
 add_subdirectory(Algorithms/0744.FindSmallestLetterGreaterThanTarget bin/0744.FindSmallestLetterGreaterThanTarget)
 add_subdirectory(Algorithms/0746.MinCostClimbingStairs bin/0746.MinCostClimbingStairs)
 add_subdirectory(Algorithms/0747.LargestNumberAtLeastTwiceOthers bin/0747.LargestNumberAtLeastTwiceOthers)
