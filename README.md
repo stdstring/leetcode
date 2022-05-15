@@ -687,6 +687,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
 * [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
+* [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
