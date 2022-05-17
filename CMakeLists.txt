@@ -664,6 +664,7 @@ add_subdirectory(Algorithms/1367.LinkedListInBinaryTree bin/1367.LinkedListInBin
 add_subdirectory(Algorithms/1372.LongestZigZagPathInBinaryTree bin/1372.LongestZigZagPathInBinaryTree)
 add_subdirectory(Algorithms/1374.GenerateStrWithCharsThatHaveOddCounts bin/1374.GenerateStrWithCharsThatHaveOddCounts)
 add_subdirectory(Algorithms/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
+add_subdirectory(Algorithms/1379.FindCorrespondingNodeOfBinTreeInClone bin/1379.FindCorrespondingNodeOfBinTreeInClone)
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
 add_subdirectory(Algorithms/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
