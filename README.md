@@ -606,6 +606,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
+* [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
