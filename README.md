@@ -230,6 +230,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 * [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+* [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 * [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
 * [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)
 * [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
