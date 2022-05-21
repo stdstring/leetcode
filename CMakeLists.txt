@@ -670,6 +670,7 @@ add_subdirectory(Algorithms/1379.FindCorrespondingNodeOfBinTreeInClone bin/1379.
 add_subdirectory(Algorithms/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
 add_subdirectory(Algorithms/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
+add_subdirectory(Algorithms/1404.NumberOfStepsToReduceBinaryNumberToOne bin/1404.NumberOfStepsToReduceBinaryNumberToOne)
 add_subdirectory(Algorithms/1405.LongestHappyString bin/1405.LongestHappyString)
 add_subdirectory(Algorithms/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
