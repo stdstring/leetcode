@@ -396,6 +396,7 @@ add_subdirectory(Algorithms/0641.DesignCircularDeque bin/0641.DesignCircularDequ
 add_subdirectory(Algorithms/0643.MaxAverageSubarrayI bin/0643.MaxAverageSubarrayI)
 add_subdirectory(Algorithms/0645.SetMismatch bin/0645.SetMismatch)
 add_subdirectory(Algorithms/0646.MaximumLengthOfPairChain bin/0646.MaximumLengthOfPairChain)
+add_subdirectory(Algorithms/0647.PalindromicSubstrings bin/0647.PalindromicSubstrings)
 add_subdirectory(Algorithms/0648.ReplaceWords bin/0648.ReplaceWords)
 add_subdirectory(Algorithms/0650.2KeysKeyboard bin/0650.2KeysKeyboard)
 add_subdirectory(Algorithms/0653.TwoSumIVInputIsBST bin/0653.TwoSumIVInputIsBST)
