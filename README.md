@@ -508,6 +508,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/)
 * [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
+* [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
