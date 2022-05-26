@@ -629,6 +629,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1276. Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/)
+* [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 * [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
