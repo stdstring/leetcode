@@ -659,6 +659,7 @@ add_subdirectory(Algorithms/1325.DeleteLeavesWithGivenValue bin/1325.DeleteLeave
 add_subdirectory(Algorithms/1328.BreakPalindrome bin/1328.BreakPalindrome)
 add_subdirectory(Algorithms/1337.KWeakestRowsInMatrix bin/1337.KWeakestRowsInMatrix)
 add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.MaximumProductOfSplittedBinaryTree)
+add_subdirectory(Algorithms/1342.NumberOfStepsToReduceNumberToZero bin/1342.NumberOfStepsToReduceNumberToZero)
 add_subdirectory(Algorithms/1345.JumpGameIV bin/1345.JumpGameIV)
 add_subdirectory(Algorithms/1347.MinStepsNumberToMake2StringsAnagram bin/1347.MinStepsNumberToMake2StringsAnagram)
 add_subdirectory(Algorithms/1352.ProductOfLastKNumbers bin/1352.ProductOfLastKNumbers)
