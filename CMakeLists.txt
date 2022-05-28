@@ -666,6 +666,7 @@ add_subdirectory(Algorithms/1352.ProductOfLastKNumbers bin/1352.ProductOfLastKNu
 add_subdirectory(Algorithms/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
 add_subdirectory(Algorithms/1359.CountAllValidPickupAndDeliveryOptions bin/1359.CountAllValidPickupAndDeliveryOptions)
 add_subdirectory(Algorithms/1360.NumberOfDaysBetweenTwoDates bin/1360.NumberOfDaysBetweenTwoDates)
+add_subdirectory(Algorithms/1362.ClosestDivisors bin/1362.ClosestDivisors)
 add_subdirectory(Algorithms/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
 add_subdirectory(Algorithms/1367.LinkedListInBinaryTree bin/1367.LinkedListInBinaryTree)
