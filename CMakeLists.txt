@@ -573,6 +573,7 @@ add_subdirectory(Algorithms/0999.AvailableCapturesForRook bin/0999.AvailableCapt
 add_subdirectory(Algorithms/1001.GridIllumination bin/1001.GridIllumination)
 add_subdirectory(Algorithms/1002.FindCommonCharacters bin/1002.FindCommonCharacters)
 add_subdirectory(Algorithms/1003.CheckIfWordValidAfterSubstitutions bin/1003.CheckIfWordValidAfterSubstitutions)
+add_subdirectory(Algorithms/1004.MaxConsecutiveOnesIII bin/1004.MaxConsecutiveOnesIII)
 add_subdirectory(Algorithms/1006.ClumsyFactorial bin/1006.ClumsyFactorial)
 add_subdirectory(Algorithms/1007.MinDominoRotationsForEqualRow bin/1007.MinDominoRotationsForEqualRow)
 add_subdirectory(Algorithms/1008.ConstructBSTFromPreorderTraversal bin/1008.ConstructBSTFromPreorderTraversal)

@@ -562,6 +562,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/description/)
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
 * [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
+* [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 * [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/)
 * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)
 * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
