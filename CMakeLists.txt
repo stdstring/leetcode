@@ -697,6 +697,7 @@ add_subdirectory(Algorithms/1456.MaxNumberOfVowelsInSubstrOfGivenLength bin/1456
 add_subdirectory(Algorithms/1461.CheckIfStringContainsAllBinaryOfSizeK bin/1461.CheckIfStringContainsAllBinaryOfSizeK)
 add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
+add_subdirectory(Algorithms/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)
 add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
 add_subdirectory(Algorithms/1492.KthFactorOfN bin/1492.KthFactorOfN)
 add_subdirectory(Algorithms/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)

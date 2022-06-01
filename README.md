@@ -686,6 +686,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+* [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 * [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
 * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 * [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
