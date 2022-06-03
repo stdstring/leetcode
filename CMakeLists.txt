@@ -782,4 +782,5 @@ add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangula
 add_subdirectory(Algorithms/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 add_subdirectory(Algorithms/2241.DesignATMMachine bin/2241.DesignATMMachine)
 add_subdirectory(Algorithms/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
+add_subdirectory(Algorithms/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 
