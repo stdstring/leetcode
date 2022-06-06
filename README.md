@@ -559,6 +559,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+* [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
 * [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
 * [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/description/)
 * [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)
