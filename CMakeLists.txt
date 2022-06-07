@@ -563,6 +563,7 @@ add_subdirectory(Algorithms/0978.LongestTurbulentSubarray bin/0978.LongestTurbul
 add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAAorBBB)
 add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEvenNumbersAfterQueries)
 add_subdirectory(Algorithms/0986.IntervalListIntersections bin/0986.IntervalListIntersections)
+add_subdirectory(Algorithms/0987.VerticalOrderTraversalOfBinaryTree bin/0987.VerticalOrderTraversalOfBinaryTree)
 add_subdirectory(Algorithms/0988.SmallestStringStartingFromLeaf bin/0988.SmallestStringStartingFromLeaf)
 add_subdirectory(Algorithms/0989.AddToArrayFormOfInteger bin/0989.AddToArrayFormOfInteger)
 add_subdirectory(Algorithms/0990.SatisfiabilityOfEqualityEquations bin/0990.SatisfiabilityOfEqualityEquations)
