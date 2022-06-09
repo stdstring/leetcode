@@ -785,6 +785,7 @@ add_subdirectory(Algorithms/2196.CreateBinaryTreeFromDescriptions bin/2196.Creat
 add_subdirectory(Algorithms/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
 add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 add_subdirectory(Algorithms/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
+add_subdirectory(Algorithms/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumOfChildren)
 add_subdirectory(Algorithms/2241.DesignATMMachine bin/2241.DesignATMMachine)
 add_subdirectory(Algorithms/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
 add_subdirectory(Algorithms/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
