@@ -487,6 +487,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
+* [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 * [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
 * [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
