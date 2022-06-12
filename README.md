@@ -727,6 +727,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
+* [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
