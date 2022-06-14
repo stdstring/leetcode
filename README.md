@@ -539,6 +539,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
 * [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/)
+* [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
