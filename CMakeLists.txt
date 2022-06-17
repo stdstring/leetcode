@@ -557,6 +557,7 @@ add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfter
 add_subdirectory(Algorithms/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
 add_subdirectory(Algorithms/0965.UnivaluedBinaryTree bin/0965.UnivaluedBinaryTree)
 add_subdirectory(Algorithms/0966.VowelSpellchecker bin/0966.VowelSpellchecker)
+add_subdirectory(Algorithms/0968.BinaryTreeCameras bin/0968.BinaryTreeCameras)
 add_subdirectory(Algorithms/0970.PowerfulIntegers bin/0970.PowerfulIntegers)
 add_subdirectory(Algorithms/0971.FlipBinTreeToMatchPreorderTraversal bin/0971.FlipBinTreeToMatchPreorderTraversal)
 add_subdirectory(Algorithms/0972.EqualRationalNumbers bin/0972.EqualRationalNumbers)
