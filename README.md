@@ -432,6 +432,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 * [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
 * [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+* [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/)
 * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)
