@@ -787,3 +787,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/description/)
 * [2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
+* [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
