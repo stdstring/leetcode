@@ -693,6 +693,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 * [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+* [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)

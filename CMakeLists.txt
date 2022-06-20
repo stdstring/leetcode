@@ -704,6 +704,7 @@ add_subdirectory(Algorithms/1447.SimplifiedFractions bin/1447.SimplifiedFraction
 add_subdirectory(Algorithms/1448.CountGoodNodesInBinaryTree bin/1448.CountGoodNodesInBinaryTree)
 add_subdirectory(Algorithms/1451.RearrangeWordsInSentence bin/1451.RearrangeWordsInSentence)
 add_subdirectory(Algorithms/1456.MaxNumberOfVowelsInSubstrOfGivenLength bin/1456.MaxNumberOfVowelsInSubstrOfGivenLength)
+add_subdirectory(Algorithms/1457.PseudoPalindromicPathsInBinaryTree bin/1457.PseudoPalindromicPathsInBinaryTree)
 add_subdirectory(Algorithms/1461.CheckIfStringContainsAllBinaryOfSizeK bin/1461.CheckIfStringContainsAllBinaryOfSizeK)
 add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
