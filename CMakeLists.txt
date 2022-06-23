@@ -390,6 +390,7 @@ add_subdirectory(Algorithms/0611.ValidTriangleNumber bin/0611.ValidTriangleNumbe
 add_subdirectory(Algorithms/0622.DesignCircularQueue bin/0622.DesignCircularQueue)
 add_subdirectory(Algorithms/0623.AddOneRowToTree bin/0623.AddOneRowToTree)
 add_subdirectory(Algorithms/0628.MaximumProductOfThreeNumbers bin/0628.MaximumProductOfThreeNumbers)
+add_subdirectory(Algorithms/0630.CourseScheduleIII bin/0630.CourseScheduleIII)
 add_subdirectory(Algorithms/0633.SumOfSquareNumbers bin/0633.SumOfSquareNumbers)
 add_subdirectory(Algorithms/0636.ExclusiveTimeOfFunctions bin/0636.ExclusiveTimeOfFunctions)
 add_subdirectory(Algorithms/0637.AverageOfLevelsInBinaryTree bin/0637.AverageOfLevelsInBinaryTree)
