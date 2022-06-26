@@ -688,6 +688,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/)
 * [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)
+* [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 * [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
