@@ -274,6 +274,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
+* [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 * [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
