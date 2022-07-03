@@ -137,6 +137,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)
 * [148. Sort List](https://leetcode.com/problems/sort-list/description/)
+* [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)

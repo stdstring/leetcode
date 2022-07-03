@@ -148,6 +148,7 @@ add_subdirectory(Algorithms/0145.BinaryTreePostorderTraversal bin/0145.BinaryTre
 add_subdirectory(Algorithms/0146.LRUCache bin/0146.LRUCache)
 add_subdirectory(Algorithms/0147.InsertionSortList bin/0147.InsertionSortList)
 add_subdirectory(Algorithms/0148.SortList bin/0148.SortList)
+add_subdirectory(Algorithms/0149.MaxPointsOnLine bin/0149.MaxPointsOnLine)
 add_subdirectory(Algorithms/0150.EvaluateReversePolishNotation bin/0150.EvaluateReversePolishNotation)
 add_subdirectory(Algorithms/0151.ReverseWordsInString bin/0151.ReverseWordsInString)
 add_subdirectory(Algorithms/0152.MaximumProductSubarray bin/0152.MaximumProductSubarray)
