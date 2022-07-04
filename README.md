@@ -126,6 +126,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
 * [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 * [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
+* [135. Candy](https://leetcode.com/problems/candy/description/)
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)
 * [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
