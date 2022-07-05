@@ -340,6 +340,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 * [521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)
 * [522. Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)
+* [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
 * [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
