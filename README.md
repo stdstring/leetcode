@@ -803,3 +803,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
+* [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)

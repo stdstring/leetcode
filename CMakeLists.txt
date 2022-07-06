@@ -814,4 +814,5 @@ add_subdirectory(Algorithms/2249.CountLatticePointsInsideCircle bin/2249.CountLa
 add_subdirectory(Algorithms/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 add_subdirectory(Algorithms/2273.FindResultArrayAfterRemovingAnagrams bin/2273.FindResultArrayAfterRemovingAnagrams)
 add_subdirectory(Algorithms/2296.DesignTextEditor bin/2296.DesignTextEditor)
+add_subdirectory(Algorithms/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 
