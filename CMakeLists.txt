@@ -719,6 +719,7 @@ add_subdirectory(Algorithms/1472.DesignBrowserHistory bin/1472.DesignBrowserHist
 add_subdirectory(Algorithms/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)
 add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
 add_subdirectory(Algorithms/1492.KthFactorOfN bin/1492.KthFactorOfN)
+add_subdirectory(Algorithms/1493.LongestSubarrayOf1AfterDeletingOneElement bin/1493.LongestSubarrayOf1AfterDeletingOneElement)
 add_subdirectory(Algorithms/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/1510.StoneGameIV bin/1510.StoneGameIV)
