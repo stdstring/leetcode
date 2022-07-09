@@ -747,6 +747,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
+* [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/)
 * [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)

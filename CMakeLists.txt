@@ -758,6 +758,7 @@ add_subdirectory(Algorithms/1680.ConcatOfConsecutiveBinaryNumbers bin/1680.Conca
 add_subdirectory(Algorithms/1689.PartitioningIntoMinNumOfDeciBinaryNums bin/1689.PartitioningIntoMinNumOfDeciBinaryNums)
 add_subdirectory(Algorithms/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/1695.MaxErasureValue bin/1695.MaxErasureValue)
+add_subdirectory(Algorithms/1696.JumpGameVI bin/1696.JumpGameVI)
 add_subdirectory(Algorithms/1710.MaxUnitsOnTruck bin/1710.MaxUnitsOnTruck)
 add_subdirectory(Algorithms/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
 add_subdirectory(Algorithms/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
