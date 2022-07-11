@@ -804,6 +804,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/description/)
 * [2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
+* [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
 * [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)
