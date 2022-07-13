@@ -600,6 +600,7 @@ add_subdirectory(Algorithms/1016.BinaryStringWithSubstrings1ToN bin/1016.BinaryS
 add_subdirectory(Algorithms/1017.ConvertToBaseNeg2 bin/1017.ConvertToBaseNeg2)
 add_subdirectory(Algorithms/1018.BinaryPrefixDivisibleBy5 bin/1018.BinaryPrefixDivisibleBy5)
 add_subdirectory(Algorithms/1019.NextGreaterNodeInLinkedList bin/1019.NextGreaterNodeInLinkedList)
+add_subdirectory(Algorithms/1020.NumberOfEnclaves bin/1020.NumberOfEnclaves)
 add_subdirectory(Algorithms/1021.RemoveOutermostParentheses bin/1021.RemoveOutermostParentheses)
 add_subdirectory(Algorithms/1022.SumOfRootToLeafBinNumbers bin/1022.SumOfRootToLeafBinNumbers)
 add_subdirectory(Algorithms/1023.CamelcaseMatching bin/1023.CamelcaseMatching)

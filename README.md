@@ -589,6 +589,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1017. Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/)
 * [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)
 * [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
+* [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 * [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
