@@ -287,6 +287,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)
 * [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)
 * [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
+* [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 * [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)

@@ -298,6 +298,7 @@ add_subdirectory(Algorithms/0416.PartitionEqualSubsetSum bin/0416.PartitionEqual
 add_subdirectory(Algorithms/0419.BattleshipsInBoard bin/0419.BattleshipsInBoard)
 add_subdirectory(Algorithms/0421.MaxXOROfTwoNumsInArray bin/0421.MaxXOROfTwoNumsInArray)
 add_subdirectory(Algorithms/0423.ReconstructOriginalDigitsFromEnglish bin/0423.ReconstructOriginalDigitsFromEnglish)
+add_subdirectory(Algorithms/0424.LongestRepeatingCharReplacement bin/0424.LongestRepeatingCharReplacement)
 add_subdirectory(Algorithms/0427.ConstructQuadTree bin/0427.ConstructQuadTree)
 add_subdirectory(Algorithms/0429.NaryTreeLevelOrderTraversal bin/0429.NaryTreeLevelOrderTraversal)
 add_subdirectory(Algorithms/0430.FlattenMultilevelDoublyLinkedList bin/0430.FlattenMultilevelDoublyLinkedList)
