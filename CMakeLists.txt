@@ -574,6 +574,7 @@ add_subdirectory(Algorithms/0973.KClosestPointsToOrigin bin/0973.KClosestPointsT
 add_subdirectory(Algorithms/0976.LargestPerimeterTriangle bin/0976.LargestPerimeterTriangle)
 add_subdirectory(Algorithms/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
 add_subdirectory(Algorithms/0978.LongestTurbulentSubarray bin/0978.LongestTurbulentSubarray)
+add_subdirectory(Algorithms/0981.TimeBasedKeyValueStore bin/0981.TimeBasedKeyValueStore)
 add_subdirectory(Algorithms/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAAorBBB)
 add_subdirectory(Algorithms/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEvenNumbersAfterQueries)
 add_subdirectory(Algorithms/0986.IntervalListIntersections bin/0986.IntervalListIntersections)
