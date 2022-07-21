@@ -716,6 +716,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 * [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 * [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
+* [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
 * [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)

@@ -727,6 +727,7 @@ add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesU
 add_subdirectory(Algorithms/1492.KthFactorOfN bin/1492.KthFactorOfN)
 add_subdirectory(Algorithms/1493.LongestSubarrayOf1AfterDeletingOneElement bin/1493.LongestSubarrayOf1AfterDeletingOneElement)
 add_subdirectory(Algorithms/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)
+add_subdirectory(Algorithms/1507.ReformatDate bin/1507.ReformatDate)
 add_subdirectory(Algorithms/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/1510.StoneGameIV bin/1510.StoneGameIV)
 add_subdirectory(Algorithms/1513.NumberOfSubstringsWithOnly1 bin/1513.NumberOfSubstringsWithOnly1)
