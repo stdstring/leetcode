@@ -688,6 +688,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 * [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/description/)
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
+* [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
