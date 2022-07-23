@@ -617,6 +617,7 @@ add_subdirectory(Algorithms/1041.RobotBoundedInCircle bin/1041.RobotBoundedInCir
 add_subdirectory(Algorithms/1046.LastStoneWeight bin/1046.LastStoneWeight)
 add_subdirectory(Algorithms/1047.RemoveAllAdjacentDuplicatesInString bin/1047.RemoveAllAdjacentDuplicatesInString)
 add_subdirectory(Algorithms/1048.LongestStringChain bin/1048.LongestStringChain)
+add_subdirectory(Algorithms/1054.DistantBarcodes bin/1054.DistantBarcodes)
 add_subdirectory(Algorithms/1073.AddingTwoNegabinaryNumbers bin/1073.AddingTwoNegabinaryNumbers)
 add_subdirectory(Algorithms/1078.OccurrencesAfterBigram bin/1078.OccurrencesAfterBigram)
 add_subdirectory(Algorithms/1079.LetterTilePossibilities bin/1079.LetterTilePossibilities)
