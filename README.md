@@ -403,6 +403,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 * [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+* [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 * [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)
 * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
