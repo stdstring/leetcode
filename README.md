@@ -609,6 +609,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
+* [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 * [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/)
 * [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/)
