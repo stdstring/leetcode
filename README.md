@@ -740,6 +740,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
+* [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
