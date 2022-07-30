@@ -322,6 +322,7 @@ add_subdirectory(Algorithms/0452.MinNumberOfArrowsToBurstBalloons bin/0452.MinNu
 add_subdirectory(Algorithms/0454.4SumII bin/0454.4SumII)
 add_subdirectory(Algorithms/0455.AssignCookies bin/0455.AssignCookies)
 add_subdirectory(Algorithms/0456.132Pattern bin/0456.132Pattern)
+add_subdirectory(Algorithms/0459.RepeatedSubstringPattern bin/0459.RepeatedSubstringPattern)
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0462.MinMovesToEqualArrayElementsII bin/0462.MinMovesToEqualArrayElementsII)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
