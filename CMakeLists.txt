@@ -753,6 +753,7 @@ add_subdirectory(Algorithms/1573.NumberOfWaysToSplitString bin/1573.NumberOfWays
 add_subdirectory(Algorithms/1584.MinCostToConnectAllPoints bin/1584.MinCostToConnectAllPoints)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/1600.ThroneInheritance bin/1600.ThroneInheritance)
+add_subdirectory(Algorithms/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/1631.PathWithMinEffort bin/1631.PathWithMinEffort)
