@@ -1,14 +1,20 @@
 ## 62. Unique Paths
 
-A robot is located at the top-left corner of a *m* x *n* grid (marked 'Start' in the diagram below).
+There is a robot on an ```m x n``` grid. The robot is initially located at the **top-left corner** (i.e., ```grid[0][0]```). The robot tries to move to the **bottom-right corner** (i.e., ```grid[m - 1][n - 1]```). The robot can only move either down or right at any point in time.
 
-The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+Given the two integers ```m``` and ```n```, return *the number of possible unique paths that the robot can take to reach the bottom-right corner*.
 
-How many possible unique paths are there?
+The test cases are generated so that the answer will be less than or equal to ```2 * 10^9```.
 
-![Example](https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)
+### Example 1:
 
-##### Example 1:
+![Example 1](images/example1.png)
+
+```
+Input: m = 3, n = 7
+Output: 28
+```
+### Example 2:
 ```
 Input: m = 3, n = 2
 Output: 3
@@ -18,8 +24,7 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 2. Right -> Down -> Right
 3. Down -> Right -> Right
 ```
-##### Example 2:
-```
-Input: m = 7, n = 3
-Output: 28
-```
+
+### Constraints:
+
+* ```1 <= m, n <= 100```
