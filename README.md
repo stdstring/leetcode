@@ -769,6 +769,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
+* [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
 * [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
 * [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/)
 * [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/)
