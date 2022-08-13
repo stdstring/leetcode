@@ -563,6 +563,7 @@ add_subdirectory(Algorithms/0945.MinIncrementToMakeArrayUnique bin/0945.MinIncre
 add_subdirectory(Algorithms/0949.LargestTimeForGivenDigits bin/0949.LargestTimeForGivenDigits)
 add_subdirectory(Algorithms/0950.RevealCardsIncreasingOrder bin/0950.RevealCardsIncreasingOrder)
 add_subdirectory(Algorithms/0951.FlipEquivalentBinaryTrees bin/0951.FlipEquivalentBinaryTrees)
+add_subdirectory(Algorithms/0953.VerifyingAlienDictionary bin/0953.VerifyingAlienDictionary)
 add_subdirectory(Algorithms/0954.ArrayOfDoubledPairs bin/0954.ArrayOfDoubledPairs)
 add_subdirectory(Algorithms/0955.DeleteColumnsToMakeSortedII bin/0955.DeleteColumnsToMakeSortedII)
 add_subdirectory(Algorithms/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfterNDays)

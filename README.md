@@ -552,6 +552,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 * [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 * [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+* [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 * [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/)
 * [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
