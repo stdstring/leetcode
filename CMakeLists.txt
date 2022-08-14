@@ -764,6 +764,7 @@ add_subdirectory(Algorithms/1642.FurthestBuildingYouCanReach bin/1642.FurthestBu
 add_subdirectory(Algorithms/1646.GetMaxInGeneratedArray bin/1646.GetMaxInGeneratedArray)
 add_subdirectory(Algorithms/1647.MinDeletionsToMakeCharFreqUnique bin/1647.MinDeletionsToMakeCharFreqUnique)
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
+add_subdirectory(Algorithms/1657.DetermineIfTwoStringsAreClose bin/1657.DetermineIfTwoStringsAreClose)
 add_subdirectory(Algorithms/1658.MinOperationsToReduceXToZero bin/1658.MinOperationsToReduceXToZero)
 add_subdirectory(Algorithms/1663.SmallestStringWithGivenNumValue bin/1663.SmallestStringWithGivenNumValue)
 add_subdirectory(Algorithms/1669.MergeInBetweenLinkedLists bin/1669.MergeInBetweenLinkedLists)
