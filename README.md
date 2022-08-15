@@ -527,6 +527,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
 * [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
+* [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 * [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
