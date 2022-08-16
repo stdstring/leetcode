@@ -509,6 +509,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 * [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
 * [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/)
+* [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/)
 * [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 * [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 * [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
