@@ -416,6 +416,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [679. 24 Game](https://leetcode.com/problems/24-game/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+* [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
 * [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
