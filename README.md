@@ -680,6 +680,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/)
 * [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/)
+* [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/)
 * [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
 * [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
 * [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)

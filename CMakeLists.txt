@@ -691,6 +691,7 @@ add_subdirectory(Algorithms/1325.DeleteLeavesWithGivenValue bin/1325.DeleteLeave
 add_subdirectory(Algorithms/1328.BreakPalindrome bin/1328.BreakPalindrome)
 add_subdirectory(Algorithms/1332.RemovePalindromicSubsequences bin/1332.RemovePalindromicSubsequences)
 add_subdirectory(Algorithms/1337.KWeakestRowsInMatrix bin/1337.KWeakestRowsInMatrix)
+add_subdirectory(Algorithms/1338.ReduceArraySizeToHalf bin/1338.ReduceArraySizeToHalf)
 add_subdirectory(Algorithms/1339.MaximumProductOfSplittedBinaryTree bin/1339.MaximumProductOfSplittedBinaryTree)
 add_subdirectory(Algorithms/1342.NumberOfStepsToReduceNumberToZero bin/1342.NumberOfStepsToReduceNumberToZero)
 add_subdirectory(Algorithms/1344.AngleBetweenHandsOfClock bin/1344.AngleBetweenHandsOfClock)
