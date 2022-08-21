@@ -561,6 +561,7 @@ add_subdirectory(Algorithms/0937.ReorderDataInLogFiles bin/0937.ReorderDataInLog
 add_subdirectory(Algorithms/0938.RangeSumOfBST bin/0938.RangeSumOfBST)
 add_subdirectory(Algorithms/0939.MinimumAreaRectangle bin/0939.MinimumAreaRectangle)
 add_subdirectory(Algorithms/0941.ValidMountainArray bin/0941.ValidMountainArray)
+add_subdirectory(Algorithms/0942.DIStringMatch bin/0942.DIStringMatch)
 add_subdirectory(Algorithms/0944.DeleteColumnsToMakeSorted bin/0944.DeleteColumnsToMakeSorted)
 add_subdirectory(Algorithms/0946.ValidateStackSequences bin/0946.ValidateStackSequences)
 add_subdirectory(Algorithms/0945.MinIncrementToMakeArrayUnique bin/0945.MinIncrementToMakeArrayUnique)
