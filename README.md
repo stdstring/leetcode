@@ -789,6 +789,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/)
 * [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
+* [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
