@@ -544,6 +544,7 @@ add_subdirectory(Algorithms/0902.NumbersAtMostNGivenDigitSet bin/0902.NumbersAtM
 add_subdirectory(Algorithms/0904.FruitIntoBaskets bin/0904.FruitIntoBaskets)
 add_subdirectory(Algorithms/0905.SortArrayByParity bin/0905.SortArrayByParity)
 add_subdirectory(Algorithms/0909.SnakesAndLadders bin/0909.SnakesAndLadders)
+add_subdirectory(Algorithms/0911.OnlineElection bin/0911.OnlineElection)
 add_subdirectory(Algorithms/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
