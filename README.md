@@ -771,6 +771,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
 * [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)
+* [1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/)
 * [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 * [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)

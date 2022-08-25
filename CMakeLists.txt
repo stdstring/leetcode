@@ -782,6 +782,7 @@ add_subdirectory(Algorithms/1675.MinimizeDeviationInArray bin/1675.MinimizeDevia
 add_subdirectory(Algorithms/1678.GoalParserInterpretation bin/1678.GoalParserInterpretation)
 add_subdirectory(Algorithms/1679.MaxNumberOfKSumPairs bin/1679.MaxNumberOfKSumPairs)
 add_subdirectory(Algorithms/1680.ConcatOfConsecutiveBinaryNumbers bin/1680.ConcatOfConsecutiveBinaryNumbers)
+add_subdirectory(Algorithms/1685.SumOfAbsoluteDiffInSortedArray bin/1685.SumOfAbsoluteDiffInSortedArray)
 add_subdirectory(Algorithms/1689.PartitioningIntoMinNumOfDeciBinaryNums bin/1689.PartitioningIntoMinNumOfDeciBinaryNums)
 add_subdirectory(Algorithms/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/1695.MaxErasureValue bin/1695.MaxErasureValue)
