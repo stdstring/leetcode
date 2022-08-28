@@ -682,6 +682,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
+* [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/)
 * [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/)
 * [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/)
