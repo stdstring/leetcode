@@ -800,6 +800,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
+* [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)
 * [1958. Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/description/)
 * [1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/description/)
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
