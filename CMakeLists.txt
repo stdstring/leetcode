@@ -861,4 +861,5 @@ add_subdirectory(Algorithms/2296.DesignTextEditor bin/2296.DesignTextEditor)
 add_subdirectory(Algorithms/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 add_subdirectory(Algorithms/2331.EvaluateBooleanBinaryTree bin/2331.EvaluateBooleanBinaryTree)
 add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
+add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
 
