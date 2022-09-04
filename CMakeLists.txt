@@ -420,6 +420,7 @@ add_subdirectory(Algorithms/0658.FindKClosestElements bin/0658.FindKClosestEleme
 add_subdirectory(Algorithms/0659.SplitArrayIntoConsecutiveSubseqs bin/0659.SplitArrayIntoConsecutiveSubseqs)
 add_subdirectory(Algorithms/0662.MaxWidthOfBinaryTree bin/0662.MaxWidthOfBinaryTree)
 add_subdirectory(Algorithms/0665.NondecreasingArray bin/0665.NondecreasingArray)
+add_subdirectory(Algorithms/0667.BeautifulArrangementII bin/0667.BeautifulArrangementII)
 add_subdirectory(Algorithms/0669.TrimBinarySearchTree bin/0669.TrimBinarySearchTree)
 add_subdirectory(Algorithms/0670.MaximumSwap bin/0670.MaximumSwap)
 add_subdirectory(Algorithms/0672.BulbSwitcherII bin/0672.BulbSwitcherII)
