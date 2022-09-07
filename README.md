@@ -383,6 +383,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/)
 * [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+* [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 * [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/)
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
