@@ -808,6 +808,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)
 * [1958. Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/description/)
 * [1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/description/)
+* [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
