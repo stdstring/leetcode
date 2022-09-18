@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <vector>
 
 #include "TreeNode.h"

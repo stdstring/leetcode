@@ -1,3 +1,6 @@
+#include <algorithm>
+#include <utility>
+
 #include "TreeNode.h"
 #include "TreeNodeUtils.h"
 
