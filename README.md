@@ -867,3 +867,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
 * [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/)
+* [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
