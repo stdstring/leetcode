@@ -853,6 +853,7 @@ add_subdirectory(Algorithms/2149.RearrangeArrayElementsBySign bin/2149.Rearrange
 add_subdirectory(Algorithms/2160.MinSumOfFourDigitNumberAfterSplitting bin/2160.MinSumOfFourDigitNumberAfterSplitting)
 add_subdirectory(Algorithms/2162.MinCostToSetCookingTime bin/2162.MinCostToSetCookingTime)
 add_subdirectory(Algorithms/2165.SmallestValueOfRearrangedNumber bin/2165.SmallestValueOfRearrangedNumber)
+add_subdirectory(Algorithms/2166.DesignBitset bin/2166.DesignBitset)
 add_subdirectory(Algorithms/2169.CountOpsToObtainZero bin/2169.CountOpsToObtainZero)
 add_subdirectory(Algorithms/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.Find3ConsecutiveIntsThatSumToGivenNum)
 add_subdirectory(Algorithms/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
