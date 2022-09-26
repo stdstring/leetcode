@@ -872,3 +872,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
 * [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/)
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
+* [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
