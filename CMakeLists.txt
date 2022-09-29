@@ -877,6 +877,7 @@ add_subdirectory(Algorithms/2278.PercentageLetterInString bin/2278.PercentageLet
 add_subdirectory(Algorithms/2296.DesignTextEditor bin/2296.DesignTextEditor)
 add_subdirectory(Algorithms/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 add_subdirectory(Algorithms/2331.EvaluateBooleanBinaryTree bin/2331.EvaluateBooleanBinaryTree)
+add_subdirectory(Algorithms/2336.SmallestNumberInInfiniteSet bin/2336.SmallestNumberInInfiniteSet)
 add_subdirectory(Algorithms/2348.NumberOfZeroFilledSubarrays bin/2348.NumberOfZeroFilledSubarrays)
 add_subdirectory(Algorithms/2349.DesignNumberContainerSystem bin/2349.DesignNumberContainerSystem)
 add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
