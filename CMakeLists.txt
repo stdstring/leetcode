@@ -414,6 +414,7 @@ add_subdirectory(Algorithms/0646.MaximumLengthOfPairChain bin/0646.MaximumLength
 add_subdirectory(Algorithms/0647.PalindromicSubstrings bin/0647.PalindromicSubstrings)
 add_subdirectory(Algorithms/0648.ReplaceWords bin/0648.ReplaceWords)
 add_subdirectory(Algorithms/0650.2KeysKeyboard bin/0650.2KeysKeyboard)
+add_subdirectory(Algorithms/0652.FindDuplicateSubtrees bin/0652.FindDuplicateSubtrees)
 add_subdirectory(Algorithms/0653.TwoSumIVInputIsBST bin/0653.TwoSumIVInputIsBST)
 add_subdirectory(Algorithms/0654.MaximumBinaryTree bin/0654.MaximumBinaryTree)
 add_subdirectory(Algorithms/0655.PrintBinaryTree bin/0655.PrintBinaryTree)
