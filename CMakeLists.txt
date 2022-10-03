@@ -776,6 +776,7 @@ add_subdirectory(Algorithms/1541.MinInsertionsToBalanceParenthesesStr bin/1541.M
 add_subdirectory(Algorithms/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)
 add_subdirectory(Algorithms/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/1573.NumberOfWaysToSplitString bin/1573.NumberOfWaysToSplitString)
+add_subdirectory(Algorithms/1578.MinTimeToMakeRopeColorful bin/1578.MinTimeToMakeRopeColorful)
 add_subdirectory(Algorithms/1584.MinCostToConnectAllPoints bin/1584.MinCostToConnectAllPoints)
 add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/1600.ThroneInheritance bin/1600.ThroneInheritance)
