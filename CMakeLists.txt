@@ -873,6 +873,7 @@ add_subdirectory(Algorithms/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDec
 add_subdirectory(Algorithms/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumOfChildren)
 add_subdirectory(Algorithms/2241.DesignATMMachine bin/2241.DesignATMMachine)
 add_subdirectory(Algorithms/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
+add_subdirectory(Algorithms/2257.CountUnguardedCellsInGrid bin/2257.CountUnguardedCellsInGrid)
 add_subdirectory(Algorithms/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 add_subdirectory(Algorithms/2266.CountNumberOfTexts bin/2266.CountNumberOfTexts)
 add_subdirectory(Algorithms/2269.FindKBeautyOfNumber bin/2269.FindKBeautyOfNumber)
