@@ -621,6 +621,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/)
 * [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/)
 * [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/)
+* [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
