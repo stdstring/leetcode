@@ -455,6 +455,7 @@ add_subdirectory(Algorithms/0725.SplitLinkedListInParts bin/0725.SplitLinkedList
 add_subdirectory(Algorithms/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
 add_subdirectory(Algorithms/0728.SelfDividingNumbers bin/0728.SelfDividingNumbers)
 add_subdirectory(Algorithms/0729.MyCalendarI bin/0729.MyCalendarI)
+add_subdirectory(Algorithms/0732.MyCalendarIII bin/0732.MyCalendarIII)
 add_subdirectory(Algorithms/0735.AsteroidCollision bin/0735.AsteroidCollision)
 add_subdirectory(Algorithms/0736.ParseLispExpression bin/0736.ParseLispExpression)
 add_subdirectory(Algorithms/0738.MonotoneIncreasingDigits bin/0738.MonotoneIncreasingDigits)
