@@ -895,5 +895,6 @@ add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.
 add_subdirectory(Algorithms/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
 add_subdirectory(Algorithms/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
+add_subdirectory(Algorithms/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
 
