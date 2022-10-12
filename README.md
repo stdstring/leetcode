@@ -693,6 +693,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
+* [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/)
 * [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)

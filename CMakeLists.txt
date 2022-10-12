@@ -704,6 +704,7 @@ add_subdirectory(Algorithms/1305.AllElementsInTwoBST bin/1305.AllElementsInTwoBS
 add_subdirectory(Algorithms/1306.JumpGameIII bin/1306.JumpGameIII)
 add_subdirectory(Algorithms/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
+add_subdirectory(Algorithms/1314.MatrixBlockSum bin/1314.MatrixBlockSum)
 add_subdirectory(Algorithms/1315.SumOfNodesWithEvenValuedGrandparent bin/1315.SumOfNodesWithEvenValuedGrandparent)
 add_subdirectory(Algorithms/1323.Max69Number bin/1323.Max69Number)
 add_subdirectory(Algorithms/1324.PrintWordsVertically bin/1324.PrintWordsVertically)
