@@ -898,6 +898,7 @@ add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.Reachab
 add_subdirectory(Algorithms/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
 add_subdirectory(Algorithms/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
+add_subdirectory(Algorithms/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
 add_subdirectory(Algorithms/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
 add_subdirectory(Algorithms/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)

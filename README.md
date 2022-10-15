@@ -887,6 +887,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
 * [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
+* [2397. Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)
 * [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/)
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
