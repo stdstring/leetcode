@@ -905,4 +905,5 @@ add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarra
 add_subdirectory(Algorithms/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
 add_subdirectory(Algorithms/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
+add_subdirectory(Algorithms/2442.CountDistinctIntAfterReverseOp bin/2442.CountDistinctIntAfterReverseOp)
 
