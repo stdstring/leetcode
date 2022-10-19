@@ -906,4 +906,5 @@ add_subdirectory(Algorithms/2409.CountDaysSpentTogether bin/2409.CountDaysSpentT
 add_subdirectory(Algorithms/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
 add_subdirectory(Algorithms/2442.CountDistinctIntAfterReverseOp bin/2442.CountDistinctIntAfterReverseOp)
+add_subdirectory(Algorithms/2443.SumOfNumberAndItsReverse bin/2443.SumOfNumberAndItsReverse)
 
