@@ -890,6 +890,7 @@ add_subdirectory(Algorithms/2269.FindKBeautyOfNumber bin/2269.FindKBeautyOfNumbe
 add_subdirectory(Algorithms/2273.FindResultArrayAfterRemovingAnagrams bin/2273.FindResultArrayAfterRemovingAnagrams)
 add_subdirectory(Algorithms/2278.PercentageLetterInString bin/2278.PercentageLetterInString)
 add_subdirectory(Algorithms/2296.DesignTextEditor bin/2296.DesignTextEditor)
+add_subdirectory(Algorithms/2310.SumOfNumbersWithUnitsDigitK bin/2310.SumOfNumbersWithUnitsDigitK)
 add_subdirectory(Algorithms/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 add_subdirectory(Algorithms/2331.EvaluateBooleanBinaryTree bin/2331.EvaluateBooleanBinaryTree)
 add_subdirectory(Algorithms/2336.SmallestNumberInInfiniteSet bin/2336.SmallestNumberInInfiniteSet)
