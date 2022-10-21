@@ -900,6 +900,7 @@ add_subdirectory(Algorithms/2352.EqualRowColumnPairs bin/2352.EqualRowColumnPair
 add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
 add_subdirectory(Algorithms/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
+add_subdirectory(Algorithms/2390.RemovingStarsFromString bin/2390.RemovingStarsFromString)
 add_subdirectory(Algorithms/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
