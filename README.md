@@ -878,6 +878,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
+* [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
 * [2310. Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
 * [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)
