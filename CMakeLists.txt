@@ -747,6 +747,7 @@ add_subdirectory(Algorithms/1419.MinNumberOfFrogsCroaking bin/1419.MinNumberOfFr
 add_subdirectory(Algorithms/1423.MaxPointsYouCanObtainFromCards bin/1423.MaxPointsYouCanObtainFromCards)
 add_subdirectory(Algorithms/1432.MaxDiffFromChangingInteger bin/1432.MaxDiffFromChangingInteger)
 add_subdirectory(Algorithms/1433.CheckIfStringCanBreakAnotherString bin/1433.CheckIfStringCanBreakAnotherString)
+add_subdirectory(Algorithms/1441.BuildArrayWithStackOperations bin/1441.BuildArrayWithStackOperations)
 add_subdirectory(Algorithms/1443.MinTimeToCollectAllApplesInTree bin/1443.MinTimeToCollectAllApplesInTree)
 add_subdirectory(Algorithms/1446.ConsecutiveCharacters bin/1446.ConsecutiveCharacters)
 add_subdirectory(Algorithms/1447.SimplifiedFractions bin/1447.SimplifiedFractions)
