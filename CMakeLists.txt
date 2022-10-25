@@ -797,6 +797,7 @@ add_subdirectory(Algorithms/1647.MinDeletionsToMakeCharFreqUnique bin/1647.MinDe
 add_subdirectory(Algorithms/1652.DefuseBomb bin/1652.DefuseBomb)
 add_subdirectory(Algorithms/1657.DetermineIfTwoStringsAreClose bin/1657.DetermineIfTwoStringsAreClose)
 add_subdirectory(Algorithms/1658.MinOperationsToReduceXToZero bin/1658.MinOperationsToReduceXToZero)
+add_subdirectory(Algorithms/1662.CheckIfTwoStringArraysEquivalent bin/1662.CheckIfTwoStringArraysEquivalent)
 add_subdirectory(Algorithms/1663.SmallestStringWithGivenNumValue bin/1663.SmallestStringWithGivenNumValue)
 add_subdirectory(Algorithms/1669.MergeInBetweenLinkedLists bin/1669.MergeInBetweenLinkedLists)
 add_subdirectory(Algorithms/1670.DesignFrontMiddleBackQueue bin/1670.DesignFrontMiddleBackQueue)

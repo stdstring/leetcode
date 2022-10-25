@@ -786,6 +786,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)
+* [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/submissions/description/)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/)
 * [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/)
