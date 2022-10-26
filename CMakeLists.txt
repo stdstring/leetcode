@@ -832,6 +832,7 @@ add_subdirectory(Algorithms/1832.CheckIfSentenceIsPangram bin/1832.CheckIfSenten
 add_subdirectory(Algorithms/1839.LongestSubstringOfAllVowelsInOrder bin/1839.LongestSubstringOfAllVowelsInOrder)
 add_subdirectory(Algorithms/1871.JumpGameVII bin/1871.JumpGameVII)
 add_subdirectory(Algorithms/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
+add_subdirectory(Algorithms/1914.CyclicallyRotatingGrid bin/1914.CyclicallyRotatingGrid)
 add_subdirectory(Algorithms/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
 add_subdirectory(Algorithms/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOfWordsYouCanType)
