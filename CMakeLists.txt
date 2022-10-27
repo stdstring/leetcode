@@ -513,6 +513,7 @@ add_subdirectory(Algorithms/0831.MaskingPersonalInformation bin/0831.MaskingPers
 add_subdirectory(Algorithms/0832.FlippingImage bin/0832.FlippingImage)
 add_subdirectory(Algorithms/0833.FindAndReplaceInString bin/0833.FindAndReplaceInString)
 add_subdirectory(Algorithms/0834.SumOfDistancesInTree bin/0834.SumOfDistancesInTree)
+add_subdirectory(Algorithms/0835.ImageOverlap bin/0835.ImageOverlap)
 add_subdirectory(Algorithms/0838.PushDominoes bin/0838.PushDominoes)
 add_subdirectory(Algorithms/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
 add_subdirectory(Algorithms/0842.SplitArrayIntoFibonacciSequence bin/0842.SplitArrayIntoFibonacciSequence)

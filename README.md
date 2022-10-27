@@ -502,6 +502,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 * [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
 * [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+* [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/)
