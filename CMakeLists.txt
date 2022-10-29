@@ -865,6 +865,7 @@ add_subdirectory(Algorithms/2125.NumberOfLaserBeamsInBank bin/2125.NumberOfLaser
 add_subdirectory(Algorithms/2126.DestroyingAsteroids bin/2126.DestroyingAsteroids)
 add_subdirectory(Algorithms/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
 add_subdirectory(Algorithms/2135.CountWordsObtainedAfterAddingLetter bin/2135.CountWordsObtainedAfterAddingLetter)
+add_subdirectory(Algorithms/2136.EarliestPossibleDayOfFullBloom bin/2136.EarliestPossibleDayOfFullBloom)
 add_subdirectory(Algorithms/2139.MinMovesToReachTargetScore bin/2139.MinMovesToReachTargetScore)
 add_subdirectory(Algorithms/2147.NumberOfWaysToDivideLongCorridor bin/2147.NumberOfWaysToDivideLongCorridor)
 add_subdirectory(Algorithms/2149.RearrangeArrayElementsBySign bin/2149.RearrangeArrayElementsBySign)
