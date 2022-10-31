@@ -906,6 +906,7 @@ add_subdirectory(Algorithms/2336.SmallestNumberInInfiniteSet bin/2336.SmallestNu
 add_subdirectory(Algorithms/2348.NumberOfZeroFilledSubarrays bin/2348.NumberOfZeroFilledSubarrays)
 add_subdirectory(Algorithms/2349.DesignNumberContainerSystem bin/2349.DesignNumberContainerSystem)
 add_subdirectory(Algorithms/2352.EqualRowColumnPairs bin/2352.EqualRowColumnPairs)
+add_subdirectory(Algorithms/2365.TaskSchedulerII bin/2365.TaskSchedulerII)
 add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
 add_subdirectory(Algorithms/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
