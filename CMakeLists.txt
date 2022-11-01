@@ -858,6 +858,7 @@ add_subdirectory(Algorithms/2075.DecodeSlantedCiphertext bin/2075.DecodeSlantedC
 add_subdirectory(Algorithms/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
+add_subdirectory(Algorithms/2105.WateringPlantsII bin/2105.WateringPlantsII)
 add_subdirectory(Algorithms/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
 add_subdirectory(Algorithms/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
 add_subdirectory(Algorithms/2119.NumberAfterDoubleReversal bin/2119.NumberAfterDoubleReversal)
