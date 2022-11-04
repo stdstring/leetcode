@@ -650,6 +650,7 @@ add_subdirectory(Algorithms/1079.LetterTilePossibilities bin/1079.LetterTilePoss
 add_subdirectory(Algorithms/1080.InsufficientNodesInRootToLeafPath bin/080.InsufficientNodesInRootToLeafPath)
 add_subdirectory(Algorithms/1081.SmallestSubseqOfDistinctChars bin/1081.SmallestSubseqOfDistinctChars)
 add_subdirectory(Algorithms/1089.DuplicateZeros bin/1089.DuplicateZeros)
+add_subdirectory(Algorithms/1090.LargestValuesFromLabels bin/1090.LargestValuesFromLabels)
 add_subdirectory(Algorithms/1091.ShortestPathInBinaryMatrix bin/1091.ShortestPathInBinaryMatrix)
 add_subdirectory(Algorithms/1093.StatisticsFromLargeSample bin/1093.StatisticsFromLargeSample)
 add_subdirectory(Algorithms/1094.CarPooling bin/1094.CarPooling)
