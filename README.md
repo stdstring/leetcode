@@ -541,6 +541,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
 * [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
 * [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
+* [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
