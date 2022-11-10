@@ -19,7 +19,7 @@ public:
     int pick(int target)
     {
         const auto iterator = _targetIndicesMap.find(target);
-        const std::uniform_int_distribution<> distribution(0, static_cast<int>(iterator->second.size()) - 1);
+        std::uniform_int_distribution<> distribution(0, static_cast<int>(iterator->second.size()) - 1);
         return iterator->second[distribution(_generator)];
     }
 

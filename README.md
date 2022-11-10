@@ -914,5 +914,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 * [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
+* [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)
 * [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/)
 * [2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/)
