@@ -929,4 +929,5 @@ add_subdirectory(Algorithms/2434.UsingRobotToPrintLexSmallestString bin/2434.Usi
 add_subdirectory(Algorithms/2442.CountDistinctIntAfterReverseOp bin/2442.CountDistinctIntAfterReverseOp)
 add_subdirectory(Algorithms/2443.SumOfNumberAndItsReverse bin/2443.SumOfNumberAndItsReverse)
 add_subdirectory(Algorithms/2456.MostPopularVideoCreator bin/2456.MostPopularVideoCreator)
+add_subdirectory(Algorithms/2457.MinAdditionToMakeIntBeautiful bin/2457.MinAdditionToMakeIntBeautiful)
 

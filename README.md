@@ -918,3 +918,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/)
 * [2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/)
 * [2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/description/)
+* [2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/description/)
