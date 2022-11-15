@@ -840,6 +840,7 @@ add_subdirectory(Algorithms/1839.LongestSubstringOfAllVowelsInOrder bin/1839.Lon
 add_subdirectory(Algorithms/1860.IncrementalMemoryLeak bin/1860.IncrementalMemoryLeak)
 add_subdirectory(Algorithms/1871.JumpGameVII bin/1871.JumpGameVII)
 add_subdirectory(Algorithms/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
+add_subdirectory(Algorithms/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
 add_subdirectory(Algorithms/1914.CyclicallyRotatingGrid bin/1914.CyclicallyRotatingGrid)
 add_subdirectory(Algorithms/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
