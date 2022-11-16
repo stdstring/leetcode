@@ -924,6 +924,7 @@ add_subdirectory(Algorithms/2390.RemovingStarsFromString bin/2390.RemovingStarsF
 add_subdirectory(Algorithms/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
+add_subdirectory(Algorithms/2405.OptimalPartitionOfString bin/2405.OptimalPartitionOfString)
 add_subdirectory(Algorithms/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
 add_subdirectory(Algorithms/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/2414.LengthOfLongestAlphContSubstr bin/2414.LengthOfLongestAlphContSubstr)
