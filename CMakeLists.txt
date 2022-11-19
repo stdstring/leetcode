@@ -936,4 +936,5 @@ add_subdirectory(Algorithms/2442.CountDistinctIntAfterReverseOp bin/2442.CountDi
 add_subdirectory(Algorithms/2443.SumOfNumberAndItsReverse bin/2443.SumOfNumberAndItsReverse)
 add_subdirectory(Algorithms/2456.MostPopularVideoCreator bin/2456.MostPopularVideoCreator)
 add_subdirectory(Algorithms/2457.MinAdditionToMakeIntBeautiful bin/2457.MinAdditionToMakeIntBeautiful)
+add_subdirectory(Algorithms/2468.SplitMessageBasedOnLimit bin/2468.SplitMessageBasedOnLimit)
 
