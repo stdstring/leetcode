@@ -925,4 +925,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/)
 * [2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/description/)
 * [2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/description/)
+* [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/description/)
