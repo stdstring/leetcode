@@ -844,6 +844,7 @@ add_subdirectory(Algorithms/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterIn
 add_subdirectory(Algorithms/1914.CyclicallyRotatingGrid bin/1914.CyclicallyRotatingGrid)
 add_subdirectory(Algorithms/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
+add_subdirectory(Algorithms/1926.NearestExitFromEntranceInMaze bin/1926.NearestExitFromEntranceInMaze)
 add_subdirectory(Algorithms/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOfWordsYouCanType)
 add_subdirectory(Algorithms/1946.LargestNumberAfterMutatingSubstr bin/1946.LargestNumberAfterMutatingSubstr)
 add_subdirectory(Algorithms/1952.ThreeDivisors bin/1952.ThreeDivisors)

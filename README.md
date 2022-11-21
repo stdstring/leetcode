@@ -833,6 +833,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
+* [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
 * [1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/)
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
