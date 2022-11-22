@@ -924,6 +924,7 @@ add_subdirectory(Algorithms/2375.ConstructSmallestNumberFromDIString bin/2375.Co
 add_subdirectory(Algorithms/2384.LargestPalindromicNumber bin/2384.LargestPalindromicNumber)
 add_subdirectory(Algorithms/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
 add_subdirectory(Algorithms/2390.RemovingStarsFromString bin/2390.RemovingStarsFromString)
+add_subdirectory(Algorithms/2391.MinTimeAmountToCollectGarbage bin/2391.MinTimeAmountToCollectGarbage)
 add_subdirectory(Algorithms/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)

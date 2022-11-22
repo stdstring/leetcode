@@ -913,6 +913,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2384. Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)
 * [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
 * [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+* [2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
 * [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
 * [2397. Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)
 * [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/)
