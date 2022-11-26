@@ -737,6 +737,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/)
+* [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/description/)
 * [1419. Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)
 * [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 * [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/)
