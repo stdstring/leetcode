@@ -898,6 +898,7 @@ add_subdirectory(Algorithms/2196.CreateBinaryTreeFromDescriptions bin/2196.Creat
 add_subdirectory(Algorithms/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
 add_subdirectory(Algorithms/2217.FindPalindromeWithFixedLength bin/2217.FindPalindromeWithFixedLength)
 add_subdirectory(Algorithms/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
+add_subdirectory(Algorithms/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
 add_subdirectory(Algorithms/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 add_subdirectory(Algorithms/2232.MinResultAddingParenthesesToExpr bin/2232.MinResultAddingParenthesesToExpr)
 add_subdirectory(Algorithms/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumOfChildren)
