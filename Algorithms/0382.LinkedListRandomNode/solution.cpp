@@ -44,10 +44,12 @@ using CommonLib::createLinkedList;
 
 namespace
 {
-    bool contains(std::vector<int> const &sourceValues, int value)
-    {
-        return std::find(sourceValues.cbegin(), sourceValues.cend(), value) != sourceValues.cend();
-    }
+
+bool contains(std::vector<int> const &sourceValues, int value)
+{
+    return std::find(sourceValues.cbegin(), sourceValues.cend(), value) != sourceValues.cend();
+}
+
 }
 
 namespace LinkedListRandomNodeTask

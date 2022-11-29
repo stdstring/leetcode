@@ -258,6 +258,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)
 * [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 * [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+* [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)
 * [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 * [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)

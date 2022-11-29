@@ -269,6 +269,7 @@ add_subdirectory(Algorithms/0374.GuessNumberHigherOrLower bin/0374.GuessNumberHi
 add_subdirectory(Algorithms/0376.WiggleSubsequence bin/0376.WiggleSubsequence)
 add_subdirectory(Algorithms/0377.CombinationSumIV bin/0377.CombinationSumIV)
 add_subdirectory(Algorithms/0378.KthSmallestElementInSortedMatrix bin/0378.KthSmallestElementInSortedMatrix)
+add_subdirectory(Algorithms/0380.InsertDeleteGetRandomO1 bin/0380.InsertDeleteGetRandomO1)
 add_subdirectory(Algorithms/0382.LinkedListRandomNode bin/0382.LinkedListRandomNode)
 add_subdirectory(Algorithms/0383.RansomNote bin/0383.RansomNote)
 add_subdirectory(Algorithms/0384.ShuffleArray bin/0384.ShuffleArray)
