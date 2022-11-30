@@ -668,6 +668,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/)
+* [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
 * [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)

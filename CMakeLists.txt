@@ -679,6 +679,7 @@ add_subdirectory(Algorithms/1190.RevSubstrBetweenEachPairOfParentheses bin/1190.
 add_subdirectory(Algorithms/1192.CriticalConnectionsInNetwork bin/1192.CriticalConnectionsInNetwork)
 add_subdirectory(Algorithms/1200.MinAbsoluteDifference bin/1200.MinAbsoluteDifference)
 add_subdirectory(Algorithms/1202.SmallestStringWithSwaps bin/1202.SmallestStringWithSwaps)
+add_subdirectory(Algorithms/1207.UniqueNumberOfOccurrences bin/1207.UniqueNumberOfOccurrences)
 add_subdirectory(Algorithms/1209.RemoveAllAdjacentDuplicatesInStringII bin/1209.RemoveAllAdjacentDuplicatesInStringII)
 add_subdirectory(Algorithms/1217.MinCostToMoveChipsToSamePosition bin/1217.MinCostToMoveChipsToSamePosition)
 add_subdirectory(Algorithms/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
