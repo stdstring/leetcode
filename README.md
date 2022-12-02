@@ -938,3 +938,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/description/)
+* [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/)
