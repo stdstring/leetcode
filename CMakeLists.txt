@@ -949,5 +949,6 @@ add_subdirectory(Algorithms/2457.MinAdditionToMakeIntBeautiful bin/2457.MinAddit
 add_subdirectory(Algorithms/2461.MaxSumDistinctSubarraysLengthK bin/2461.MaxSumDistinctSubarraysLengthK)
 add_subdirectory(Algorithms/2462.TotalCostHireKWorkers bin/2462.TotalCostHireKWorkers)
 add_subdirectory(Algorithms/2468.SplitMessageBasedOnLimit bin/2468.SplitMessageBasedOnLimit)
+add_subdirectory(Algorithms/2476.ClosestNodesQueriesInBST bin/2476.ClosestNodesQueriesInBST)
 add_subdirectory(Algorithms/2482.DiffBetweenOnesZerosInRowColumn bin/2482.DiffBetweenOnesZerosInRowColumn)
 
