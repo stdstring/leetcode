@@ -908,6 +908,7 @@ add_subdirectory(Algorithms/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumO
 add_subdirectory(Algorithms/2240.NumberWaysToBuyPensPencils bin/2240.NumberWaysToBuyPensPencils)
 add_subdirectory(Algorithms/2241.DesignATMMachine bin/2241.DesignATMMachine)
 add_subdirectory(Algorithms/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
+add_subdirectory(Algorithms/2256.MinAverageDifference bin/2256.MinAverageDifference)
 add_subdirectory(Algorithms/2257.CountUnguardedCellsInGrid bin/2257.CountUnguardedCellsInGrid)
 add_subdirectory(Algorithms/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 add_subdirectory(Algorithms/2266.CountNumberOfTexts bin/2266.CountNumberOfTexts)
