@@ -943,6 +943,7 @@ add_subdirectory(Algorithms/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOd
 add_subdirectory(Algorithms/2418.SortPeople bin/2418.SortPeople)
 add_subdirectory(Algorithms/2428.MaxSumOfHourglass bin/2428.MaxSumOfHourglass)
 add_subdirectory(Algorithms/2434.UsingRobotToPrintLexSmallestString bin/2434.UsingRobotToPrintLexSmallestString)
+add_subdirectory(Algorithms/2438.RangeProductQueriesOfPowers bin/2438.RangeProductQueriesOfPowers)
 add_subdirectory(Algorithms/2442.CountDistinctIntAfterReverseOp bin/2442.CountDistinctIntAfterReverseOp)
 add_subdirectory(Algorithms/2443.SumOfNumberAndItsReverse bin/2443.SumOfNumberAndItsReverse)
 add_subdirectory(Algorithms/2456.MostPopularVideoCreator bin/2456.MostPopularVideoCreator)
