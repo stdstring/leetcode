@@ -942,3 +942,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/description/)
 * [2476. Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/description/)
 * [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/)
+* [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)
