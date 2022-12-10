@@ -863,6 +863,7 @@ add_subdirectory(Algorithms/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalVal
 add_subdirectory(Algorithms/2013.DetectSquares bin/2013.DetectSquares)
 add_subdirectory(Algorithms/2018.CheckWordCanBePlacedInCrossword bin/2018.CheckWordCanBePlacedInCrossword)
 add_subdirectory(Algorithms/2022.Convert1DArrayInto2DArray bin/2022.Convert1DArrayInto2DArray)
+add_subdirectory(Algorithms/2028.FindMissingObservations bin/2028.FindMissingObservations)
 add_subdirectory(Algorithms/2043.SimpleBankSystem bin/2043.SimpleBankSystem)
 add_subdirectory(Algorithms/2048.NextGreaterNumericallyBalancedNumber bin/2048.NextGreaterNumericallyBalancedNumber)
 add_subdirectory(Algorithms/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints bin/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints)

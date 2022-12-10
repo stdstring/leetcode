@@ -852,6 +852,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2013. Detect Squares](https://leetcode.com/problems/detect-squares/description/)
 * [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)
 * [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)
+* [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
