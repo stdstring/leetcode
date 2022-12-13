@@ -960,4 +960,5 @@ add_subdirectory(Algorithms/2468.SplitMessageBasedOnLimit bin/2468.SplitMessageB
 add_subdirectory(Algorithms/2476.ClosestNodesQueriesInBST bin/2476.ClosestNodesQueriesInBST)
 add_subdirectory(Algorithms/2482.DiffBetweenOnesZerosInRowColumn bin/2482.DiffBetweenOnesZerosInRowColumn)
 add_subdirectory(Algorithms/2486.AppendCharsToStringToMakeSubseq bin/2486.AppendCharsToStringToMakeSubseq)
+add_subdirectory(Algorithms/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesFromLinkedList)
 
