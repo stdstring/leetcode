@@ -259,6 +259,7 @@ add_subdirectory(Algorithms/0347.TopKFrequentElements bin/0347.TopKFrequentEleme
 add_subdirectory(Algorithms/0349.IntersectionOfTwoArrays bin/0349.IntersectionOfTwoArrays)
 add_subdirectory(Algorithms/0350.IntersectionOfTwoArraysII bin/0350.IntersectionOfTwoArraysII)
 add_subdirectory(Algorithms/0354.RussianDollEnvelopes bin/0354.RussianDollEnvelopes)
+add_subdirectory(Algorithms/0355.DesignTwitter bin/0355.DesignTwitter)
 add_subdirectory(Algorithms/0357.CountNumbersWithUniqueDigits bin/0357.CountNumbersWithUniqueDigits)
 add_subdirectory(Algorithms/0367.ValidPerfectSquare bin/0367.ValidPerfectSquare)
 add_subdirectory(Algorithms/0368.LargestDivisibleSubset bin/0368.LargestDivisibleSubset)

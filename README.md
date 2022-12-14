@@ -248,6 +248,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 * [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 * [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
+* [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)
 * [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 * [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 * [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
