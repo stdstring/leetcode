@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.7 FATAL_ERROR)
 
-project(0380.InsertDeleteGetRandomO1 CXX)
+project(0381.InsertDeleteGetRandomO1Duplicates CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
