@@ -519,6 +519,7 @@ add_subdirectory(Algorithms/0834.SumOfDistancesInTree bin/0834.SumOfDistancesInT
 add_subdirectory(Algorithms/0835.ImageOverlap bin/0835.ImageOverlap)
 add_subdirectory(Algorithms/0838.PushDominoes bin/0838.PushDominoes)
 add_subdirectory(Algorithms/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
+add_subdirectory(Algorithms/0841.KeysAndRooms bin/0841.KeysAndRooms)
 add_subdirectory(Algorithms/0842.SplitArrayIntoFibonacciSequence bin/0842.SplitArrayIntoFibonacciSequence)
 add_subdirectory(Algorithms/0843.GuessWord bin/0843.GuessWord)
 add_subdirectory(Algorithms/0844.BackspaceStringCompare bin/0844.BackspaceStringCompare)

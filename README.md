@@ -508,6 +508,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
+* [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 * [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/)
 * [843. Guess the Word](https://leetcode.com/problems/guess-the-word/description/)
 * [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
