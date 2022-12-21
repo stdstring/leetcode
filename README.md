@@ -537,6 +537,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
 * [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)
 * [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)
+* [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
 * [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
 * [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
 * [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)
