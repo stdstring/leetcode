@@ -391,6 +391,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 * [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/)
 * [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
+* [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
 * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)
 * [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
