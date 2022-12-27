@@ -914,6 +914,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
+* [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 * [2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/description/)
 * [2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/description/)
 * [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/)
