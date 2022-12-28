@@ -861,6 +861,7 @@ add_subdirectory(Algorithms/1946.LargestNumberAfterMutatingSubstr bin/1946.Large
 add_subdirectory(Algorithms/1952.ThreeDivisors bin/1952.ThreeDivisors)
 add_subdirectory(Algorithms/1954.MinGardenPerimeterCollectEnoughApples bin/1954.MinGardenPerimeterCollectEnoughApples)
 add_subdirectory(Algorithms/1958.CheckIfMoveIsLegal bin/1958.CheckIfMoveIsLegal)
+add_subdirectory(Algorithms/1962.RemoveStonesToMinimizeTotal bin/1962.RemoveStonesToMinimizeTotal)
 add_subdirectory(Algorithms/1971.FindIfPathExistsInGraph bin/1971.FindIfPathExistsInGraph)
 add_subdirectory(Algorithms/1993.OperationsOnTree bin/1993.OperationsOnTree)
 add_subdirectory(Algorithms/1996.NumberOfWeakCharactersInGame bin/1996.NumberOfWeakCharactersInGame)
