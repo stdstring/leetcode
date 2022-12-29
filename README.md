@@ -836,6 +836,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 * [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
 * [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+* [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
 * [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
