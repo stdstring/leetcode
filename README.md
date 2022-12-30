@@ -117,6 +117,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [120. Triangle](https://leetcode.com/problems/triangle/description/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 * [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/)
