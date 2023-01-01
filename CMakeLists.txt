@@ -333,6 +333,7 @@ add_subdirectory(Algorithms/0459.RepeatedSubstringPattern bin/0459.RepeatedSubst
 add_subdirectory(Algorithms/0461.HammingDistance bin/0461.HammingDistance)
 add_subdirectory(Algorithms/0462.MinMovesToEqualArrayElementsII bin/0462.MinMovesToEqualArrayElementsII)
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
+add_subdirectory(Algorithms/0467.UniqueSubstrInWraparoundStr bin/0467.UniqueSubstrInWraparoundStr)
 add_subdirectory(Algorithms/0468.ValidateIPAddress bin/0468.ValidateIPAddress)
 add_subdirectory(Algorithms/0473.MatchsticksToSquare bin/0473.MatchsticksToSquare)
 add_subdirectory(Algorithms/0474.OnesAndZeroes bin/0474.OnesAndZeroes)

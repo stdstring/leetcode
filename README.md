@@ -322,6 +322,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+* [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 * [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
 * [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/)
 * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
