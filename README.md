@@ -355,6 +355,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
 * [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)
 * [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
+* [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
 * [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
 * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
