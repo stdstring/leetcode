@@ -853,6 +853,7 @@ add_subdirectory(Algorithms/1814.CountNicePairsInArray bin/1814.CountNicePairsIn
 add_subdirectory(Algorithms/1822.SignOfProductOfArray bin/1822.SignOfProductOfArray)
 add_subdirectory(Algorithms/1828.QueriesNumberOfPointsInsideCircle bin/1828.QueriesNumberOfPointsInsideCircle)
 add_subdirectory(Algorithms/1832.CheckIfSentenceIsPangram bin/1832.CheckIfSentenceIsPangram)
+add_subdirectory(Algorithms/1833.MaxIceCreamBars bin/1833.MaxIceCreamBars)
 add_subdirectory(Algorithms/1834.SingleThreadedCPU bin/1834.SingleThreadedCPU)
 add_subdirectory(Algorithms/1839.LongestSubstringOfAllVowelsInOrder bin/1839.LongestSubstringOfAllVowelsInOrder)
 add_subdirectory(Algorithms/1860.IncrementalMemoryLeak bin/1860.IncrementalMemoryLeak)
