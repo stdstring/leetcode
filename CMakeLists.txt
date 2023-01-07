@@ -672,6 +672,7 @@ add_subdirectory(Algorithms/1106.ParsingBooleanExpression bin/1106.ParsingBoolea
 add_subdirectory(Algorithms/1108.DefangingIPAddress bin/1108.DefangingIPAddress)
 add_subdirectory(Algorithms/1110.DeleteNodesAndReturnForest bin/1110.DeleteNodesAndReturnForest)
 add_subdirectory(Algorithms/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
+add_subdirectory(Algorithms/1128.NumberOfEquivalentDominoPairs bin/1128.NumberOfEquivalentDominoPairs)
 add_subdirectory(Algorithms/1137.NthTribonacciNumber bin/1137.NthTribonacciNumber)
 add_subdirectory(Algorithms/1138.AlphabetBoardPath bin/1138.AlphabetBoardPath)
 add_subdirectory(Algorithms/1143.LongestCommonSubsequence bin/1143.LongestCommonSubsequence)
