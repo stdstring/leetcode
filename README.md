@@ -670,6 +670,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/)
 * [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+* [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 * [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/)
 * [1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/)
 * [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/)
