@@ -535,6 +535,7 @@ add_subdirectory(Algorithms/0849.MaximizeDistanceToClosestPerson bin/0849.Maximi
 add_subdirectory(Algorithms/0852.PeakIndexInMountainArray bin/0852.PeakIndexInMountainArray)
 add_subdirectory(Algorithms/0856.ScoreOfParentheses bin/0856.ScoreOfParentheses)
 add_subdirectory(Algorithms/0859.BuddyStrings bin/0859.BuddyStrings)
+add_subdirectory(Algorithms/0861.ScoreAfterFlippingMatrix bin/0861.ScoreAfterFlippingMatrix)
 add_subdirectory(Algorithms/0863.AllNodesDistanceKInBinaryTree bin/0863.AllNodesDistanceKInBinaryTree)
 add_subdirectory(Algorithms/0865.SmallestSubtreeWithAllDeepestNodes bin/0865.SmallestSubtreeWithAllDeepestNodes)
 add_subdirectory(Algorithms/0866.PrimePalindrome bin/0866.PrimePalindrome)
