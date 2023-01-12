@@ -990,4 +990,5 @@ add_subdirectory(Algorithms/2483.MinPenaltyForShop bin/2483.MinPenaltyForShop)
 add_subdirectory(Algorithms/2486.AppendCharsToStringToMakeSubseq bin/2486.AppendCharsToStringToMakeSubseq)
 add_subdirectory(Algorithms/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesFromLinkedList)
 add_subdirectory(Algorithms/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
+add_subdirectory(Algorithms/2530.MaxScoreAfterApplyingKOperations bin/2530.MaxScoreAfterApplyingKOperations)
 
