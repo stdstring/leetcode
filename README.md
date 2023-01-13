@@ -921,6 +921,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)
 * [2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/description/)
 * [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
+* [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/)
 * [2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
 * [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/)
 * [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)
