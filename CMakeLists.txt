@@ -511,6 +511,7 @@ add_subdirectory(Algorithms/0817.LinkedListComponents bin/0817.LinkedListCompone
 add_subdirectory(Algorithms/0819.MostCommonWord bin/0819.MostCommonWord)
 add_subdirectory(Algorithms/0820.ShortEncodingOfWords bin/0820.ShortEncodingOfWords)
 add_subdirectory(Algorithms/0821.ShortestDistanceToCharacter bin/0821.ShortestDistanceToCharacter)
+add_subdirectory(Algorithms/0822.CardFlippingGame bin/0822.CardFlippingGame)
 add_subdirectory(Algorithms/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/0825.FriendsOfAppropriateAges bin/0825.FriendsOfAppropriateAges)
 add_subdirectory(Algorithms/0826.MostProfitAssigningWork bin/0826.MostProfitAssigningWork)
