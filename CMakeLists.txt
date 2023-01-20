@@ -998,4 +998,5 @@ add_subdirectory(Algorithms/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesF
 add_subdirectory(Algorithms/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
 add_subdirectory(Algorithms/2521.DistinctPrimeFactorsOfArrayProduct bin/2521.DistinctPrimeFactorsOfArrayProduct)
 add_subdirectory(Algorithms/2530.MaxScoreAfterApplyingKOperations bin/2530.MaxScoreAfterApplyingKOperations)
+add_subdirectory(Algorithms/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
 
