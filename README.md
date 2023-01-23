@@ -881,6 +881,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
+* [2056. Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/)
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
