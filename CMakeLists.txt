@@ -963,6 +963,7 @@ add_subdirectory(Algorithms/2342.MaxSumPairWithEqualDigitsSum bin/2342.MaxSumPai
 add_subdirectory(Algorithms/2348.NumberOfZeroFilledSubarrays bin/2348.NumberOfZeroFilledSubarrays)
 add_subdirectory(Algorithms/2349.DesignNumberContainerSystem bin/2349.DesignNumberContainerSystem)
 add_subdirectory(Algorithms/2352.EqualRowColumnPairs bin/2352.EqualRowColumnPairs)
+add_subdirectory(Algorithms/2359.FindClosestNodeToGivenTwoNodes bin/2359.FindClosestNodeToGivenTwoNodes)
 add_subdirectory(Algorithms/2365.TaskSchedulerII bin/2365.TaskSchedulerII)
 add_subdirectory(Algorithms/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
 add_subdirectory(Algorithms/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
