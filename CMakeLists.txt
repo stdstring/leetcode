@@ -259,6 +259,7 @@ add_subdirectory(Algorithms/0345.ReverseVowelsOfString bin/0345.ReverseVowelsOfS
 add_subdirectory(Algorithms/0347.TopKFrequentElements bin/0347.TopKFrequentElements)
 add_subdirectory(Algorithms/0349.IntersectionOfTwoArrays bin/0349.IntersectionOfTwoArrays)
 add_subdirectory(Algorithms/0350.IntersectionOfTwoArraysII bin/0350.IntersectionOfTwoArraysII)
+add_subdirectory(Algorithms/0352.DataStreamAsDisjointIntervals bin/0352.DataStreamAsDisjointIntervals)
 add_subdirectory(Algorithms/0354.RussianDollEnvelopes bin/0354.RussianDollEnvelopes)
 add_subdirectory(Algorithms/0355.DesignTwitter bin/0355.DesignTwitter)
 add_subdirectory(Algorithms/0357.CountNumbersWithUniqueDigits bin/0357.CountNumbersWithUniqueDigits)
