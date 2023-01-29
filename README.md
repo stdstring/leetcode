@@ -320,6 +320,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/description/)
 * [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)
+* [460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 * [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
 * [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
