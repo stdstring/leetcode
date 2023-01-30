@@ -412,6 +412,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 * [648. Replace Words](https://leetcode.com/problems/replace-words/description/)
+* [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
 * [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)
 * [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 * [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
