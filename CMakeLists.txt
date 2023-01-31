@@ -819,6 +819,7 @@ add_subdirectory(Algorithms/1594.MaximumNonNegativeProductInMatrix bin/1594.Maxi
 add_subdirectory(Algorithms/1600.ThroneInheritance bin/1600.ThroneInheritance)
 add_subdirectory(Algorithms/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/1609.EvenOddTree bin/1609.EvenOddTree)
+add_subdirectory(Algorithms/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
 add_subdirectory(Algorithms/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/1631.PathWithMinEffort bin/1631.PathWithMinEffort)
 add_subdirectory(Algorithms/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
