@@ -999,3 +999,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2521. Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)
 * [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
+* [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/)

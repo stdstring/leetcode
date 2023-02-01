@@ -1010,4 +1010,5 @@ add_subdirectory(Algorithms/2502.DesignMemoryAllocator bin/2502.DesignMemoryAllo
 add_subdirectory(Algorithms/2521.DistinctPrimeFactorsOfArrayProduct bin/2521.DistinctPrimeFactorsOfArrayProduct)
 add_subdirectory(Algorithms/2530.MaxScoreAfterApplyingKOperations bin/2530.MaxScoreAfterApplyingKOperations)
 add_subdirectory(Algorithms/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
+add_subdirectory(Algorithms/2549.CountDistinctNumbersOnBoard bin/2549.CountDistinctNumbersOnBoard)
 
