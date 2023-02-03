@@ -369,6 +369,7 @@ add_subdirectory(Algorithms/0523.ContinuousSubarraySum bin/0523.ContinuousSubarr
 add_subdirectory(Algorithms/0524.LongestWordInDictThroughDeleting bin/0524.LongestWordInDictThroughDeleting)
 add_subdirectory(Algorithms/0525.ContiguousArray bin/0525.ContiguousArray)
 add_subdirectory(Algorithms/0526.BeautifulArrangement bin/0526.BeautifulArrangement)
+add_subdirectory(Algorithms/0528.RandomPickWithWeight bin/0528.RandomPickWithWeight)
 add_subdirectory(Algorithms/0529.Minesweeper bin/0529.Minesweeper)
 add_subdirectory(Algorithms/0530.MinimumAbsoluteDifferenceInBST bin/0530.MinimumAbsoluteDifferenceInBST)
 add_subdirectory(Algorithms/0532.KdiffPairsInArray bin/0532.KdiffPairsInArray)
