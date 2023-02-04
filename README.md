@@ -448,6 +448,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
+* [710. Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 * [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
