@@ -337,6 +337,7 @@ add_subdirectory(Algorithms/0462.MinMovesToEqualArrayElementsII bin/0462.MinMove
 add_subdirectory(Algorithms/0463.IslandPerimeter bin/0463.IslandPerimeter)
 add_subdirectory(Algorithms/0467.UniqueSubstrInWraparoundStr bin/0467.UniqueSubstrInWraparoundStr)
 add_subdirectory(Algorithms/0468.ValidateIPAddress bin/0468.ValidateIPAddress)
+add_subdirectory(Algorithms/0470.ImplementRand10UsingRand7 bin/0470.ImplementRand10UsingRand7)
 add_subdirectory(Algorithms/0473.MatchsticksToSquare bin/0473.MatchsticksToSquare)
 add_subdirectory(Algorithms/0474.OnesAndZeroes bin/0474.OnesAndZeroes)
 add_subdirectory(Algorithms/0475.Heaters bin/0475.Heaters)

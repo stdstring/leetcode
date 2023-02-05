@@ -10,7 +10,7 @@ namespace
 class Solution
 {
 public:
-    Solution(std::vector<int> const &nums)
+    Solution(std::vector<int> const &nums) : _generator(std::random_device()())
     {
         for (size_t index = 0; index < nums.size(); ++index)
             _targetIndicesMap[nums[index]].push_back(static_cast<int>(index));
