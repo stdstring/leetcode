@@ -792,6 +792,7 @@ add_subdirectory(Algorithms/1457.PseudoPalindromicPathsInBinaryTree bin/1457.Pse
 add_subdirectory(Algorithms/1461.CheckIfStringContainsAllBinaryOfSizeK bin/1461.CheckIfStringContainsAllBinaryOfSizeK)
 add_subdirectory(Algorithms/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/1465.MaxAreaOfPieceOfCakeAfterCuts bin/1465.MaxAreaOfPieceOfCakeAfterCuts)
+add_subdirectory(Algorithms/1470.ShuffleArray bin/1470.ShuffleArray)
 add_subdirectory(Algorithms/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
 add_subdirectory(Algorithms/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)
 add_subdirectory(Algorithms/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
