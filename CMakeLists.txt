@@ -1017,4 +1017,5 @@ add_subdirectory(Algorithms/2530.MaxScoreAfterApplyingKOperations bin/2530.MaxSc
 add_subdirectory(Algorithms/2531.MakeNumberDistinctCharsEqual bin/2531.MakeNumberDistinctCharsEqual)
 add_subdirectory(Algorithms/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
 add_subdirectory(Algorithms/2549.CountDistinctNumbersOnBoard bin/2549.CountDistinctNumbersOnBoard)
+add_subdirectory(Algorithms/2550.CountCollisionsMonkeysOnPolygon bin/2550.CountCollisionsMonkeysOnPolygon)
 
