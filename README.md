@@ -953,6 +953,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/description/)
 * [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
+* [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
 * [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
 * [2310. Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
 * [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)

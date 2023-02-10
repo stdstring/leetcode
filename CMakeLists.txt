@@ -964,6 +964,7 @@ add_subdirectory(Algorithms/2280.MinLinesToRepresentLineChart bin/2280.MinLinesT
 add_subdirectory(Algorithms/2284.SenderWithLargestWordCount bin/2284.SenderWithLargestWordCount)
 add_subdirectory(Algorithms/2295.ReplaceElementsInArray bin/2295.ReplaceElementsInArray)
 add_subdirectory(Algorithms/2296.DesignTextEditor bin/2296.DesignTextEditor)
+add_subdirectory(Algorithms/2306.NamingCompany bin/2306.NamingCompany)
 add_subdirectory(Algorithms/2309.GreatestEnglishLetterUpperLowerCase bin/2309.GreatestEnglishLetterUpperLowerCase)
 add_subdirectory(Algorithms/2310.SumOfNumbersWithUnitsDigitK bin/2310.SumOfNumbersWithUnitsDigitK)
 add_subdirectory(Algorithms/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
