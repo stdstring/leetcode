@@ -902,6 +902,7 @@ add_subdirectory(Algorithms/2018.CheckWordCanBePlacedInCrossword bin/2018.CheckW
 add_subdirectory(Algorithms/2022.Convert1DArrayInto2DArray bin/2022.Convert1DArrayInto2DArray)
 add_subdirectory(Algorithms/2028.FindMissingObservations bin/2028.FindMissingObservations)
 add_subdirectory(Algorithms/2033.MinOperationsToMakeUniValueGrid bin/2033.MinOperationsToMakeUniValueGrid)
+add_subdirectory(Algorithms/2034.StockPriceFluctuation bin/2034.StockPriceFluctuation)
 add_subdirectory(Algorithms/2043.SimpleBankSystem bin/2043.SimpleBankSystem)
 add_subdirectory(Algorithms/2048.NextGreaterNumericallyBalancedNumber bin/2048.NextGreaterNumericallyBalancedNumber)
 add_subdirectory(Algorithms/2056.NumberValidMoveCombinationsOnChessboard bin/2056.NumberValidMoveCombinationsOnChessboard)
