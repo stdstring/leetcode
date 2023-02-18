@@ -951,6 +951,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
+* [2276. Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/description/)
 * [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
 * [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 * [2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/description/)
