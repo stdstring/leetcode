@@ -913,6 +913,7 @@ add_subdirectory(Algorithms/2063.VowelsOfAllSubstrings bin/2063.VowelsOfAllSubst
 add_subdirectory(Algorithms/2069.WalkingRobotSimulationII bin/2069.WalkingRobotSimulationII)
 add_subdirectory(Algorithms/2074.ReverseNodesInEvenLengthGroups bin/2074.ReverseNodesInEvenLengthGroups)
 add_subdirectory(Algorithms/2075.DecodeSlantedCiphertext bin/2075.DecodeSlantedCiphertext)
+add_subdirectory(Algorithms/2080.RangeFrequencyQueries bin/2080.RangeFrequencyQueries)
 add_subdirectory(Algorithms/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)
 add_subdirectory(Algorithms/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
