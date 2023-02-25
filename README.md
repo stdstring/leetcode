@@ -973,6 +973,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
 * [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/)
 * [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
+* [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/)
 * [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 * [2365. Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/description/)
 * [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/description/)
