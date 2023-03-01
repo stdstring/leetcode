@@ -569,6 +569,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 * [911. Online Election](https://leetcode.com/problems/online-election/description/)
+* [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 * [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/)
 * [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/)
 * [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)

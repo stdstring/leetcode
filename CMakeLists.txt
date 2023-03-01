@@ -580,6 +580,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0904.FruitIntoBaskets bin/0904.Fruit
 add_subdirectory(Algorithms/Tasks.0501.1000/0905.SortArrayByParity bin/0905.SortArrayByParity)
 add_subdirectory(Algorithms/Tasks.0501.1000/0909.SnakesAndLadders bin/0909.SnakesAndLadders)
 add_subdirectory(Algorithms/Tasks.0501.1000/0911.OnlineElection bin/0911.OnlineElection)
+add_subdirectory(Algorithms/Tasks.0501.1000/0912.SortArray bin/0912.SortArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0915.PartitionArrayIntoDisjointIntervals bin/0915.PartitionArrayIntoDisjointIntervals)
 add_subdirectory(Algorithms/Tasks.0501.1000/0916.WordSubsets bin/0916.WordSubsets)
 add_subdirectory(Algorithms/Tasks.0501.1000/0917.ReverseOnlyLetters bin/0917.ReverseOnlyLetters)
