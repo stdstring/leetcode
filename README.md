@@ -1027,3 +1027,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 * [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/)
 * [2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/)
+* [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)

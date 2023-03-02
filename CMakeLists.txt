@@ -1038,4 +1038,5 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2531.MakeNumberDistinctCharsEqual bi
 add_subdirectory(Algorithms/Tasks.2501.3000/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2549.CountDistinctNumbersOnBoard bin/2549.CountDistinctNumbersOnBoard)
 add_subdirectory(Algorithms/Tasks.2501.3000/2550.CountCollisionsMonkeysOnPolygon bin/2550.CountCollisionsMonkeysOnPolygon)
+add_subdirectory(Algorithms/Tasks.2501.3000/2575.FindDivisibilityArrayOfString bin/2575.FindDivisibilityArrayOfString)
 
