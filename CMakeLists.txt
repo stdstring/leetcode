@@ -1032,6 +1032,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2487.RemoveNodesFromLinkedList bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2502.DesignMemoryAllocator bin/2502.DesignMemoryAllocator)
 add_subdirectory(Algorithms/Tasks.2501.3000/2507.SmallestValueAfterPrimeFactorsSumReplacing bin/2507.SmallestValueAfterPrimeFactorsSumReplacing)
+add_subdirectory(Algorithms/Tasks.2501.3000/2514.CountAnagrams bin/2514.CountAnagrams)
 add_subdirectory(Algorithms/Tasks.2501.3000/2521.DistinctPrimeFactorsOfArrayProduct bin/2521.DistinctPrimeFactorsOfArrayProduct)
 add_subdirectory(Algorithms/Tasks.2501.3000/2523.ClosestPrimeNumbersInRange bin/2523.ClosestPrimeNumbersInRange)
 add_subdirectory(Algorithms/Tasks.2501.3000/2526.FindConsecutiveIntegersFromDataStream bin/2526.FindConsecutiveIntegersFromDataStream)
