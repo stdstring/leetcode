@@ -820,6 +820,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1529.BulbSwitcherIV bin/1529.BulbSwi
 add_subdirectory(Algorithms/Tasks.1501.2000/1530.NumberOfGoodLeafNodesPairs bin/1530.NumberOfGoodLeafNodesPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1534.CountGoodTriplets bin/1534.CountGoodTriplets)
 add_subdirectory(Algorithms/Tasks.1501.2000/1535.FindWinnerOfArrayGame bin/1535.FindWinnerOfArrayGame)
+add_subdirectory(Algorithms/Tasks.1501.2000/1539.KthMissingPositiveNumber bin/1539.KthMissingPositiveNumber)
 add_subdirectory(Algorithms/Tasks.1501.2000/1541.MinInsertionsToBalanceParenthesesStr bin/1541.MinInsertionsToBalanceParenthesesStr)
 add_subdirectory(Algorithms/Tasks.1501.2000/1544.MakeStringGreat bin/1544.MakeStringGreat)
 add_subdirectory(Algorithms/Tasks.1501.2000/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)

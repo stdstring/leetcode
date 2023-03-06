@@ -809,6 +809,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)
 * [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 * [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/)
+* [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
 * [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
 * [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
 * [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
