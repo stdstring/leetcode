@@ -1011,6 +1011,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2414.LengthOfLongestAlphContSubstr b
 add_subdirectory(Algorithms/Tasks.2001.2500/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
 add_subdirectory(Algorithms/Tasks.2001.2500/2418.SortPeople bin/2418.SortPeople)
 add_subdirectory(Algorithms/Tasks.2001.2500/2424.LongestUploadedPrefix bin/2424.LongestUploadedPrefix)
+add_subdirectory(Algorithms/Tasks.2001.2500/2425.BitwiseXORAllPairings bin/2425.BitwiseXORAllPairings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2428.MaxSumOfHourglass bin/2428.MaxSumOfHourglass)
 add_subdirectory(Algorithms/Tasks.2001.2500/2434.UsingRobotToPrintLexSmallestString bin/2434.UsingRobotToPrintLexSmallestString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2438.RangeProductQueriesOfPowers bin/2438.RangeProductQueriesOfPowers)
