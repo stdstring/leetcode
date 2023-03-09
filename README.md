@@ -879,6 +879,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
 * [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/)
 * [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
+* [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/description/)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
