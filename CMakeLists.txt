@@ -708,6 +708,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1189.MaximumNumberOfBalloons bin/118
 add_subdirectory(Algorithms/Tasks.1001.1500/1190.RevSubstrBetweenEachPairOfParentheses bin/1190.RevSubstrBetweenEachPairOfParentheses)
 add_subdirectory(Algorithms/Tasks.1001.1500/1192.CriticalConnectionsInNetwork bin/1192.CriticalConnectionsInNetwork)
 add_subdirectory(Algorithms/Tasks.1001.1500/1200.MinAbsoluteDifference bin/1200.MinAbsoluteDifference)
+add_subdirectory(Algorithms/Tasks.1001.1500/1201.UglyNumberIII bin/1201.UglyNumberIII)
 add_subdirectory(Algorithms/Tasks.1001.1500/1202.SmallestStringWithSwaps bin/1202.SmallestStringWithSwaps)
 add_subdirectory(Algorithms/Tasks.1001.1500/1207.UniqueNumberOfOccurrences bin/1207.UniqueNumberOfOccurrences)
 add_subdirectory(Algorithms/Tasks.1001.1500/1209.RemoveAllAdjacentDuplicatesInStringII bin/1209.RemoveAllAdjacentDuplicatesInStringII)

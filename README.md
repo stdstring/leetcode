@@ -697,6 +697,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 * [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
+* [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
