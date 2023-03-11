@@ -504,6 +504,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0788.RotatedDigits bin/0788.RotatedD
 add_subdirectory(Algorithms/Tasks.0501.1000/0790.DominoAndTrominoTiling bin/0790.DominoAndTrominoTiling)
 add_subdirectory(Algorithms/Tasks.0501.1000/0791.CustomSortString bin/0791.CustomSortString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0792.NumberOfMatchingSubsequences bin/0792.NumberOfMatchingSubsequences)
+add_subdirectory(Algorithms/Tasks.0501.1000/0793.PreimageSizeFactorialZeroesFun bin/0793.PreimageSizeFactorialZeroesFun)
 add_subdirectory(Algorithms/Tasks.0501.1000/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
 add_subdirectory(Algorithms/Tasks.0501.1000/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)

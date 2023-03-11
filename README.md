@@ -493,6 +493,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)
+* [793. Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/)
 * [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
 * [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
