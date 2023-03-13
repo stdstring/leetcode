@@ -866,6 +866,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1720.DecodeXORedArray bin/1720.Decod
 add_subdirectory(Algorithms/Tasks.1501.2000/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
 add_subdirectory(Algorithms/Tasks.1501.2000/1759.CountNumberOfHomogenousSubstrings bin/1759.CountNumberOfHomogenousSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1764.FormArrayConcatSubarraysAnotherArray bin/1764.FormArrayConcatSubarraysAnotherArray)
+add_subdirectory(Algorithms/Tasks.1501.2000/1765.MapHighestPeak bin/1765.MapHighestPeak)
 add_subdirectory(Algorithms/Tasks.1501.2000/1769.MinNumberOfOpsToMoveAllBallsToEachBox bin/1769.MinNumberOfOpsToMoveAllBallsToEachBox)
 add_subdirectory(Algorithms/Tasks.1501.2000/1770.MaxScoreFromPerformingMultOps bin/1770.MaxScoreFromPerformingMultOps)
 add_subdirectory(Algorithms/Tasks.1501.2000/1773.CountItemsMatchingRule bin/1773.CountItemsMatchingRule)
