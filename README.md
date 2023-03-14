@@ -878,6 +878,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/)
 * [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/)
+* [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/)
 * [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
 * [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/)

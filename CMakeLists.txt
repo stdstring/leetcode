@@ -889,6 +889,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1834.SingleThreadedCPU bin/1834.Sing
 add_subdirectory(Algorithms/Tasks.1501.2000/1839.LongestSubstringOfAllVowelsInOrder bin/1839.LongestSubstringOfAllVowelsInOrder)
 add_subdirectory(Algorithms/Tasks.1501.2000/1845.SeatReservationManager bin/1845.SeatReservationManager)
 add_subdirectory(Algorithms/Tasks.1501.2000/1860.IncrementalMemoryLeak bin/1860.IncrementalMemoryLeak)
+add_subdirectory(Algorithms/Tasks.1501.2000/1861.RotatingBox bin/1861.RotatingBox)
 add_subdirectory(Algorithms/Tasks.1501.2000/1865.FindingPairsWithCertainSum bin/1865.FindingPairsWithCertainSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1871.JumpGameVII bin/1871.JumpGameVII)
 add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
