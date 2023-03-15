@@ -770,6 +770,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1367.LinkedListInBinaryTree bin/1367
 add_subdirectory(Algorithms/Tasks.1001.1500/1372.LongestZigZagPathInBinaryTree bin/1372.LongestZigZagPathInBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1374.GenerateStrWithCharsThatHaveOddCounts bin/1374.GenerateStrWithCharsThatHaveOddCounts)
 add_subdirectory(Algorithms/Tasks.1001.1500/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
+add_subdirectory(Algorithms/Tasks.1001.1500/1376.TimeNeededToInformAllEmployees bin/1376.TimeNeededToInformAllEmployees)
 add_subdirectory(Algorithms/Tasks.1001.1500/1379.FindCorrespondingNodeOfBinTreeInClone bin/1379.FindCorrespondingNodeOfBinTreeInClone)
 add_subdirectory(Algorithms/Tasks.1001.1500/1381.DesignStackWithIncrementOp bin/1381.DesignStackWithIncrementOp)
 add_subdirectory(Algorithms/Tasks.1001.1500/1382.BalanceBinarySearchTree bin/1382.BalanceBinarySearchTree)
