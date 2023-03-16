@@ -1041,3 +1041,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/)
 * [2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/)
 * [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)
+* [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)
