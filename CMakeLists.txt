@@ -776,6 +776,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1381.DesignStackWithIncrementOp bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1382.BalanceBinarySearchTree bin/1382.BalanceBinarySearchTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1383.MaxPerformanceOfTeam bin/1383.MaxPerformanceOfTeam)
 add_subdirectory(Algorithms/Tasks.1001.1500/1390.FourDivisors bin/1390.FourDivisors)
+add_subdirectory(Algorithms/Tasks.1001.1500/1391.CheckIfThereIsValidPathInGrid bin/1391.CheckIfThereIsValidPathInGrid)
 add_subdirectory(Algorithms/Tasks.1001.1500/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
 add_subdirectory(Algorithms/Tasks.1001.1500/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
 add_subdirectory(Algorithms/Tasks.1001.1500/1401.CircleRectangleOverlapping bin/1401.CircleRectangleOverlapping)
