@@ -914,6 +914,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/2000.ReversePrefixOfWord bin/2000.Re
 add_subdirectory(Algorithms/Tasks.2001.2500/2007.FindOriginalArrayFromDoubledArray bin/2007.FindOriginalArrayFromDoubledArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalValueOfVarAfterPerformOp)
 add_subdirectory(Algorithms/Tasks.2001.2500/2013.DetectSquares bin/2013.DetectSquares)
+add_subdirectory(Algorithms/Tasks.2001.2500/2017.GridGame bin/2017.GridGame)
 add_subdirectory(Algorithms/Tasks.2001.2500/2018.CheckWordCanBePlacedInCrossword bin/2018.CheckWordCanBePlacedInCrossword)
 add_subdirectory(Algorithms/Tasks.2001.2500/2022.Convert1DArrayInto2DArray bin/2022.Convert1DArrayInto2DArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2028.FindMissingObservations bin/2028.FindMissingObservations)
