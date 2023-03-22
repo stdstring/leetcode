@@ -1041,6 +1041,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2482.DiffBetweenOnesZerosInRowColumn
 add_subdirectory(Algorithms/Tasks.2001.2500/2483.MinPenaltyForShop bin/2483.MinPenaltyForShop)
 add_subdirectory(Algorithms/Tasks.2001.2500/2486.AppendCharsToStringToMakeSubseq bin/2486.AppendCharsToStringToMakeSubseq)
 add_subdirectory(Algorithms/Tasks.2001.2500/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesFromLinkedList)
+add_subdirectory(Algorithms/Tasks.2001.2500/2492.MinScoreOfPathBetweenTwoCities bin/2492.MinScoreOfPathBetweenTwoCities)
 add_subdirectory(Algorithms/Tasks.2001.2500/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2502.DesignMemoryAllocator bin/2502.DesignMemoryAllocator)
 add_subdirectory(Algorithms/Tasks.2501.3000/2507.SmallestValueAfterPrimeFactorsSumReplacing bin/2507.SmallestValueAfterPrimeFactorsSumReplacing)
