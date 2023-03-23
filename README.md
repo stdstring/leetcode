@@ -734,6 +734,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/)
 * [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
+* [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/)
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
