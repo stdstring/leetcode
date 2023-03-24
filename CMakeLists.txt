@@ -804,6 +804,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1457.PseudoPalindromicPathsInBinaryT
 add_subdirectory(Algorithms/Tasks.1001.1500/1461.CheckIfStringContainsAllBinaryOfSizeK bin/1461.CheckIfStringContainsAllBinaryOfSizeK)
 add_subdirectory(Algorithms/Tasks.1001.1500/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/Tasks.1001.1500/1465.MaxAreaOfPieceOfCakeAfterCuts bin/1465.MaxAreaOfPieceOfCakeAfterCuts)
+add_subdirectory(Algorithms/Tasks.1001.1500/1466.ReorderRoutesMakeAllPathsLeadToCity0 bin/1466.ReorderRoutesMakeAllPathsLeadToCity0)
 add_subdirectory(Algorithms/Tasks.1001.1500/1470.ShuffleArray bin/1470.ShuffleArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
 add_subdirectory(Algorithms/Tasks.1001.1500/1476.SubrectangleQueries bin/1476.SubrectangleQueries)
