@@ -983,6 +983,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
 * [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
 * [2310. Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
+* [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/)
 * [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)
 * [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)
 * [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
