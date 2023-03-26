@@ -1004,6 +1004,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2349.DesignNumberContainerSystem bin
 add_subdirectory(Algorithms/Tasks.2001.2500/2352.EqualRowColumnPairs bin/2352.EqualRowColumnPairs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2353.DesignFoodRatingSystem bin/2353.DesignFoodRatingSystem)
 add_subdirectory(Algorithms/Tasks.2001.2500/2359.FindClosestNodeToGivenTwoNodes bin/2359.FindClosestNodeToGivenTwoNodes)
+add_subdirectory(Algorithms/Tasks.2001.2500/2360.LongestCycleInGraph bin/2360.LongestCycleInGraph)
 add_subdirectory(Algorithms/Tasks.2001.2500/2365.TaskSchedulerII bin/2365.TaskSchedulerII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
