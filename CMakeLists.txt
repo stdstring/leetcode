@@ -448,6 +448,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0677.MapSumPairs bin/0677.MapSumPair
 add_subdirectory(Algorithms/Tasks.0501.1000/0679.TwentyFourGame bin/0679.TwentyFourGame)
 add_subdirectory(Algorithms/Tasks.0501.1000/0680.ValidPalindromeII bin/0680.ValidPalindromeII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0682.BaseballGame bin/0682.BaseballGame)
+add_subdirectory(Algorithms/Tasks.0501.1000/0684.RedundantConnection bin/0684.RedundantConnection)
 add_subdirectory(Algorithms/Tasks.0501.1000/0686.RepeatedStringMatch bin/0686.RepeatedStringMatch)
 add_subdirectory(Algorithms/Tasks.0501.1000/0687.LongestUnivaluePath bin/0687.LongestUnivaluePath)
 add_subdirectory(Algorithms/Tasks.0501.1000/0692.TopKFrequentWords bin/0692.TopKFrequentWords)
