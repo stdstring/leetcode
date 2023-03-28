@@ -618,6 +618,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 * [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)
+* [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 * [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 * [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)
 * [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
