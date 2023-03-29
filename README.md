@@ -772,6 +772,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
 * [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
+* [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)

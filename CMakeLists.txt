@@ -783,6 +783,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1391.CheckIfThereIsValidPathInGrid b
 add_subdirectory(Algorithms/Tasks.1001.1500/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
 add_subdirectory(Algorithms/Tasks.1001.1500/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
 add_subdirectory(Algorithms/Tasks.1001.1500/1401.CircleRectangleOverlapping bin/1401.CircleRectangleOverlapping)
+add_subdirectory(Algorithms/Tasks.1001.1500/1402.ReducingDishes bin/1402.ReducingDishes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1404.NumberOfStepsToReduceBinaryNumberToOne bin/1404.NumberOfStepsToReduceBinaryNumberToOne)
 add_subdirectory(Algorithms/Tasks.1001.1500/1405.LongestHappyString bin/1405.LongestHappyString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
