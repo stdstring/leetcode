@@ -11,7 +11,7 @@ namespace
 class Solution
 {
 public:
-    [[nodiscard]] bool isScramble(std::string const &s1, std::string const &s2) const
+    [[nodiscard]] bool isScrambleViaEnumeration(std::string const &s1, std::string const &s2) const
     {
         if (s1 == s2)
             return true;
@@ -20,6 +20,34 @@ public:
         const size_t memoizationSize = (s1.size() + 1) * (s1.size() + 1);
         TMemoization memoization(memoizationSize, std::vector<std::optional<bool>>(memoizationSize, std::optional<bool>()));
         return isScramble(s1, 0, s2, 0, s1.size(), memoization);
+    }
+
+    [[nodiscard]] bool isScrambleViaDp(std::string const &s1, std::string const &s2) const
+    {
+        const size_t size = s1.size();
+        std::vector<std::vector<std::vector<bool>>> dp(size + 1, std::vector<std::vector<bool>>(size, std::vector<bool>(size, false)));
+        for (size_t index1 = 0; index1 < size; ++index1)
+        {
+            for (size_t index2 = 0; index2 < size; ++index2)
+                dp[1][index1][index2] = (s1[index1] == s2[index2]);
+        }
+        for (size_t portionSize = 2; portionSize <= size; ++portionSize)
+        {
+            for (size_t index1 = 0; index1 < size - portionSize + 1; ++index1)
+            {
+                for (size_t index2 = 0; index2 < size - portionSize + 1; ++index2)
+                {
+                    for (size_t splitSize = 1; splitSize < portionSize; ++splitSize)
+                    {
+                        std::vector<bool> const &dp1(dp[splitSize][index1]);
+                        std::vector<bool> const &dp2(dp[portionSize - splitSize][index1 + splitSize]);
+                        dp[portionSize][index1][index2] = dp[portionSize][index1][index2] || (dp1[index2] && dp2[index2 + splitSize]);
+                        dp[portionSize][index1][index2] = dp[portionSize][index1][index2] || (dp1[index2 + portionSize - splitSize] && dp2[index2]);
+                    }
+                }
+            }
+        }
+        return dp[size][0][0];
     }
 
 private:
@@ -93,22 +121,32 @@ private:
 
 }
 
+namespace
+{
+
+void checkIsScramble(std::string const &s1, std::string const &s2, bool expectedValue)
+{
+    constexpr Solution solution;
+    ASSERT_EQ(expectedValue, solution.isScrambleViaEnumeration(s1, s2));
+    ASSERT_EQ(expectedValue, solution.isScrambleViaDp(s1, s2));
+}
+
+}
+
 namespace ScrambleStringTask
 {
 
 TEST(ScrambleStringTaskTests, Examples)
 {
-    constexpr Solution solution;
-    ASSERT_EQ(true, solution.isScramble("great", "rgeat"));
-    ASSERT_EQ(false, solution.isScramble("abcde", "caebd"));
-    ASSERT_EQ(true, solution.isScramble("a", "a"));
+    checkIsScramble("great", "rgeat", true);
+    checkIsScramble("abcde", "caebd", false);
+    checkIsScramble("a", "a", true);
 }
 
 TEST(ScrambleStringTaskTests, FromWrongAnswers)
 {
-    constexpr Solution solution;
-    ASSERT_EQ(true, solution.isScramble("abcdbdacbdac", "bdacabcdbdac"));
-    ASSERT_EQ(false, solution.isScramble("abcdd", "dbdac"));
+    checkIsScramble("abcdbdacbdac", "bdacabcdbdac", true);
+    checkIsScramble("abcdd", "dbdac", false);
 }
 
 }
