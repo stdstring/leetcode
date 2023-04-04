@@ -331,6 +331,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0452.MinNumberOfArrowsToBurstBalloon
 add_subdirectory(Algorithms/Tasks.0001.0500/0454.4SumII bin/0454.4SumII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0455.AssignCookies bin/0455.AssignCookies)
 add_subdirectory(Algorithms/Tasks.0001.0500/0456.132Pattern bin/0456.132Pattern)
+add_subdirectory(Algorithms/Tasks.0001.0500/0457.CircularArrayLoop bin/0457.CircularArrayLoop)
 add_subdirectory(Algorithms/Tasks.0001.0500/0459.RepeatedSubstringPattern bin/0459.RepeatedSubstringPattern)
 add_subdirectory(Algorithms/Tasks.0001.0500/0460.LFUCache bin/0460.LFUCache)
 add_subdirectory(Algorithms/Tasks.0001.0500/0461.HammingDistance bin/0461.HammingDistance)
