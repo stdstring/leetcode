@@ -1036,6 +1036,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2425.BitwiseXORAllPairings bin/2425.
 add_subdirectory(Algorithms/Tasks.2001.2500/2428.MaxSumOfHourglass bin/2428.MaxSumOfHourglass)
 add_subdirectory(Algorithms/Tasks.2001.2500/2434.UsingRobotToPrintLexSmallestString bin/2434.UsingRobotToPrintLexSmallestString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2438.RangeProductQueriesOfPowers bin/2438.RangeProductQueriesOfPowers)
+add_subdirectory(Algorithms/Tasks.2001.2500/2439.MinimizeMaxOfArray bin/2439.MinimizeMaxOfArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2441.LargestPosIntThatExistsWithItsNeg bin/2441.LargestPosIntThatExistsWithItsNeg)
 add_subdirectory(Algorithms/Tasks.2001.2500/2442.CountDistinctIntAfterReverseOp bin/2442.CountDistinctIntAfterReverseOp)
 add_subdirectory(Algorithms/Tasks.2001.2500/2443.SumOfNumberAndItsReverse bin/2443.SumOfNumberAndItsReverse)
