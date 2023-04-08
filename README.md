@@ -816,6 +816,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
+* [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)
 * [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/)
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 * [1529. Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/description/)
