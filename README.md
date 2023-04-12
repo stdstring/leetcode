@@ -1068,3 +1068,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/)
 * [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)
 * [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
+* [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
