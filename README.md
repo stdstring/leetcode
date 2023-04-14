@@ -354,6 +354,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 * [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)
 * [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)
+* [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 * [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 * [519. Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/)
 * [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
