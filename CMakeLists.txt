@@ -1078,6 +1078,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2559.CountVowelStringsInRanges bin/2
 add_subdirectory(Algorithms/Tasks.2501.3000/2564.SubstringXORQueries bin/2564.SubstringXORQueries)
 add_subdirectory(Algorithms/Tasks.2501.3000/2571.MinOpsReduceIntegerTo0 bin/2571.MinOpsReduceIntegerTo0)
 add_subdirectory(Algorithms/Tasks.2501.3000/2575.FindDivisibilityArrayOfString bin/2575.FindDivisibilityArrayOfString)
+add_subdirectory(Algorithms/Tasks.2501.3000/2576.FindMaxNumberOfMarkedIndices bin/2576.FindMaxNumberOfMarkedIndices)
 add_subdirectory(Algorithms/Tasks.2501.3000/2579.CountTotalNumberColoredCells bin/2579.CountTotalNumberColoredCells)
 add_subdirectory(Algorithms/Tasks.2501.3000/2583.KthLargestSumInBinaryTree bin/2583.KthLargestSumInBinaryTree)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
