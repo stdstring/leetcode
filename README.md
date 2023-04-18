@@ -842,6 +842,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+* [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 * [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/)
 * [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/description/)

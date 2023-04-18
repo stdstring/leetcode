@@ -853,6 +853,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTre
 add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
 add_subdirectory(Algorithms/Tasks.1501.2000/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/Tasks.1501.2000/1631.PathWithMinEffort bin/1631.PathWithMinEffort)
+add_subdirectory(Algorithms/Tasks.1501.2000/1639.NumberWaysFormTargetStringGivenDict bin/1639.NumberWaysFormTargetStringGivenDict)
 add_subdirectory(Algorithms/Tasks.1501.2000/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1642.FurthestBuildingYouCanReach bin/1642.FurthestBuildingYouCanReach)
 add_subdirectory(Algorithms/Tasks.1501.2000/1646.GetMaxInGeneratedArray bin/1646.GetMaxInGeneratedArray)
