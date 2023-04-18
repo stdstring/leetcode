@@ -872,6 +872,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
 * [1764. Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/description/)
 * [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/)
+* [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 * [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
 * [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)
 * [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
