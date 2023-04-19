@@ -982,6 +982,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2195.AppendKIntegersWithMinimalSum b
 add_subdirectory(Algorithms/Tasks.2001.2500/2196.CreateBinaryTreeFromDescriptions bin/2196.CreateBinaryTreeFromDescriptions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2211.CountCollisionsOnRoad bin/2211.CountCollisionsOnRoad)
+add_subdirectory(Algorithms/Tasks.2001.2500/2212.MaxPointsInArcheryCompetition bin/2212.MaxPointsInArcheryCompetition)
 add_subdirectory(Algorithms/Tasks.2001.2500/2217.FindPalindromeWithFixedLength bin/2217.FindPalindromeWithFixedLength)
 add_subdirectory(Algorithms/Tasks.2001.2500/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
