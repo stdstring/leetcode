@@ -1080,6 +1080,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2549.CountDistinctNumbersOnBoard bin
 add_subdirectory(Algorithms/Tasks.2501.3000/2550.CountCollisionsMonkeysOnPolygon bin/2550.CountCollisionsMonkeysOnPolygon)
 add_subdirectory(Algorithms/Tasks.2501.3000/2559.CountVowelStringsInRanges bin/2559.CountVowelStringsInRanges)
 add_subdirectory(Algorithms/Tasks.2501.3000/2564.SubstringXORQueries bin/2564.SubstringXORQueries)
+add_subdirectory(Algorithms/Tasks.2501.3000/2567.MinScoreByChangingTwoElements bin/2567.MinScoreByChangingTwoElements)
 add_subdirectory(Algorithms/Tasks.2501.3000/2571.MinOpsReduceIntegerTo0 bin/2571.MinOpsReduceIntegerTo0)
 add_subdirectory(Algorithms/Tasks.2501.3000/2575.FindDivisibilityArrayOfString bin/2575.FindDivisibilityArrayOfString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2576.FindMaxNumberOfMarkedIndices bin/2576.FindMaxNumberOfMarkedIndices)
