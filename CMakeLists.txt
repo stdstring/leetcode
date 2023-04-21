@@ -565,6 +565,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0875.KokoEatingBananas bin/0875.Koko
 add_subdirectory(Algorithms/Tasks.0501.1000/0876.MiddleOfLinkedList bin/0876.MiddleOfLinkedList)
 add_subdirectory(Algorithms/Tasks.0501.1000/0877.StoneGame bin/0877.StoneGame)
 add_subdirectory(Algorithms/Tasks.0501.1000/0878.NthMagicalNumber bin/0878.NthMagicalNumber)
+add_subdirectory(Algorithms/Tasks.0501.1000/0879.ProfitableSchemes bin/0879.ProfitableSchemes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0880.DecodedStringAtIndex bin/0880.DecodedStringAtIndex)
 add_subdirectory(Algorithms/Tasks.0501.1000/0881.BoatsToSavePeople bin/0881.BoatsToSavePeople)
 add_subdirectory(Algorithms/Tasks.0501.1000/0883.ProjectionAreaOf3DShapes bin/0883.ProjectionAreaOf3DShapes)
