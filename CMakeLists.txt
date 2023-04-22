@@ -750,6 +750,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1305.AllElementsInTwoBST bin/1305.Al
 add_subdirectory(Algorithms/Tasks.1001.1500/1306.JumpGameIII bin/1306.JumpGameIII)
 add_subdirectory(Algorithms/Tasks.1001.1500/1307.VerbalArithmeticPuzzle bin/1307.VerbalArithmeticPuzzle)
 add_subdirectory(Algorithms/Tasks.1001.1500/1309.DecryptStringFromAlphabetToIntMapping bin/1309.DecryptStringFromAlphabetToIntMapping)
+add_subdirectory(Algorithms/Tasks.1001.1500/1312.MinInsertionStepsMakeStringPalindrome bin/1312.MinInsertionStepsMakeStringPalindrome)
 add_subdirectory(Algorithms/Tasks.1001.1500/1314.MatrixBlockSum bin/1314.MatrixBlockSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1315.SumOfNodesWithEvenValuedGrandparent bin/1315.SumOfNodesWithEvenValuedGrandparent)
 add_subdirectory(Algorithms/Tasks.1001.1500/1319.NumberOperationsMakeNetworkConnected bin/1319.NumberOperationsMakeNetworkConnected)
