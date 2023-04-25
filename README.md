@@ -1060,6 +1060,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/description/)
 * [2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/description/)
 * [2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
+* [2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/description/)
 * [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/description/)
 * [2521. Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)
 * [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)
