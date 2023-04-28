@@ -527,6 +527,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
+* [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
 * [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 * [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/)

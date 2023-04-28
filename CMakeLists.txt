@@ -538,6 +538,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0833.FindAndReplaceInString bin/0833
 add_subdirectory(Algorithms/Tasks.0501.1000/0834.SumOfDistancesInTree bin/0834.SumOfDistancesInTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0835.ImageOverlap bin/0835.ImageOverlap)
 add_subdirectory(Algorithms/Tasks.0501.1000/0838.PushDominoes bin/0838.PushDominoes)
+add_subdirectory(Algorithms/Tasks.0501.1000/0839.SimilarStringGroups bin/0839.SimilarStringGroups)
 add_subdirectory(Algorithms/Tasks.0501.1000/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
 add_subdirectory(Algorithms/Tasks.0501.1000/0841.KeysAndRooms bin/0841.KeysAndRooms)
 add_subdirectory(Algorithms/Tasks.0501.1000/0842.SplitArrayIntoFibonacciSequence bin/0842.SplitArrayIntoFibonacciSequence)
