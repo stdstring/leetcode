@@ -878,6 +878,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1689.PartitioningIntoMinNumOfDeciBin
 add_subdirectory(Algorithms/Tasks.1501.2000/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/Tasks.1501.2000/1695.MaxErasureValue bin/1695.MaxErasureValue)
 add_subdirectory(Algorithms/Tasks.1501.2000/1696.JumpGameVI bin/1696.JumpGameVI)
+add_subdirectory(Algorithms/Tasks.1501.2000/1697.CheckExistenceOfEdgeLimitedPaths bin/1697.CheckExistenceOfEdgeLimitedPaths)
 add_subdirectory(Algorithms/Tasks.1501.2000/1701.AverageWaitingTime bin/1701.AverageWaitingTime)
 add_subdirectory(Algorithms/Tasks.1501.2000/1704.DetermineStringHalvesAreAlike bin/1704.DetermineStringHalvesAreAlike)
 add_subdirectory(Algorithms/Tasks.1501.2000/1706.WhereWillBallFall bin/1706.WhereWillBallFall)
