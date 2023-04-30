@@ -847,6 +847,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1545.FindKthBitInNthBinaryString bin
 add_subdirectory(Algorithms/Tasks.1501.2000/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1573.NumberOfWaysToSplitString bin/1573.NumberOfWaysToSplitString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1578.MinTimeToMakeRopeColorful bin/1578.MinTimeToMakeRopeColorful)
+add_subdirectory(Algorithms/Tasks.1501.2000/1579.RemoveMaxNumberOfEdges bin/1579.RemoveMaxNumberOfEdges)
 add_subdirectory(Algorithms/Tasks.1501.2000/1584.MinCostToConnectAllPoints bin/1584.MinCostToConnectAllPoints)
 add_subdirectory(Algorithms/Tasks.1501.2000/1593.SplitStringIntoMaxUniqueSubstrings bin/1593.SplitStringIntoMaxUniqueSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
