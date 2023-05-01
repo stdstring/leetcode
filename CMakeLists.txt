@@ -822,6 +822,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1472.DesignBrowserHistory bin/1472.D
 add_subdirectory(Algorithms/Tasks.1001.1500/1476.SubrectangleQueries bin/1476.SubrectangleQueries)
 add_subdirectory(Algorithms/Tasks.1001.1500/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
+add_subdirectory(Algorithms/Tasks.1001.1500/1491.AverageSalaryExcludingMinMaxSalary bin/1491.AverageSalaryExcludingMinMaxSalary)
 add_subdirectory(Algorithms/Tasks.1001.1500/1492.KthFactorOfN bin/1492.KthFactorOfN)
 add_subdirectory(Algorithms/Tasks.1001.1500/1493.LongestSubarrayOf1AfterDeletingOneElement bin/1493.LongestSubarrayOf1AfterDeletingOneElement)
 add_subdirectory(Algorithms/Tasks.1501.2000/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)

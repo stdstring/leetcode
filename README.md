@@ -811,6 +811,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 * [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
+* [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 * [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 * [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
