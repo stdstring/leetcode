@@ -539,6 +539,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/description/)
 * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
 * [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+* [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)
 * [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
 * [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
 * [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)

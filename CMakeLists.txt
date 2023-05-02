@@ -550,6 +550,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0847.ShortestPathVisitingAllNodes bi
 add_subdirectory(Algorithms/Tasks.0501.1000/0848.ShiftingLetters bin/0848.ShiftingLetters)
 add_subdirectory(Algorithms/Tasks.0501.1000/0849.MaximizeDistanceToClosestPerson bin/0849.MaximizeDistanceToClosestPerson)
 add_subdirectory(Algorithms/Tasks.0501.1000/0852.PeakIndexInMountainArray bin/0852.PeakIndexInMountainArray)
+add_subdirectory(Algorithms/Tasks.0501.1000/0853.CarFleet bin/0853.CarFleet)
 add_subdirectory(Algorithms/Tasks.0501.1000/0856.ScoreOfParentheses bin/0856.ScoreOfParentheses)
 add_subdirectory(Algorithms/Tasks.0501.1000/0859.BuddyStrings bin/0859.BuddyStrings)
 add_subdirectory(Algorithms/Tasks.0501.1000/0861.ScoreAfterFlippingMatrix bin/0861.ScoreAfterFlippingMatrix)
