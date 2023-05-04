@@ -159,6 +159,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0153.FindMinimumInRotatedSortedArray
 add_subdirectory(Algorithms/Tasks.0001.0500/0155.MinStack bin/0155.MinStack)
 add_subdirectory(Algorithms/Tasks.0001.0500/0160.IntersectionOfTwoLinkedLists bin/0160.IntersectionOfTwoLinkedLists)
 add_subdirectory(Algorithms/Tasks.0001.0500/0162.FindPeakElement bin/0162.FindPeakElement)
+add_subdirectory(Algorithms/Tasks.0001.0500/0164.MaximumGap bin/0164.MaximumGap)
 add_subdirectory(Algorithms/Tasks.0001.0500/0165.CompareVersionNumbers bin/0165.CompareVersionNumbers)
 add_subdirectory(Algorithms/Tasks.0001.0500/0166.FractionToRecurringDecimal bin/0166.FractionToRecurringDecimal)
 add_subdirectory(Algorithms/Tasks.0001.0500/0167.TwoSumII bin/0167.TwoSumII)
