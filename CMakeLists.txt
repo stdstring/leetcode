@@ -504,6 +504,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0779.KthSymbolInGrammar bin/0779.Kth
 add_subdirectory(Algorithms/Tasks.0501.1000/0783.MinimumDistanceBetweenBSTNodes bin/0783.MinimumDistanceBetweenBSTNodes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0784.LetterCasePermutation bin/0784.LetterCasePermutation)
 add_subdirectory(Algorithms/Tasks.0501.1000/0785.IsGraphBipartite bin/0785.IsGraphBipartite)
+add_subdirectory(Algorithms/Tasks.0501.1000/0786.KthSmallestPrimeFraction bin/0786.KthSmallestPrimeFraction)
 add_subdirectory(Algorithms/Tasks.0501.1000/0787.CheapestFlightsWithinKStops bin/0787.CheapestFlightsWithinKStops)
 add_subdirectory(Algorithms/Tasks.0501.1000/0788.RotatedDigits bin/0788.RotatedDigits)
 add_subdirectory(Algorithms/Tasks.0501.1000/0790.DominoAndTrominoTiling bin/0790.DominoAndTrominoTiling)
