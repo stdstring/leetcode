@@ -924,6 +924,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)
 * [1958. Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/description/)
 * [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
+* [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
 * [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 * [1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/description/)
 * [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)

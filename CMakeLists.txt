@@ -935,6 +935,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1952.ThreeDivisors bin/1952.ThreeDiv
 add_subdirectory(Algorithms/Tasks.1501.2000/1954.MinGardenPerimeterCollectEnoughApples bin/1954.MinGardenPerimeterCollectEnoughApples)
 add_subdirectory(Algorithms/Tasks.1501.2000/1958.CheckIfMoveIsLegal bin/1958.CheckIfMoveIsLegal)
 add_subdirectory(Algorithms/Tasks.1501.2000/1962.RemoveStonesToMinimizeTotal bin/1962.RemoveStonesToMinimizeTotal)
+add_subdirectory(Algorithms/Tasks.1501.2000/1964.FindLongestValidObstacleCourse bin/1964.FindLongestValidObstacleCourse)
 add_subdirectory(Algorithms/Tasks.1501.2000/1971.FindIfPathExistsInGraph bin/1971.FindIfPathExistsInGraph)
 add_subdirectory(Algorithms/Tasks.1501.2000/1993.OperationsOnTree bin/1993.OperationsOnTree)
 add_subdirectory(Algorithms/Tasks.1501.2000/1996.NumberOfWeakCharactersInGame bin/1996.NumberOfWeakCharactersInGame)
