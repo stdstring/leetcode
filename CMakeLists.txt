@@ -627,6 +627,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0965.UnivaluedBinaryTree bin/0965.Un
 add_subdirectory(Algorithms/Tasks.0501.1000/0966.VowelSpellchecker bin/0966.VowelSpellchecker)
 add_subdirectory(Algorithms/Tasks.0501.1000/0967.NumbersWithSameConsecutiveDiff bin/0967.NumbersWithSameConsecutiveDiff)
 add_subdirectory(Algorithms/Tasks.0501.1000/0968.BinaryTreeCameras bin/0968.BinaryTreeCameras)
+add_subdirectory(Algorithms/Tasks.0501.1000/0969.PancakeSorting bin/0969.PancakeSorting)
 add_subdirectory(Algorithms/Tasks.0501.1000/0970.PowerfulIntegers bin/0970.PowerfulIntegers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0971.FlipBinTreeToMatchPreorderTraversal bin/0971.FlipBinTreeToMatchPreorderTraversal)
 add_subdirectory(Algorithms/Tasks.0501.1000/0972.EqualRationalNumbers bin/0972.EqualRationalNumbers)

@@ -616,6 +616,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 * [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/)
 * [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/)
+* [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
 * [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 * [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
 * [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/)
