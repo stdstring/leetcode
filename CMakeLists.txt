@@ -749,6 +749,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1291.SequentialDigits bin/1291.Seque
 add_subdirectory(Algorithms/Tasks.1001.1500/1293.ShortestPathInGridWithObstaclesElimination bin/1293.ShortestPathInGridWithObstaclesElimination)
 add_subdirectory(Algorithms/Tasks.1001.1500/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
 add_subdirectory(Algorithms/Tasks.1001.1500/1297.MaxNumberOfOccurrencesOfSubstring bin/1297.MaxNumberOfOccurrencesOfSubstring)
+add_subdirectory(Algorithms/Tasks.1001.1500/1300.SumOfMutatedArrayClosestToTarget bin/1300.SumOfMutatedArrayClosestToTarget)
 add_subdirectory(Algorithms/Tasks.1001.1500/1302.DeepestLeavesSum bin/1302.DeepestLeavesSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1304.FindNUniqueIntSumUpToZero bin/1304.FindNUniqueIntSumUpToZero)
 add_subdirectory(Algorithms/Tasks.1001.1500/1305.AllElementsInTwoBST bin/1305.AllElementsInTwoBST)
