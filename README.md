@@ -745,6 +745,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/)
 * [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
+* [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/description/)
 * [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
 * [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/)
 * [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
