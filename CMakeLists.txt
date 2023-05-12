@@ -978,6 +978,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2131.LongestPalindromeConcatTwoLette
 add_subdirectory(Algorithms/Tasks.2001.2500/2135.CountWordsObtainedAfterAddingLetter bin/2135.CountWordsObtainedAfterAddingLetter)
 add_subdirectory(Algorithms/Tasks.2001.2500/2136.EarliestPossibleDayOfFullBloom bin/2136.EarliestPossibleDayOfFullBloom)
 add_subdirectory(Algorithms/Tasks.2001.2500/2139.MinMovesToReachTargetScore bin/2139.MinMovesToReachTargetScore)
+add_subdirectory(Algorithms/Tasks.2001.2500/2140.SolvingQuestionsWithBrainpower bin/2140.SolvingQuestionsWithBrainpower)
 add_subdirectory(Algorithms/Tasks.2001.2500/2147.NumberOfWaysToDivideLongCorridor bin/2147.NumberOfWaysToDivideLongCorridor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2149.RearrangeArrayElementsBySign bin/2149.RearrangeArrayElementsBySign)
 add_subdirectory(Algorithms/Tasks.2001.2500/2150.FindAllLonelyNumbersInArray bin/2150.FindAllLonelyNumbersInArray)
