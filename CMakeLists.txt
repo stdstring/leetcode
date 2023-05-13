@@ -1073,6 +1073,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2456.MostPopularVideoCreator bin/245
 add_subdirectory(Algorithms/Tasks.2001.2500/2457.MinAdditionToMakeIntBeautiful bin/2457.MinAdditionToMakeIntBeautiful)
 add_subdirectory(Algorithms/Tasks.2001.2500/2461.MaxSumDistinctSubarraysLengthK bin/2461.MaxSumDistinctSubarraysLengthK)
 add_subdirectory(Algorithms/Tasks.2001.2500/2462.TotalCostHireKWorkers bin/2462.TotalCostHireKWorkers)
+add_subdirectory(Algorithms/Tasks.2001.2500/2466.CountWaysToBuildGoodStrings bin/2466.CountWaysToBuildGoodStrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2467.MostProfitablePathInTree bin/2467.MostProfitablePathInTree)
 add_subdirectory(Algorithms/Tasks.2001.2500/2468.SplitMessageBasedOnLimit bin/2468.SplitMessageBasedOnLimit)
 add_subdirectory(Algorithms/Tasks.2001.2500/2471.MinNumberOpsToSortBinaryTreeByLevel bin/2471.MinNumberOpsToSortBinaryTreeByLevel)
