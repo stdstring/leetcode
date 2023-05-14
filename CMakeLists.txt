@@ -908,6 +908,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1784.CheckBinStrHasAtMostOneSegmentO
 add_subdirectory(Algorithms/Tasks.1501.2000/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1797.DesignAuthenticationManager bin/1797.DesignAuthenticationManager)
+add_subdirectory(Algorithms/Tasks.1501.2000/1799.MaxScoreAfterNOperations bin/1799.MaxScoreAfterNOperations)
 add_subdirectory(Algorithms/Tasks.1501.2000/1800.MaximumAscendingSubarraySum bin/1800.MaximumAscendingSubarraySum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1801.NumberOfOrdersInBacklog bin/1801.NumberOfOrdersInBacklog)
 add_subdirectory(Algorithms/Tasks.1501.2000/1806.MinNumberOpToReinitPermutation bin/1806.MinNumberOpToReinitPermutation)
