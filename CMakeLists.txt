@@ -942,6 +942,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1958.CheckIfMoveIsLegal bin/1958.Che
 add_subdirectory(Algorithms/Tasks.1501.2000/1962.RemoveStonesToMinimizeTotal bin/1962.RemoveStonesToMinimizeTotal)
 add_subdirectory(Algorithms/Tasks.1501.2000/1964.FindLongestValidObstacleCourse bin/1964.FindLongestValidObstacleCourse)
 add_subdirectory(Algorithms/Tasks.1501.2000/1971.FindIfPathExistsInGraph bin/1971.FindIfPathExistsInGraph)
+add_subdirectory(Algorithms/Tasks.1501.2000/1985.FindKthLargestIntegerInArray bin/1985.FindKthLargestIntegerInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1993.OperationsOnTree bin/1993.OperationsOnTree)
 add_subdirectory(Algorithms/Tasks.1501.2000/1996.NumberOfWeakCharactersInGame bin/1996.NumberOfWeakCharactersInGame)
 add_subdirectory(Algorithms/Tasks.1501.2000/2000.ReversePrefixOfWord bin/2000.ReversePrefixOfWord)
