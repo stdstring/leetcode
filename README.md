@@ -1103,3 +1103,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/)
 * [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
+* [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/)
