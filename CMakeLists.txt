@@ -1114,4 +1114,5 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2593.FindScoreOfArrayAfterMarkingEle
 add_subdirectory(Algorithms/Tasks.2501.3000/2596.CheckKnightTourConfiguration bin/2596.CheckKnightTourConfiguration)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
 add_subdirectory(Algorithms/Tasks.2501.3000/2615.SumOfDistances bin/2615.SumOfDistances)
+add_subdirectory(Algorithms/Tasks.2501.3000/2657.FindPrefixCommonArrayOfTwoArrays bin/2657.FindPrefixCommonArrayOfTwoArrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2671.FrequencyTracker bin/2671.FrequencyTracker)
