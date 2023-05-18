@@ -853,6 +853,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1540.CanConvertStringInKMoves bin/15
 add_subdirectory(Algorithms/Tasks.1501.2000/1541.MinInsertionsToBalanceParenthesesStr bin/1541.MinInsertionsToBalanceParenthesesStr)
 add_subdirectory(Algorithms/Tasks.1501.2000/1544.MakeStringGreat bin/1544.MakeStringGreat)
 add_subdirectory(Algorithms/Tasks.1501.2000/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)
+add_subdirectory(Algorithms/Tasks.1501.2000/1557.MinVerticesToReachAllNodes bin/1557.MinVerticesToReachAllNodes)
 add_subdirectory(Algorithms/Tasks.1501.2000/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1573.NumberOfWaysToSplitString bin/1573.NumberOfWaysToSplitString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1578.MinTimeToMakeRopeColorful bin/1578.MinTimeToMakeRopeColorful)
