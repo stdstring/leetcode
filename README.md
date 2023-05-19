@@ -1105,4 +1105,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
 * [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)
+* [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)
 * [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/)
