@@ -1116,6 +1116,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2593.FindScoreOfArrayAfterMarkingEle
 add_subdirectory(Algorithms/Tasks.2501.3000/2596.CheckKnightTourConfiguration bin/2596.CheckKnightTourConfiguration)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
 add_subdirectory(Algorithms/Tasks.2501.3000/2615.SumOfDistances bin/2615.SumOfDistances)
+add_subdirectory(Algorithms/Tasks.2501.3000/2641.CousinsInBinaryTreeII bin/2641.CousinsInBinaryTreeII)
 add_subdirectory(Algorithms/Tasks.2501.3000/2653.SlidingSubarrayBeauty bin/2653.SlidingSubarrayBeauty)
 add_subdirectory(Algorithms/Tasks.2501.3000/2657.FindPrefixCommonArrayOfTwoArrays bin/2657.FindPrefixCommonArrayOfTwoArrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2661.FirstCompletelyPaintedRowColumn bin/2661.FirstCompletelyPaintedRowColumn)
