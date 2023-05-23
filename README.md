@@ -1103,6 +1103,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/description/)
 * [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)
 * [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/)
+* [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/description/)
 * [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
 * [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)
