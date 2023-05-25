@@ -539,6 +539,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0832.FlippingImage bin/0832.Flipping
 add_subdirectory(Algorithms/Tasks.0501.1000/0833.FindAndReplaceInString bin/0833.FindAndReplaceInString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0834.SumOfDistancesInTree bin/0834.SumOfDistancesInTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0835.ImageOverlap bin/0835.ImageOverlap)
+add_subdirectory(Algorithms/Tasks.0501.1000/0837.New21Game bin/0837.New21Game)
 add_subdirectory(Algorithms/Tasks.0501.1000/0838.PushDominoes bin/0838.PushDominoes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0839.SimilarStringGroups bin/0839.SimilarStringGroups)
 add_subdirectory(Algorithms/Tasks.0501.1000/0840.MagicSquaresInGrid bin/0840.MagicSquaresInGrid)
