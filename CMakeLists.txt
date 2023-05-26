@@ -1124,3 +1124,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2653.SlidingSubarrayBeauty bin/2653.
 add_subdirectory(Algorithms/Tasks.2501.3000/2657.FindPrefixCommonArrayOfTwoArrays bin/2657.FindPrefixCommonArrayOfTwoArrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2661.FirstCompletelyPaintedRowColumn bin/2661.FirstCompletelyPaintedRowColumn)
 add_subdirectory(Algorithms/Tasks.2501.3000/2671.FrequencyTracker bin/2671.FrequencyTracker)
+add_subdirectory(Algorithms/Tasks.2501.3000/2683.NeighboringBitwiseXOR bin/2683.NeighboringBitwiseXOR)
