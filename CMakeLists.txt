@@ -704,6 +704,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1106.ParsingBooleanExpression bin/11
 add_subdirectory(Algorithms/Tasks.1001.1500/1108.DefangingIPAddress bin/1108.DefangingIPAddress)
 add_subdirectory(Algorithms/Tasks.1001.1500/1110.DeleteNodesAndReturnForest bin/1110.DeleteNodesAndReturnForest)
 add_subdirectory(Algorithms/Tasks.1001.1500/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
+add_subdirectory(Algorithms/Tasks.1001.1500/1124.LongestWellPerformingInterval bin/1124.LongestWellPerformingInterval)
 add_subdirectory(Algorithms/Tasks.1001.1500/1128.NumberOfEquivalentDominoPairs bin/1128.NumberOfEquivalentDominoPairs)
 add_subdirectory(Algorithms/Tasks.1001.1500/1129.ShortestPathWithAlternatingColors bin/1129.ShortestPathWithAlternatingColors)
 add_subdirectory(Algorithms/Tasks.1001.1500/1137.NthTribonacciNumber bin/1137.NthTribonacciNumber)
