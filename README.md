@@ -496,6 +496,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
 * [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 * [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)
+* [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/)
 * [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 * [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
 * [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)

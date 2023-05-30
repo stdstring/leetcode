@@ -507,6 +507,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0785.IsGraphBipartite bin/0785.IsGra
 add_subdirectory(Algorithms/Tasks.0501.1000/0786.KthSmallestPrimeFraction bin/0786.KthSmallestPrimeFraction)
 add_subdirectory(Algorithms/Tasks.0501.1000/0787.CheapestFlightsWithinKStops bin/0787.CheapestFlightsWithinKStops)
 add_subdirectory(Algorithms/Tasks.0501.1000/0788.RotatedDigits bin/0788.RotatedDigits)
+add_subdirectory(Algorithms/Tasks.0501.1000/0789.EscapeGhosts bin/0789.EscapeGhosts)
 add_subdirectory(Algorithms/Tasks.0501.1000/0790.DominoAndTrominoTiling bin/0790.DominoAndTrominoTiling)
 add_subdirectory(Algorithms/Tasks.0501.1000/0791.CustomSortString bin/0791.CustomSortString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0792.NumberOfMatchingSubsequences bin/0792.NumberOfMatchingSubsequences)
