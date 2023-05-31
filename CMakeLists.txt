@@ -513,6 +513,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0791.CustomSortString bin/0791.Custo
 add_subdirectory(Algorithms/Tasks.0501.1000/0792.NumberOfMatchingSubsequences bin/0792.NumberOfMatchingSubsequences)
 add_subdirectory(Algorithms/Tasks.0501.1000/0793.PreimageSizeFactorialZeroesFun bin/0793.PreimageSizeFactorialZeroesFun)
 add_subdirectory(Algorithms/Tasks.0501.1000/0794.ValidTicTacToeState bin/0794.ValidTicTacToeState)
+add_subdirectory(Algorithms/Tasks.0501.1000/0795.SubarraysNumberWithBoundedMax bin/0795.SubarraysNumberWithBoundedMax)
 add_subdirectory(Algorithms/Tasks.0501.1000/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)
 add_subdirectory(Algorithms/Tasks.0501.1000/0799.ChampagneTower bin/0799.ChampagneTower)
