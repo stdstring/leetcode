@@ -435,6 +435,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
 * [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)
 * [672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)
+* [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)

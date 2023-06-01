@@ -446,6 +446,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0667.BeautifulArrangementII bin/0667
 add_subdirectory(Algorithms/Tasks.0501.1000/0669.TrimBinarySearchTree bin/0669.TrimBinarySearchTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0670.MaximumSwap bin/0670.MaximumSwap)
 add_subdirectory(Algorithms/Tasks.0501.1000/0672.BulbSwitcherII bin/0672.BulbSwitcherII)
+add_subdirectory(Algorithms/Tasks.0501.1000/0673.NumberOfLIS bin/0673.NumberOfLIS)
 add_subdirectory(Algorithms/Tasks.0501.1000/0674.LongestContinuousIncSubseq bin/0674.LongestContinuousIncSubseq)
 add_subdirectory(Algorithms/Tasks.0501.1000/0676.ImplementMagicDictionary bin/0676.ImplementMagicDictionary)
 add_subdirectory(Algorithms/Tasks.0501.1000/0677.MapSumPairs bin/0677.MapSumPairs)
