@@ -965,6 +965,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2087. Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
 * [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 * [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
+* [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 * [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/description/)
 * [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)
 * [2117. Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)

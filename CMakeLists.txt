@@ -976,6 +976,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2081.SumOfKMirrorNumbers bin/2081.Su
 add_subdirectory(Algorithms/Tasks.2001.2500/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/Tasks.2001.2500/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
+add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.DetonateMaxBombs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.WateringPlantsII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
