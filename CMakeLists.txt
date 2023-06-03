@@ -469,6 +469,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0706.DesignHashMap bin/0706.DesignHa
 add_subdirectory(Algorithms/Tasks.0501.1000/0707.DesignLinkedList bin/0707.DesignLinkedList)
 add_subdirectory(Algorithms/Tasks.0501.1000/0709.ToLowerCase bin/0709.ToLowerCase)
 add_subdirectory(Algorithms/Tasks.0501.1000/0710.RandomPickWithBlacklist bin/0710.RandomPickWithBlacklist)
+add_subdirectory(Algorithms/Tasks.0501.1000/0713.SubarrayProductLessThanK bin/0713.SubarrayProductLessThanK)
 add_subdirectory(Algorithms/Tasks.0501.1000/0715.RangeModule bin/0715.RangeModule)
 add_subdirectory(Algorithms/Tasks.0501.1000/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
 add_subdirectory(Algorithms/Tasks.0501.1000/0718.MaxLengthOfRepeatedSubarray bin/0718.MaxLengthOfRepeatedSubarray)
