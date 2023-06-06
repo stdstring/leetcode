@@ -840,6 +840,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1491.AverageSalaryExcludingMinMaxSal
 add_subdirectory(Algorithms/Tasks.1001.1500/1492.KthFactorOfN bin/1492.KthFactorOfN)
 add_subdirectory(Algorithms/Tasks.1001.1500/1493.LongestSubarrayOf1AfterDeletingOneElement bin/1493.LongestSubarrayOf1AfterDeletingOneElement)
 add_subdirectory(Algorithms/Tasks.1001.1500/1498.NumberSubseqSatisfySumCondition bin/1498.NumberSubseqSatisfySumCondition)
+add_subdirectory(Algorithms/Tasks.1501.2000/1502.CanMakeArithProgressionFromSeq bin/1502.CanMakeArithProgressionFromSeq)
 add_subdirectory(Algorithms/Tasks.1501.2000/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1507.ReformatDate bin/1507.ReformatDate)
 add_subdirectory(Algorithms/Tasks.1501.2000/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
