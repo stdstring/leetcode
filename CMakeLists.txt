@@ -768,6 +768,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1311.GetWatchedVideosByYourFriends b
 add_subdirectory(Algorithms/Tasks.1001.1500/1312.MinInsertionStepsMakeStringPalindrome bin/1312.MinInsertionStepsMakeStringPalindrome)
 add_subdirectory(Algorithms/Tasks.1001.1500/1314.MatrixBlockSum bin/1314.MatrixBlockSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1315.SumOfNodesWithEvenValuedGrandparent bin/1315.SumOfNodesWithEvenValuedGrandparent)
+add_subdirectory(Algorithms/Tasks.1001.1500/1318.MinFlipsMakeAOrBEqualC bin/1318.MinFlipsMakeAOrBEqualC)
 add_subdirectory(Algorithms/Tasks.1001.1500/1319.NumberOperationsMakeNetworkConnected bin/1319.NumberOperationsMakeNetworkConnected)
 add_subdirectory(Algorithms/Tasks.1001.1500/1323.Max69Number bin/1323.Max69Number)
 add_subdirectory(Algorithms/Tasks.1001.1500/1324.PrintWordsVertically bin/1324.PrintWordsVertically)
