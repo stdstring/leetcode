@@ -783,6 +783,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1342.NumberOfStepsToReduceNumberToZe
 add_subdirectory(Algorithms/Tasks.1001.1500/1344.AngleBetweenHandsOfClock bin/1344.AngleBetweenHandsOfClock)
 add_subdirectory(Algorithms/Tasks.1001.1500/1345.JumpGameIV bin/1345.JumpGameIV)
 add_subdirectory(Algorithms/Tasks.1001.1500/1347.MinStepsNumberToMake2StringsAnagram bin/1347.MinStepsNumberToMake2StringsAnagram)
+add_subdirectory(Algorithms/Tasks.1001.1500/1351.CountNegativeNumbersInSortedMatrix bin/1351.CountNegativeNumbersInSortedMatrix)
 add_subdirectory(Algorithms/Tasks.1001.1500/1352.ProductOfLastKNumbers bin/1352.ProductOfLastKNumbers)
 add_subdirectory(Algorithms/Tasks.1001.1500/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
 add_subdirectory(Algorithms/Tasks.1001.1500/1359.CountAllValidPickupAndDeliveryOptions bin/1359.CountAllValidPickupAndDeliveryOptions)
