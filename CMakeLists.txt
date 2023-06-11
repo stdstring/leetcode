@@ -715,6 +715,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1137.NthTribonacciNumber bin/1137.Nt
 add_subdirectory(Algorithms/Tasks.1001.1500/1138.AlphabetBoardPath bin/1138.AlphabetBoardPath)
 add_subdirectory(Algorithms/Tasks.1001.1500/1143.LongestCommonSubsequence bin/1143.LongestCommonSubsequence)
 add_subdirectory(Algorithms/Tasks.1001.1500/1145.BinaryTreeColoringGame bin/1145.BinaryTreeColoringGame)
+add_subdirectory(Algorithms/Tasks.1001.1500/1146.SnapshotArray bin/1146.SnapshotArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/Tasks.1001.1500/1155.NumberOfDiceRollsWithTargetSum bin/1155.NumberOfDiceRollsWithTargetSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1160.FindWordsThatCanBeFormedByChars bin/1160.FindWordsThatCanBeFormedByChars)
