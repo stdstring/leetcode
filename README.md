@@ -1124,5 +1124,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)
 * [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)
 * [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/)
+* [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/)
 * [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
 * [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
