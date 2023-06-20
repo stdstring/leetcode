@@ -980,6 +980,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2075.DecodeSlantedCiphertext bin/207
 add_subdirectory(Algorithms/Tasks.2001.2500/2080.RangeFrequencyQueries bin/2080.RangeFrequencyQueries)
 add_subdirectory(Algorithms/Tasks.2001.2500/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)
+add_subdirectory(Algorithms/Tasks.2001.2500/2090.KRadiusSubarrayAverages bin/2090.KRadiusSubarrayAverages)
 add_subdirectory(Algorithms/Tasks.2001.2500/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/Tasks.2001.2500/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
 add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.DetonateMaxBombs)
