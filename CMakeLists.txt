@@ -1140,3 +1140,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2671.FrequencyTracker bin/2671.Frequ
 add_subdirectory(Algorithms/Tasks.2501.3000/2679.SumInMatrix bin/2679.SumInMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2683.NeighboringBitwiseXOR bin/2683.NeighboringBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.2501.3000/2718.SumMatrixAfterQueries bin/2718.SumMatrixAfterQueries)
+add_subdirectory(Algorithms/Tasks.2501.3000/2730.FindLongestSemiRepetitiveSubstring bin/2730.FindLongestSemiRepetitiveSubstring)
