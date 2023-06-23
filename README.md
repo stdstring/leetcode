@@ -1124,6 +1124,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)
 * [2653. Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/description/)
 * [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)
+* [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/)
 * [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)
 * [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/)
 * [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/)
