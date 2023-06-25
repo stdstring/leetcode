@@ -856,6 +856,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/)
+* [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
 * [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 * [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
