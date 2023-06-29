@@ -1147,3 +1147,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2708.MaxStrengthOfGroup bin/2708.Max
 add_subdirectory(Algorithms/Tasks.2501.3000/2711.DiffNumberOfDiagonalsDistinctValues bin/2711.DiffNumberOfDiagonalsDistinctValues)
 add_subdirectory(Algorithms/Tasks.2501.3000/2718.SumMatrixAfterQueries bin/2718.SumMatrixAfterQueries)
 add_subdirectory(Algorithms/Tasks.2501.3000/2730.FindLongestSemiRepetitiveSubstring bin/2730.FindLongestSemiRepetitiveSubstring)
+add_subdirectory(Algorithms/Tasks.2501.3000/2746.DecrementalStringConcat bin/2746.DecrementalStringConcat)
