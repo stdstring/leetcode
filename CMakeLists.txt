@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.7 FATAL_ERROR)
 
 project(LeetCodeTasks CXX)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include_directories("external/googletest/include")
@@ -1148,3 +1148,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2711.DiffNumberOfDiagonalsDistinctVa
 add_subdirectory(Algorithms/Tasks.2501.3000/2718.SumMatrixAfterQueries bin/2718.SumMatrixAfterQueries)
 add_subdirectory(Algorithms/Tasks.2501.3000/2730.FindLongestSemiRepetitiveSubstring bin/2730.FindLongestSemiRepetitiveSubstring)
 add_subdirectory(Algorithms/Tasks.2501.3000/2746.DecrementalStringConcat bin/2746.DecrementalStringConcat)
+add_subdirectory(Algorithms/Tasks.2501.3000/2751.RobotCollisions bin/2751.RobotCollisions)

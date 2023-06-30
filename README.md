@@ -1137,3 +1137,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
 * [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/description/)
 * [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/)
+* [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
