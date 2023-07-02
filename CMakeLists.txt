@@ -874,6 +874,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1584.MinCostToConnectAllPoints bin/1
 add_subdirectory(Algorithms/Tasks.1501.2000/1593.SplitStringIntoMaxUniqueSubstrings bin/1593.SplitStringIntoMaxUniqueSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
 add_subdirectory(Algorithms/Tasks.1501.2000/1600.ThroneInheritance bin/1600.ThroneInheritance)
+add_subdirectory(Algorithms/Tasks.1501.2000/1601.MaxNumberAchievableTransferRequests bin/1601.MaxNumberAchievableTransferRequests)
 add_subdirectory(Algorithms/Tasks.1501.2000/1603.DesignParkingSystem bin/1603.DesignParkingSystem)
 add_subdirectory(Algorithms/Tasks.1501.2000/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTree)
