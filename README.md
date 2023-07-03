@@ -1134,6 +1134,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/)
 * [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
 * [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)
+* [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)
 * [2708. Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/description/)
 * [2711. Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/description/)
 * [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
