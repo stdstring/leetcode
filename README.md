@@ -1112,6 +1112,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
 * [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/)
 * [2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/)
+* [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
 * [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/)
 * [2564. Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/)
 * [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/)
