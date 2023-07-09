@@ -1028,6 +1028,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
+* [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2274. Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/description/)
 * [2276. Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/description/)
