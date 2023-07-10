@@ -463,6 +463,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 * [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 * [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
+* [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description/)
 * [722. Remove Comments](https://leetcode.com/problems/remove-comments/description/)
 * [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
 * [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)

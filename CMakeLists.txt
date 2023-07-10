@@ -474,6 +474,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0715.RangeModule bin/0715.RangeModul
 add_subdirectory(Algorithms/Tasks.0501.1000/0717.OneAndTwoBitCharacters bin/0717.OneAndTwoBitCharacters)
 add_subdirectory(Algorithms/Tasks.0501.1000/0718.MaxLengthOfRepeatedSubarray bin/0718.MaxLengthOfRepeatedSubarray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0720.LongestWordInDictionary bin/0720.LongestWordInDictionary)
+add_subdirectory(Algorithms/Tasks.0501.1000/0721.AccountsMerge bin/0721.AccountsMerge)
 add_subdirectory(Algorithms/Tasks.0501.1000/0722.RemoveComments bin/0722.RemoveComments)
 add_subdirectory(Algorithms/Tasks.0501.1000/0725.SplitLinkedListInParts bin/0725.SplitLinkedListInParts)
 add_subdirectory(Algorithms/Tasks.0501.1000/0726.NumberOfAtoms bin/0726.NumberOfAtoms)
