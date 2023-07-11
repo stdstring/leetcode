@@ -526,6 +526,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/)
 * [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)
+* [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/)
 * [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 * [830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)
 * [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/)

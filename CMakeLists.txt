@@ -537,6 +537,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0822.CardFlippingGame bin/0822.CardF
 add_subdirectory(Algorithms/Tasks.0501.1000/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/Tasks.0501.1000/0825.FriendsOfAppropriateAges bin/0825.FriendsOfAppropriateAges)
 add_subdirectory(Algorithms/Tasks.0501.1000/0826.MostProfitAssigningWork bin/0826.MostProfitAssigningWork)
+add_subdirectory(Algorithms/Tasks.0501.1000/0827.MakingLargeIsland bin/0827.MakingLargeIsland)
 add_subdirectory(Algorithms/Tasks.0501.1000/0829.ConsecutiveNumbersSum bin/0829.ConsecutiveNumbersSum)
 add_subdirectory(Algorithms/Tasks.0501.1000/0830.PositionsOfLargeGroups bin/0830.PositionsOfLargeGroups)
 add_subdirectory(Algorithms/Tasks.0501.1000/0831.MaskingPersonalInformation bin/0831.MaskingPersonalInformation)
