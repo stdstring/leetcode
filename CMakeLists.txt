@@ -520,6 +520,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0795.SubarraysNumberWithBoundedMax b
 add_subdirectory(Algorithms/Tasks.0501.1000/0796.RotateString bin/0796.RotateString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0797.AllPathsFromSourceToTarget bin/0797.AllPathsFromSourceToTarget)
 add_subdirectory(Algorithms/Tasks.0501.1000/0799.ChampagneTower bin/0799.ChampagneTower)
+add_subdirectory(Algorithms/Tasks.0501.1000/0802.FindEventualSafeStates bin/0802.FindEventualSafeStates)
 add_subdirectory(Algorithms/Tasks.0501.1000/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0807.MaxIncreaseToKeepCitySkyline bin/0807.MaxIncreaseToKeepCitySkyline)
