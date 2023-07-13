@@ -1150,3 +1150,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/)
 * [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/)
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
+* [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/description/)
