@@ -737,6 +737,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1202.SmallestStringWithSwaps bin/120
 add_subdirectory(Algorithms/Tasks.1001.1500/1207.UniqueNumberOfOccurrences bin/1207.UniqueNumberOfOccurrences)
 add_subdirectory(Algorithms/Tasks.1001.1500/1209.RemoveAllAdjacentDuplicatesInStringII bin/1209.RemoveAllAdjacentDuplicatesInStringII)
 add_subdirectory(Algorithms/Tasks.1001.1500/1217.MinCostToMoveChipsToSamePosition bin/1217.MinCostToMoveChipsToSamePosition)
+add_subdirectory(Algorithms/Tasks.1001.1500/1218.LongestArithSubseqOfGivenDiff bin/1218.LongestArithSubseqOfGivenDiff)
 add_subdirectory(Algorithms/Tasks.1001.1500/1220.CountVowelsPermutation bin/1220.CountVowelsPermutation)
 add_subdirectory(Algorithms/Tasks.1001.1500/1222.QueensThatCanAttackTheKing bin/1222.QueensThatCanAttackTheKing)
 add_subdirectory(Algorithms/Tasks.1001.1500/1232.CheckIfStraightLine bin/1232.CheckIfStraightLine)

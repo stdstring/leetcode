@@ -726,6 +726,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
 * [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/)
+* [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
 * [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/)
 * [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/)
 * [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/)
