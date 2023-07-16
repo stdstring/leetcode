@@ -701,6 +701,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 * [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/)
+* [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/)
 * [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/)
 * [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
