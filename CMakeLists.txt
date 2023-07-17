@@ -1165,3 +1165,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2745.ConstructLongestNewString bin/2
 add_subdirectory(Algorithms/Tasks.2501.3000/2746.DecrementalStringConcat bin/2746.DecrementalStringConcat)
 add_subdirectory(Algorithms/Tasks.2501.3000/2751.RobotCollisions bin/2751.RobotCollisions)
 add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSubstrs bin/2767.PartitionStrIntoMinBeautifulSubstrs)
+add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
