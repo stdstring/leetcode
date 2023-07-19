@@ -583,6 +583,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0881.BoatsToSavePeople bin/0881.Boat
 add_subdirectory(Algorithms/Tasks.0501.1000/0883.ProjectionAreaOf3DShapes bin/0883.ProjectionAreaOf3DShapes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0886.PossibleBipartition bin/0886.PossibleBipartition)
+add_subdirectory(Algorithms/Tasks.0501.1000/0889.ConstructBinTreeFromPreorderPostorder bin/0889.ConstructBinTreeFromPreorderPostorder)
 add_subdirectory(Algorithms/Tasks.0501.1000/0890.FindReplacePattern bin/0890.FindReplacePattern)
 add_subdirectory(Algorithms/Tasks.0501.1000/0892.SurfaceArea3DShapes bin/0892.SurfaceArea3DShapes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0893.GroupsOfSpecialEquivalentStrings bin/0893.GroupsOfSpecialEquivalentStrings)
