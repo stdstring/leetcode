@@ -684,6 +684,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1021.RemoveOutermostParentheses bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1022.SumOfRootToLeafBinNumbers bin/1022.SumOfRootToLeafBinNumbers)
 add_subdirectory(Algorithms/Tasks.1001.1500/1023.CamelcaseMatching bin/1023.CamelcaseMatching)
 add_subdirectory(Algorithms/Tasks.1001.1500/1026.MaxDiffBetweenNodeAndAncestor bin/1026.MaxDiffBetweenNodeAndAncestor)
+add_subdirectory(Algorithms/Tasks.1001.1500/1027.LongestArithSubsequence bin/1027.LongestArithSubsequence)
 add_subdirectory(Algorithms/Tasks.1001.1500/1028.RecoverTreeFromPreorderTraversal bin/1028.RecoverTreeFromPreorderTraversal)
 add_subdirectory(Algorithms/Tasks.1001.1500/1029.TwoCityScheduling bin/1029.TwoCityScheduling)
 add_subdirectory(Algorithms/Tasks.1001.1500/1030.MatrixCellsInDistanceOrder bin/1030.MatrixCellsInDistanceOrder)

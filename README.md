@@ -673,6 +673,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
+* [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
 * [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
 * [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/)
 * [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/)
