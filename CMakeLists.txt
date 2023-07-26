@@ -952,6 +952,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1857.LargestColorValueInDirectedGrap
 add_subdirectory(Algorithms/Tasks.1501.2000/1860.IncrementalMemoryLeak bin/1860.IncrementalMemoryLeak)
 add_subdirectory(Algorithms/Tasks.1501.2000/1861.RotatingBox bin/1861.RotatingBox)
 add_subdirectory(Algorithms/Tasks.1501.2000/1865.FindingPairsWithCertainSum bin/1865.FindingPairsWithCertainSum)
+add_subdirectory(Algorithms/Tasks.1501.2000/1870.MinSpeedToArriveOnTime bin/1870.MinSpeedToArriveOnTime)
 add_subdirectory(Algorithms/Tasks.1501.2000/1871.JumpGameVII bin/1871.JumpGameVII)
 add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
 add_subdirectory(Algorithms/Tasks.1501.2000/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
