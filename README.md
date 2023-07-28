@@ -339,6 +339,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/description/)
 * [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 * [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+* [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
 * [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)
 * [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
 * [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
