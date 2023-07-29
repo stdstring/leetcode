@@ -526,6 +526,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0802.FindEventualSafeStates bin/0802
 add_subdirectory(Algorithms/Tasks.0501.1000/0804.UniqueMorseCodeWords bin/0804.UniqueMorseCodeWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0806.NumberOfLinesToWriteString bin/0806.NumberOfLinesToWriteString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0807.MaxIncreaseToKeepCitySkyline bin/0807.MaxIncreaseToKeepCitySkyline)
+add_subdirectory(Algorithms/Tasks.0501.1000/0808.SoupServings bin/0808.SoupServings)
 add_subdirectory(Algorithms/Tasks.0501.1000/0809.ExpressiveWords bin/0809.ExpressiveWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0811.SubdomainVisitCount bin/0811.SubdomainVisitCount)
 add_subdirectory(Algorithms/Tasks.0501.1000/0812.LargestTriangleArea bin/0812.LargestTriangleArea)

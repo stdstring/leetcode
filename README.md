@@ -515,6 +515,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 * [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)
+* [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/)
 * [809. Expressive Words](https://leetcode.com/problems/expressive-words/description/)
 * [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)
 * [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)
