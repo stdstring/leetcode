@@ -461,6 +461,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
 * [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 * [710. Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/)
+* [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 * [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 * [715. Range Module](https://leetcode.com/problems/range-module/description/)
 * [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
