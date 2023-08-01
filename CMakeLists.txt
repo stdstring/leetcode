@@ -692,6 +692,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1027.LongestArithSubsequence bin/102
 add_subdirectory(Algorithms/Tasks.1001.1500/1028.RecoverTreeFromPreorderTraversal bin/1028.RecoverTreeFromPreorderTraversal)
 add_subdirectory(Algorithms/Tasks.1001.1500/1029.TwoCityScheduling bin/1029.TwoCityScheduling)
 add_subdirectory(Algorithms/Tasks.1001.1500/1030.MatrixCellsInDistanceOrder bin/1030.MatrixCellsInDistanceOrder)
+add_subdirectory(Algorithms/Tasks.1001.1500/1031.MaxSumTwoNonOverlappingSubarrays bin/1031.MaxSumTwoNonOverlappingSubarrays)
 add_subdirectory(Algorithms/Tasks.1001.1500/1032.StreamOfCharacters bin/1032.StreamOfCharacters)
 add_subdirectory(Algorithms/Tasks.1001.1500/1033.MovingStonesUntilConsecutive bin/1033.MovingStonesUntilConsecutive)
 add_subdirectory(Algorithms/Tasks.1001.1500/1034.ColoringBorder bin/1034.ColoringBorder)
