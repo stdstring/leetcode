@@ -1170,3 +1170,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/description/)
 * [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)
+* [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/)

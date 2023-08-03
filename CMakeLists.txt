@@ -1181,3 +1181,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2751.RobotCollisions bin/2751.RobotC
 add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSubstrs bin/2767.PartitionStrIntoMinBeautifulSubstrs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
 add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.SortVowelsInString)
+add_subdirectory(Algorithms/Tasks.2501.3000/2800.ShortestStringThatContains3Strings bin/2800.ShortestStringThatContains3Strings)
