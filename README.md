@@ -132,6 +132,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [136. Single Number](https://leetcode.com/problems/single-number/description/)
 * [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+* [139. Word Break](https://leetcode.com/problems/word-break/description/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 * [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
