@@ -987,6 +987,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2013.DetectSquares bin/2013.DetectSq
 add_subdirectory(Algorithms/Tasks.2001.2500/2017.GridGame bin/2017.GridGame)
 add_subdirectory(Algorithms/Tasks.2001.2500/2018.CheckWordCanBePlacedInCrossword bin/2018.CheckWordCanBePlacedInCrossword)
 add_subdirectory(Algorithms/Tasks.2001.2500/2022.Convert1DArrayInto2DArray bin/2022.Convert1DArrayInto2DArray)
+add_subdirectory(Algorithms/Tasks.2001.2500/2023.NumberPairsOfStringsWithConcatEqualTarget bin/2023.NumberPairsOfStringsWithConcatEqualTarget)
 add_subdirectory(Algorithms/Tasks.2001.2500/2024.MaximizeConfusionOfExam bin/2024.MaximizeConfusionOfExam)
 add_subdirectory(Algorithms/Tasks.2001.2500/2028.FindMissingObservations bin/2028.FindMissingObservations)
 add_subdirectory(Algorithms/Tasks.2001.2500/2033.MinOperationsToMakeUniValueGrid bin/2033.MinOperationsToMakeUniValueGrid)
