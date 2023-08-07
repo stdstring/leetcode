@@ -722,6 +722,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
 * [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)
 * [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/)
+* [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/)
 * [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 * [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
 * [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)

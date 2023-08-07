@@ -733,6 +733,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1145.BinaryTreeColoringGame bin/1145
 add_subdirectory(Algorithms/Tasks.1001.1500/1146.SnapshotArray bin/1146.SnapshotArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1154.DayOfYear bin/1154.DayOfYear)
 add_subdirectory(Algorithms/Tasks.1001.1500/1155.NumberOfDiceRollsWithTargetSum bin/1155.NumberOfDiceRollsWithTargetSum)
+add_subdirectory(Algorithms/Tasks.1001.1500/1156.SwapForLongestRepeatedCharSubstring bin/1156.SwapForLongestRepeatedCharSubstring)
 add_subdirectory(Algorithms/Tasks.1001.1500/1160.FindWordsThatCanBeFormedByChars bin/1160.FindWordsThatCanBeFormedByChars)
 add_subdirectory(Algorithms/Tasks.1001.1500/1161.MaxLevelSumOfBinaryTree bin/1161.MaxLevelSumOfBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1162.AsFarFromLandAsPossible bin/1162.AsFarFromLandAsPossible)
