@@ -1088,6 +1088,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2359.FindClosestNodeToGivenTwoNodes 
 add_subdirectory(Algorithms/Tasks.2001.2500/2360.LongestCycleInGraph bin/2360.LongestCycleInGraph)
 add_subdirectory(Algorithms/Tasks.2001.2500/2365.TaskSchedulerII bin/2365.TaskSchedulerII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
+add_subdirectory(Algorithms/Tasks.2001.2500/2369.CheckIfValidPartitionForArray bin/2369.CheckIfValidPartitionForArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2376.CountSpecialIntegers bin/2376.CountSpecialIntegers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2384.LargestPalindromicNumber bin/2384.LargestPalindromicNumber)
