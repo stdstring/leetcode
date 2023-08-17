@@ -1162,6 +1162,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2596.CheckKnightTourConfiguration bi
 add_subdirectory(Algorithms/Tasks.2501.3000/2606.FindSubstringWithMaxCost bin/2606.FindSubstringWithMaxCost)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
 add_subdirectory(Algorithms/Tasks.2501.3000/2615.SumOfDistances bin/2615.SumOfDistances)
+add_subdirectory(Algorithms/Tasks.2501.3000/2616.MinimizeMaxDifferenceOfPairs bin/2616.MinimizeMaxDifferenceOfPairs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2641.CousinsInBinaryTreeII bin/2641.CousinsInBinaryTreeII)
 add_subdirectory(Algorithms/Tasks.2501.3000/2645.MinAdditionsMakeValidString bin/2645.MinAdditionsMakeValidString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2653.SlidingSubarrayBeauty bin/2653.SlidingSubarrayBeauty)
