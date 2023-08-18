@@ -884,6 +884,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)
 * [1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
+* [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)

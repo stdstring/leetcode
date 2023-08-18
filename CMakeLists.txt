@@ -895,6 +895,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1601.MaxNumberAchievableTransferRequ
 add_subdirectory(Algorithms/Tasks.1501.2000/1603.DesignParkingSystem bin/1603.DesignParkingSystem)
 add_subdirectory(Algorithms/Tasks.1501.2000/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTree)
+add_subdirectory(Algorithms/Tasks.1501.2000/1615.MaxNetworkRank bin/1615.MaxNetworkRank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
 add_subdirectory(Algorithms/Tasks.1501.2000/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/Tasks.1501.2000/1631.PathWithMinEffort bin/1631.PathWithMinEffort)
