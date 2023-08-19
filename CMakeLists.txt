@@ -1185,6 +1185,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2734.LexSmallestStrAfterSubstrOperat
 add_subdirectory(Algorithms/Tasks.2501.3000/2745.ConstructLongestNewString bin/2745.ConstructLongestNewString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2746.DecrementalStringConcat bin/2746.DecrementalStringConcat)
 add_subdirectory(Algorithms/Tasks.2501.3000/2751.RobotCollisions bin/2751.RobotCollisions)
+add_subdirectory(Algorithms/Tasks.2501.3000/2761.PrimePairsWithTargetSum bin/2761.PrimePairsWithTargetSum)
 add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSubstrs bin/2767.PartitionStrIntoMinBeautifulSubstrs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
 add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.SortVowelsInString)
