@@ -53,7 +53,7 @@ using CommonLib::checkAndDeleteLinkedList;
 namespace MergeKSortedListsTask
 {
 
-TEST(ReorderListTaskTests, Examples)
+TEST(MergeKSortedListsTaskTests, Examples)
 {
     Solution solution;
     checkAndDeleteLinkedList({1, 1, 2, 3, 4, 4, 5, 6}, solution.mergeKLists({createLinkedList({1, 4, 5}, false).get(),
@@ -61,7 +61,7 @@ TEST(ReorderListTaskTests, Examples)
                                                                              createLinkedList({2, 6}, false).get()}));
 }
 
-TEST(ReorderListTaskTests, FromWrongAnswers)
+TEST(MergeKSortedListsTaskTests, FromWrongAnswers)
 {
     Solution solution;
     checkAndDeleteLinkedList({}, solution.mergeKLists({}));
