@@ -1190,4 +1190,5 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSub
 add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
 add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.SortVowelsInString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2800.ShortestStringThatContains3Strings bin/2800.ShortestStringThatContains3Strings)
+add_subdirectory(Algorithms/Tasks.2501.3000/2807.InsertGCDInLinkedList bin/2807.InsertGCDInLinkedList)
 add_subdirectory(Algorithms/Tasks.2501.3000/2816.DoubleNumberRepresentedAsLinkedList bin/2816.DoubleNumberRepresentedAsLinkedList)
