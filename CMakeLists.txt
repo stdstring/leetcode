@@ -1192,3 +1192,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.Sor
 add_subdirectory(Algorithms/Tasks.2501.3000/2800.ShortestStringThatContains3Strings bin/2800.ShortestStringThatContains3Strings)
 add_subdirectory(Algorithms/Tasks.2501.3000/2807.InsertGCDInLinkedList bin/2807.InsertGCDInLinkedList)
 add_subdirectory(Algorithms/Tasks.2501.3000/2816.DoubleNumberRepresentedAsLinkedList bin/2816.DoubleNumberRepresentedAsLinkedList)
+add_subdirectory(Algorithms/Tasks.2501.3000/2829.DetermineMinSumOfKAvoidingArray bin/2829.DetermineMinSumOfKAvoidingArray)
