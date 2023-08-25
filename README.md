@@ -1134,6 +1134,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
+* [2546. Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/description/)
 * [2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/)
 * [2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/)
 * [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
