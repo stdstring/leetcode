@@ -449,6 +449,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
 * [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
 * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
+* [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)

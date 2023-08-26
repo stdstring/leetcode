@@ -460,6 +460,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0684.RedundantConnection bin/0684.Re
 add_subdirectory(Algorithms/Tasks.0501.1000/0686.RepeatedStringMatch bin/0686.RepeatedStringMatch)
 add_subdirectory(Algorithms/Tasks.0501.1000/0687.LongestUnivaluePath bin/0687.LongestUnivaluePath)
 add_subdirectory(Algorithms/Tasks.0501.1000/0688.KnightProbabilityInChessboard bin/0688.KnightProbabilityInChessboard)
+add_subdirectory(Algorithms/Tasks.0501.1000/0690.EmployeeImportance bin/0690.EmployeeImportance)
 add_subdirectory(Algorithms/Tasks.0501.1000/0692.TopKFrequentWords bin/0692.TopKFrequentWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0695.MaxAreaOfIsland bin/0695.MaxAreaOfIsland)
 add_subdirectory(Algorithms/Tasks.0501.1000/0696.CountBinarySubstrings bin/0696.CountBinarySubstrings)
