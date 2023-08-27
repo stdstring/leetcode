@@ -296,6 +296,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0399.EvaluateDivision bin/0399.Evalu
 add_subdirectory(Algorithms/Tasks.0001.0500/0400.NthDigit bin/0400.NthDigit)
 add_subdirectory(Algorithms/Tasks.0001.0500/0401.BinaryWatch bin/0401.BinaryWatch)
 add_subdirectory(Algorithms/Tasks.0001.0500/0402.RemoveKDigits bin/0402.RemoveKDigits)
+add_subdirectory(Algorithms/Tasks.0001.0500/0403.FrogJump bin/0403.FrogJump)
 add_subdirectory(Algorithms/Tasks.0001.0500/0404.SumOfLeftLeaves bin/0404.SumOfLeftLeaves)
 add_subdirectory(Algorithms/Tasks.0001.0500/0405.ConvertNumberToHexadecimal bin/0405.ConvertNumberToHexadecimal)
 add_subdirectory(Algorithms/Tasks.0001.0500/0406.QueueReconstructionByHeight bin/0406.QueueReconstructionByHeight)

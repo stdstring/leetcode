@@ -285,6 +285,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [400. Nth Digit](https://leetcode.com/problems/nth-digit/description/)
 * [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 * [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
+* [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 * [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 * [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
