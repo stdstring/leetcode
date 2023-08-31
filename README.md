@@ -920,6 +920,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
+* [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)
 * [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 * [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
 * [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)

@@ -931,6 +931,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1706.WhereWillBallFall bin/1706.Wher
 add_subdirectory(Algorithms/Tasks.1501.2000/1710.MaxUnitsOnTruck bin/1710.MaxUnitsOnTruck)
 add_subdirectory(Algorithms/Tasks.1501.2000/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
+add_subdirectory(Algorithms/Tasks.1501.2000/1726.TupleWithSameProduct bin/1726.TupleWithSameProduct)
 add_subdirectory(Algorithms/Tasks.1501.2000/1732.FindHighestAltitude bin/1732.FindHighestAltitude)
 add_subdirectory(Algorithms/Tasks.1501.2000/1751.MaxNumberEventsThatCanBeAttended2 bin/1751.MaxNumberEventsThatCanBeAttended2)
 add_subdirectory(Algorithms/Tasks.1501.2000/1759.CountNumberOfHomogenousSubstrings bin/1759.CountNumberOfHomogenousSubstrings)
