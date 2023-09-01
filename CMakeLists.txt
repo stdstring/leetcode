@@ -771,6 +771,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1268.SearchSuggestionsSystem bin/126
 add_subdirectory(Algorithms/Tasks.1001.1500/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
 add_subdirectory(Algorithms/Tasks.1001.1500/1276.NumOfBurgersWithNoWasteOfIngredients bin/1276.NumOfBurgersWithNoWasteOfIngredients)
 add_subdirectory(Algorithms/Tasks.1001.1500/1281.SubtractProductAndSumOfDigits bin/1281.SubtractProductAndSumOfDigits)
+add_subdirectory(Algorithms/Tasks.1001.1500/1282.GroupPeopleGivenGroupSizeTheyBelongTo bin/1282.GroupPeopleGivenGroupSizeTheyBelongTo)
 add_subdirectory(Algorithms/Tasks.1001.1500/1286.IteratorForCombination bin/1286.IteratorForCombination)
 add_subdirectory(Algorithms/Tasks.1001.1500/1288.RemoveCoveredIntervals bin/1288.RemoveCoveredIntervals)
 add_subdirectory(Algorithms/Tasks.1001.1500/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
