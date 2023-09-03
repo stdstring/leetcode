@@ -657,6 +657,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0977.SquaresOfSortedArray bin/0977.S
 add_subdirectory(Algorithms/Tasks.0501.1000/0978.LongestTurbulentSubarray bin/0978.LongestTurbulentSubarray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0980.UniquePathsIII bin/0980.UniquePathsIII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0981.TimeBasedKeyValueStore bin/0981.TimeBasedKeyValueStore)
+add_subdirectory(Algorithms/Tasks.0501.1000/0982.TriplesWithBitwiseAndEqualToZero bin/0982.TriplesWithBitwiseAndEqualToZero)
 add_subdirectory(Algorithms/Tasks.0501.1000/0983.MinCostForTickets bin/0983.MinCostForTickets)
 add_subdirectory(Algorithms/Tasks.0501.1000/0984.StringWithoutAAAorBBB bin/0984.StringWithoutAAAorBBB)
 add_subdirectory(Algorithms/Tasks.0501.1000/0985.SumOfEvenNumbersAfterQueries bin/0985.SumOfEvenNumbersAfterQueries)
