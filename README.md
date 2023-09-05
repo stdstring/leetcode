@@ -807,6 +807,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/description/)
 * [1366. Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/)
 * [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
+* [1371. Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)
 * [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)
 * [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 * [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/description/)

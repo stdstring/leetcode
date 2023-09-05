@@ -818,6 +818,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1362.ClosestDivisors bin/1362.Closes
 add_subdirectory(Algorithms/Tasks.1001.1500/1363.LargestMultipleOfThree bin/1363.LargestMultipleOfThree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1366.RankTeamsByVotes bin/1366.RankTeamsByVotes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1367.LinkedListInBinaryTree bin/1367.LinkedListInBinaryTree)
+add_subdirectory(Algorithms/Tasks.1001.1500/1371.FindLongestSubstrWithEvenCountsVowels bin/1371.FindLongestSubstrWithEvenCountsVowels)
 add_subdirectory(Algorithms/Tasks.1001.1500/1372.LongestZigZagPathInBinaryTree bin/1372.LongestZigZagPathInBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1374.GenerateStrWithCharsThatHaveOddCounts bin/1374.GenerateStrWithCharsThatHaveOddCounts)
 add_subdirectory(Algorithms/Tasks.1001.1500/1375.BulbSwitcherIII bin/1375.BulbSwitcherIII)
