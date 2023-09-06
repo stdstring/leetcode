@@ -816,6 +816,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 * [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
+* [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
