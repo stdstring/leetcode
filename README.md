@@ -928,6 +928,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 * [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/description/)
 * [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)
+* [1711. Count Good Meals](https://leetcode.com/problems/count-good-meals/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)
