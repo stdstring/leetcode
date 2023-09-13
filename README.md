@@ -933,6 +933,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)
 * [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
+* [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)
 * [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
 * [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
 * [1764. Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/description/)
