@@ -251,6 +251,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0326.PowerOfThree bin/0326.PowerOfTh
 add_subdirectory(Algorithms/Tasks.0001.0500/0328.OddEvenLinkedList bin/0328.OddEvenLinkedList)
 add_subdirectory(Algorithms/Tasks.0001.0500/0329.LongestIncreasingPathInMatrix bin/0329.LongestIncreasingPathInMatrix)
 add_subdirectory(Algorithms/Tasks.0001.0500/0331.VerifyPreorderSerializationBinaryTree bin/0331.VerifyPreorderSerializationBinaryTree)
+add_subdirectory(Algorithms/Tasks.0001.0500/0332.ReconstructItinerary bin/0332.ReconstructItinerary)
 add_subdirectory(Algorithms/Tasks.0001.0500/0334.IncreasingTripletSubsequence bin/0334.IncreasingTripletSubsequence)
 add_subdirectory(Algorithms/Tasks.0001.0500/0337.HouseRobberIII bin/0337.HouseRobberIII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0338.CountingBits bin/0338.CountingBits)
