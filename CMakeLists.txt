@@ -956,6 +956,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1770.MaxScoreFromPerformingMultOps b
 add_subdirectory(Algorithms/Tasks.1501.2000/1773.CountItemsMatchingRule bin/1773.CountItemsMatchingRule)
 add_subdirectory(Algorithms/Tasks.1501.2000/1779.FindNearestPointThatHasSameXOrYCoord bin/1779.FindNearestPointThatHasSameXOrYCoord)
 add_subdirectory(Algorithms/Tasks.1501.2000/1780.CheckIfNumberSumOfPowersOfThree bin/1780.CheckIfNumberSumOfPowersOfThree)
+add_subdirectory(Algorithms/Tasks.1501.2000/1781.SumOfBeautyAllSubstrings bin/1781.SumOfBeautyAllSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1784.CheckBinStrHasAtMostOneSegmentOnes bin/1784.CheckBinStrHasAtMostOneSegmentOnes)
 add_subdirectory(Algorithms/Tasks.1501.2000/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
