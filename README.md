@@ -1023,6 +1023,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2117. Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)
 * [2120. Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)
+* [2121. Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/description/)
 * [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
 * [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/)
 * [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
