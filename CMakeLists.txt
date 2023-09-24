@@ -766,6 +766,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1238.CircularPermutationInBinaryRepr
 add_subdirectory(Algorithms/Tasks.1001.1500/1239.MaxLengthOfConcatStrWithUniqChars bin/1239.MaxLengthOfConcatStrWithUniqChars)
 add_subdirectory(Algorithms/Tasks.1001.1500/1248.CountNumberOfNiceSubarrays bin/1248.CountNumberOfNiceSubarrays)
 add_subdirectory(Algorithms/Tasks.1001.1500/1249.MinRemoveToMakeValidParentheses bin/1249.MinRemoveToMakeValidParentheses)
+add_subdirectory(Algorithms/Tasks.1001.1500/1253.Reconstruct2RowBinaryMatrix bin/1253.Reconstruct2RowBinaryMatrix)
 add_subdirectory(Algorithms/Tasks.1001.1500/1254.NumberOfClosedIslands bin/1254.NumberOfClosedIslands)
 add_subdirectory(Algorithms/Tasks.1001.1500/1255.MaxScoreWordsFormedByLetters bin/1255.MaxScoreWordsFormedByLetters)
 add_subdirectory(Algorithms/Tasks.1001.1500/1260.Shift2DGrid bin/1260.Shift2DGrid)

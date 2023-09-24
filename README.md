@@ -755,6 +755,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
 * [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 * [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
+* [1253. Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/)
 * [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)
 * [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
