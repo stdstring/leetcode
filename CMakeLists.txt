@@ -683,6 +683,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1008.ConstructBSTFromPreorderTravers
 add_subdirectory(Algorithms/Tasks.1001.1500/1009.ComplementOfBase10Integer bin/1009.ComplementOfBase10Integer)
 add_subdirectory(Algorithms/Tasks.1001.1500/1010.PairsOfSongsWithTotalDurationsDivBy60 bin/1010.PairsOfSongsWithTotalDurationsDivBy60)
 add_subdirectory(Algorithms/Tasks.1001.1500/1011.CapacityToShipPackages bin/1011.CapacityToShipPackages)
+add_subdirectory(Algorithms/Tasks.1001.1500/1014.BestSightseeingPair bin/1014.BestSightseeingPair)
 add_subdirectory(Algorithms/Tasks.1001.1500/1015.SmallestIntegerDivisibleByK bin/1015.SmallestIntegerDivisibleByK)
 add_subdirectory(Algorithms/Tasks.1001.1500/1016.BinaryStringWithSubstrings1ToN bin/1016.BinaryStringWithSubstrings1ToN)
 add_subdirectory(Algorithms/Tasks.1001.1500/1017.ConvertToBaseNeg2 bin/1017.ConvertToBaseNeg2)
