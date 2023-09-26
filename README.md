@@ -682,6 +682,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 * [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
 * [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
+* [1024. Video Stitching](https://leetcode.com/problems/video-stitching/description/)
 * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
 * [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
 * [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
