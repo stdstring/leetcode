@@ -716,6 +716,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
+* [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/)
 * [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)
 * [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 * [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/)
