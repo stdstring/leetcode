@@ -1028,6 +1028,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2063.VowelsOfAllSubstrings bin/2063.
 add_subdirectory(Algorithms/Tasks.2001.2500/2069.WalkingRobotSimulationII bin/2069.WalkingRobotSimulationII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2074.ReverseNodesInEvenLengthGroups bin/2074.ReverseNodesInEvenLengthGroups)
 add_subdirectory(Algorithms/Tasks.2001.2500/2075.DecodeSlantedCiphertext bin/2075.DecodeSlantedCiphertext)
+add_subdirectory(Algorithms/Tasks.2001.2500/2079.WateringPlants bin/2079.WateringPlants)
 add_subdirectory(Algorithms/Tasks.2001.2500/2080.RangeFrequencyQueries bin/2080.RangeFrequencyQueries)
 add_subdirectory(Algorithms/Tasks.2001.2500/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)

@@ -1017,6 +1017,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
 * [2074. Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
 * [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/)
+* [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/)
 * [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/description/)
 * [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
 * [2087. Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
