@@ -868,6 +868,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1463.CherryPickupII bin/1463.CherryP
 add_subdirectory(Algorithms/Tasks.1001.1500/1465.MaxAreaOfPieceOfCakeAfterCuts bin/1465.MaxAreaOfPieceOfCakeAfterCuts)
 add_subdirectory(Algorithms/Tasks.1001.1500/1466.ReorderRoutesMakeAllPathsLeadToCity0 bin/1466.ReorderRoutesMakeAllPathsLeadToCity0)
 add_subdirectory(Algorithms/Tasks.1001.1500/1470.ShuffleArray bin/1470.ShuffleArray)
+add_subdirectory(Algorithms/Tasks.1001.1500/1471.KStrongestValuesInArray bin/1471.KStrongestValuesInArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
 add_subdirectory(Algorithms/Tasks.1001.1500/1476.SubrectangleQueries bin/1476.SubrectangleQueries)
 add_subdirectory(Algorithms/Tasks.1001.1500/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)

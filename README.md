@@ -857,6 +857,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)
 * [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
+* [1471. The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 * [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
