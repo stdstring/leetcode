@@ -766,6 +766,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1276. Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/)
+* [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 * [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 * [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
