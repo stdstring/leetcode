@@ -1079,6 +1079,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
 * [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/)
 * [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)
+* [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
