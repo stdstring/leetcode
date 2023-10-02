@@ -1022,6 +1022,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2024.MaximizeConfusionOfExam bin/202
 add_subdirectory(Algorithms/Tasks.2001.2500/2028.FindMissingObservations bin/2028.FindMissingObservations)
 add_subdirectory(Algorithms/Tasks.2001.2500/2033.MinOperationsToMakeUniValueGrid bin/2033.MinOperationsToMakeUniValueGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2034.StockPriceFluctuation bin/2034.StockPriceFluctuation)
+add_subdirectory(Algorithms/Tasks.2001.2500/2038.RemoveColoredPiecesIfBothNeighborsSame bin/2038.RemoveColoredPiecesIfBothNeighborsSame)
 add_subdirectory(Algorithms/Tasks.2001.2500/2043.SimpleBankSystem bin/2043.SimpleBankSystem)
 add_subdirectory(Algorithms/Tasks.2001.2500/2048.NextGreaterNumericallyBalancedNumber bin/2048.NextGreaterNumericallyBalancedNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2056.NumberValidMoveCombinationsOnChessboard bin/2056.NumberValidMoveCombinationsOnChessboard)
