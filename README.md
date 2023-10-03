@@ -875,6 +875,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
+* [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
 * [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)

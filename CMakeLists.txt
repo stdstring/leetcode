@@ -886,6 +886,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1503.LastMomentBeforeAllAntsFallOutO
 add_subdirectory(Algorithms/Tasks.1501.2000/1507.ReformatDate bin/1507.ReformatDate)
 add_subdirectory(Algorithms/Tasks.1501.2000/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/Tasks.1501.2000/1510.StoneGameIV bin/1510.StoneGameIV)
+add_subdirectory(Algorithms/Tasks.1501.2000/1512.NumberOfGoodPairs bin/1512.NumberOfGoodPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1513.NumberOfSubstringsWithOnly1 bin/1513.NumberOfSubstringsWithOnly1)
 add_subdirectory(Algorithms/Tasks.1501.2000/1514.PathWithMaximumProbability bin/1514.PathWithMaximumProbability)
 add_subdirectory(Algorithms/Tasks.1501.2000/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
