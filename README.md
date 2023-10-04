@@ -746,6 +746,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
 * [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+* [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)
 * [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
 * [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/)
 * [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
