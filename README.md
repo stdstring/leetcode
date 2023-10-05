@@ -984,6 +984,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/)
 * [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/description/)
+* [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)

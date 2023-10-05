@@ -995,6 +995,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctCh
 add_subdirectory(Algorithms/Tasks.1501.2000/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
 add_subdirectory(Algorithms/Tasks.1501.2000/1895.LargestMagicSquare bin/1895.LargestMagicSquare)
 add_subdirectory(Algorithms/Tasks.1501.2000/1904.NumberFullRoundsYouHavePlayed bin/1904.NumberFullRoundsYouHavePlayed)
+add_subdirectory(Algorithms/Tasks.1501.2000/1910.RemoveAllOccurrencesOfSubstring bin/1910.RemoveAllOccurrencesOfSubstring)
 add_subdirectory(Algorithms/Tasks.1501.2000/1914.CyclicallyRotatingGrid bin/1914.CyclicallyRotatingGrid)
 add_subdirectory(Algorithms/Tasks.1501.2000/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/Tasks.1501.2000/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
