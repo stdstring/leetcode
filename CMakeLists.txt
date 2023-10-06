@@ -1092,6 +1092,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2241.DesignATMMachine bin/2241.Desig
 add_subdirectory(Algorithms/Tasks.2001.2500/2244.MinRoundsCompleteAllTasks bin/2244.MinRoundsCompleteAllTasks)
 add_subdirectory(Algorithms/Tasks.2001.2500/2246.LongestPathWithDiffAdjacentChars bin/2246.LongestPathWithDiffAdjacentChars)
 add_subdirectory(Algorithms/Tasks.2001.2500/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
+add_subdirectory(Algorithms/Tasks.2001.2500/2251.NumberOfFlowersInFullBloom bin/2251.NumberOfFlowersInFullBloom)
 add_subdirectory(Algorithms/Tasks.2001.2500/2256.MinAverageDifference bin/2256.MinAverageDifference)
 add_subdirectory(Algorithms/Tasks.2001.2500/2257.CountUnguardedCellsInGrid bin/2257.CountUnguardedCellsInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2260.MinConsecutiveCardsToPickUp bin/2260.MinConsecutiveCardsToPickUp)
