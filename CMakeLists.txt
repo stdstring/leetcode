@@ -852,6 +852,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1416.RestoreTheArray bin/1416.Restor
 add_subdirectory(Algorithms/Tasks.1001.1500/1417.ReformatTheString bin/1417.ReformatTheString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1418.DisplayTableOfFoodOrdersInRestaurant bin/1418.DisplayTableOfFoodOrdersInRestaurant)
 add_subdirectory(Algorithms/Tasks.1001.1500/1419.MinNumberOfFrogsCroaking bin/1419.MinNumberOfFrogsCroaking)
+add_subdirectory(Algorithms/Tasks.1001.1500/1420.BuildArrayWhereMaxExactlyKComp bin/1420.BuildArrayWhereMaxExactlyKComp)
 add_subdirectory(Algorithms/Tasks.1001.1500/1423.MaxPointsYouCanObtainFromCards bin/1423.MaxPointsYouCanObtainFromCards)
 add_subdirectory(Algorithms/Tasks.1001.1500/1431.KidsWithGreatestNumberOfCandies bin/1431.KidsWithGreatestNumberOfCandies)
 add_subdirectory(Algorithms/Tasks.1001.1500/1432.MaxDiffFromChangingInteger bin/1432.MaxDiffFromChangingInteger)
