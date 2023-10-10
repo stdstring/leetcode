@@ -770,6 +770,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 * [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
+* [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
 * [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)

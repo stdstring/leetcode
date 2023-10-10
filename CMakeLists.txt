@@ -781,6 +781,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1276.NumOfBurgersWithNoWasteOfIngred
 add_subdirectory(Algorithms/Tasks.1001.1500/1277.CountSquareSubmatricesWithAllOnes bin/1277.CountSquareSubmatricesWithAllOnes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1281.SubtractProductAndSumOfDigits bin/1281.SubtractProductAndSumOfDigits)
 add_subdirectory(Algorithms/Tasks.1001.1500/1282.GroupPeopleGivenGroupSizeTheyBelongTo bin/1282.GroupPeopleGivenGroupSizeTheyBelongTo)
+add_subdirectory(Algorithms/Tasks.1001.1500/1283.FindSmallestDivisorGivenThreshold bin/1283.FindSmallestDivisorGivenThreshold)
 add_subdirectory(Algorithms/Tasks.1001.1500/1286.IteratorForCombination bin/1286.IteratorForCombination)
 add_subdirectory(Algorithms/Tasks.1001.1500/1288.RemoveCoveredIntervals bin/1288.RemoveCoveredIntervals)
 add_subdirectory(Algorithms/Tasks.1001.1500/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
