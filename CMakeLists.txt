@@ -809,6 +809,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1325.DeleteLeavesWithGivenValue bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1328.BreakPalindrome bin/1328.BreakPalindrome)
 add_subdirectory(Algorithms/Tasks.1001.1500/1329.SortMatrixDiagonally bin/1329.SortMatrixDiagonally)
 add_subdirectory(Algorithms/Tasks.1001.1500/1332.RemovePalindromicSubsequences bin/1332.RemovePalindromicSubsequences)
+add_subdirectory(Algorithms/Tasks.1001.1500/1333.FilterRestaurants bin/1333.FilterRestaurants)
 add_subdirectory(Algorithms/Tasks.1001.1500/1337.KWeakestRowsInMatrix bin/1337.KWeakestRowsInMatrix)
 add_subdirectory(Algorithms/Tasks.1001.1500/1338.ReduceArraySizeToHalf bin/1338.ReduceArraySizeToHalf)
 add_subdirectory(Algorithms/Tasks.1001.1500/1339.MaximumProductOfSplittedBinaryTree bin/1339.MaximumProductOfSplittedBinaryTree)
