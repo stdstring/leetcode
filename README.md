@@ -713,6 +713,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
 * [1093. Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/)
 * [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
+* [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
 * [1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/)
 * [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 * [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
