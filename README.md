@@ -1009,6 +1009,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 * [2001. Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/description/)
 * [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/description/)
+* [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 * [2013. Detect Squares](https://leetcode.com/problems/detect-squares/description/)
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/)
