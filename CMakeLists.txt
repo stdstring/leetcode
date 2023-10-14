@@ -890,6 +890,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1498.NumberSubseqSatisfySumCondition
 add_subdirectory(Algorithms/Tasks.1501.2000/1502.CanMakeArithProgressionFromSeq bin/1502.CanMakeArithProgressionFromSeq)
 add_subdirectory(Algorithms/Tasks.1501.2000/1503.LastMomentBeforeAllAntsFallOutOfPlank bin/1503.LastMomentBeforeAllAntsFallOutOfPlank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1507.ReformatDate bin/1507.ReformatDate)
+add_subdirectory(Algorithms/Tasks.1501.2000/1508.RangeSumOfSortedSubarraySums bin/1508.RangeSumOfSortedSubarraySums)
 add_subdirectory(Algorithms/Tasks.1501.2000/1509.MinDiffBetweenLargestSmallestValueIn3Moves bin/1509.MinDiffBetweenLargestSmallestValueIn3Moves)
 add_subdirectory(Algorithms/Tasks.1501.2000/1510.StoneGameIV bin/1510.StoneGameIV)
 add_subdirectory(Algorithms/Tasks.1501.2000/1512.NumberOfGoodPairs bin/1512.NumberOfGoodPairs)

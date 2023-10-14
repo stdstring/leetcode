@@ -879,6 +879,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)
 * [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
 * [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
+* [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/)
 * [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)
 * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
