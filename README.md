@@ -766,6 +766,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/)
 * [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
 * [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
+* [1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/)
 * [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 * [1276. Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/)
 * [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)
