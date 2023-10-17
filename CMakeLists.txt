@@ -817,6 +817,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1337.KWeakestRowsInMatrix bin/1337.K
 add_subdirectory(Algorithms/Tasks.1001.1500/1338.ReduceArraySizeToHalf bin/1338.ReduceArraySizeToHalf)
 add_subdirectory(Algorithms/Tasks.1001.1500/1339.MaximumProductOfSplittedBinaryTree bin/1339.MaximumProductOfSplittedBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1342.NumberOfStepsToReduceNumberToZero bin/1342.NumberOfStepsToReduceNumberToZero)
+add_subdirectory(Algorithms/Tasks.1001.1500/1343.NumberSubArraysWithAverageGTEThreshold bin/1343.NumberSubArraysWithAverageGTEThreshold)
 add_subdirectory(Algorithms/Tasks.1001.1500/1344.AngleBetweenHandsOfClock bin/1344.AngleBetweenHandsOfClock)
 add_subdirectory(Algorithms/Tasks.1001.1500/1345.JumpGameIV bin/1345.JumpGameIV)
 add_subdirectory(Algorithms/Tasks.1001.1500/1347.MinStepsNumberToMake2StringsAnagram bin/1347.MinStepsNumberToMake2StringsAnagram)

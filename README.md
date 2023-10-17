@@ -806,6 +806,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/)
 * [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
 * [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
+* [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
 * [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/)
 * [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
