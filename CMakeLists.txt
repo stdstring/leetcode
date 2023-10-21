@@ -511,6 +511,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0768.MaxChunksToMakeSortedII bin/076
 add_subdirectory(Algorithms/Tasks.0501.1000/0769.MaxChunksToMakeSorted bin/0769.MaxChunksToMakeSorted)
 add_subdirectory(Algorithms/Tasks.0501.1000/0771.JewelsAndStones bin/0771.JewelsAndStones)
 add_subdirectory(Algorithms/Tasks.0501.1000/0773.SlidingPuzzle bin/0773.SlidingPuzzle)
+add_subdirectory(Algorithms/Tasks.0501.1000/0775.GlobalAndLocalInversions bin/0775.GlobalAndLocalInversions)
 add_subdirectory(Algorithms/Tasks.0501.1000/0779.KthSymbolInGrammar bin/0779.KthSymbolInGrammar)
 add_subdirectory(Algorithms/Tasks.0501.1000/0783.MinimumDistanceBetweenBSTNodes bin/0783.MinimumDistanceBetweenBSTNodes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0784.LetterCasePermutation bin/0784.LetterCasePermutation)
