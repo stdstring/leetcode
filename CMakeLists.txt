@@ -930,6 +930,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1600.ThroneInheritance bin/1600.Thro
 add_subdirectory(Algorithms/Tasks.1501.2000/1601.MaxNumberAchievableTransferRequests bin/1601.MaxNumberAchievableTransferRequests)
 add_subdirectory(Algorithms/Tasks.1501.2000/1603.DesignParkingSystem bin/1603.DesignParkingSystem)
 add_subdirectory(Algorithms/Tasks.1501.2000/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
+add_subdirectory(Algorithms/Tasks.1501.2000/1605.FindValidMatrixGivenRowColumnSums bin/1605.FindValidMatrixGivenRowColumnSums)
 add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/Tasks.1501.2000/1615.MaxNetworkRank bin/1615.MaxNetworkRank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
