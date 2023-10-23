@@ -1155,6 +1155,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
 * [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)
+* [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
 * [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)
 * [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 * [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
