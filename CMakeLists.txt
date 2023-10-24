@@ -1255,3 +1255,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2825.MakeStringSubseqUsingCyclicInc 
 add_subdirectory(Algorithms/Tasks.2501.3000/2829.DetermineMinSumOfKAvoidingArray bin/2829.DetermineMinSumOfKAvoidingArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2844.MinOperationsToMakeSpecialNumber bin/2844.MinOperationsToMakeSpecialNumber)
 add_subdirectory(Algorithms/Tasks.2501.3000/2849.DetermineIfCellIsReachableAtGivenTime bin/2849.DetermineIfCellIsReachableAtGivenTime)
+add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
