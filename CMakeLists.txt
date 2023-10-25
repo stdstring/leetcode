@@ -939,6 +939,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1631.PathWithMinEffort bin/1631.Path
 add_subdirectory(Algorithms/Tasks.1501.2000/1639.NumberWaysFormTargetStringGivenDict bin/1639.NumberWaysFormTargetStringGivenDict)
 add_subdirectory(Algorithms/Tasks.1501.2000/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1642.FurthestBuildingYouCanReach bin/1642.FurthestBuildingYouCanReach)
+add_subdirectory(Algorithms/Tasks.1501.2000/1643.KthSmallestInstructions bin/1643.KthSmallestInstructions)
 add_subdirectory(Algorithms/Tasks.1501.2000/1646.GetMaxInGeneratedArray bin/1646.GetMaxInGeneratedArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1647.MinDeletionsToMakeCharFreqUnique bin/1647.MinDeletionsToMakeCharFreqUnique)
 add_subdirectory(Algorithms/Tasks.1501.2000/1652.DefuseBomb bin/1652.DefuseBomb)
