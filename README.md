@@ -534,6 +534,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/)
 * [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)
 * [822. Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/)
+* [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/)
 * [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 * [825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/)
 * [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)

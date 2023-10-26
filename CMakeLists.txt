@@ -545,6 +545,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0819.MostCommonWord bin/0819.MostCom
 add_subdirectory(Algorithms/Tasks.0501.1000/0820.ShortEncodingOfWords bin/0820.ShortEncodingOfWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0821.ShortestDistanceToCharacter bin/0821.ShortestDistanceToCharacter)
 add_subdirectory(Algorithms/Tasks.0501.1000/0822.CardFlippingGame bin/0822.CardFlippingGame)
+add_subdirectory(Algorithms/Tasks.0501.1000/0823.BinaryTreesWithFactors bin/0823.BinaryTreesWithFactors)
 add_subdirectory(Algorithms/Tasks.0501.1000/0824.GoatLatin bin/0824.GoatLatin)
 add_subdirectory(Algorithms/Tasks.0501.1000/0825.FriendsOfAppropriateAges bin/0825.FriendsOfAppropriateAges)
 add_subdirectory(Algorithms/Tasks.0501.1000/0826.MostProfitAssigningWork bin/0826.MostProfitAssigningWork)
