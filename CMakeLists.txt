@@ -1115,6 +1115,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2257.CountUnguardedCellsInGrid bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2260.MinConsecutiveCardsToPickUp bin/2260.MinConsecutiveCardsToPickUp)
 add_subdirectory(Algorithms/Tasks.2001.2500/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 add_subdirectory(Algorithms/Tasks.2001.2500/2266.CountNumberOfTexts bin/2266.CountNumberOfTexts)
+add_subdirectory(Algorithms/Tasks.2001.2500/2267.CheckIfThereValidParenthesesPath bin/2267.CheckIfThereValidParenthesesPath)
 add_subdirectory(Algorithms/Tasks.2001.2500/2269.FindKBeautyOfNumber bin/2269.FindKBeautyOfNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2272.SubstringWithLargestVariance bin/2272.SubstringWithLargestVariance)
 add_subdirectory(Algorithms/Tasks.2001.2500/2273.FindResultArrayAfterRemovingAnagrams bin/2273.FindResultArrayAfterRemovingAnagrams)

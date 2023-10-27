@@ -1104,6 +1104,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
+* [2267. Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 * [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
