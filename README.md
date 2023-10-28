@@ -741,6 +741,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/)
 * [1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/)
 * [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/)
+* [1172. Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/)
 * [1175. Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/)
 * [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)

@@ -752,6 +752,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1162.AsFarFromLandAsPossible bin/116
 add_subdirectory(Algorithms/Tasks.1001.1500/1169.InvalidTransactions bin/1169.InvalidTransactions)
 add_subdirectory(Algorithms/Tasks.1001.1500/1170.CompareStringsByFreqOfSmallestChar bin/1170.CompareStringsByFreqOfSmallestChar)
 add_subdirectory(Algorithms/Tasks.1001.1500/1171.RemoveZeroSumConsNodesFromLinkedList bin/1171.RemoveZeroSumConsNodesFromLinkedList)
+add_subdirectory(Algorithms/Tasks.1001.1500/1172.DinnerPlateStacks bin/1172.DinnerPlateStacks)
 add_subdirectory(Algorithms/Tasks.1001.1500/1175.PrimeArrangements bin/1175.PrimeArrangements)
 add_subdirectory(Algorithms/Tasks.1001.1500/1177.CanMakePalindromeFromSubstring bin/1177.CanMakePalindromeFromSubstring)
 add_subdirectory(Algorithms/Tasks.1001.1500/1189.MaximumNumberOfBalloons bin/1189.MaximumNumberOfBalloons)
