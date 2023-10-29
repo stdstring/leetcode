@@ -316,6 +316,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0424.LongestRepeatingCharReplacement
 add_subdirectory(Algorithms/Tasks.0001.0500/0427.ConstructQuadTree bin/0427.ConstructQuadTree)
 add_subdirectory(Algorithms/Tasks.0001.0500/0429.NaryTreeLevelOrderTraversal bin/0429.NaryTreeLevelOrderTraversal)
 add_subdirectory(Algorithms/Tasks.0001.0500/0430.FlattenMultilevelDoublyLinkedList bin/0430.FlattenMultilevelDoublyLinkedList)
+add_subdirectory(Algorithms/Tasks.0001.0500/0432.AllOneDataStructure bin/0432.AllOneDataStructure)
 add_subdirectory(Algorithms/Tasks.0001.0500/0433.MinimumGeneticMutation bin/0433.MinimumGeneticMutation)
 add_subdirectory(Algorithms/Tasks.0001.0500/0434.NumberOfSegmentsInString bin/0434.NumberOfSegmentsInString)
 add_subdirectory(Algorithms/Tasks.0001.0500/0435.NonOverlappingIntervals bin/0435.NonOverlappingIntervals)
