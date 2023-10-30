@@ -818,6 +818,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1348. Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/description/)
 * [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
 * [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
+* [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/)
 * [1357. Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)
 * [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 * [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/)

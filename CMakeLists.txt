@@ -829,6 +829,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1347.MinStepsNumberToMake2StringsAna
 add_subdirectory(Algorithms/Tasks.1001.1500/1348.TweetCountsPerFrequency bin/1348.TweetCountsPerFrequency)
 add_subdirectory(Algorithms/Tasks.1001.1500/1351.CountNegativeNumbersInSortedMatrix bin/1351.CountNegativeNumbersInSortedMatrix)
 add_subdirectory(Algorithms/Tasks.1001.1500/1352.ProductOfLastKNumbers bin/1352.ProductOfLastKNumbers)
+add_subdirectory(Algorithms/Tasks.1001.1500/1356.SortIntegersByNumber1Bits bin/1356.SortIntegersByNumber1Bits)
 add_subdirectory(Algorithms/Tasks.1001.1500/1357.ApplyDiscountEveryNOrders bin/1357.ApplyDiscountEveryNOrders)
 add_subdirectory(Algorithms/Tasks.1001.1500/1358.NumberOfSubstrContainingAllThreeChars bin/1358.NumberOfSubstrContainingAllThreeChars)
 add_subdirectory(Algorithms/Tasks.1001.1500/1359.CountAllValidPickupAndDeliveryOptions bin/1359.CountAllValidPickupAndDeliveryOptions)
