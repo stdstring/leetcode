@@ -362,6 +362,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0495.TeemoAttacking bin/0495.TeemoAt
 add_subdirectory(Algorithms/Tasks.0001.0500/0496.NextGreaterElementI bin/0496.NextGreaterElementI)
 add_subdirectory(Algorithms/Tasks.0001.0500/0498.DiagonalTraverse bin/0498.DiagonalTraverse)
 add_subdirectory(Algorithms/Tasks.0001.0500/0500.KeyboardRow bin/0500.KeyboardRow)
+add_subdirectory(Algorithms/Tasks.0501.1000/0501.FindModeInBinarySearchTree bin/0501.FindModeInBinarySearchTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0502.IPO bin/0502.IPO)
 add_subdirectory(Algorithms/Tasks.0501.1000/0503.NextGreaterElementII bin/0503.NextGreaterElementII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0504.Base7 bin/0504.Base7)
