@@ -660,6 +660,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0974.SubarraySumsDivisibleByK bin/09
 add_subdirectory(Algorithms/Tasks.0501.1000/0976.LargestPerimeterTriangle bin/0976.LargestPerimeterTriangle)
 add_subdirectory(Algorithms/Tasks.0501.1000/0977.SquaresOfSortedArray bin/0977.SquaresOfSortedArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0978.LongestTurbulentSubarray bin/0978.LongestTurbulentSubarray)
+add_subdirectory(Algorithms/Tasks.0501.1000/0979.DistributeCoinsInBinaryTree bin/0979.DistributeCoinsInBinaryTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0980.UniquePathsIII bin/0980.UniquePathsIII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0981.TimeBasedKeyValueStore bin/0981.TimeBasedKeyValueStore)
 add_subdirectory(Algorithms/Tasks.0501.1000/0982.TriplesWithBitwiseAndEqualToZero bin/0982.TriplesWithBitwiseAndEqualToZero)

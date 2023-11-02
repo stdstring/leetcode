@@ -649,6 +649,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 * [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
+* [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 * [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)
 * [982. Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/)
