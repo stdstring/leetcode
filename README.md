@@ -1040,6 +1040,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
+* [2049. Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/description/)
 * [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/)
 * [2056. Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)

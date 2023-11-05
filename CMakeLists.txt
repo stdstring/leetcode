@@ -1051,6 +1051,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2034.StockPriceFluctuation bin/2034.
 add_subdirectory(Algorithms/Tasks.2001.2500/2038.RemoveColoredPiecesIfBothNeighborsSame bin/2038.RemoveColoredPiecesIfBothNeighborsSame)
 add_subdirectory(Algorithms/Tasks.2001.2500/2043.SimpleBankSystem bin/2043.SimpleBankSystem)
 add_subdirectory(Algorithms/Tasks.2001.2500/2048.NextGreaterNumericallyBalancedNumber bin/2048.NextGreaterNumericallyBalancedNumber)
+add_subdirectory(Algorithms/Tasks.2001.2500/2049.CountNodesWithHighestScore bin/2049.CountNodesWithHighestScore)
 add_subdirectory(Algorithms/Tasks.2001.2500/2050.ParallelCoursesIII bin/2050.ParallelCoursesIII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2056.NumberValidMoveCombinationsOnChessboard bin/2056.NumberValidMoveCombinationsOnChessboard)
 add_subdirectory(Algorithms/Tasks.2001.2500/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints bin/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints)
