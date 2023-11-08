@@ -851,6 +851,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1381.DesignStackWithIncrementOp bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1382.BalanceBinarySearchTree bin/1382.BalanceBinarySearchTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1383.MaxPerformanceOfTeam bin/1383.MaxPerformanceOfTeam)
 add_subdirectory(Algorithms/Tasks.1001.1500/1386.CinemaSeatAllocation bin/1386.CinemaSeatAllocation)
+add_subdirectory(Algorithms/Tasks.1001.1500/1387.SortIntegersByPowerValue bin/1387.SortIntegersByPowerValue)
 add_subdirectory(Algorithms/Tasks.1001.1500/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/Tasks.1001.1500/1391.CheckIfThereIsValidPathInGrid bin/1391.CheckIfThereIsValidPathInGrid)
 add_subdirectory(Algorithms/Tasks.1001.1500/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
