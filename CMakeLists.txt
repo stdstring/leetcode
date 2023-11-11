@@ -1241,6 +1241,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithCond
 add_subdirectory(Algorithms/Tasks.2501.3000/2615.SumOfDistances bin/2615.SumOfDistances)
 add_subdirectory(Algorithms/Tasks.2501.3000/2616.MinimizeMaxDifferenceOfPairs bin/2616.MinimizeMaxDifferenceOfPairs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2641.CousinsInBinaryTreeII bin/2641.CousinsInBinaryTreeII)
+add_subdirectory(Algorithms/Tasks.2501.3000/2642.DesignGraphWithShortestPathCalculator bin/2642.DesignGraphWithShortestPathCalculator)
 add_subdirectory(Algorithms/Tasks.2501.3000/2645.MinAdditionsMakeValidString bin/2645.MinAdditionsMakeValidString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2653.SlidingSubarrayBeauty bin/2653.SlidingSubarrayBeauty)
 add_subdirectory(Algorithms/Tasks.2501.3000/2657.FindPrefixCommonArrayOfTwoArrays bin/2657.FindPrefixCommonArrayOfTwoArrays)

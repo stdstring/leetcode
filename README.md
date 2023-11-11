@@ -1230,6 +1230,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
 * [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
 * [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)
+* [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 * [2645. Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/description/)
 * [2653. Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/description/)
 * [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)
