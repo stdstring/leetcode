@@ -941,6 +941,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1643. Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/description/)
 * [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/description/)
 * [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)
+* [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/description/)
 * [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 * [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)

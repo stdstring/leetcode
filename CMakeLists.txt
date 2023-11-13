@@ -952,6 +952,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1642.FurthestBuildingYouCanReach bin
 add_subdirectory(Algorithms/Tasks.1501.2000/1643.KthSmallestInstructions bin/1643.KthSmallestInstructions)
 add_subdirectory(Algorithms/Tasks.1501.2000/1646.GetMaxInGeneratedArray bin/1646.GetMaxInGeneratedArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1647.MinDeletionsToMakeCharFreqUnique bin/1647.MinDeletionsToMakeCharFreqUnique)
+add_subdirectory(Algorithms/Tasks.1501.2000/1648.SellDiminishingValuedColoredBalls bin/1648.SellDiminishingValuedColoredBalls)
 add_subdirectory(Algorithms/Tasks.1501.2000/1652.DefuseBomb bin/1652.DefuseBomb)
 add_subdirectory(Algorithms/Tasks.1501.2000/1657.DetermineIfTwoStringsAreClose bin/1657.DetermineIfTwoStringsAreClose)
 add_subdirectory(Algorithms/Tasks.1501.2000/1658.MinOperationsToReduceXToZero bin/1658.MinOperationsToReduceXToZero)
