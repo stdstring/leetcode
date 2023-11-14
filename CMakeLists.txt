@@ -1097,6 +1097,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2162.MinCostToSetCookingTime bin/216
 add_subdirectory(Algorithms/Tasks.2001.2500/2165.SmallestValueOfRearrangedNumber bin/2165.SmallestValueOfRearrangedNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2166.DesignBitset bin/2166.DesignBitset)
 add_subdirectory(Algorithms/Tasks.2001.2500/2169.CountOpsToObtainZero bin/2169.CountOpsToObtainZero)
+add_subdirectory(Algorithms/Tasks.2001.2500/2171.RemovingMinNumberMagicBeans bin/2171.RemovingMinNumberMagicBeans)
 add_subdirectory(Algorithms/Tasks.2001.2500/2177.Find3ConsecutiveIntsThatSumToGivenNum bin/2177.Find3ConsecutiveIntsThatSumToGivenNum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2178.MaxSplitOfPositiveEvenIntegers bin/2178.MaxSplitOfPositiveEvenIntegers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2180.CountIntegersWithEvenDigitSum bin/2180.CountIntegersWithEvenDigitSum)
