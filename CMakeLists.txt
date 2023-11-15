@@ -1011,6 +1011,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1833.MaxIceCreamBars bin/1833.MaxIce
 add_subdirectory(Algorithms/Tasks.1501.2000/1834.SingleThreadedCPU bin/1834.SingleThreadedCPU)
 add_subdirectory(Algorithms/Tasks.1501.2000/1839.LongestSubstringOfAllVowelsInOrder bin/1839.LongestSubstringOfAllVowelsInOrder)
 add_subdirectory(Algorithms/Tasks.1501.2000/1845.SeatReservationManager bin/1845.SeatReservationManager)
+add_subdirectory(Algorithms/Tasks.1501.2000/1846.MaxElementAfterDecreaseAndRearrange bin/1846.MaxElementAfterDecreaseAndRearrange)
 add_subdirectory(Algorithms/Tasks.1501.2000/1857.LargestColorValueInDirectedGraph bin/1857.LargestColorValueInDirectedGraph)
 add_subdirectory(Algorithms/Tasks.1501.2000/1860.IncrementalMemoryLeak bin/1860.IncrementalMemoryLeak)
 add_subdirectory(Algorithms/Tasks.1501.2000/1861.RotatingBox bin/1861.RotatingBox)
