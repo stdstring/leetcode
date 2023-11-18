@@ -1009,6 +1009,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1828.QueriesNumberOfPointsInsideCirc
 add_subdirectory(Algorithms/Tasks.1501.2000/1832.CheckIfSentenceIsPangram bin/1832.CheckIfSentenceIsPangram)
 add_subdirectory(Algorithms/Tasks.1501.2000/1833.MaxIceCreamBars bin/1833.MaxIceCreamBars)
 add_subdirectory(Algorithms/Tasks.1501.2000/1834.SingleThreadedCPU bin/1834.SingleThreadedCPU)
+add_subdirectory(Algorithms/Tasks.1501.2000/1838.FrequencyMostFrequentElement bin/1838.FrequencyMostFrequentElement)
 add_subdirectory(Algorithms/Tasks.1501.2000/1839.LongestSubstringOfAllVowelsInOrder bin/1839.LongestSubstringOfAllVowelsInOrder)
 add_subdirectory(Algorithms/Tasks.1501.2000/1845.SeatReservationManager bin/1845.SeatReservationManager)
 add_subdirectory(Algorithms/Tasks.1501.2000/1846.MaxElementAfterDecreaseAndRearrange bin/1846.MaxElementAfterDecreaseAndRearrange)

@@ -998,6 +998,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
+* [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
 * [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/)
 * [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/)
 * [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/)
