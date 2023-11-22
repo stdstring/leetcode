@@ -1270,5 +1270,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 * [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/)
 * [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/)
+* [2860. Happy Students](https://leetcode.com/problems/happy-students/description/)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)

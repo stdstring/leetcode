@@ -1281,5 +1281,6 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2829.DetermineMinSumOfKAvoidingArray
 add_subdirectory(Algorithms/Tasks.2501.3000/2840.CheckStringsCanMadeEqualWithOps2 bin/2840.CheckStringsCanMadeEqualWithOps2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2844.MinOperationsToMakeSpecialNumber bin/2844.MinOperationsToMakeSpecialNumber)
 add_subdirectory(Algorithms/Tasks.2501.3000/2849.DetermineIfCellIsReachableAtGivenTime bin/2849.DetermineIfCellIsReachableAtGivenTime)
+add_subdirectory(Algorithms/Tasks.2501.3000/2860.HappyStudents bin/2860.HappyStudents)
 add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
