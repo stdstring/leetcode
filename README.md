@@ -1255,6 +1255,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
 * [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/description/)
 * [2734. Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/description/)
+* [2740. Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/description/)
 * [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/)
 * [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/)
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
