@@ -968,6 +968,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)
+* [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/)
 * [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 * [1738. Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/description/)
 * [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)
