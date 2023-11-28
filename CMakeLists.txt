@@ -1286,6 +1286,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2844.MinOperationsToMakeSpecialNumbe
 add_subdirectory(Algorithms/Tasks.2501.3000/2849.DetermineIfCellIsReachableAtGivenTime bin/2849.DetermineIfCellIsReachableAtGivenTime)
 add_subdirectory(Algorithms/Tasks.2501.3000/2860.HappyStudents bin/2860.HappyStudents)
 add_subdirectory(Algorithms/Tasks.2501.3000/2870.MinNumberOperationsMakeArrayEmpty bin/2870.MinNumberOperationsMakeArrayEmpty)
+add_subdirectory(Algorithms/Tasks.2501.3000/2875.MinSizeSubarrayInInfiniteArray bin/2875.MinSizeSubarrayInInfiniteArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2914.MinNumberChangesMakeBinStrBeautiful bin/2914.MinNumberChangesMakeBinStrBeautiful)
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
