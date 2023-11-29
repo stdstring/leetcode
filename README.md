@@ -1153,6 +1153,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/)
 * [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 * [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
+* [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)
 * [2365. Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/description/)
 * [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 * [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/description/)
