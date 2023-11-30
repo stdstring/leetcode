@@ -940,6 +940,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1603.DesignParkingSystem bin/1603.De
 add_subdirectory(Algorithms/Tasks.1501.2000/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/Tasks.1501.2000/1605.FindValidMatrixGivenRowColumnSums bin/1605.FindValidMatrixGivenRowColumnSums)
 add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTree)
+add_subdirectory(Algorithms/Tasks.1501.2000/1611.MinOneBitOperationsMakeIntegersZero bin/1611.MinOneBitOperationsMakeIntegersZero)
 add_subdirectory(Algorithms/Tasks.1501.2000/1615.MaxNetworkRank bin/1615.MaxNetworkRank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
 add_subdirectory(Algorithms/Tasks.1501.2000/1629.SlowestKey bin/1629.SlowestKey)
