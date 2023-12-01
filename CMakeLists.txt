@@ -1292,3 +1292,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2875.MinSizeSubarrayInInfiniteArray 
 add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2914.MinNumberChangesMakeBinStrBeautiful bin/2914.MinNumberChangesMakeBinStrBeautiful)
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
+add_subdirectory(Algorithms/Tasks.2501.3000/2947.CountBeautifulSubstrings1 bin/2947.CountBeautifulSubstrings1)

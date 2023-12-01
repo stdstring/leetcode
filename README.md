@@ -1281,3 +1281,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
+* [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
