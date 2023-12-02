@@ -1211,6 +1211,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/description/)
 * [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/description/)
 * [2521. Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)
+* [2522. Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/description/)
 * [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)
 * [2526. Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/)
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)
