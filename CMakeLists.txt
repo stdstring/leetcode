@@ -784,6 +784,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1254.NumberOfClosedIslands bin/1254.
 add_subdirectory(Algorithms/Tasks.1001.1500/1255.MaxScoreWordsFormedByLetters bin/1255.MaxScoreWordsFormedByLetters)
 add_subdirectory(Algorithms/Tasks.1001.1500/1260.Shift2DGrid bin/1260.Shift2DGrid)
 add_subdirectory(Algorithms/Tasks.1001.1500/1261.FindElementsInContaminatedBinTree bin/1261.FindElementsInContaminatedBinTree)
+add_subdirectory(Algorithms/Tasks.1001.1500/1266.MinTimeVisitingAllPoints bin/1266.MinTimeVisitingAllPoints)
 add_subdirectory(Algorithms/Tasks.1001.1500/1268.SearchSuggestionsSystem bin/1268.SearchSuggestionsSystem)
 add_subdirectory(Algorithms/Tasks.1001.1500/1269.NumberWaysToStayInSamePlaceAfterSomeSteps bin/1269.NumberWaysToStayInSamePlaceAfterSomeSteps)
 add_subdirectory(Algorithms/Tasks.1001.1500/1275.FindWinnerOnTicTacToeGame bin/1275.FindWinnerOnTicTacToeGame)
