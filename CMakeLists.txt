@@ -968,6 +968,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1678.GoalParserInterpretation bin/16
 add_subdirectory(Algorithms/Tasks.1501.2000/1679.MaxNumberOfKSumPairs bin/1679.MaxNumberOfKSumPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1680.ConcatOfConsecutiveBinaryNumbers bin/1680.ConcatOfConsecutiveBinaryNumbers)
 add_subdirectory(Algorithms/Tasks.1501.2000/1685.SumOfAbsoluteDiffInSortedArray bin/1685.SumOfAbsoluteDiffInSortedArray)
+add_subdirectory(Algorithms/Tasks.1501.2000/1688.CountMatchesInTournament bin/1688.CountMatchesInTournament)
 add_subdirectory(Algorithms/Tasks.1501.2000/1689.PartitioningIntoMinNumOfDeciBinaryNums bin/1689.PartitioningIntoMinNumOfDeciBinaryNums)
 add_subdirectory(Algorithms/Tasks.1501.2000/1694.ReformatPhoneNumber bin/1694.ReformatPhoneNumber)
 add_subdirectory(Algorithms/Tasks.1501.2000/1695.MaxErasureValue bin/1695.MaxErasureValue)
