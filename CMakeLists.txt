@@ -979,6 +979,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1704.DetermineStringHalvesAreAlike b
 add_subdirectory(Algorithms/Tasks.1501.2000/1706.WhereWillBallFall bin/1706.WhereWillBallFall)
 add_subdirectory(Algorithms/Tasks.1501.2000/1710.MaxUnitsOnTruck bin/1710.MaxUnitsOnTruck)
 add_subdirectory(Algorithms/Tasks.1501.2000/1711.CountGoodMeals bin/1711.CountGoodMeals)
+add_subdirectory(Algorithms/Tasks.1501.2000/1716.CalculateMoneyInLeetcodeBank bin/1716.CalculateMoneyInLeetcodeBank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
 add_subdirectory(Algorithms/Tasks.1501.2000/1726.TupleWithSameProduct bin/1726.TupleWithSameProduct)
