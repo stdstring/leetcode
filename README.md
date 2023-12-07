@@ -1018,6 +1018,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
 * [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/)
+* [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 * [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/description/)
 * [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
