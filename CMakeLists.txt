@@ -794,6 +794,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1281.SubtractProductAndSumOfDigits b
 add_subdirectory(Algorithms/Tasks.1001.1500/1282.GroupPeopleGivenGroupSizeTheyBelongTo bin/1282.GroupPeopleGivenGroupSizeTheyBelongTo)
 add_subdirectory(Algorithms/Tasks.1001.1500/1283.FindSmallestDivisorGivenThreshold bin/1283.FindSmallestDivisorGivenThreshold)
 add_subdirectory(Algorithms/Tasks.1001.1500/1286.IteratorForCombination bin/1286.IteratorForCombination)
+add_subdirectory(Algorithms/Tasks.1001.1500/1287.ElementAppearingMoreThan25Percent bin/1287.ElementAppearingMoreThan25Percent)
 add_subdirectory(Algorithms/Tasks.1001.1500/1288.RemoveCoveredIntervals bin/1288.RemoveCoveredIntervals)
 add_subdirectory(Algorithms/Tasks.1001.1500/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
 add_subdirectory(Algorithms/Tasks.1001.1500/1291.SequentialDigits bin/1291.SequentialDigits)

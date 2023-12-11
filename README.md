@@ -783,6 +783,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 * [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
 * [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
+* [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)
