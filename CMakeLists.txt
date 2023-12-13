@@ -935,6 +935,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1575.CountAllPossibleRoutes bin/1575
 add_subdirectory(Algorithms/Tasks.1501.2000/1577.NumberWaysWhereSquareEqualProduct bin/1577.NumberWaysWhereSquareEqualProduct)
 add_subdirectory(Algorithms/Tasks.1501.2000/1578.MinTimeToMakeRopeColorful bin/1578.MinTimeToMakeRopeColorful)
 add_subdirectory(Algorithms/Tasks.1501.2000/1579.RemoveMaxNumberOfEdges bin/1579.RemoveMaxNumberOfEdges)
+add_subdirectory(Algorithms/Tasks.1501.2000/1582.SpecialPositionsInBinaryMatrix bin/1582.SpecialPositionsInBinaryMatrix)
 add_subdirectory(Algorithms/Tasks.1501.2000/1584.MinCostToConnectAllPoints bin/1584.MinCostToConnectAllPoints)
 add_subdirectory(Algorithms/Tasks.1501.2000/1593.SplitStringIntoMaxUniqueSubstrings bin/1593.SplitStringIntoMaxUniqueSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1594.MaximumNonNegativeProductInMatrix bin/1594.MaximumNonNegativeProductInMatrix)
