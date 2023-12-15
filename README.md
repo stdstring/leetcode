@@ -865,6 +865,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 * [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/)
 * [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/)
+* [1436. Destination City](https://leetcode.com/problems/destination-city/description/)
 * [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
 * [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
 * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)

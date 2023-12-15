@@ -876,6 +876,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1424.DiagonalTraverseII bin/1424.Dia
 add_subdirectory(Algorithms/Tasks.1001.1500/1431.KidsWithGreatestNumberOfCandies bin/1431.KidsWithGreatestNumberOfCandies)
 add_subdirectory(Algorithms/Tasks.1001.1500/1432.MaxDiffFromChangingInteger bin/1432.MaxDiffFromChangingInteger)
 add_subdirectory(Algorithms/Tasks.1001.1500/1433.CheckIfStringCanBreakAnotherString bin/1433.CheckIfStringCanBreakAnotherString)
+add_subdirectory(Algorithms/Tasks.1001.1500/1436.DestinationCity bin/1436.DestinationCity)
 add_subdirectory(Algorithms/Tasks.1001.1500/1441.BuildArrayWithStackOperations bin/1441.BuildArrayWithStackOperations)
 add_subdirectory(Algorithms/Tasks.1001.1500/1443.MinTimeToCollectAllApplesInTree bin/1443.MinTimeToCollectAllApplesInTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1446.ConsecutiveCharacters bin/1446.ConsecutiveCharacters)
