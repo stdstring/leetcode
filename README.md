@@ -1292,6 +1292,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2860. Happy Students](https://leetcode.com/problems/happy-students/description/)
 * [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/)
 * [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/)
+* [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
