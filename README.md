@@ -435,6 +435,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 * [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)
 * [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
+* [661. Image Smoother](https://leetcode.com/problems/image-smoother/description/)
 * [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 * [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/)
 * [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)

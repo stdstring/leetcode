@@ -446,6 +446,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0655.PrintBinaryTree bin/0655.PrintB
 add_subdirectory(Algorithms/Tasks.0501.1000/0657.RobotReturnToOrigin bin/0657.RobotReturnToOrigin)
 add_subdirectory(Algorithms/Tasks.0501.1000/0658.FindKClosestElements bin/0658.FindKClosestElements)
 add_subdirectory(Algorithms/Tasks.0501.1000/0659.SplitArrayIntoConsecutiveSubseqs bin/0659.SplitArrayIntoConsecutiveSubseqs)
+add_subdirectory(Algorithms/Tasks.0501.1000/0661.ImageSmoother bin/0661.ImageSmoother)
 add_subdirectory(Algorithms/Tasks.0501.1000/0662.MaxWidthOfBinaryTree bin/0662.MaxWidthOfBinaryTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0664.StrangePrinter bin/0664.StrangePrinter)
 add_subdirectory(Algorithms/Tasks.0501.1000/0665.NondecreasingArray bin/0665.NondecreasingArray)
