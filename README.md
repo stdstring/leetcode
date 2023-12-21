@@ -1301,3 +1301,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
+* [2961. Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/description/)
