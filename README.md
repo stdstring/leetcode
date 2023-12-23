@@ -894,6 +894,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 * [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
+* [1496. Path Crossing](https://leetcode.com/problems/path-crossing/description/)
 * [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/)
 * [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
 * [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)

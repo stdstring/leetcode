@@ -905,6 +905,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1488.AvoidFloodInCity bin/1488.Avoid
 add_subdirectory(Algorithms/Tasks.1001.1500/1491.AverageSalaryExcludingMinMaxSalary bin/1491.AverageSalaryExcludingMinMaxSalary)
 add_subdirectory(Algorithms/Tasks.1001.1500/1492.KthFactorOfN bin/1492.KthFactorOfN)
 add_subdirectory(Algorithms/Tasks.1001.1500/1493.LongestSubarrayOf1AfterDeletingOneElement bin/1493.LongestSubarrayOf1AfterDeletingOneElement)
+add_subdirectory(Algorithms/Tasks.1001.1500/1496.PathCrossing bin/1496.PathCrossing)
 add_subdirectory(Algorithms/Tasks.1001.1500/1497.CheckIfArrayPairsDivisibleByK bin/1497.CheckIfArrayPairsDivisibleByK)
 add_subdirectory(Algorithms/Tasks.1001.1500/1498.NumberSubseqSatisfySumCondition bin/1498.NumberSubseqSatisfySumCondition)
 add_subdirectory(Algorithms/Tasks.1501.2000/1502.CanMakeArithProgressionFromSeq bin/1502.CanMakeArithProgressionFromSeq)
