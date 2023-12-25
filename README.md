@@ -1301,6 +1301,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
+* [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
