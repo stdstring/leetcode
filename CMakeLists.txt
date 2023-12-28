@@ -1316,6 +1316,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906
 add_subdirectory(Algorithms/Tasks.2501.3000/2914.MinNumberChangesMakeBinStrBeautiful bin/2914.MinNumberChangesMakeBinStrBeautiful)
 add_subdirectory(Algorithms/Tasks.2501.3000/2929.DistributeCandiesAmongChildren2 bin/2929.DistributeCandiesAmongChildren2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
+add_subdirectory(Algorithms/Tasks.2501.3000/2937.MakeThreeStringsEqual bin/2937.MakeThreeStringsEqual)
 add_subdirectory(Algorithms/Tasks.2501.3000/2938.SeparateBlackWhiteBalls bin/2938.SeparateBlackWhiteBalls)
 add_subdirectory(Algorithms/Tasks.2501.3000/2947.CountBeautifulSubstrings1 bin/2947.CountBeautifulSubstrings1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2961.DoubleModularExponentiation bin/2961.DoubleModularExponentiation)

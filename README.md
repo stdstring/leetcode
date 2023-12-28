@@ -1305,6 +1305,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
 * [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
+* [2937. Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
 * [2961. Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/description/)
