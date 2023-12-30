@@ -925,6 +925,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1525.NumberOfGoodWaysToSplitString b
 add_subdirectory(Algorithms/Tasks.1501.2000/1528.ShuffleString bin/1528.ShuffleString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1529.BulbSwitcherIV bin/1529.BulbSwitcherIV)
 add_subdirectory(Algorithms/Tasks.1501.2000/1530.NumberOfGoodLeafNodesPairs bin/1530.NumberOfGoodLeafNodesPairs)
+add_subdirectory(Algorithms/Tasks.1501.2000/1531.StringCompression2 bin/1531.StringCompression2)
 add_subdirectory(Algorithms/Tasks.1501.2000/1534.CountGoodTriplets bin/1534.CountGoodTriplets)
 add_subdirectory(Algorithms/Tasks.1501.2000/1535.FindWinnerOfArrayGame bin/1535.FindWinnerOfArrayGame)
 add_subdirectory(Algorithms/Tasks.1501.2000/1536.MinSwaps2ArrangeBinaryGrid bin/1536.MinSwaps2ArrangeBinaryGrid)

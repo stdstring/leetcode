@@ -914,6 +914,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 * [1529. Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/description/)
 * [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)
+* [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/description/)
 * [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 * [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/)
 * [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/)
