@@ -1040,6 +1040,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1877.MinMaxPairSumInArray bin/1877.M
 add_subdirectory(Algorithms/Tasks.1501.2000/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
 add_subdirectory(Algorithms/Tasks.1501.2000/1887.ReductionOpsMakeArrayElementsEqual bin/1887.ReductionOpsMakeArrayElementsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1895.LargestMagicSquare bin/1895.LargestMagicSquare)
+add_subdirectory(Algorithms/Tasks.1501.2000/1897.RedistributeCharsToMakeAllStringsEqual bin/1897.RedistributeCharsToMakeAllStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1903.LargestOddNumberInString bin/1903.LargestOddNumberInString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1904.NumberFullRoundsYouHavePlayed bin/1904.NumberFullRoundsYouHavePlayed)
 add_subdirectory(Algorithms/Tasks.1501.2000/1910.RemoveAllOccurrencesOfSubstring bin/1910.RemoveAllOccurrencesOfSubstring)
