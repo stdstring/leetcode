@@ -972,6 +972,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1657.DetermineIfTwoStringsAreClose b
 add_subdirectory(Algorithms/Tasks.1501.2000/1658.MinOperationsToReduceXToZero bin/1658.MinOperationsToReduceXToZero)
 add_subdirectory(Algorithms/Tasks.1501.2000/1662.CheckIfTwoStringArraysEquivalent bin/1662.CheckIfTwoStringArraysEquivalent)
 add_subdirectory(Algorithms/Tasks.1501.2000/1663.SmallestStringWithGivenNumValue bin/1663.SmallestStringWithGivenNumValue)
+add_subdirectory(Algorithms/Tasks.1501.2000/1664.WaysToMakeFairArray bin/1664.WaysToMakeFairArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1669.MergeInBetweenLinkedLists bin/1669.MergeInBetweenLinkedLists)
 add_subdirectory(Algorithms/Tasks.1501.2000/1670.DesignFrontMiddleBackQueue bin/1670.DesignFrontMiddleBackQueue)
 add_subdirectory(Algorithms/Tasks.1501.2000/1672.RichestCustomerWealth bin/1672.RichestCustomerWealth)

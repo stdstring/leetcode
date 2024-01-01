@@ -961,6 +961,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)
 * [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 * [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/submissions/description/)
+* [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/description/)
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/)
 * [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
