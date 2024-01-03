@@ -1309,6 +1309,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
+* [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/)
 * [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/)
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
 * [2937. Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)
