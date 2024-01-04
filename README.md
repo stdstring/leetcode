@@ -1315,4 +1315,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2937. Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
+* [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
 * [2961. Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/description/)
