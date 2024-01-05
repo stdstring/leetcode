@@ -1321,6 +1321,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2895.MinProcessingTime bin/2895.MinP
 add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2914.MinNumberChangesMakeBinStrBeautiful bin/2914.MinNumberChangesMakeBinStrBeautiful)
 add_subdirectory(Algorithms/Tasks.2501.3000/2918.MinEqualSumTwoArraysAfterReplacingZeros bin/2918.MinEqualSumTwoArraysAfterReplacingZeros)
+add_subdirectory(Algorithms/Tasks.2501.3000/2924.FindChampion2 bin/2924.FindChampion2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2929.DistributeCandiesAmongChildren2 bin/2929.DistributeCandiesAmongChildren2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
 add_subdirectory(Algorithms/Tasks.2501.3000/2937.MakeThreeStringsEqual bin/2937.MakeThreeStringsEqual)
