@@ -1329,3 +1329,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2938.SeparateBlackWhiteBalls bin/293
 add_subdirectory(Algorithms/Tasks.2501.3000/2947.CountBeautifulSubstrings1 bin/2947.CountBeautifulSubstrings1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2958.LengthLongestSubarrayWithMostKFreq bin/2958.LengthLongestSubarrayWithMostKFreq)
 add_subdirectory(Algorithms/Tasks.2501.3000/2961.DoubleModularExponentiation bin/2961.DoubleModularExponentiation)
+add_subdirectory(Algorithms/Tasks.2501.3000/2966.DivideArrayIntoArraysWithMaxDiff bin/2966.DivideArrayIntoArraysWithMaxDiff)

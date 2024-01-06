@@ -1318,3 +1318,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
 * [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)
 * [2961. Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/description/)
+* [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/)
