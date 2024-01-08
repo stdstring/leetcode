@@ -327,6 +327,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0441.ArrangingCoins bin/0441.Arrangi
 add_subdirectory(Algorithms/Tasks.0001.0500/0442.FindAllDuplicatesInArray bin/0442.FindAllDuplicatesInArray)
 add_subdirectory(Algorithms/Tasks.0001.0500/0443.StringCompression bin/0443.StringCompression)
 add_subdirectory(Algorithms/Tasks.0001.0500/0445.AddTwoNumbersII bin/0445.AddTwoNumbersII)
+add_subdirectory(Algorithms/Tasks.0001.0500/0446.ArithmeticSlices2Subsequence bin/0446.ArithmeticSlices2Subsequence)
 add_subdirectory(Algorithms/Tasks.0001.0500/0447.NumberOfBoomerangs bin/0447.NumberOfBoomerangs)
 add_subdirectory(Algorithms/Tasks.0001.0500/0448.FindAllNumbersDisappearedInArray bin/0448.FindAllNumbersDisappearedInArray)
 add_subdirectory(Algorithms/Tasks.0001.0500/0449.SerializeAndDeserializeBST bin/0449.SerializeAndDeserializeBST)

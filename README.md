@@ -316,6 +316,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 * [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
+* [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 * [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 * [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
