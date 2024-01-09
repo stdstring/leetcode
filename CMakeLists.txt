@@ -777,6 +777,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1220.CountVowelsPermutation bin/1220
 add_subdirectory(Algorithms/Tasks.1001.1500/1222.QueensThatCanAttackTheKing bin/1222.QueensThatCanAttackTheKing)
 add_subdirectory(Algorithms/Tasks.1001.1500/1232.CheckIfStraightLine bin/1232.CheckIfStraightLine)
 add_subdirectory(Algorithms/Tasks.1001.1500/1233.RemoveSubFoldersFromFilesystem bin/1233.RemoveSubFoldersFromFilesystem)
+add_subdirectory(Algorithms/Tasks.1001.1500/1235.MaxProfitInJobScheduling bin/1235.MaxProfitInJobScheduling)
 add_subdirectory(Algorithms/Tasks.1001.1500/1237.FindPositiveIntSolutionForGivenEquation bin/1237.FindPositiveIntSolutionForGivenEquation)
 add_subdirectory(Algorithms/Tasks.1001.1500/1238.CircularPermutationInBinaryRepr bin/1238.CircularPermutationInBinaryRepr)
 add_subdirectory(Algorithms/Tasks.1001.1500/1239.MaxLengthOfConcatStrWithUniqChars bin/1239.MaxLengthOfConcatStrWithUniqChars)
