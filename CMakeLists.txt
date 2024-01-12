@@ -1335,3 +1335,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2962.CountSubarraysWithMaxElements b
 add_subdirectory(Algorithms/Tasks.2501.3000/2966.DivideArrayIntoArraysWithMaxDiff bin/2966.DivideArrayIntoArraysWithMaxDiff)
 add_subdirectory(Algorithms/Tasks.2501.3000/2981.FindLongestSpecialSubstrOccursThrice1 bin/2981.FindLongestSpecialSubstrOccursThrice1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2982.FindLongestSpecialSubstrOccursThrice2 bin/2982.FindLongestSpecialSubstrOccursThrice2)
+add_subdirectory(Algorithms/Tasks.2501.3000/2997.MinNumberOpsMakeArrayXOREqual2K bin/2997.MinNumberOpsMakeArrayXOREqual2K)
