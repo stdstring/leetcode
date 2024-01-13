@@ -1333,6 +1333,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2958.LengthLongestSubarrayWithMostKF
 add_subdirectory(Algorithms/Tasks.2501.3000/2961.DoubleModularExponentiation bin/2961.DoubleModularExponentiation)
 add_subdirectory(Algorithms/Tasks.2501.3000/2962.CountSubarraysWithMaxElements bin/2962.CountSubarraysWithMaxElements)
 add_subdirectory(Algorithms/Tasks.2501.3000/2966.DivideArrayIntoArraysWithMaxDiff bin/2966.DivideArrayIntoArraysWithMaxDiff)
+add_subdirectory(Algorithms/Tasks.2501.3000/2975.MaxSquareAreaByRemovingFences bin/2975.MaxSquareAreaByRemovingFences)
 add_subdirectory(Algorithms/Tasks.2501.3000/2981.FindLongestSpecialSubstrOccursThrice1 bin/2981.FindLongestSpecialSubstrOccursThrice1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2982.FindLongestSpecialSubstrOccursThrice2 bin/2982.FindLongestSpecialSubstrOccursThrice2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2997.MinNumberOpsMakeArrayXOREqual2K bin/2997.MinNumberOpsMakeArrayXOREqual2K)
