@@ -1312,6 +1312,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2800.ShortestStringThatContains3Stri
 add_subdirectory(Algorithms/Tasks.2501.3000/2807.InsertGCDInLinkedList bin/2807.InsertGCDInLinkedList)
 add_subdirectory(Algorithms/Tasks.2501.3000/2811.CheckIfPossibleToSplitArray bin/2811.CheckIfPossibleToSplitArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2816.DoubleNumberRepresentedAsLinkedList bin/2816.DoubleNumberRepresentedAsLinkedList)
+add_subdirectory(Algorithms/Tasks.2501.3000/2817.MinAbsDiffBetweenElementsWithConstraint bin/2817.MinAbsDiffBetweenElementsWithConstraint)
 add_subdirectory(Algorithms/Tasks.2501.3000/2825.MakeStringSubseqUsingCyclicInc bin/2825.MakeStringSubseqUsingCyclicInc)
 add_subdirectory(Algorithms/Tasks.2501.3000/2828.CheckIfStringIsAcronymOfWords bin/2828.CheckIfStringIsAcronymOfWords)
 add_subdirectory(Algorithms/Tasks.2501.3000/2829.DetermineMinSumOfKAvoidingArray bin/2829.DetermineMinSumOfKAvoidingArray)
