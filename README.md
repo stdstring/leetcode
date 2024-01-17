@@ -1306,6 +1306,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/)
 * [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/description/)
 * [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
+* [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/)
 * [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/)
 * [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/)
 * [2860. Happy Students](https://leetcode.com/problems/happy-students/description/)
