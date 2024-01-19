@@ -1290,6 +1290,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2673.MakeCostsOfPathsEqualInBinaryTr
 add_subdirectory(Algorithms/Tasks.2501.3000/2679.SumInMatrix bin/2679.SumInMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2683.NeighboringBitwiseXOR bin/2683.NeighboringBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.2501.3000/2684.MaxNumberOfMovesInGrid bin/2684.MaxNumberOfMovesInGrid)
+add_subdirectory(Algorithms/Tasks.2501.3000/2685.CountNumberOfCompleteComponents bin/2685.CountNumberOfCompleteComponents)
 add_subdirectory(Algorithms/Tasks.2501.3000/2698.FindPunishmentNumberOfInteger bin/2698.FindPunishmentNumberOfInteger)
 add_subdirectory(Algorithms/Tasks.2501.3000/2706.BuyTwoChocolates bin/2706.BuyTwoChocolates)
 add_subdirectory(Algorithms/Tasks.2501.3000/2707.ExtraCharactersInString bin/2707.ExtraCharactersInString)

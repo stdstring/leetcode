@@ -1279,6 +1279,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/)
 * [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
 * [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)
+* [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/)
 * [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)
 * [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
 * [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
