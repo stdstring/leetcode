@@ -602,6 +602,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
+* [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 * [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 * [911. Online Election](https://leetcode.com/problems/online-election/description/)
 * [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)

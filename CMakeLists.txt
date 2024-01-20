@@ -613,6 +613,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0901.OnlineStockSpan bin/0901.Online
 add_subdirectory(Algorithms/Tasks.0501.1000/0902.NumbersAtMostNGivenDigitSet bin/0902.NumbersAtMostNGivenDigitSet)
 add_subdirectory(Algorithms/Tasks.0501.1000/0904.FruitIntoBaskets bin/0904.FruitIntoBaskets)
 add_subdirectory(Algorithms/Tasks.0501.1000/0905.SortArrayByParity bin/0905.SortArrayByParity)
+add_subdirectory(Algorithms/Tasks.0501.1000/0907.SumOfSubarrayMins bin/0907.SumOfSubarrayMins)
 add_subdirectory(Algorithms/Tasks.0501.1000/0909.SnakesAndLadders bin/0909.SnakesAndLadders)
 add_subdirectory(Algorithms/Tasks.0501.1000/0911.OnlineElection bin/0911.OnlineElection)
 add_subdirectory(Algorithms/Tasks.0501.1000/0912.SortArray bin/0912.SortArray)
