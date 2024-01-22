@@ -1307,6 +1307,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2746.DecrementalStringConcat bin/274
 add_subdirectory(Algorithms/Tasks.2501.3000/2750.WaysToSplitArrayIntoGoodSubarrays bin/2750.WaysToSplitArrayIntoGoodSubarrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2751.RobotCollisions bin/2751.RobotCollisions)
 add_subdirectory(Algorithms/Tasks.2501.3000/2761.PrimePairsWithTargetSum bin/2761.PrimePairsWithTargetSum)
+add_subdirectory(Algorithms/Tasks.2501.3000/2762.ContinuousSubarrays bin/2762.ContinuousSubarrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSubstrs bin/2767.PartitionStrIntoMinBeautifulSubstrs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
 add_subdirectory(Algorithms/Tasks.2501.3000/2780.MinIndexOfValidSplit bin/2780.MinIndexOfValidSplit)
