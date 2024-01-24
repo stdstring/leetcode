@@ -1216,6 +1216,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/)
 * [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)
 * [2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/description/)
+* [2453. Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/description/)
 * [2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/description/)
 * [2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/description/)
 * [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
