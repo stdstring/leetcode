@@ -1349,3 +1349,4 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2981.FindLongestSpecialSubstrOccursT
 add_subdirectory(Algorithms/Tasks.2501.3000/2982.FindLongestSpecialSubstrOccursThrice2 bin/2982.FindLongestSpecialSubstrOccursThrice2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2997.MinNumberOpsMakeArrayXOREqual2K bin/2997.MinNumberOpsMakeArrayXOREqual2K)
 add_subdirectory(Algorithms/Tasks.3001.3500/3001.MinMovesToCaptureQueen bin/3001.MinMovesToCaptureQueen)
+add_subdirectory(Algorithms/Tasks.3001.3500/3011.FindIfArrayCanBeSorted bin/3011.FindIfArrayCanBeSorted)
