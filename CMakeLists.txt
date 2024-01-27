@@ -426,6 +426,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0621.TaskScheduler bin/0621.TaskSche
 add_subdirectory(Algorithms/Tasks.0501.1000/0622.DesignCircularQueue bin/0622.DesignCircularQueue)
 add_subdirectory(Algorithms/Tasks.0501.1000/0623.AddOneRowToTree bin/0623.AddOneRowToTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0628.MaximumProductOfThreeNumbers bin/0628.MaximumProductOfThreeNumbers)
+add_subdirectory(Algorithms/Tasks.0501.1000/0629.KInversePairsArray bin/0629.KInversePairsArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0630.CourseScheduleIII bin/0630.CourseScheduleIII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0633.SumOfSquareNumbers bin/0633.SumOfSquareNumbers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0636.ExclusiveTimeOfFunctions bin/0636.ExclusiveTimeOfFunctions)
