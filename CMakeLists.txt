@@ -725,6 +725,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1054.DistantBarcodes bin/1054.Distan
 add_subdirectory(Algorithms/Tasks.1001.1500/1061.LexSmallestEquivalentString bin/1061.LexSmallestEquivalentString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1071.GreatestCommonDivisorOfStrings bin/1071.GreatestCommonDivisorOfStrings)
 add_subdirectory(Algorithms/Tasks.1001.1500/1073.AddingTwoNegabinaryNumbers bin/1073.AddingTwoNegabinaryNumbers)
+add_subdirectory(Algorithms/Tasks.1001.1500/1074.NumberSubmatricesThatSumToTarget bin/1074.NumberSubmatricesThatSumToTarget)
 add_subdirectory(Algorithms/Tasks.1001.1500/1078.OccurrencesAfterBigram bin/1078.OccurrencesAfterBigram)
 add_subdirectory(Algorithms/Tasks.1001.1500/1079.LetterTilePossibilities bin/1079.LetterTilePossibilities)
 add_subdirectory(Algorithms/Tasks.1001.1500/1080.InsufficientNodesInRootToLeafPath bin/080.InsufficientNodesInRootToLeafPath)

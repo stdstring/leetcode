@@ -714,6 +714,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 * [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 * [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
+* [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/)
 * [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/)
 * [1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/)
