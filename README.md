@@ -1248,6 +1248,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)
 * [2531. Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/)
 * [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
+* [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/description/)
 * [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
 * [2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
 * [2546. Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/description/)
