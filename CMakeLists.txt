@@ -1046,6 +1046,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1870.MinSpeedToArriveOnTime bin/1870
 add_subdirectory(Algorithms/Tasks.1501.2000/1871.JumpGameVII bin/1871.JumpGameVII)
 add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
 add_subdirectory(Algorithms/Tasks.1501.2000/1877.MinMaxPairSumInArray bin/1877.MinMaxPairSumInArray)
+add_subdirectory(Algorithms/Tasks.1501.2000/1878.GetBiggest3RhombusSumsInGrid bin/1878.GetBiggest3RhombusSumsInGrid)
 add_subdirectory(Algorithms/Tasks.1501.2000/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
 add_subdirectory(Algorithms/Tasks.1501.2000/1887.ReductionOpsMakeArrayElementsEqual bin/1887.ReductionOpsMakeArrayElementsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1895.LargestMagicSquare bin/1895.LargestMagicSquare)
