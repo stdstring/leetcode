@@ -267,6 +267,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0352.DataStreamAsDisjointIntervals b
 add_subdirectory(Algorithms/Tasks.0001.0500/0354.RussianDollEnvelopes bin/0354.RussianDollEnvelopes)
 add_subdirectory(Algorithms/Tasks.0001.0500/0355.DesignTwitter bin/0355.DesignTwitter)
 add_subdirectory(Algorithms/Tasks.0001.0500/0357.CountNumbersWithUniqueDigits bin/0357.CountNumbersWithUniqueDigits)
+add_subdirectory(Algorithms/Tasks.0001.0500/0363.MaxSumOfRectangleNoLargerThanK bin/0363.MaxSumOfRectangleNoLargerThanK)
 add_subdirectory(Algorithms/Tasks.0001.0500/0367.ValidPerfectSquare bin/0367.ValidPerfectSquare)
 add_subdirectory(Algorithms/Tasks.0001.0500/0368.LargestDivisibleSubset bin/0368.LargestDivisibleSubset)
 add_subdirectory(Algorithms/Tasks.0001.0500/0371.SumOfTwoIntegers bin/0371.SumOfTwoIntegers)
