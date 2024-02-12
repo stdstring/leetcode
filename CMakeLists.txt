@@ -1366,3 +1366,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3002.MaxSizeSetAfterRemovals bin/300
 add_subdirectory(Algorithms/Tasks.3001.3500/3006.FindBeautifulIndicesInGivenArray1 bin/3006.FindBeautifulIndicesInGivenArray1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3011.FindIfArrayCanBeSorted bin/3011.FindIfArrayCanBeSorted)
 add_subdirectory(Algorithms/Tasks.3001.3500/3016.MinNumberPushesToTypeWord2 bin/3016.MinNumberPushesToTypeWord2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3020.FindMaxNumberOfElementsInSubset bin/3020.FindMaxNumberOfElementsInSubset)
