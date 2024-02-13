@@ -1112,6 +1112,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2095.DeleteMiddleNodeOfLinkedList bi
 add_subdirectory(Algorithms/Tasks.2001.2500/2096.StepByStepDirectionsFromBinTreeNodeToAnother bin/2096.StepByStepDirectionsFromBinTreeNodeToAnother)
 add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.DetonateMaxBombs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.WateringPlantsII)
+add_subdirectory(Algorithms/Tasks.2001.2500/2108.FindFirstPalindromicStringInArray bin/2108.FindFirstPalindromicStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
 add_subdirectory(Algorithms/Tasks.2001.2500/2119.NumberAfterDoubleReversal bin/2119.NumberAfterDoubleReversal)
