@@ -1216,6 +1216,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2391.MinTimeAmountToCollectGarbage b
 add_subdirectory(Algorithms/Tasks.2001.2500/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/Tasks.2001.2500/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
+add_subdirectory(Algorithms/Tasks.2001.2500/2402.MeetingRooms3 bin/2402.MeetingRooms3)
 add_subdirectory(Algorithms/Tasks.2001.2500/2405.OptimalPartitionOfString bin/2405.OptimalPartitionOfString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
 add_subdirectory(Algorithms/Tasks.2001.2500/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
