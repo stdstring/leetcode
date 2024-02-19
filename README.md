@@ -1040,6 +1040,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)
 * [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
 * [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/)
+* [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/)
 * [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/)
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
