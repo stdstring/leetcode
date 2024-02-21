@@ -1364,3 +1364,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3020. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)
 * [3026. Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/description/)
 * [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)
+* [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)
