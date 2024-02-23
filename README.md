@@ -1013,6 +1013,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
 * [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 * [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/description/)
+* [1798. Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/description/)
 * [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
 * [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/)
 * [1801. Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/description/)
