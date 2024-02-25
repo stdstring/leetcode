@@ -1304,6 +1304,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
 * [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)
 * [2708. Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/description/)
+* [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description/)
 * [2711. Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/description/)
 * [2718. Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
 * [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/description/)

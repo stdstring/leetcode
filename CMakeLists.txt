@@ -1315,6 +1315,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2698.FindPunishmentNumberOfInteger b
 add_subdirectory(Algorithms/Tasks.2501.3000/2706.BuyTwoChocolates bin/2706.BuyTwoChocolates)
 add_subdirectory(Algorithms/Tasks.2501.3000/2707.ExtraCharactersInString bin/2707.ExtraCharactersInString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2708.MaxStrengthOfGroup bin/2708.MaxStrengthOfGroup)
+add_subdirectory(Algorithms/Tasks.2501.3000/2709.GCDTraversal bin/2709.GCDTraversal)
 add_subdirectory(Algorithms/Tasks.2501.3000/2711.DiffNumberOfDiagonalsDistinctValues bin/2711.DiffNumberOfDiagonalsDistinctValues)
 add_subdirectory(Algorithms/Tasks.2501.3000/2718.SumMatrixAfterQueries bin/2718.SumMatrixAfterQueries)
 add_subdirectory(Algorithms/Tasks.2501.3000/2730.FindLongestSemiRepetitiveSubstring bin/2730.FindLongestSemiRepetitiveSubstring)
