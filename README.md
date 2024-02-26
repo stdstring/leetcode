@@ -1369,3 +1369,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)
 * [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)
 * [3044. Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/)
+* [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)
