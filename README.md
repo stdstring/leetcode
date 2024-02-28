@@ -1312,6 +1312,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2740. Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/description/)
 * [2745. Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/)
 * [2746. Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/)
+* [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/)
 * [2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
 * [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/)
