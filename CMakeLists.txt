@@ -1117,6 +1117,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.Deton
 add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.WateringPlantsII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2108.FindFirstPalindromicStringInArray bin/2108.FindFirstPalindromicStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
+add_subdirectory(Algorithms/Tasks.2001.2500/2110.NumberSmoothDescentPeriodsOfStock bin/2110.NumberSmoothDescentPeriodsOfStock)
 add_subdirectory(Algorithms/Tasks.2001.2500/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
 add_subdirectory(Algorithms/Tasks.2001.2500/2119.NumberAfterDoubleReversal bin/2119.NumberAfterDoubleReversal)
 add_subdirectory(Algorithms/Tasks.2001.2500/2120.ExecAllSuffixInstructionsStayingInGrid bin/2120.ExecAllSuffixInstructionsStayingInGrid)

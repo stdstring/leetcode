@@ -1106,6 +1106,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/description/)
 * [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
 * [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)
+* [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/)
 * [2117. Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)
 * [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)
 * [2120. Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)
