@@ -1387,3 +1387,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3035.MaxPalindromesAfterOperations b
 add_subdirectory(Algorithms/Tasks.3001.3500/3039.ApplyOpsToMakeStringEmpty bin/3039.ApplyOpsToMakeStringEmpty)
 add_subdirectory(Algorithms/Tasks.3001.3500/3044.MostFrequentPrime bin/3044.MostFrequentPrime)
 add_subdirectory(Algorithms/Tasks.3001.3500/3047.FindMaxSquareAreaInside2Rectangles bin/3047.FindMaxSquareAreaInside2Rectangles)
+add_subdirectory(Algorithms/Tasks.3001.3500/3070.CountSubmatricesWithSumLessThanK bin/3070.CountSubmatricesWithSumLessThanK)

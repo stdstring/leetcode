@@ -1376,3 +1376,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)
 * [3044. Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/)
 * [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)
+* [3070. Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/)
