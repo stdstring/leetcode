@@ -1274,6 +1274,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2530.MaxScoreAfterApplyingKOperation
 add_subdirectory(Algorithms/Tasks.2501.3000/2531.MakeNumberDistinctCharsEqual bin/2531.MakeNumberDistinctCharsEqual)
 add_subdirectory(Algorithms/Tasks.2501.3000/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2536.IncrementSubmatricesByOne bin/2536.IncrementSubmatricesByOne)
+add_subdirectory(Algorithms/Tasks.2501.3000/2540.MinCommonValue bin/2540.MinCommonValue)
 add_subdirectory(Algorithms/Tasks.2501.3000/2542.MaxSubsequenceScore bin/2542.MaxSubsequenceScore)
 add_subdirectory(Algorithms/Tasks.2501.3000/2545.SortStudentsByTheirKthScore bin/2545.SortStudentsByTheirKthScore)
 add_subdirectory(Algorithms/Tasks.2501.3000/2546.ApplyBitwiseOpsMakeStringsEqual bin/2546.ApplyBitwiseOpsMakeStringsEqual)
