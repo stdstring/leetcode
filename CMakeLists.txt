@@ -1256,6 +1256,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2476.ClosestNodesQueriesInBST bin/24
 add_subdirectory(Algorithms/Tasks.2001.2500/2477.MinFuelCostToReportToCapital bin/2477.MinFuelCostToReportToCapital)
 add_subdirectory(Algorithms/Tasks.2001.2500/2482.DiffBetweenOnesZerosInRowColumn bin/2482.DiffBetweenOnesZerosInRowColumn)
 add_subdirectory(Algorithms/Tasks.2001.2500/2483.MinPenaltyForShop bin/2483.MinPenaltyForShop)
+add_subdirectory(Algorithms/Tasks.2001.2500/2485.FindPivotInteger bin/2485.FindPivotInteger)
 add_subdirectory(Algorithms/Tasks.2001.2500/2486.AppendCharsToStringToMakeSubseq bin/2486.AppendCharsToStringToMakeSubseq)
 add_subdirectory(Algorithms/Tasks.2001.2500/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesFromLinkedList)
 add_subdirectory(Algorithms/Tasks.2001.2500/2492.MinScoreOfPathBetweenTwoCities bin/2492.MinScoreOfPathBetweenTwoCities)
