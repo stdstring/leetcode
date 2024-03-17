@@ -631,6 +631,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0925.LongPressedName bin/0925.LongPr
 add_subdirectory(Algorithms/Tasks.0501.1000/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/Tasks.0501.1000/0927.ThreeEqualParts bin/0927.ThreeEqualParts)
 add_subdirectory(Algorithms/Tasks.0501.1000/0929.UniqueEmailAddresses bin/0929.UniqueEmailAddresses)
+add_subdirectory(Algorithms/Tasks.0501.1000/0930.BinarySubarraysWithSum bin/0930.BinarySubarraysWithSum)
 add_subdirectory(Algorithms/Tasks.0501.1000/0931.MinimumFallingPathSum bin/0931.MinimumFallingPathSum)
 add_subdirectory(Algorithms/Tasks.0501.1000/0934.ShortestBridge bin/0934.ShortestBridge)
 add_subdirectory(Algorithms/Tasks.0501.1000/0935.KnightDialer bin/0935.KnightDialer)
