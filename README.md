@@ -1348,6 +1348,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/)
 * [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/)
 * [2895. Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/)
+* [2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)
 * [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/)
 * [2909. Minimum Sum of Mountain Triplets II](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/)
 * [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)
