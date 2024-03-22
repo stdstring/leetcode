@@ -1341,6 +1341,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/)
 * [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/)
 * [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/)
+* [2857. Count Pairs of Points With Distance k](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/description/)
 * [2860. Happy Students](https://leetcode.com/problems/happy-students/description/)
 * [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/)
 * [2865. Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/description/)

@@ -16,7 +16,7 @@ public:
     {
         if (points.size() < 4)
             return 0;
-        auto hash = [](const std::pair<int, int> &p)
+        auto hash = [](std::pair<int, int> const &p)
         {
             constexpr std::hash<int> int_hasher;
             return int_hasher(p.first) ^ int_hasher(p.second);

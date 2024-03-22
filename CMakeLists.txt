@@ -1352,6 +1352,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2840.CheckStringsCanMadeEqualWithOps
 add_subdirectory(Algorithms/Tasks.2501.3000/2841.MaxSumOfAlmostUniqueSubarray bin/2841.MaxSumOfAlmostUniqueSubarray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2844.MinOperationsToMakeSpecialNumber bin/2844.MinOperationsToMakeSpecialNumber)
 add_subdirectory(Algorithms/Tasks.2501.3000/2849.DetermineIfCellIsReachableAtGivenTime bin/2849.DetermineIfCellIsReachableAtGivenTime)
+add_subdirectory(Algorithms/Tasks.2501.3000/2857.CountPairsPointsWithDistanceK bin/2857.CountPairsPointsWithDistanceK)
 add_subdirectory(Algorithms/Tasks.2501.3000/2860.HappyStudents bin/2860.HappyStudents)
 add_subdirectory(Algorithms/Tasks.2501.3000/2864.MaxOddBinaryNumber bin/2864.MaxOddBinaryNumber)
 add_subdirectory(Algorithms/Tasks.2501.3000/2865.BeautifulTowers1 bin/2865.BeautifulTowers1)
