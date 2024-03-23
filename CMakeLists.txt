@@ -1393,6 +1393,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3020.FindMaxNumberOfElementsInSubset
 add_subdirectory(Algorithms/Tasks.3001.3500/3026.MaxGoodSubarraySum bin/3026.MaxGoodSubarraySum)
 add_subdirectory(Algorithms/Tasks.3001.3500/3035.MaxPalindromesAfterOperations bin/3035.MaxPalindromesAfterOperations)
 add_subdirectory(Algorithms/Tasks.3001.3500/3039.ApplyOpsToMakeStringEmpty bin/3039.ApplyOpsToMakeStringEmpty)
+add_subdirectory(Algorithms/Tasks.3001.3500/3043.FindLengthLongestCommonPrefix bin/3043.FindLengthLongestCommonPrefix)
 add_subdirectory(Algorithms/Tasks.3001.3500/3044.MostFrequentPrime bin/3044.MostFrequentPrime)
 add_subdirectory(Algorithms/Tasks.3001.3500/3047.FindMaxSquareAreaInside2Rectangles bin/3047.FindMaxSquareAreaInside2Rectangles)
 add_subdirectory(Algorithms/Tasks.3001.3500/3066.MinOpsExceedThresholdValue2 bin/3066.MinOpsExceedThresholdValue2)
