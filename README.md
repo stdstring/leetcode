@@ -1324,6 +1324,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)
 * [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/)
 * [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/)
+* [2766. Relocate Marbles](https://leetcode.com/problems/relocate-marbles/description/)
 * [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/description/)
 * [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)
 * [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/)
