@@ -1326,6 +1326,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/)
 * [2766. Relocate Marbles](https://leetcode.com/problems/relocate-marbles/description/)
 * [2767. Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/description/)
+* [2768. Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/description/)
 * [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)
 * [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)

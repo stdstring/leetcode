@@ -1337,6 +1337,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2761.PrimePairsWithTargetSum bin/276
 add_subdirectory(Algorithms/Tasks.2501.3000/2762.ContinuousSubarrays bin/2762.ContinuousSubarrays)
 add_subdirectory(Algorithms/Tasks.2501.3000/2766.RelocateMarbles bin/2766.RelocateMarbles)
 add_subdirectory(Algorithms/Tasks.2501.3000/2767.PartitionStrIntoMinBeautifulSubstrs bin/2767.PartitionStrIntoMinBeautifulSubstrs)
+add_subdirectory(Algorithms/Tasks.2501.3000/2768.NumberBlackBlocks bin/2768.NumberBlackBlocks)
 add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex bin/2770.MaxNumberJumpsToReachLastIndex)
 add_subdirectory(Algorithms/Tasks.2501.3000/2780.MinIndexOfValidSplit bin/2780.MinIndexOfValidSplit)
 add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.SortVowelsInString)
