@@ -680,6 +680,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0988.SmallestStringStartingFromLeaf 
 add_subdirectory(Algorithms/Tasks.0501.1000/0989.AddToArrayFormOfInteger bin/0989.AddToArrayFormOfInteger)
 add_subdirectory(Algorithms/Tasks.0501.1000/0990.SatisfiabilityOfEqualityEquations bin/0990.SatisfiabilityOfEqualityEquations)
 add_subdirectory(Algorithms/Tasks.0501.1000/0991.BrokenCalculator bin/0991.BrokenCalculator)
+add_subdirectory(Algorithms/Tasks.0501.1000/0992.SubarraysWithKDifferentIntegers bin/0992.SubarraysWithKDifferentIntegers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0993.CousinsInBinaryTree bin/0993.CousinsInBinaryTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0994.RottingOranges bin/0994.RottingOranges)
 add_subdirectory(Algorithms/Tasks.0501.1000/0997.FindTownJudge bin/0997.FindTownJudge)
