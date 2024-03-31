@@ -1395,3 +1395,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3076. Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)
 * [3084. Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/description/)
 * [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/description/)
+* [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/)
