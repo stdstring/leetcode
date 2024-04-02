@@ -1216,6 +1216,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/)
 * [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/)
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+* [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)
 * [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/)
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 * [2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/)
