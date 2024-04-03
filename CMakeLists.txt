@@ -1405,6 +1405,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3044.MostFrequentPrime bin/3044.Most
 add_subdirectory(Algorithms/Tasks.3001.3500/3047.FindMaxSquareAreaInside2Rectangles bin/3047.FindMaxSquareAreaInside2Rectangles)
 add_subdirectory(Algorithms/Tasks.3001.3500/3066.MinOpsExceedThresholdValue2 bin/3066.MinOpsExceedThresholdValue2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3070.CountSubmatricesWithSumLessThanK bin/3070.CountSubmatricesWithSumLessThanK)
+add_subdirectory(Algorithms/Tasks.3001.3500/3075.MaxHappinessOfSelectedChildren bin/3075.MaxHappinessOfSelectedChildren)
 add_subdirectory(Algorithms/Tasks.3001.3500/3076.ShortestUncommonSubstrInArray bin/3076.ShortestUncommonSubstrInArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3084.CountSubstrStartEndWithGivenChar bin/3084.CountSubstrStartEndWithGivenChar)
 add_subdirectory(Algorithms/Tasks.3001.3500/3092.MostFrequentIDs bin/3092.MostFrequentIDs)
