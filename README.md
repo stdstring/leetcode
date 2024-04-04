@@ -953,6 +953,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
 * [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
+* [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 * [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 * [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/)
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
