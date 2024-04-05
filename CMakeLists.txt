@@ -1367,6 +1367,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2866.BeautifulTowers2 bin/2866.Beaut
 add_subdirectory(Algorithms/Tasks.2501.3000/2870.MinNumberOperationsMakeArrayEmpty bin/2870.MinNumberOperationsMakeArrayEmpty)
 add_subdirectory(Algorithms/Tasks.2501.3000/2875.MinSizeSubarrayInInfiniteArray bin/2875.MinSizeSubarrayInInfiniteArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2895.MinProcessingTime bin/2895.MinProcessingTime)
+add_subdirectory(Algorithms/Tasks.2501.3000/2901.LongestUnequalAdjacentGroupsSubseq2 bin/2901.LongestUnequalAdjacentGroupsSubseq2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2904.ShortestLexSmallestBeautifulString bin/2904.ShortestLexSmallestBeautifulString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2905.FindIndicesWithIndexValueDiff2 bin/2905.FindIndicesWithIndexValueDiff2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2906.ConstructProductMatrix bin/2906.ConstructProductMatrix)
