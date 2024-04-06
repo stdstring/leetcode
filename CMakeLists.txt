@@ -1296,6 +1296,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2571.MinOpsReduceIntegerTo0 bin/2571
 add_subdirectory(Algorithms/Tasks.2501.3000/2575.FindDivisibilityArrayOfString bin/2575.FindDivisibilityArrayOfString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2576.FindMaxNumberOfMarkedIndices bin/2576.FindMaxNumberOfMarkedIndices)
 add_subdirectory(Algorithms/Tasks.2501.3000/2579.CountTotalNumberColoredCells bin/2579.CountTotalNumberColoredCells)
+add_subdirectory(Algorithms/Tasks.2501.3000/2580.CountWaysGroupOverlappingRanges bin/2580.CountWaysGroupOverlappingRanges)
 add_subdirectory(Algorithms/Tasks.2501.3000/2583.KthLargestSumInBinaryTree bin/2583.KthLargestSumInBinaryTree)
 add_subdirectory(Algorithms/Tasks.2501.3000/2587.RearrangeArrayToMaximizePrefixScore bin/2587.RearrangeArrayToMaximizePrefixScore)
 add_subdirectory(Algorithms/Tasks.2501.3000/2593.FindScoreOfArrayAfterMarkingElements bin/2593.FindScoreOfArrayAfterMarkingElements)
