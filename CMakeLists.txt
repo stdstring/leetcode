@@ -461,6 +461,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0673.NumberOfLIS bin/0673.NumberOfLI
 add_subdirectory(Algorithms/Tasks.0501.1000/0674.LongestContinuousIncSubseq bin/0674.LongestContinuousIncSubseq)
 add_subdirectory(Algorithms/Tasks.0501.1000/0676.ImplementMagicDictionary bin/0676.ImplementMagicDictionary)
 add_subdirectory(Algorithms/Tasks.0501.1000/0677.MapSumPairs bin/0677.MapSumPairs)
+add_subdirectory(Algorithms/Tasks.0501.1000/0678.ValidParenthesisString bin/0678.ValidParenthesisString)
 add_subdirectory(Algorithms/Tasks.0501.1000/0679.TwentyFourGame bin/0679.TwentyFourGame)
 add_subdirectory(Algorithms/Tasks.0501.1000/0680.ValidPalindromeII bin/0680.ValidPalindromeII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0682.BaseballGame bin/0682.BaseballGame)

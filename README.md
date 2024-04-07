@@ -450,6 +450,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 * [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
 * [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)
+* [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)
 * [679. 24 Game](https://leetcode.com/problems/24-game/)
 * [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 * [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
