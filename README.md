@@ -989,6 +989,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
 * [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/)
 * [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
+* [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
 * [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)
 * [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 * [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/description/)
