@@ -1100,6 +1100,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/)
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
+* [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
 * [2074. Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
 * [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/)
 * [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/)
