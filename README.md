@@ -1405,3 +1405,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3084. Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/description/)
 * [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/description/)
 * [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/)
+* [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/)
