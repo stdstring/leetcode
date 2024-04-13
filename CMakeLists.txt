@@ -92,6 +92,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0081.SearchInRotatedSortedArrayII bi
 add_subdirectory(Algorithms/Tasks.0001.0500/0082.RemoveDuplicatesFromSortedListII bin/0082.RemoveDuplicatesFromSortedListII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0083.RemoveDuplicatesFromSortedList bin/0083.RemoveDuplicatesFromSortedList)
 add_subdirectory(Algorithms/Tasks.0001.0500/0084.LargestRectangleInHistogram bin/0084.LargestRectangleInHistogram)
+add_subdirectory(Algorithms/Tasks.0001.0500/0085.MaximalRectangle bin/0085.MaximalRectangle)
 add_subdirectory(Algorithms/Tasks.0001.0500/0086.PartitionList bin/0086.PartitionList)
 add_subdirectory(Algorithms/Tasks.0001.0500/0087.ScrambleString bin/0087.ScrambleString)
 add_subdirectory(Algorithms/Tasks.0001.0500/0088.MergeSortedArray bin/0088.MergeSortedArray)

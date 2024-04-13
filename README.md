@@ -81,6 +81,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 * [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+* [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/description/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
