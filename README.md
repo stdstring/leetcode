@@ -1407,3 +1407,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/description/)
 * [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/)
 * [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/)
+* [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)
