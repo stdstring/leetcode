@@ -1419,3 +1419,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3092.MostFrequentIDs bin/3092.MostFr
 add_subdirectory(Algorithms/Tasks.3001.3500/3101.CountAlternatingSubarrays bin/3101.CountAlternatingSubarrays)
 add_subdirectory(Algorithms/Tasks.3001.3500/3107.MinOpsMakeMedianOfArrayEqualK bin/3107.MinOpsMakeMedianOfArrayEqualK)
 add_subdirectory(Algorithms/Tasks.3001.3500/3111.MinRectanglesToCoverPoints bin/3111.MinRectanglesToCoverPoints)
+add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.MaxPrimeDifference)
