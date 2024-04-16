@@ -1309,6 +1309,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2598.SmallestMissingNonNegativeInt b
 add_subdirectory(Algorithms/Tasks.2501.3000/2601.PrimeSubtractionOperation bin/2601.PrimeSubtractionOperation)
 add_subdirectory(Algorithms/Tasks.2501.3000/2606.FindSubstringWithMaxCost bin/2606.FindSubstringWithMaxCost)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
+add_subdirectory(Algorithms/Tasks.2501.3000/2611.MiceAndCheese bin/2611.MiceAndCheese)
 add_subdirectory(Algorithms/Tasks.2501.3000/2615.SumOfDistances bin/2615.SumOfDistances)
 add_subdirectory(Algorithms/Tasks.2501.3000/2616.MinimizeMaxDifferenceOfPairs bin/2616.MinimizeMaxDifferenceOfPairs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2640.FindScoreOfAllPrefixesOfArray bin/2640.FindScoreOfAllPrefixesOfArray)
