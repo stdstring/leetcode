@@ -1270,6 +1270,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2487.RemoveNodesFromLinkedList bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2492.MinScoreOfPathBetweenTwoCities bin/2492.MinScoreOfPathBetweenTwoCities)
 add_subdirectory(Algorithms/Tasks.2001.2500/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2497.MaxStarSumOfGraph bin/2497.MaxStarSumOfGraph)
+add_subdirectory(Algorithms/Tasks.2501.3000/2501.LongestSquareStreakInArray bin/2501.LongestSquareStreakInArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2502.DesignMemoryAllocator bin/2502.DesignMemoryAllocator)
 add_subdirectory(Algorithms/Tasks.2501.3000/2507.SmallestValueAfterPrimeFactorsSumReplacing bin/2507.SmallestValueAfterPrimeFactorsSumReplacing)
 add_subdirectory(Algorithms/Tasks.2501.3000/2509.CycleLengthQueriesInTree bin/2509.CycleLengthQueriesInTree)

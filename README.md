@@ -1259,6 +1259,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
 * [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/)
 * [2497. Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/description/)
+* [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)
 * [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/description/)
 * [2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/description/)
 * [2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
