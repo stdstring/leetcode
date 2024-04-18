@@ -1234,6 +1234,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2402.MeetingRooms3 bin/2402.MeetingR
 add_subdirectory(Algorithms/Tasks.2001.2500/2405.OptimalPartitionOfString bin/2405.OptimalPartitionOfString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2406.DivideIntervalsIntoMinGroupsNumber bin/2406.DivideIntervalsIntoMinGroupsNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2409.CountDaysSpentTogether bin/2409.CountDaysSpentTogether)
+add_subdirectory(Algorithms/Tasks.2001.2500/2410.MaxMatchingPlayersWithTrainers bin/2410.MaxMatchingPlayersWithTrainers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/Tasks.2001.2500/2414.LengthOfLongestAlphContSubstr bin/2414.LengthOfLongestAlphContSubstr)
 add_subdirectory(Algorithms/Tasks.2001.2500/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
