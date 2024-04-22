@@ -1168,6 +1168,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2215.FindDifferenceTwoArrays bin/221
 add_subdirectory(Algorithms/Tasks.2001.2500/2217.FindPalindromeWithFixedLength bin/2217.FindPalindromeWithFixedLength)
 add_subdirectory(Algorithms/Tasks.2001.2500/2218.MaxValueOfKCoinsFromPiles bin/2218.MaxValueOfKCoinsFromPiles)
 add_subdirectory(Algorithms/Tasks.2001.2500/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
+add_subdirectory(Algorithms/Tasks.2001.2500/2222.NumberWaysSelectBuildings bin/2222.NumberWaysSelectBuildings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
 add_subdirectory(Algorithms/Tasks.2001.2500/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2232.MinResultAddingParenthesesToExpr bin/2232.MinResultAddingParenthesesToExpr)
