@@ -1311,6 +1311,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2593.FindScoreOfArrayAfterMarkingEle
 add_subdirectory(Algorithms/Tasks.2501.3000/2596.CheckKnightTourConfiguration bin/2596.CheckKnightTourConfiguration)
 add_subdirectory(Algorithms/Tasks.2501.3000/2598.SmallestMissingNonNegativeInt bin/2598.SmallestMissingNonNegativeInt)
 add_subdirectory(Algorithms/Tasks.2501.3000/2601.PrimeSubtractionOperation bin/2601.PrimeSubtractionOperation)
+add_subdirectory(Algorithms/Tasks.2501.3000/2602.MinOpsMakeAllArrayElementsEqual bin/2602.MinOpsMakeAllArrayElementsEqual)
 add_subdirectory(Algorithms/Tasks.2501.3000/2606.FindSubstringWithMaxCost bin/2606.FindSubstringWithMaxCost)
 add_subdirectory(Algorithms/Tasks.2501.3000/2610.ConvertArrayInto2DArrayWithConds bin/2610.ConvertArrayInto2DArrayWithConds)
 add_subdirectory(Algorithms/Tasks.2501.3000/2611.MiceAndCheese bin/2611.MiceAndCheese)
