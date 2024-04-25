@@ -1223,6 +1223,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2370.LongestIdealSubsequence bin/237
 add_subdirectory(Algorithms/Tasks.2001.2500/2374.NodeWithHighestEdgeScore bin/2374.NodeWithHighestEdgeScore)
 add_subdirectory(Algorithms/Tasks.2001.2500/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2376.CountSpecialIntegers bin/2376.CountSpecialIntegers)
+add_subdirectory(Algorithms/Tasks.2001.2500/2381.ShiftingLetters2 bin/2381.ShiftingLetters2)
 add_subdirectory(Algorithms/Tasks.2001.2500/2384.LargestPalindromicNumber bin/2384.LargestPalindromicNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2385.AmountOfTimeForBinaryTreeToBeInfected bin/2385.AmountOfTimeForBinaryTreeToBeInfected)
 add_subdirectory(Algorithms/Tasks.2001.2500/2389.LongestSubseqWithLimitedSum bin/2389.LongestSubseqWithLimitedSum)
