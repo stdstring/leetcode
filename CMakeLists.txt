@@ -809,6 +809,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1283.FindSmallestDivisorGivenThresho
 add_subdirectory(Algorithms/Tasks.1001.1500/1286.IteratorForCombination bin/1286.IteratorForCombination)
 add_subdirectory(Algorithms/Tasks.1001.1500/1287.ElementAppearingMoreThan25Percent bin/1287.ElementAppearingMoreThan25Percent)
 add_subdirectory(Algorithms/Tasks.1001.1500/1288.RemoveCoveredIntervals bin/1288.RemoveCoveredIntervals)
+add_subdirectory(Algorithms/Tasks.1001.1500/1289.MinFallingPathSum2 bin/1289.MinFallingPathSum2)
 add_subdirectory(Algorithms/Tasks.1001.1500/1290.ConvertBinNumberInLinkedListToInt bin/1290.ConvertBinNumberInLinkedListToInt)
 add_subdirectory(Algorithms/Tasks.1001.1500/1291.SequentialDigits bin/1291.SequentialDigits)
 add_subdirectory(Algorithms/Tasks.1001.1500/1292.MaxSideLengthOfSquareSumLTEThreshold bin/1292.MaxSideLengthOfSquareSumLTEThreshold)

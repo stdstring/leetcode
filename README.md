@@ -798,6 +798,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/)
 * [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/)
 * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/)
+* [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)
 * [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
