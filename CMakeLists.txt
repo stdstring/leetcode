@@ -374,6 +374,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0507.PerfectNumber bin/0507.PerfectN
 add_subdirectory(Algorithms/Tasks.0501.1000/0508.MostFrequentSubtreeSum bin/0508.MostFrequentSubtreeSum)
 add_subdirectory(Algorithms/Tasks.0501.1000/0509.FibonacciNumber bin/0509.FibonacciNumber)
 add_subdirectory(Algorithms/Tasks.0501.1000/0513.FindBottomLeftTreeValue bin/0513.FindBottomLeftTreeValue)
+add_subdirectory(Algorithms/Tasks.0501.1000/0514.FreedomTrail bin/0514.FreedomTrail)
 add_subdirectory(Algorithms/Tasks.0501.1000/0515.FindLargestValueInEachTreeRow bin/0515.FindLargestValueInEachTreeRow)
 add_subdirectory(Algorithms/Tasks.0501.1000/0516.LongestPalindromicSubsequence bin/0516.LongestPalindromicSubsequence)
 add_subdirectory(Algorithms/Tasks.0501.1000/0518.CoinChange2 bin/0518.CoinChange2)
