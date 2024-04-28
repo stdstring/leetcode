@@ -1198,6 +1198,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2278.PercentageLetterInString bin/22
 add_subdirectory(Algorithms/Tasks.2001.2500/2279.MaxBagsWithFullCapacityOfRocks bin/2279.MaxBagsWithFullCapacityOfRocks)
 add_subdirectory(Algorithms/Tasks.2001.2500/2280.MinLinesToRepresentLineChart bin/2280.MinLinesToRepresentLineChart)
 add_subdirectory(Algorithms/Tasks.2001.2500/2284.SenderWithLargestWordCount bin/2284.SenderWithLargestWordCount)
+add_subdirectory(Algorithms/Tasks.2001.2500/2294.PartitionArraySuchMaxDiffK bin/2294.PartitionArraySuchMaxDiffK)
 add_subdirectory(Algorithms/Tasks.2001.2500/2295.ReplaceElementsInArray bin/2295.ReplaceElementsInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2296.DesignTextEditor bin/2296.DesignTextEditor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2300.SuccessfulPairsOfSpellsPotions bin/2300.SuccessfulPairsOfSpellsPotions)
