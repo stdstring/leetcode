@@ -1235,6 +1235,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2390.RemovingStarsFromString bin/239
 add_subdirectory(Algorithms/Tasks.2001.2500/2391.MinTimeAmountToCollectGarbage bin/2391.MinTimeAmountToCollectGarbage)
 add_subdirectory(Algorithms/Tasks.2001.2500/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
+add_subdirectory(Algorithms/Tasks.2001.2500/2400.NumberWaysReachPositionAfterKSteps bin/2400.NumberWaysReachPositionAfterKSteps)
 add_subdirectory(Algorithms/Tasks.2001.2500/2401.LongestNiceSubarray bin/2401.LongestNiceSubarray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2402.MeetingRooms3 bin/2402.MeetingRooms3)
 add_subdirectory(Algorithms/Tasks.2001.2500/2405.OptimalPartitionOfString bin/2405.OptimalPartitionOfString)
