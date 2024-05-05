@@ -1020,6 +1020,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/)
 * [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)
 * [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
+* [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/)
 * [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
 * [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 * [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/description/)

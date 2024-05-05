@@ -1031,6 +1031,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1779.FindNearestPointThatHasSameXOrY
 add_subdirectory(Algorithms/Tasks.1501.2000/1780.CheckIfNumberSumOfPowersOfThree bin/1780.CheckIfNumberSumOfPowersOfThree)
 add_subdirectory(Algorithms/Tasks.1501.2000/1781.SumOfBeautyAllSubstrings bin/1781.SumOfBeautyAllSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1784.CheckBinStrHasAtMostOneSegmentOnes bin/1784.CheckBinStrHasAtMostOneSegmentOnes)
+add_subdirectory(Algorithms/Tasks.1501.2000/1785.MinElementsAddToFormGivenSum bin/1785.MinElementsAddToFormGivenSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1797.DesignAuthenticationManager bin/1797.DesignAuthenticationManager)
