@@ -727,6 +727,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1046.LastStoneWeight bin/1046.LastSt
 add_subdirectory(Algorithms/Tasks.1001.1500/1047.RemoveAllAdjacentDuplicatesInString bin/1047.RemoveAllAdjacentDuplicatesInString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1048.LongestStringChain bin/1048.LongestStringChain)
 add_subdirectory(Algorithms/Tasks.1001.1500/1052.GrumpyBookstoreOwner bin/1052.GrumpyBookstoreOwner)
+add_subdirectory(Algorithms/Tasks.1001.1500/1053.PreviousPermutationWithOneSwap bin/1053.PreviousPermutationWithOneSwap)
 add_subdirectory(Algorithms/Tasks.1001.1500/1054.DistantBarcodes bin/1054.DistantBarcodes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1061.LexSmallestEquivalentString bin/1061.LexSmallestEquivalentString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1071.GreatestCommonDivisorOfStrings bin/1071.GreatestCommonDivisorOfStrings)

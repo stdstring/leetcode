@@ -716,6 +716,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
 * [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)
+* [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
 * [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 * [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
