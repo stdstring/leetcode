@@ -1429,3 +1429,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)
 * [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
+* [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)

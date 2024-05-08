@@ -1440,3 +1440,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3107.MinOpsMakeMedianOfArrayEqualK b
 add_subdirectory(Algorithms/Tasks.3001.3500/3111.MinRectanglesToCoverPoints bin/3111.MinRectanglesToCoverPoints)
 add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.MaxPrimeDifference)
 add_subdirectory(Algorithms/Tasks.3001.3500/3121.CountNumberOfSpecialChars2 bin/3121.CountNumberOfSpecialChars2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3138.MinLengthAnagramConcat bin/3138.MinLengthAnagramConcat)
