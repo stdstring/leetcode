@@ -1229,6 +1229,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2366.MinReplacementsToSortArray bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2368.ReachableNodesWithRestrictions bin/2368.ReachableNodesWithRestrictions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2369.CheckIfValidPartitionForArray bin/2369.CheckIfValidPartitionForArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2370.LongestIdealSubsequence bin/2370.LongestIdealSubsequence)
+add_subdirectory(Algorithms/Tasks.2001.2500/2373.LargestLocalValuesInMatrix bin/2373.LargestLocalValuesInMatrix)
 add_subdirectory(Algorithms/Tasks.2001.2500/2374.NodeWithHighestEdgeScore bin/2374.NodeWithHighestEdgeScore)
 add_subdirectory(Algorithms/Tasks.2001.2500/2375.ConstructSmallestNumberFromDIString bin/2375.ConstructSmallestNumberFromDIString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2376.CountSpecialIntegers bin/2376.CountSpecialIntegers)

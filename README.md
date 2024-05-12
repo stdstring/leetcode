@@ -1218,6 +1218,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/description/)
 * [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/)
 * [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/)
+* [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)
 * [2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/description/)
 * [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
 * [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/description/)
