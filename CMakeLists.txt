@@ -1437,6 +1437,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3075.MaxHappinessOfSelectedChildren 
 add_subdirectory(Algorithms/Tasks.3001.3500/3076.ShortestUncommonSubstrInArray bin/3076.ShortestUncommonSubstrInArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3084.CountSubstrStartEndWithGivenChar bin/3084.CountSubstrStartEndWithGivenChar)
 add_subdirectory(Algorithms/Tasks.3001.3500/3092.MostFrequentIDs bin/3092.MostFrequentIDs)
+add_subdirectory(Algorithms/Tasks.3001.3500/3100.WaterBottles2 bin/3100.WaterBottles2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3101.CountAlternatingSubarrays bin/3101.CountAlternatingSubarrays)
 add_subdirectory(Algorithms/Tasks.3001.3500/3106.LexSmallestStrAfterOpsConstraint bin/3106.LexSmallestStrAfterOpsConstraint)
 add_subdirectory(Algorithms/Tasks.3001.3500/3107.MinOpsMakeMedianOfArrayEqualK bin/3107.MinOpsMakeMedianOfArrayEqualK)
