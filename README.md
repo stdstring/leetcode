@@ -941,6 +941,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 * [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 * [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/)
+* [1562. Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/)
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
