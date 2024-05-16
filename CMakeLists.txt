@@ -1427,6 +1427,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3011.FindIfArrayCanBeSorted bin/3011
 add_subdirectory(Algorithms/Tasks.3001.3500/3015.CountNumberHousesAtCertainDistance1 bin/3015.CountNumberHousesAtCertainDistance1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3016.MinNumberPushesToTypeWord2 bin/3016.MinNumberPushesToTypeWord2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3020.FindMaxNumberOfElementsInSubset bin/3020.FindMaxNumberOfElementsInSubset)
+add_subdirectory(Algorithms/Tasks.3001.3500/3025.FindNumberWaysPlacePeople1 bin/3025.FindNumberWaysPlacePeople1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3026.MaxGoodSubarraySum bin/3026.MaxGoodSubarraySum)
 add_subdirectory(Algorithms/Tasks.3001.3500/3035.MaxPalindromesAfterOperations bin/3035.MaxPalindromesAfterOperations)
 add_subdirectory(Algorithms/Tasks.3001.3500/3039.ApplyOpsToMakeStringEmpty bin/3039.ApplyOpsToMakeStringEmpty)
