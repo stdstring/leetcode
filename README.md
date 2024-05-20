@@ -1048,6 +1048,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/)
 * [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/)
+* [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
 * [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/)
 * [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
