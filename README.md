@@ -500,6 +500,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
 * [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)
 * [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
+* [754. Reach a Number](https://leetcode.com/problems/reach-a-number/description/)
 * [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)
 * [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 * [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/)
