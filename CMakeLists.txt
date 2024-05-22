@@ -547,6 +547,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0808.SoupServings bin/0808.SoupServi
 add_subdirectory(Algorithms/Tasks.0501.1000/0809.ExpressiveWords bin/0809.ExpressiveWords)
 add_subdirectory(Algorithms/Tasks.0501.1000/0811.SubdomainVisitCount bin/0811.SubdomainVisitCount)
 add_subdirectory(Algorithms/Tasks.0501.1000/0812.LargestTriangleArea bin/0812.LargestTriangleArea)
+add_subdirectory(Algorithms/Tasks.0501.1000/0813.LargestSumOfAverages bin/0813.LargestSumOfAverages)
 add_subdirectory(Algorithms/Tasks.0501.1000/0814.BinaryTreePruning bin/0814.BinaryTreePruning)
 add_subdirectory(Algorithms/Tasks.0501.1000/0815.BusRoutes bin/0815.BusRoutes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0816.AmbiguousCoordinates bin/0816.AmbiguousCoordinates)
