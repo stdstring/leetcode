@@ -1316,6 +1316,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/description/)
 * [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)
 * [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/)
+* [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
 * [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/)
 * [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)
 * [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/)

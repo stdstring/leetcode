@@ -1327,6 +1327,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2583.KthLargestSumInBinaryTree bin/2
 add_subdirectory(Algorithms/Tasks.2501.3000/2587.RearrangeArrayToMaximizePrefixScore bin/2587.RearrangeArrayToMaximizePrefixScore)
 add_subdirectory(Algorithms/Tasks.2501.3000/2593.FindScoreOfArrayAfterMarkingElements bin/2593.FindScoreOfArrayAfterMarkingElements)
 add_subdirectory(Algorithms/Tasks.2501.3000/2596.CheckKnightTourConfiguration bin/2596.CheckKnightTourConfiguration)
+add_subdirectory(Algorithms/Tasks.2501.3000/2597.NumberOfBeautifulSubsets bin/2597.NumberOfBeautifulSubsets)
 add_subdirectory(Algorithms/Tasks.2501.3000/2598.SmallestMissingNonNegativeInt bin/2598.SmallestMissingNonNegativeInt)
 add_subdirectory(Algorithms/Tasks.2501.3000/2601.PrimeSubtractionOperation bin/2601.PrimeSubtractionOperation)
 add_subdirectory(Algorithms/Tasks.2501.3000/2602.MinOpsMakeAllArrayElementsEqual bin/2602.MinOpsMakeAllArrayElementsEqual)
