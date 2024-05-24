@@ -762,6 +762,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1172. Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/)
 * [1175. Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/)
 * [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
+* [1185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/)
 * [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)
 * [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)

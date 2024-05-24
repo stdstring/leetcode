@@ -773,6 +773,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1171.RemoveZeroSumConsNodesFromLinke
 add_subdirectory(Algorithms/Tasks.1001.1500/1172.DinnerPlateStacks bin/1172.DinnerPlateStacks)
 add_subdirectory(Algorithms/Tasks.1001.1500/1175.PrimeArrangements bin/1175.PrimeArrangements)
 add_subdirectory(Algorithms/Tasks.1001.1500/1177.CanMakePalindromeFromSubstring bin/1177.CanMakePalindromeFromSubstring)
+add_subdirectory(Algorithms/Tasks.1001.1500/1185.DayOfWeek bin/1185.DayOfWeek)
 add_subdirectory(Algorithms/Tasks.1001.1500/1189.MaximumNumberOfBalloons bin/1189.MaximumNumberOfBalloons)
 add_subdirectory(Algorithms/Tasks.1001.1500/1190.RevSubstrBetweenEachPairOfParentheses bin/1190.RevSubstrBetweenEachPairOfParentheses)
 add_subdirectory(Algorithms/Tasks.1001.1500/1192.CriticalConnectionsInNetwork bin/1192.CriticalConnectionsInNetwork)
