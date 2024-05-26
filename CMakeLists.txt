@@ -145,6 +145,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0136.SingleNumber bin/0136.SingleNum
 add_subdirectory(Algorithms/Tasks.0001.0500/0137.SingleNumberII bin/0137.SingleNumberII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0138.CopyListWithRandomPointer bin/0138.CopyListWithRandomPointer)
 add_subdirectory(Algorithms/Tasks.0001.0500/0139.WordBreak bin/0139.WordBreak)
+add_subdirectory(Algorithms/Tasks.0001.0500/0140.WordBreak2 bin/0140.WordBreak2)
 add_subdirectory(Algorithms/Tasks.0001.0500/0141.LinkedListCycle bin/0141.LinkedListCycle)
 add_subdirectory(Algorithms/Tasks.0001.0500/0142.LinkedListCycleII bin/0142.LinkedListCycleII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0143.ReorderList bin/0143.ReorderList)
