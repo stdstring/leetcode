@@ -961,6 +961,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)
 * [1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/)
 * [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)
+* [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)
 * [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/)
 * [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
 * [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)

@@ -972,6 +972,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1601.MaxNumberAchievableTransferRequ
 add_subdirectory(Algorithms/Tasks.1501.2000/1603.DesignParkingSystem bin/1603.DesignParkingSystem)
 add_subdirectory(Algorithms/Tasks.1501.2000/1604.AlertUsingSameKeyCard bin/1604.AlertUsingSameKeyCard)
 add_subdirectory(Algorithms/Tasks.1501.2000/1605.FindValidMatrixGivenRowColumnSums bin/1605.FindValidMatrixGivenRowColumnSums)
+add_subdirectory(Algorithms/Tasks.1501.2000/1608.SpecialArrayWithXElementsGTEX bin/1608.SpecialArrayWithXElementsGTEX)
 add_subdirectory(Algorithms/Tasks.1501.2000/1609.EvenOddTree bin/1609.EvenOddTree)
 add_subdirectory(Algorithms/Tasks.1501.2000/1611.MinOneBitOperationsMakeIntegersZero bin/1611.MinOneBitOperationsMakeIntegersZero)
 add_subdirectory(Algorithms/Tasks.1501.2000/1614.MaxNestingDepthOfParentheses bin/1614.MaxNestingDepthOfParentheses)
