@@ -886,6 +886,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1405.LongestHappyString bin/1405.Lon
 add_subdirectory(Algorithms/Tasks.1001.1500/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/Tasks.1001.1500/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1414.FindMinNumOfFibonacciNumsWhoseSumK bin/1414.FindMinNumOfFibonacciNumsWhoseSumK)
+add_subdirectory(Algorithms/Tasks.1001.1500/1415.KLexStringOfAllHappyStringsLengthN bin/1415.KLexStringOfAllHappyStringsLengthN)
 add_subdirectory(Algorithms/Tasks.1001.1500/1416.RestoreTheArray bin/1416.RestoreTheArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1417.ReformatTheString bin/1417.ReformatTheString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1418.DisplayTableOfFoodOrdersInRestaurant bin/1418.DisplayTableOfFoodOrdersInRestaurant)

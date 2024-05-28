@@ -875,6 +875,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 * [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+* [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)
 * [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 * [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/)
 * [1418. Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/description/)
