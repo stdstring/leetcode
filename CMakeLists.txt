@@ -921,6 +921,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1476.SubrectangleQueries bin/1476.Su
 add_subdirectory(Algorithms/Tasks.1001.1500/1477.Find2NonOverlappingSubarraysWithTargetSum bin/1477.Find2NonOverlappingSubarraysWithTargetSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1481.LeastNumberUniqueIntsAfterKRemovals bin/1481.LeastNumberUniqueIntsAfterKRemovals)
+add_subdirectory(Algorithms/Tasks.1001.1500/1482.MinNumberDaysMakeMBouquets bin/1482.MinNumberDaysMakeMBouquets)
 add_subdirectory(Algorithms/Tasks.1001.1500/1487.MakingFileNamesUnique bin/1487.MakingFileNamesUnique)
 add_subdirectory(Algorithms/Tasks.1001.1500/1488.AvoidFloodInCity bin/1488.AvoidFloodInCity)
 add_subdirectory(Algorithms/Tasks.1001.1500/1491.AverageSalaryExcludingMinMaxSalary bin/1491.AverageSalaryExcludingMinMaxSalary)
