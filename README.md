@@ -1445,6 +1445,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/)
 * [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/)
 * [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/)
+* [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/)
 * [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)
 * [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
