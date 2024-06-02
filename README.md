@@ -714,6 +714,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
 * [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 * [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/)
+* [1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
 * [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)

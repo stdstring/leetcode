@@ -725,6 +725,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1034.ColoringBorder bin/1034.Colorin
 add_subdirectory(Algorithms/Tasks.1001.1500/1035.UncrossedLines bin/1035.UncrossedLines)
 add_subdirectory(Algorithms/Tasks.1001.1500/1038.BinarySearchTreeToGreaterSumTree bin/1038.BinarySearchTreeToGreaterSumTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1041.RobotBoundedInCircle bin/1041.RobotBoundedInCircle)
+add_subdirectory(Algorithms/Tasks.1001.1500/1042.FlowerPlantingWithNoAdjacent bin/1042.FlowerPlantingWithNoAdjacent)
 add_subdirectory(Algorithms/Tasks.1001.1500/1043.PartitionArrayForMaxSum bin/1043.PartitionArrayForMaxSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1046.LastStoneWeight bin/1046.LastStoneWeight)
 add_subdirectory(Algorithms/Tasks.1001.1500/1047.RemoveAllAdjacentDuplicatesInString bin/1047.RemoveAllAdjacentDuplicatesInString)
