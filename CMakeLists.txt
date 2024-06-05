@@ -796,6 +796,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1235.MaxProfitInJobScheduling bin/12
 add_subdirectory(Algorithms/Tasks.1001.1500/1237.FindPositiveIntSolutionForGivenEquation bin/1237.FindPositiveIntSolutionForGivenEquation)
 add_subdirectory(Algorithms/Tasks.1001.1500/1238.CircularPermutationInBinaryRepr bin/1238.CircularPermutationInBinaryRepr)
 add_subdirectory(Algorithms/Tasks.1001.1500/1239.MaxLengthOfConcatStrWithUniqChars bin/1239.MaxLengthOfConcatStrWithUniqChars)
+add_subdirectory(Algorithms/Tasks.1001.1500/1247.MinSwapsMakeStringsEqual bin/1247.MinSwapsMakeStringsEqual)
 add_subdirectory(Algorithms/Tasks.1001.1500/1248.CountNumberOfNiceSubarrays bin/1248.CountNumberOfNiceSubarrays)
 add_subdirectory(Algorithms/Tasks.1001.1500/1249.MinRemoveToMakeValidParentheses bin/1249.MinRemoveToMakeValidParentheses)
 add_subdirectory(Algorithms/Tasks.1001.1500/1253.Reconstruct2RowBinaryMatrix bin/1253.Reconstruct2RowBinaryMatrix)
