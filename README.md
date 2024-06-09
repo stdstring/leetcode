@@ -869,6 +869,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
 * [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
+* [1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
 * [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
