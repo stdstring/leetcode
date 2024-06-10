@@ -719,6 +719,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 * [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
+* [1051. Height Checker](https://leetcode.com/problems/height-checker/description/)
 * [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)
 * [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/)
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
