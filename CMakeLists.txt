@@ -753,6 +753,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1106.ParsingBooleanExpression bin/11
 add_subdirectory(Algorithms/Tasks.1001.1500/1108.DefangingIPAddress bin/1108.DefangingIPAddress)
 add_subdirectory(Algorithms/Tasks.1001.1500/1109.CorporateFlightBookings bin/1109.CorporateFlightBookings)
 add_subdirectory(Algorithms/Tasks.1001.1500/1110.DeleteNodesAndReturnForest bin/1110.DeleteNodesAndReturnForest)
+add_subdirectory(Algorithms/Tasks.1001.1500/1122.RelativeSortArray bin/1122.RelativeSortArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1123.LowestCommonAncestorDeepestLeaves bin/1123.LowestCommonAncestorDeepestLeaves)
 add_subdirectory(Algorithms/Tasks.1001.1500/1124.LongestWellPerformingInterval bin/1124.LongestWellPerformingInterval)
 add_subdirectory(Algorithms/Tasks.1001.1500/1125.SmallestSufficientTeam bin/1125.SmallestSufficientTeam)
