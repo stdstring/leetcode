@@ -1461,3 +1461,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3153. Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/)
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/)
+* [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/)

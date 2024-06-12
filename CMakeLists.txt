@@ -1472,3 +1472,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3138.MinLengthAnagramConcat bin/3138
 add_subdirectory(Algorithms/Tasks.3001.3500/3153.SumDigitDifferencesAllPairs bin/3153.SumDigitDifferencesAllPairs)
 add_subdirectory(Algorithms/Tasks.3001.3500/3169.CountDaysWithoutMeetings bin/3169.CountDaysWithoutMeetings)
 add_subdirectory(Algorithms/Tasks.3001.3500/3170.LexMinStringAfterRemovingStars bin/3170.LexMinStringAfterRemovingStars)
+add_subdirectory(Algorithms/Tasks.3001.3500/3179.FindNValueAfterKSeconds bin/3179.FindNValueAfterKSeconds)
