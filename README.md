@@ -1117,6 +1117,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
 * [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 * [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/description/)
+* [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
 * [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
