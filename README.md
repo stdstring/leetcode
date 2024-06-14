@@ -1460,6 +1460,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
 * [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
 * [3153. Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/)
+* [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/)
 * [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/)

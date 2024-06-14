@@ -1471,6 +1471,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.Max
 add_subdirectory(Algorithms/Tasks.3001.3500/3121.CountNumberOfSpecialChars2 bin/3121.CountNumberOfSpecialChars2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3138.MinLengthAnagramConcat bin/3138.MinLengthAnagramConcat)
 add_subdirectory(Algorithms/Tasks.3001.3500/3153.SumDigitDifferencesAllPairs bin/3153.SumDigitDifferencesAllPairs)
+add_subdirectory(Algorithms/Tasks.3001.3500/3163.StringCompression3 bin/3163.StringCompression3)
 add_subdirectory(Algorithms/Tasks.3001.3500/3169.CountDaysWithoutMeetings bin/3169.CountDaysWithoutMeetings)
 add_subdirectory(Algorithms/Tasks.3001.3500/3170.LexMinStringAfterRemovingStars bin/3170.LexMinStringAfterRemovingStars)
 add_subdirectory(Algorithms/Tasks.3001.3500/3179.FindNValueAfterKSeconds bin/3179.FindNValueAfterKSeconds)
