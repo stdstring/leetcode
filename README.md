@@ -1465,4 +1465,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/)
+* [3175. Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/submissions/)
 * [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/)
