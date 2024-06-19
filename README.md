@@ -1200,6 +1200,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/)
 * [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)
 * [2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)
+* [2261. K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/description/)
 * [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)
 * [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)

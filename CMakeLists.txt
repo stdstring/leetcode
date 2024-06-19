@@ -1211,6 +1211,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2251.NumberOfFlowersInFullBloom bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2256.MinAverageDifference bin/2256.MinAverageDifference)
 add_subdirectory(Algorithms/Tasks.2001.2500/2257.CountUnguardedCellsInGrid bin/2257.CountUnguardedCellsInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2260.MinConsecutiveCardsToPickUp bin/2260.MinConsecutiveCardsToPickUp)
+add_subdirectory(Algorithms/Tasks.2001.2500/2261.KDivisibleElementsSubarrays bin/2261.KDivisibleElementsSubarrays)
 add_subdirectory(Algorithms/Tasks.2001.2500/2264.Largest3SameDigitNumberInString bin/2264.Largest3SameDigitNumberInString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2265.CountNodesEqualToSubtreeAverage bin/2265.CountNodesEqualToSubtreeAverage)
 add_subdirectory(Algorithms/Tasks.2001.2500/2266.CountNumberOfTexts bin/2266.CountNumberOfTexts)
