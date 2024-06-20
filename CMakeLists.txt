@@ -965,6 +965,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1540.CanConvertStringInKMoves bin/15
 add_subdirectory(Algorithms/Tasks.1501.2000/1541.MinInsertionsToBalanceParenthesesStr bin/1541.MinInsertionsToBalanceParenthesesStr)
 add_subdirectory(Algorithms/Tasks.1501.2000/1544.MakeStringGreat bin/1544.MakeStringGreat)
 add_subdirectory(Algorithms/Tasks.1501.2000/1545.FindKthBitInNthBinaryString bin/1545.FindKthBitInNthBinaryString)
+add_subdirectory(Algorithms/Tasks.1501.2000/1552.MagneticForceBetweenTwoBalls bin/1552.MagneticForceBetweenTwoBalls)
 add_subdirectory(Algorithms/Tasks.1501.2000/1557.MinVerticesToReachAllNodes bin/1557.MinVerticesToReachAllNodes)
 add_subdirectory(Algorithms/Tasks.1501.2000/1559.DetectCyclesIn2DGrid bin/1559.DetectCyclesIn2DGrid)
 add_subdirectory(Algorithms/Tasks.1501.2000/1561.MaxNumberCoinsYouCanGet bin/1561.MaxNumberCoinsYouCanGet)
