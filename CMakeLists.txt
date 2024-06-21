@@ -1202,6 +1202,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2222.NumberWaysSelectBuildings bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
 add_subdirectory(Algorithms/Tasks.2001.2500/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2232.MinResultAddingParenthesesToExpr bin/2232.MinResultAddingParenthesesToExpr)
+add_subdirectory(Algorithms/Tasks.2001.2500/2233.MaxProductAfterKIncrements bin/2233.MaxProductAfterKIncrements)
 add_subdirectory(Algorithms/Tasks.2001.2500/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumOfChildren)
 add_subdirectory(Algorithms/Tasks.2001.2500/2240.NumberWaysToBuyPensPencils bin/2240.NumberWaysToBuyPensPencils)
 add_subdirectory(Algorithms/Tasks.2001.2500/2241.DesignATMMachine bin/2241.DesignATMMachine)

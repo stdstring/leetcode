@@ -1191,6 +1191,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 * [2227. Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/description/)
 * [2232. Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/description/)
+* [2233. Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/description/)
 * [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
 * [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/)
 * [2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/description/)
