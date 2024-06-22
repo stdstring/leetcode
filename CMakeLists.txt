@@ -1306,6 +1306,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2483.MinPenaltyForShop bin/2483.MinP
 add_subdirectory(Algorithms/Tasks.2001.2500/2485.FindPivotInteger bin/2485.FindPivotInteger)
 add_subdirectory(Algorithms/Tasks.2001.2500/2486.AppendCharsToStringToMakeSubseq bin/2486.AppendCharsToStringToMakeSubseq)
 add_subdirectory(Algorithms/Tasks.2001.2500/2487.RemoveNodesFromLinkedList bin/2487.RemoveNodesFromLinkedList)
+add_subdirectory(Algorithms/Tasks.2001.2500/2491.DividePlayersIntoTeamsOfEqualSkill bin/2491.DividePlayersIntoTeamsOfEqualSkill)
 add_subdirectory(Algorithms/Tasks.2001.2500/2492.MinScoreOfPathBetweenTwoCities bin/2492.MinScoreOfPathBetweenTwoCities)
 add_subdirectory(Algorithms/Tasks.2001.2500/2496.MaxValueOfStringInArray bin/2496.MaxValueOfStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2497.MaxStarSumOfGraph bin/2497.MaxStarSumOfGraph)
