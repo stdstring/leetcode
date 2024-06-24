@@ -679,6 +679,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 * [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
 * [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+* [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)
 * [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 * [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
 * [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)

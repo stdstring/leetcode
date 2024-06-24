@@ -690,6 +690,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0991.BrokenCalculator bin/0991.Broke
 add_subdirectory(Algorithms/Tasks.0501.1000/0992.SubarraysWithKDifferentIntegers bin/0992.SubarraysWithKDifferentIntegers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0993.CousinsInBinaryTree bin/0993.CousinsInBinaryTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0994.RottingOranges bin/0994.RottingOranges)
+add_subdirectory(Algorithms/Tasks.0501.1000/0995.MinNumberKConsecutiveBitFlips bin/0995.MinNumberKConsecutiveBitFlips)
 add_subdirectory(Algorithms/Tasks.0501.1000/0997.FindTownJudge bin/0997.FindTownJudge)
 add_subdirectory(Algorithms/Tasks.0501.1000/0998.MaximumBinaryTreeII bin/0998.MaximumBinaryTreeII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0999.AvailableCapturesForRook bin/0999.AvailableCapturesForRook)
