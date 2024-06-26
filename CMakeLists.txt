@@ -1484,4 +1484,5 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3169.CountDaysWithoutMeetings bin/31
 add_subdirectory(Algorithms/Tasks.3001.3500/3170.LexMinStringAfterRemovingStars bin/3170.LexMinStringAfterRemovingStars)
 add_subdirectory(Algorithms/Tasks.3001.3500/3175.FindFirstPlayerToWinKGamesInRow bin/3175.FindFirstPlayerToWinKGamesInRow)
 add_subdirectory(Algorithms/Tasks.3001.3500/3179.FindNValueAfterKSeconds bin/3179.FindNValueAfterKSeconds)
+add_subdirectory(Algorithms/Tasks.3001.3500/3192.MinOpsMakeBinArrayElementsEqualOne2 bin/3192.MinOpsMakeBinArrayElementsEqualOne2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3195.FindMinAreaCoverAllOnes1 bin/3195.FindMinAreaCoverAllOnes1)
