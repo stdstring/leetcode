@@ -1044,6 +1044,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
 * [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/)
 * [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
+* [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
 * [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 * [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/description/)
 * [1798. Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/description/)
