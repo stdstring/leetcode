@@ -1219,6 +1219,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 * [2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/description/)
 * [2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/description/)
+* [2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)
 * [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)
 * [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
