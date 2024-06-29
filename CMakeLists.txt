@@ -1190,6 +1190,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2182.ConstructStringWithRepeatLimit 
 add_subdirectory(Algorithms/Tasks.2001.2500/2186.MinNumberStepsMake2StringsAnagramII bin/2186.MinNumberStepsMake2StringsAnagramII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2187.MinTimeToCompleteTrips bin/2187.MinTimeToCompleteTrips)
 add_subdirectory(Algorithms/Tasks.2001.2500/2191.SortJumbledNumbers bin/2191.SortJumbledNumbers)
+add_subdirectory(Algorithms/Tasks.2001.2500/2192.AllAncestorsOfNodeInDAG bin/2192.AllAncestorsOfNodeInDAG)
 add_subdirectory(Algorithms/Tasks.2001.2500/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2196.CreateBinaryTreeFromDescriptions bin/2196.CreateBinaryTreeFromDescriptions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
