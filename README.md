@@ -1470,6 +1470,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
 * [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
 * [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
+* [3152. Special Array II](https://leetcode.com/problems/special-array-ii/description/)
 * [3153. Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/)
 * [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
