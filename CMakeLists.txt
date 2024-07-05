@@ -1485,6 +1485,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3152.SpecialArray2 bin/3152.SpecialA
 add_subdirectory(Algorithms/Tasks.3001.3500/3153.SumDigitDifferencesAllPairs bin/3153.SumDigitDifferencesAllPairs)
 add_subdirectory(Algorithms/Tasks.3001.3500/3160.FindDistinctColorsNumberAmongBalls bin/3160.FindDistinctColorsNumberAmongBalls)
 add_subdirectory(Algorithms/Tasks.3001.3500/3163.StringCompression3 bin/3163.StringCompression3)
+add_subdirectory(Algorithms/Tasks.3001.3500/3164.FindNumberOfGoodPairs2 bin/3164.FindNumberOfGoodPairs2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3169.CountDaysWithoutMeetings bin/3169.CountDaysWithoutMeetings)
 add_subdirectory(Algorithms/Tasks.3001.3500/3170.LexMinStringAfterRemovingStars bin/3170.LexMinStringAfterRemovingStars)
 add_subdirectory(Algorithms/Tasks.3001.3500/3175.FindFirstPlayerToWinKGamesInRow bin/3175.FindFirstPlayerToWinKGamesInRow)
