@@ -939,6 +939,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
 * [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/)
 * [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+* [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 * [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 * [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)

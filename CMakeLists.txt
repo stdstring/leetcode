@@ -950,6 +950,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1510.StoneGameIV bin/1510.StoneGameI
 add_subdirectory(Algorithms/Tasks.1501.2000/1512.NumberOfGoodPairs bin/1512.NumberOfGoodPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1513.NumberOfSubstringsWithOnly1 bin/1513.NumberOfSubstringsWithOnly1)
 add_subdirectory(Algorithms/Tasks.1501.2000/1514.PathWithMaximumProbability bin/1514.PathWithMaximumProbability)
+add_subdirectory(Algorithms/Tasks.1501.2000/1518.WaterBottles bin/1518.WaterBottles)
 add_subdirectory(Algorithms/Tasks.1501.2000/1519.NumberNodesInSubTreeWithSameLabel bin/1519.NumberNodesInSubTreeWithSameLabel)
 add_subdirectory(Algorithms/Tasks.1501.2000/1523.CountOddNumbersInIntervalRange bin/1523.CountOddNumbersInIntervalRange)
 add_subdirectory(Algorithms/Tasks.1501.2000/1524.NumberOfSubarraysWithOddSum bin/1524.NumberOfSubarraysWithOddSum)
