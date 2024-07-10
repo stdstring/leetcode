@@ -972,6 +972,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 * [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
+* [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
 * [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/)
 * [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
 * [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)
