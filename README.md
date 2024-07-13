@@ -623,6 +623,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
 * [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
 * [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/)
+* [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/)
 * [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 * [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
 * [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/)

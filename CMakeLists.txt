@@ -634,6 +634,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0919.CompleteBinaryTreeInserter bin/
 add_subdirectory(Algorithms/Tasks.0501.1000/0921.MinAddToMakeParenthesesValid bin/0921.MinAddToMakeParenthesesValid)
 add_subdirectory(Algorithms/Tasks.0501.1000/0922.SortArrayByParityII bin/0922.SortArrayByParityII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0923.3SumWithMultiplicity bin/0923.3SumWithMultiplicity)
+add_subdirectory(Algorithms/Tasks.0501.1000/0924.MinimizeMalwareSpread bin/0924.MinimizeMalwareSpread)
 add_subdirectory(Algorithms/Tasks.0501.1000/0925.LongPressedName bin/0925.LongPressedName)
 add_subdirectory(Algorithms/Tasks.0501.1000/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/Tasks.0501.1000/0927.ThreeEqualParts bin/0927.ThreeEqualParts)
