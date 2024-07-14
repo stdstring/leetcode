@@ -638,6 +638,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0924.MinimizeMalwareSpread bin/0924.
 add_subdirectory(Algorithms/Tasks.0501.1000/0925.LongPressedName bin/0925.LongPressedName)
 add_subdirectory(Algorithms/Tasks.0501.1000/0926.FlipStringToMonotoneIncreasing bin/0926.FlipStringToMonotoneIncreasing)
 add_subdirectory(Algorithms/Tasks.0501.1000/0927.ThreeEqualParts bin/0927.ThreeEqualParts)
+add_subdirectory(Algorithms/Tasks.0501.1000/0928.MinimizeMalwareSpread2 bin/0928.MinimizeMalwareSpread2)
 add_subdirectory(Algorithms/Tasks.0501.1000/0929.UniqueEmailAddresses bin/0929.UniqueEmailAddresses)
 add_subdirectory(Algorithms/Tasks.0501.1000/0930.BinarySubarraysWithSum bin/0930.BinarySubarraysWithSum)
 add_subdirectory(Algorithms/Tasks.0501.1000/0931.MinimumFallingPathSum bin/0931.MinimumFallingPathSum)
