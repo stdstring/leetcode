@@ -1,4 +1,5 @@
 #include <queue>
+#include <string>
 #include <unordered_map>
 
 #include "TreeNode.h"
@@ -11,21 +12,10 @@ using CommonLib::TreeNode;
 namespace
 {
 
-struct NodeData
-{
-    NodeData(TreeNode* current, TreeNode* parent, size_t level) : Current(current), Parent(parent), Level(level)
-    {
-    }
-
-    TreeNode* Current;
-    TreeNode* Parent;
-    size_t Level;
-};
-
 class Solution
 {
 public:
-    std::string getDirections(TreeNode* root, int startValue, int destValue) const
+    [[nodiscard]] std::string getDirections(TreeNode* root, int startValue, int destValue) const
     {
         std::unordered_map<int, NodeData> nodesMap;
         std::queue<NodeData> nodes;
@@ -62,18 +52,30 @@ public:
         }
         return path.append(downPath.crbegin(), downPath.crend());
     }
+
+private:
+    struct NodeData
+    {
+        NodeData(TreeNode* current, TreeNode* parent, size_t level) : Current(current), Parent(parent), Level(level)
+        {
+        }
+
+        TreeNode* Current;
+        TreeNode* Parent;
+        size_t Level;
+    };
 };
 
 }
 
 using CommonLib::Codec;
 
-namespace StepByStepDirectionsFromBinTreeNodeToAnotherTask
+namespace StepByStepFromBinTreeNodeToAnotherTask
 {
 
-TEST(StepByStepDirectionsFromBinTreeNodeToAnotherTaskTests, Examples)
+TEST(StepByStepFromBinTreeNodeToAnotherTaskTests, Examples)
 {
-    const Solution solution;
+    constexpr Solution solution;
     ASSERT_EQ("UURL", solution.getDirections(Codec::createTree("[5,1,2,3,null,6,4]").get(), 3, 6));
     ASSERT_EQ("L", solution.getDirections(Codec::createTree("[2,1]").get(), 2, 1));
 }
