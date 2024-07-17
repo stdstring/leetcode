@@ -1354,6 +1354,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)
 * [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/)
 * [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/description/)
+* [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
 * [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 * [2611. Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/description/)
 * [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)
