@@ -869,6 +869,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/description/)
 * [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
 * [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
+* [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)
 * [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 * [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
