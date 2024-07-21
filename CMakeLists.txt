@@ -1275,6 +1275,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2385.AmountOfTimeForBinaryTreeToBeIn
 add_subdirectory(Algorithms/Tasks.2001.2500/2389.LongestSubseqWithLimitedSum bin/2389.LongestSubseqWithLimitedSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2390.RemovingStarsFromString bin/2390.RemovingStarsFromString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2391.MinTimeAmountToCollectGarbage bin/2391.MinTimeAmountToCollectGarbage)
+add_subdirectory(Algorithms/Tasks.2001.2500/2392.BuildMatrixWithConditions bin/2392.BuildMatrixWithConditions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2396.StrictlyPalindromicNumber bin/2396.StrictlyPalindromicNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2397.MaxRowsCoveredByColumns bin/2397.MaxRowsCoveredByColumns)
 add_subdirectory(Algorithms/Tasks.2001.2500/2400.NumberWaysReachPositionAfterKSteps bin/2400.NumberWaysReachPositionAfterKSteps)
