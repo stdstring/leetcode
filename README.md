@@ -993,6 +993,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+* [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 * [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
 * [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 * [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)

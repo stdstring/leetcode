@@ -1004,6 +1004,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/162
 add_subdirectory(Algorithms/Tasks.1501.2000/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/Tasks.1501.2000/1630.ArithmeticSubarrays bin/1630.ArithmeticSubarrays)
 add_subdirectory(Algorithms/Tasks.1501.2000/1631.PathWithMinEffort bin/1631.PathWithMinEffort)
+add_subdirectory(Algorithms/Tasks.1501.2000/1636.SortArrayByIncreasingFrequency bin/1636.SortArrayByIncreasingFrequency)
 add_subdirectory(Algorithms/Tasks.1501.2000/1637.WidestVerticalAreaBetweenTwoPoints bin/1637.WidestVerticalAreaBetweenTwoPoints)
 add_subdirectory(Algorithms/Tasks.1501.2000/1639.NumberWaysFormTargetStringGivenDict bin/1639.NumberWaysFormTargetStringGivenDict)
 add_subdirectory(Algorithms/Tasks.1501.2000/1641.CountSortedVowelStrings bin/1641.CountSortedVowelStrings)
