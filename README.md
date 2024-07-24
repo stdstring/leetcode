@@ -1499,3 +1499,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3212. Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/)
 * [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/)
 * [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/)
+* [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/)
