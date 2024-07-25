@@ -1509,5 +1509,6 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3201.FindMaxLengthValidSubsequence1 
 add_subdirectory(Algorithms/Tasks.3001.3500/3211.GenerateBinStrWithoutAdjacentZeros bin/3211.GenerateBinStrWithoutAdjacentZeros)
 add_subdirectory(Algorithms/Tasks.3001.3500/3212.CountSubmatricesEqualFrequencyXY bin/3212.CountSubmatricesEqualFrequencyXY)
 add_subdirectory(Algorithms/Tasks.3001.3500/3217.DeleteNodesFromLinkedListPresentInArray bin/3217.DeleteNodesFromLinkedListPresentInArray)
+add_subdirectory(Algorithms/Tasks.3001.3500/3223.MinLengthOfStringAfterOperations bin/3223.MinLengthOfStringAfterOperations)
 add_subdirectory(Algorithms/Tasks.3001.3500/3227.VowelsGameInString bin/3227.VowelsGameInString)
 add_subdirectory(Algorithms/Tasks.3001.3500/3228.MaxNumberOperationsMoveOnesToEnd bin/3228.MaxNumberOperationsMoveOnesToEnd)
