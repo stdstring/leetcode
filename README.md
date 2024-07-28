@@ -1134,6 +1134,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
 * [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
+* [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
 * [2048. Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
 * [2049. Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/description/)
 * [2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/)
