@@ -890,6 +890,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1387.SortIntegersByPowerValue bin/13
 add_subdirectory(Algorithms/Tasks.1001.1500/1390.FourDivisors bin/1390.FourDivisors)
 add_subdirectory(Algorithms/Tasks.1001.1500/1391.CheckIfThereIsValidPathInGrid bin/1391.CheckIfThereIsValidPathInGrid)
 add_subdirectory(Algorithms/Tasks.1001.1500/1392.LongestHappyPrefix bin/1392.LongestHappyPrefix)
+add_subdirectory(Algorithms/Tasks.1001.1500/1395.CountNumberOfTeams bin/1395.CountNumberOfTeams)
 add_subdirectory(Algorithms/Tasks.1001.1500/1396.DesignUndergroundSystem bin/1396.DesignUndergroundSystem)
 add_subdirectory(Algorithms/Tasks.1001.1500/1400.ConstructKPalindromeStrings bin/1400.ConstructKPalindromeStrings)
 add_subdirectory(Algorithms/Tasks.1001.1500/1401.CircleRectangleOverlapping bin/1401.CircleRectangleOverlapping)
