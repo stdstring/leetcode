@@ -1016,6 +1016,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1646.GetMaxInGeneratedArray bin/1646
 add_subdirectory(Algorithms/Tasks.1501.2000/1647.MinDeletionsToMakeCharFreqUnique bin/1647.MinDeletionsToMakeCharFreqUnique)
 add_subdirectory(Algorithms/Tasks.1501.2000/1648.SellDiminishingValuedColoredBalls bin/1648.SellDiminishingValuedColoredBalls)
 add_subdirectory(Algorithms/Tasks.1501.2000/1652.DefuseBomb bin/1652.DefuseBomb)
+add_subdirectory(Algorithms/Tasks.1501.2000/1653.MinDeletionsMakeStringBalanced bin/1653.MinDeletionsMakeStringBalanced)
 add_subdirectory(Algorithms/Tasks.1501.2000/1657.DetermineIfTwoStringsAreClose bin/1657.DetermineIfTwoStringsAreClose)
 add_subdirectory(Algorithms/Tasks.1501.2000/1658.MinOperationsToReduceXToZero bin/1658.MinOperationsToReduceXToZero)
 add_subdirectory(Algorithms/Tasks.1501.2000/1662.CheckIfTwoStringArraysEquivalent bin/1662.CheckIfTwoStringArraysEquivalent)
