@@ -753,6 +753,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1093.StatisticsFromLargeSample bin/1
 add_subdirectory(Algorithms/Tasks.1001.1500/1094.CarPooling bin/1094.CarPooling)
 add_subdirectory(Algorithms/Tasks.1001.1500/1095.FindInMountainArray bin/1095.FindInMountainArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1104.PathInZigzagLabelledBinaryTree bin/1104.PathInZigzagLabelledBinaryTree)
+add_subdirectory(Algorithms/Tasks.1001.1500/1105.FillingBookcaseShelves bin/1105.FillingBookcaseShelves)
 add_subdirectory(Algorithms/Tasks.1001.1500/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
 add_subdirectory(Algorithms/Tasks.1001.1500/1108.DefangingIPAddress bin/1108.DefangingIPAddress)
 add_subdirectory(Algorithms/Tasks.1001.1500/1109.CorporateFlightBookings bin/1109.CorporateFlightBookings)
