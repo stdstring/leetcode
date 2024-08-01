@@ -1389,6 +1389,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2661.FirstCompletelyPaintedRowColumn
 add_subdirectory(Algorithms/Tasks.2501.3000/2671.FrequencyTracker bin/2671.FrequencyTracker)
 add_subdirectory(Algorithms/Tasks.2501.3000/2672.NumberAdjacentElementsWithSameColor bin/2672.NumberAdjacentElementsWithSameColor)
 add_subdirectory(Algorithms/Tasks.2501.3000/2673.MakeCostsOfPathsEqualInBinaryTree bin/2673.MakeCostsOfPathsEqualInBinaryTree)
+add_subdirectory(Algorithms/Tasks.2501.3000/2678.NumberOfSeniorCitizens bin/2678.NumberOfSeniorCitizens)
 add_subdirectory(Algorithms/Tasks.2501.3000/2679.SumInMatrix bin/2679.SumInMatrix)
 add_subdirectory(Algorithms/Tasks.2501.3000/2683.NeighboringBitwiseXOR bin/2683.NeighboringBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.2501.3000/2684.MaxNumberOfMovesInGrid bin/2684.MaxNumberOfMovesInGrid)

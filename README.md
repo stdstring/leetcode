@@ -1378,6 +1378,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2671. Frequency Tracker](https://leetcode.com/problems/frequency-tracker/description/)
 * [2672. Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/description/)
 * [2673. Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)
+* [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
 * [2679. Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/description/)
 * [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
 * [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)
