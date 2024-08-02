@@ -1181,6 +1181,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2125.NumberOfLaserBeamsInBank bin/21
 add_subdirectory(Algorithms/Tasks.2001.2500/2126.DestroyingAsteroids bin/2126.DestroyingAsteroids)
 add_subdirectory(Algorithms/Tasks.2001.2500/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
 add_subdirectory(Algorithms/Tasks.2001.2500/2131.LongestPalindromeConcatTwoLetterWords bin/2131.LongestPalindromeConcatTwoLetterWords)
+add_subdirectory(Algorithms/Tasks.2001.2500/2134.MinSwapsToGroupAll1Together2 bin/2134.MinSwapsToGroupAll1Together2)
 add_subdirectory(Algorithms/Tasks.2001.2500/2135.CountWordsObtainedAfterAddingLetter bin/2135.CountWordsObtainedAfterAddingLetter)
 add_subdirectory(Algorithms/Tasks.2001.2500/2136.EarliestPossibleDayOfFullBloom bin/2136.EarliestPossibleDayOfFullBloom)
 add_subdirectory(Algorithms/Tasks.2001.2500/2139.MinMovesToReachTargetScore bin/2139.MinMovesToReachTargetScore)
