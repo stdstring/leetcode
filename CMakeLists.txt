@@ -926,6 +926,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1452.PeopleWhoseCompaniesIsNotSubset
 add_subdirectory(Algorithms/Tasks.1001.1500/1456.MaxNumberOfVowelsInSubstrOfGivenLength bin/1456.MaxNumberOfVowelsInSubstrOfGivenLength)
 add_subdirectory(Algorithms/Tasks.1001.1500/1457.PseudoPalindromicPathsInBinaryTree bin/1457.PseudoPalindromicPathsInBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1458.MaxDotProductOf2Subsequences bin/1458.MaxDotProductOf2Subsequences)
+add_subdirectory(Algorithms/Tasks.1001.1500/1460.MakeTwoArraysEqualByReverseSubarrays bin/1460.MakeTwoArraysEqualByReverseSubarrays)
 add_subdirectory(Algorithms/Tasks.1001.1500/1461.CheckIfStringContainsAllBinaryOfSizeK bin/1461.CheckIfStringContainsAllBinaryOfSizeK)
 add_subdirectory(Algorithms/Tasks.1001.1500/1463.CherryPickupII bin/1463.CherryPickupII)
 add_subdirectory(Algorithms/Tasks.1001.1500/1464.MaximumProductTwoElementsInArray bin/1464.MaximumProductTwoElementsInArray)
