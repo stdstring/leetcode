@@ -1521,3 +1521,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3217.DeleteNodesFromLinkedListPresen
 add_subdirectory(Algorithms/Tasks.3001.3500/3223.MinLengthOfStringAfterOperations bin/3223.MinLengthOfStringAfterOperations)
 add_subdirectory(Algorithms/Tasks.3001.3500/3227.VowelsGameInString bin/3227.VowelsGameInString)
 add_subdirectory(Algorithms/Tasks.3001.3500/3228.MaxNumberOperationsMoveOnesToEnd bin/3228.MaxNumberOperationsMoveOnesToEnd)
+add_subdirectory(Algorithms/Tasks.3001.3500/3239.MinNumberFlipsMakeBinGridPalindromic1 bin/3239.MinNumberFlipsMakeBinGridPalindromic1)
