@@ -1511,4 +1511,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)
 * [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/)
 * [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/)
+* [3233. Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)
 * [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/)
