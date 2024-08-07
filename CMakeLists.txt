@@ -1516,6 +1516,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3191.MinOpsMakeBinArrayElementsEqual
 add_subdirectory(Algorithms/Tasks.3001.3500/3192.MinOpsMakeBinArrayElementsEqualOne2 bin/3192.MinOpsMakeBinArrayElementsEqualOne2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3195.FindMinAreaCoverAllOnes1 bin/3195.FindMinAreaCoverAllOnes1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3201.FindMaxLengthValidSubsequence1 bin/3201.FindMaxLengthValidSubsequence1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3207.MaxPointsAfterEnemyBattles bin/3207.MaxPointsAfterEnemyBattles)
 add_subdirectory(Algorithms/Tasks.3001.3500/3211.GenerateBinStrWithoutAdjacentZeros bin/3211.GenerateBinStrWithoutAdjacentZeros)
 add_subdirectory(Algorithms/Tasks.3001.3500/3212.CountSubmatricesEqualFrequencyXY bin/3212.CountSubmatricesEqualFrequencyXY)
 add_subdirectory(Algorithms/Tasks.3001.3500/3217.DeleteNodesFromLinkedListPresentInArray bin/3217.DeleteNodesFromLinkedListPresentInArray)
