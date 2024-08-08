@@ -1493,6 +1493,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
 * [3152. Special Array II](https://leetcode.com/problems/special-array-ii/description/)
 * [3153. Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/)
+* [3159. Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/)
 * [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)
 * [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/description/)
 * [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)
