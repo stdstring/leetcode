@@ -651,6 +651,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/)
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
+* [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/)
 * [963. Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/description/)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
 * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
