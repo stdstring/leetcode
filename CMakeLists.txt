@@ -982,6 +982,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1557.MinVerticesToReachAllNodes bin/
 add_subdirectory(Algorithms/Tasks.1501.2000/1559.DetectCyclesIn2DGrid bin/1559.DetectCyclesIn2DGrid)
 add_subdirectory(Algorithms/Tasks.1501.2000/1561.MaxNumberCoinsYouCanGet bin/1561.MaxNumberCoinsYouCanGet)
 add_subdirectory(Algorithms/Tasks.1501.2000/1562.FindLatestGroupSizeM bin/1562.FindLatestGroupSizeM)
+add_subdirectory(Algorithms/Tasks.1501.2000/1568.MinNumberDaysToDisconnectIsland bin/1568.MinNumberDaysToDisconnectIsland)
 add_subdirectory(Algorithms/Tasks.1501.2000/1572.MatrixDiagonalSum bin/1572.MatrixDiagonalSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1573.NumberOfWaysToSplitString bin/1573.NumberOfWaysToSplitString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1575.CountAllPossibleRoutes bin/1575.CountAllPossibleRoutes)
