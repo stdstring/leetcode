@@ -1518,3 +1518,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/)
 * [3233. Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)
 * [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/)
+* [3249. Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/description/)
