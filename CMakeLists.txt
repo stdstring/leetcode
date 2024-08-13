@@ -1529,4 +1529,5 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3227.VowelsGameInString bin/3227.Vow
 add_subdirectory(Algorithms/Tasks.3001.3500/3228.MaxNumberOperationsMoveOnesToEnd bin/3228.MaxNumberOperationsMoveOnesToEnd)
 add_subdirectory(Algorithms/Tasks.3001.3500/3233.FindCountNumbersWhichAreNotSpecial bin/3233.FindCountNumbersWhichAreNotSpecial)
 add_subdirectory(Algorithms/Tasks.3001.3500/3239.MinNumberFlipsMakeBinGridPalindromic1 bin/3239.MinNumberFlipsMakeBinGridPalindromic1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3243.ShortestDistanceAfterRoadAddition1 bin/3243.ShortestDistanceAfterRoadAddition1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3249.CountNumberGoodNodes bin/3249.CountNumberGoodNodes)
