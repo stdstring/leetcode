@@ -1535,3 +1535,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3233.FindCountNumbersWhichAreNotSpec
 add_subdirectory(Algorithms/Tasks.3001.3500/3239.MinNumberFlipsMakeBinGridPalindromic1 bin/3239.MinNumberFlipsMakeBinGridPalindromic1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3243.ShortestDistanceAfterRoadAddition1 bin/3243.ShortestDistanceAfterRoadAddition1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3249.CountNumberGoodNodes bin/3249.CountNumberGoodNodes)
+add_subdirectory(Algorithms/Tasks.3001.3500/3254.FindPowerKSizeSubarrays1 bin/3254.FindPowerKSizeSubarrays1)
