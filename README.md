@@ -1525,3 +1525,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/)
 * [3249. Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/description/)
 * [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)
+* [3255. Find the Power of K-Size Subarrays II](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/)
