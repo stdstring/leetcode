@@ -759,6 +759,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
 * [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 * [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/)
+* [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
 * [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 * [1144. Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/)
 * [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)

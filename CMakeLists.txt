@@ -770,6 +770,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1128.NumberOfEquivalentDominoPairs b
 add_subdirectory(Algorithms/Tasks.1001.1500/1129.ShortestPathWithAlternatingColors bin/1129.ShortestPathWithAlternatingColors)
 add_subdirectory(Algorithms/Tasks.1001.1500/1137.NthTribonacciNumber bin/1137.NthTribonacciNumber)
 add_subdirectory(Algorithms/Tasks.1001.1500/1138.AlphabetBoardPath bin/1138.AlphabetBoardPath)
+add_subdirectory(Algorithms/Tasks.1001.1500/1140.StoneGame2 bin/1140.StoneGame2)
 add_subdirectory(Algorithms/Tasks.1001.1500/1143.LongestCommonSubsequence bin/1143.LongestCommonSubsequence)
 add_subdirectory(Algorithms/Tasks.1001.1500/1144.DecreaseElementsMakeArrayZigzag bin/1144.DecreaseElementsMakeArrayZigzag)
 add_subdirectory(Algorithms/Tasks.1001.1500/1145.BinaryTreeColoringGame bin/1145.BinaryTreeColoringGame)
