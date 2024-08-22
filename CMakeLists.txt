@@ -1538,3 +1538,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3243.ShortestDistanceAfterRoadAdditi
 add_subdirectory(Algorithms/Tasks.3001.3500/3249.CountNumberGoodNodes bin/3249.CountNumberGoodNodes)
 add_subdirectory(Algorithms/Tasks.3001.3500/3254.FindPowerKSizeSubarrays1 bin/3254.FindPowerKSizeSubarrays1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3255.FindPowerKSizeSubarrays2 bin/3255.FindPowerKSizeSubarrays2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3259.MaxEnergyBoostFromTwoDrinks bin/3259.MaxEnergyBoostFromTwoDrinks)
