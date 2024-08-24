@@ -399,6 +399,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 * [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)
+* [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/)
 * [565. Array Nesting](https://leetcode.com/problems/array-nesting/description/)
 * [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)

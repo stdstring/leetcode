@@ -410,6 +410,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0557.ReverseWordsInStringIII bin/055
 add_subdirectory(Algorithms/Tasks.0501.1000/0560.SubarraySumEqualsK bin/0560.SubarraySumEqualsK)
 add_subdirectory(Algorithms/Tasks.0501.1000/0561.ArrayPartitionI bin/0561.ArrayPartitionI)
 add_subdirectory(Algorithms/Tasks.0501.1000/0563.BinaryTreeTilt bin/0563.BinaryTreeTilt)
+add_subdirectory(Algorithms/Tasks.0501.1000/0564.FindClosestPalindrome bin/0564.FindClosestPalindrome)
 add_subdirectory(Algorithms/Tasks.0501.1000/0565.ArrayNesting bin/0565.ArrayNesting)
 add_subdirectory(Algorithms/Tasks.0501.1000/0566.ReshapeMatrix bin/0566.ReshapeMatrix)
 add_subdirectory(Algorithms/Tasks.0501.1000/0567.PermutationInString bin/0567.PermutationInString)
