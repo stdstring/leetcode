@@ -63,11 +63,11 @@ namespace
 
 void checkDelNodes(std::string const &treeSource, std::vector<int> const &toDelete, std::vector<std::string> const &expectedForest)
 {
-    const Solution solution;
+    constexpr Solution solution;
     TreeNode* tree = Codec::createTreeRaw(treeSource);
     const std::vector<TreeNode*> forest(solution.delNodes(tree, toDelete));
     std::vector<std::shared_ptr<TreeNode>> actualForest;
-    std::transform(forest.cbegin(), forest.cend(), std::back_inserter(actualForest), createTreeHolder);
+    std::transform(forest.cbegin(), forest.cend(), std::back_inserter(actualForest), [](TreeNode* node){ return createTreeHolder(node); });
     ASSERT_EQ(expectedForest.size(), actualForest.size());
     for (size_t index = 0; index < expectedForest.size(); ++index)
         ASSERT_EQ(expectedForest[index], Codec::createData(actualForest[index]));

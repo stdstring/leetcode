@@ -8,7 +8,7 @@
 
 #include "gtest/gtest.h"
 
-using CommonLib::deleteTree;
+using CommonLib::createTreeHolder;
 using CommonLib::TreeNode;
 
 namespace
@@ -24,7 +24,7 @@ public:
         if (n == 1)
             return {new TreeNode(0)};
         std::vector<std::vector<std::shared_ptr<TreeNode>>> possibleTrees;
-        possibleTrees.push_back({std::shared_ptr<TreeNode>(new TreeNode(0), deleteTree)});
+        possibleTrees.push_back({createTreeHolder(new TreeNode(0))});
         for (int size = 3; size < n; size += 2)
         {
             possibleTrees.emplace_back();
@@ -35,9 +35,9 @@ public:
                 {
                     for (std::shared_ptr<TreeNode> const &secondSubtree : possibleTrees[secondSize / 2])
                     {
-                        possibleTrees[size / 2].push_back(std::shared_ptr<TreeNode>(createTree(firstSubtree, secondSubtree), deleteTree));
+                        possibleTrees[size / 2].push_back(createTreeHolder(createTree(firstSubtree, secondSubtree)));
                         if (firstSize != secondSize)
-                            possibleTrees[size / 2].push_back(std::shared_ptr<TreeNode>(createTree(secondSubtree, firstSubtree), deleteTree));
+                            possibleTrees[size / 2].push_back(createTreeHolder(createTree(secondSubtree, firstSubtree)));
                     }
                 }
             }
@@ -86,12 +86,12 @@ namespace
 
 void checkAllPossibleFBT(int n, std::vector<std::string> const &expectedData)
 {
-    const Solution solution;
+    constexpr Solution solution;
     const std::vector<TreeNode*> trees(solution.allPossibleFBT(n));
     std::vector<std::shared_ptr<TreeNode>> treeHolders;
-    std::transform(trees.cbegin(), trees.cend(), std::back_inserter(treeHolders), createTreeHolder);
+    std::transform(trees.cbegin(), trees.cend(), std::back_inserter(treeHolders), [](TreeNode* node){ return createTreeHolder(node); });
     std::vector<std::string> actualData;
-    std::transform(treeHolders.cbegin(), treeHolders.cend(), std::back_inserter(actualData), Codec::createData);
+    std::transform(treeHolders.cbegin(), treeHolders.cend(), std::back_inserter(actualData), [](std::shared_ptr<TreeNode> const &node){ return Codec::createData(node); });
     ASSERT_EQ(expectedData, actualData);
 }
 

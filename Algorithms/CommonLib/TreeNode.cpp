@@ -1,3 +1,5 @@
+#include <vector>
+
 #include "TreeNode.h"
 
 CommonLib::TreeNode::TreeNode() : val(0), left(nullptr), right(nullptr), next(nullptr)
@@ -21,5 +23,17 @@ CommonLib::TreeNode::TreeNode(int x, TreeNode* left, int rightValue) : val(x), l
 }
 
 CommonLib::TreeNode::TreeNode(int x, int leftValue, int rightValue) : val(x), left(new TreeNode(leftValue)), right(new TreeNode(rightValue)), next(nullptr)
+{
+}
+
+CommonLib::NTreeNode::NTreeNode() : val(0)
+{
+}
+
+CommonLib::NTreeNode::NTreeNode(int x) : val(x)
+{
+}
+
+CommonLib::NTreeNode::NTreeNode(int x, std::vector<NTreeNode*> const &children) : val(x), children(children)
 {
 }

@@ -418,6 +418,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0572.SubtreeOfAnotherTree bin/0572.S
 add_subdirectory(Algorithms/Tasks.0501.1000/0576.OutOfBoundaryPaths bin/0576.OutOfBoundaryPaths)
 add_subdirectory(Algorithms/Tasks.0501.1000/0581.ShortestUnsortedContinuousSubarray bin/0581.ShortestUnsortedContinuousSubarray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0583.DeleteOperationForTwoStrings bin/0583.DeleteOperationForTwoStrings)
+add_subdirectory(Algorithms/Tasks.0501.1000/0590.NaryTreePostorderTraversal bin/0590.NaryTreePostorderTraversal)
 add_subdirectory(Algorithms/Tasks.0501.1000/0591.TagValidator bin/0591.TagValidator)
 add_subdirectory(Algorithms/Tasks.0501.1000/0592.FractionAdditionSubtraction bin/0592.FractionAdditionSubtraction)
 add_subdirectory(Algorithms/Tasks.0501.1000/0593.ValidSquare bin/0593.ValidSquare)
