@@ -1104,7 +1104,8 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/)
 * [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/)
 * [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
-* [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/description/)
+* [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/description/)\
+* [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)
 * [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
 * [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)

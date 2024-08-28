@@ -1116,6 +1116,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1895.LargestMagicSquare bin/1895.Lar
 add_subdirectory(Algorithms/Tasks.1501.2000/1897.RedistributeCharsToMakeAllStringsEqual bin/1897.RedistributeCharsToMakeAllStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1903.LargestOddNumberInString bin/1903.LargestOddNumberInString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1904.NumberFullRoundsYouHavePlayed bin/1904.NumberFullRoundsYouHavePlayed)
+add_subdirectory(Algorithms/Tasks.1501.2000/1905.CountSubIslands bin/1905.CountSubIslands)
 add_subdirectory(Algorithms/Tasks.1501.2000/1910.RemoveAllOccurrencesOfSubstring bin/1910.RemoveAllOccurrencesOfSubstring)
 add_subdirectory(Algorithms/Tasks.1501.2000/1913.MaxProductDiffBetween2Pairs bin/1913.MaxProductDiffBetween2Pairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1914.CyclicallyRotatingGrid bin/1914.CyclicallyRotatingGrid)
