@@ -1117,6 +1117,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/)
 * [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
 * [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
+* [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
 * [1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/)
 * [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 * [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)

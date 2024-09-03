@@ -1128,6 +1128,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1926.NearestExitFromEntranceInMaze b
 add_subdirectory(Algorithms/Tasks.1501.2000/1930.UniqueLength3PalindromicSubseq bin/1930.UniqueLength3PalindromicSubseq)
 add_subdirectory(Algorithms/Tasks.1501.2000/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOfWordsYouCanType)
 add_subdirectory(Algorithms/Tasks.1501.2000/1937.MaxNumberPointsWithCost bin/1937.MaxNumberPointsWithCost)
+add_subdirectory(Algorithms/Tasks.1501.2000/1945.SumDigitsOfStringAfterConvert bin/1945.SumDigitsOfStringAfterConvert)
 add_subdirectory(Algorithms/Tasks.1501.2000/1946.LargestNumberAfterMutatingSubstr bin/1946.LargestNumberAfterMutatingSubstr)
 add_subdirectory(Algorithms/Tasks.1501.2000/1952.ThreeDivisors bin/1952.ThreeDivisors)
 add_subdirectory(Algorithms/Tasks.1501.2000/1954.MinGardenPerimeterCollectEnoughApples bin/1954.MinGardenPerimeterCollectEnoughApples)
