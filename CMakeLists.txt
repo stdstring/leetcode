@@ -1264,6 +1264,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2294.PartitionArraySuchMaxDiffK bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2295.ReplaceElementsInArray bin/2295.ReplaceElementsInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2296.DesignTextEditor bin/2296.DesignTextEditor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2300.SuccessfulPairsOfSpellsPotions bin/2300.SuccessfulPairsOfSpellsPotions)
+add_subdirectory(Algorithms/Tasks.2001.2500/2304.MinPathCostInGrid bin/2304.MinPathCostInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2305.FairDistributionOfCookies bin/2305.FairDistributionOfCookies)
 add_subdirectory(Algorithms/Tasks.2001.2500/2306.NamingCompany bin/2306.NamingCompany)
 add_subdirectory(Algorithms/Tasks.2001.2500/2309.GreatestEnglishLetterUpperLowerCase bin/2309.GreatestEnglishLetterUpperLowerCase)

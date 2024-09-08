@@ -1253,6 +1253,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/)
 * [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/)
 * [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
+* [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/)
 * [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
 * [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)
 * [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
