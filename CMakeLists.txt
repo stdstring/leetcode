@@ -1228,6 +1228,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2212.MaxPointsInArcheryCompetition b
 add_subdirectory(Algorithms/Tasks.2001.2500/2215.FindDifferenceTwoArrays bin/2215.FindDifferenceTwoArrays)
 add_subdirectory(Algorithms/Tasks.2001.2500/2217.FindPalindromeWithFixedLength bin/2217.FindPalindromeWithFixedLength)
 add_subdirectory(Algorithms/Tasks.2001.2500/2218.MaxValueOfKCoinsFromPiles bin/2218.MaxValueOfKCoinsFromPiles)
+add_subdirectory(Algorithms/Tasks.2001.2500/2220.MinBitFlipsToConvertNumber bin/2220.MinBitFlipsToConvertNumber)
 add_subdirectory(Algorithms/Tasks.2001.2500/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2222.NumberWaysSelectBuildings bin/2222.NumberWaysSelectBuildings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
