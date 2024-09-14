@@ -1302,6 +1302,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/)
 * [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
 * [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
+* [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)
 * [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/description/)
 * [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
