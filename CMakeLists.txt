@@ -1497,6 +1497,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3016.MinNumberPushesToTypeWord2 bin/
 add_subdirectory(Algorithms/Tasks.3001.3500/3020.FindMaxNumberOfElementsInSubset bin/3020.FindMaxNumberOfElementsInSubset)
 add_subdirectory(Algorithms/Tasks.3001.3500/3025.FindNumberWaysPlacePeople1 bin/3025.FindNumberWaysPlacePeople1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3026.MaxGoodSubarraySum bin/3026.MaxGoodSubarraySum)
+add_subdirectory(Algorithms/Tasks.3001.3500/3030.FindGridOfRegionAverage bin/3030.FindGridOfRegionAverage)
 add_subdirectory(Algorithms/Tasks.3001.3500/3035.MaxPalindromesAfterOperations bin/3035.MaxPalindromesAfterOperations)
 add_subdirectory(Algorithms/Tasks.3001.3500/3039.ApplyOpsToMakeStringEmpty bin/3039.ApplyOpsToMakeStringEmpty)
 add_subdirectory(Algorithms/Tasks.3001.3500/3043.FindLengthLongestCommonPrefix bin/3043.FindLengthLongestCommonPrefix)
