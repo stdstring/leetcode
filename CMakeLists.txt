@@ -611,6 +611,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0879.ProfitableSchemes bin/0879.Prof
 add_subdirectory(Algorithms/Tasks.0501.1000/0880.DecodedStringAtIndex bin/0880.DecodedStringAtIndex)
 add_subdirectory(Algorithms/Tasks.0501.1000/0881.BoatsToSavePeople bin/0881.BoatsToSavePeople)
 add_subdirectory(Algorithms/Tasks.0501.1000/0883.ProjectionAreaOf3DShapes bin/0883.ProjectionAreaOf3DShapes)
+add_subdirectory(Algorithms/Tasks.0501.1000/0884.UncommonWordsFromTwoSentences bin/0884.UncommonWordsFromTwoSentences)
 add_subdirectory(Algorithms/Tasks.0501.1000/0885.SpiralMatrixIII bin/0885.SpiralMatrixIII)
 add_subdirectory(Algorithms/Tasks.0501.1000/0886.PossibleBipartition bin/0886.PossibleBipartition)
 add_subdirectory(Algorithms/Tasks.0501.1000/0889.ConstructBinTreeFromPreorderPostorder bin/0889.ConstructBinTreeFromPreorderPostorder)
