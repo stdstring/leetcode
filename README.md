@@ -204,6 +204,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+* [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 * [258. Add Digits](https://leetcode.com/problems/add-digits/description/)

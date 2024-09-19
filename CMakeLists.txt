@@ -215,6 +215,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0237.DeleteNodeInLinkedList bin/0237
 add_subdirectory(Algorithms/Tasks.0001.0500/0238.ProductOfArrayExceptSelf bin/0238.ProductOfArrayExceptSelf)
 add_subdirectory(Algorithms/Tasks.0001.0500/0239.SlidingWindowMaximum bin/0239.SlidingWindowMaximum)
 add_subdirectory(Algorithms/Tasks.0001.0500/0240.Search2DMatrixII bin/0240.Search2DMatrixII)
+add_subdirectory(Algorithms/Tasks.0001.0500/0241.DifferentWaysAddParentheses bin/0241.DifferentWaysAddParentheses)
 add_subdirectory(Algorithms/Tasks.0001.0500/0242.ValidAnagram bin/0242.ValidAnagram)
 add_subdirectory(Algorithms/Tasks.0001.0500/0257.BinaryTreePaths bin/0257.BinaryTreePaths)
 add_subdirectory(Algorithms/Tasks.0001.0500/0258.AddDigits bin/0258.AddDigits)
