@@ -180,6 +180,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 * [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 * [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)

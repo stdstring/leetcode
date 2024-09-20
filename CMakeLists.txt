@@ -191,6 +191,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0209.MinimumSizeSubarraySum bin/0209
 add_subdirectory(Algorithms/Tasks.0001.0500/0210.CourseScheduleII bin/0210.CourseScheduleII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0211.DesignAddSearchWordsDataStructure bin/0211.DesignAddSearchWordsDataStructure)
 add_subdirectory(Algorithms/Tasks.0001.0500/0213.HouseRobberII bin/0213.HouseRobberII)
+add_subdirectory(Algorithms/Tasks.0001.0500/0214.ShortestPalindrome bin/0214.ShortestPalindrome)
 add_subdirectory(Algorithms/Tasks.0001.0500/0215.KthLargestElementInArray bin/0215.KthLargestElementInArray)
 add_subdirectory(Algorithms/Tasks.0001.0500/0216.CombinationSumIII bin/0216.CombinationSumIII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0217.ContainsDuplicate bin/0217.ContainsDuplicate)
