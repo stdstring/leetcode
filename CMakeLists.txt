@@ -1315,6 +1315,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2411.SmallestSubarraysWithMaxBitwise
 add_subdirectory(Algorithms/Tasks.2001.2500/2413.SmallestEvenMultiple bin/2413.SmallestEvenMultiple)
 add_subdirectory(Algorithms/Tasks.2001.2500/2414.LengthOfLongestAlphContSubstr bin/2414.LengthOfLongestAlphContSubstr)
 add_subdirectory(Algorithms/Tasks.2001.2500/2415.ReverseOddLevelsOfBinaryTree bin/2415.ReverseOddLevelsOfBinaryTree)
+add_subdirectory(Algorithms/Tasks.2001.2500/2416.SumOfPrefixScoresOfStrings bin/2416.SumOfPrefixScoresOfStrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2418.SortPeople bin/2418.SortPeople)
 add_subdirectory(Algorithms/Tasks.2001.2500/2419.LongestSubarrayWithMaxBitwiseAND bin/2419.LongestSubarrayWithMaxBitwiseAND)
 add_subdirectory(Algorithms/Tasks.2001.2500/2424.LongestUploadedPrefix bin/2424.LongestUploadedPrefix)

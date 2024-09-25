@@ -1304,6 +1304,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 * [2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/)
 * [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
+* [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)
 * [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
 * [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)
 * [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/description/)
