@@ -850,6 +850,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/description/)
 * [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
+* [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/)
 * [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/)
 * [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/description/)
 * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)

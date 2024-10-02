@@ -861,6 +861,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1324.PrintWordsVertically bin/1324.P
 add_subdirectory(Algorithms/Tasks.1001.1500/1325.DeleteLeavesWithGivenValue bin/1325.DeleteLeavesWithGivenValue)
 add_subdirectory(Algorithms/Tasks.1001.1500/1328.BreakPalindrome bin/1328.BreakPalindrome)
 add_subdirectory(Algorithms/Tasks.1001.1500/1329.SortMatrixDiagonally bin/1329.SortMatrixDiagonally)
+add_subdirectory(Algorithms/Tasks.1001.1500/1331.RankTransformOfArray bin/1331.RankTransformOfArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1332.RemovePalindromicSubsequences bin/1332.RemovePalindromicSubsequences)
 add_subdirectory(Algorithms/Tasks.1001.1500/1333.FilterRestaurants bin/1333.FilterRestaurants)
 add_subdirectory(Algorithms/Tasks.1001.1500/1334.FindCityWithSmallestNumberNeighbors bin/1334.FindCityWithSmallestNumberNeighbors)
