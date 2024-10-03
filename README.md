@@ -990,6 +990,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 * [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/)
 * [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+* [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/)
 * [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/)
 * [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/)
 * [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)
