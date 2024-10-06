@@ -1092,6 +1092,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1800.MaximumAscendingSubarraySum bin
 add_subdirectory(Algorithms/Tasks.1501.2000/1801.NumberOfOrdersInBacklog bin/1801.NumberOfOrdersInBacklog)
 add_subdirectory(Algorithms/Tasks.1501.2000/1806.MinNumberOpToReinitPermutation bin/1806.MinNumberOpToReinitPermutation)
 add_subdirectory(Algorithms/Tasks.1501.2000/1807.EvaluateBracketPairsOfString bin/1807.EvaluateBracketPairsOfString)
+add_subdirectory(Algorithms/Tasks.1501.2000/1813.SentenceSimilarity3 bin/1813.SentenceSimilarity3)
 add_subdirectory(Algorithms/Tasks.1501.2000/1814.CountNicePairsInArray bin/1814.CountNicePairsInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1817.FindingUsersActiveMinutes bin/1817.FindingUsersActiveMinutes)
 add_subdirectory(Algorithms/Tasks.1501.2000/1822.SignOfProductOfArray bin/1822.SignOfProductOfArray)
