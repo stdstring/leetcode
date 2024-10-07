@@ -1419,6 +1419,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2679.SumInMatrix bin/2679.SumInMatri
 add_subdirectory(Algorithms/Tasks.2501.3000/2683.NeighboringBitwiseXOR bin/2683.NeighboringBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.2501.3000/2684.MaxNumberOfMovesInGrid bin/2684.MaxNumberOfMovesInGrid)
 add_subdirectory(Algorithms/Tasks.2501.3000/2685.CountNumberOfCompleteComponents bin/2685.CountNumberOfCompleteComponents)
+add_subdirectory(Algorithms/Tasks.2501.3000/2696.MinStringLengthAfterRemovingSubstrings bin/2696.MinStringLengthAfterRemovingSubstrings)
 add_subdirectory(Algorithms/Tasks.2501.3000/2698.FindPunishmentNumberOfInteger bin/2698.FindPunishmentNumberOfInteger)
 add_subdirectory(Algorithms/Tasks.2501.3000/2699.ModifyGraphEdgeWeights bin/2699.ModifyGraphEdgeWeights)
 add_subdirectory(Algorithms/Tasks.2501.3000/2706.BuyTwoChocolates bin/2706.BuyTwoChocolates)
