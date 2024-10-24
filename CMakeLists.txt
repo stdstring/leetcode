@@ -438,6 +438,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0624.MaxDistanceInArrays bin/0624.Ma
 add_subdirectory(Algorithms/Tasks.0501.1000/0628.MaximumProductOfThreeNumbers bin/0628.MaximumProductOfThreeNumbers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0629.KInversePairsArray bin/0629.KInversePairsArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0630.CourseScheduleIII bin/0630.CourseScheduleIII)
+add_subdirectory(Algorithms/Tasks.0501.1000/0632.SmallestRangeCoveringKListsElements bin/0632.SmallestRangeCoveringKListsElements)
 add_subdirectory(Algorithms/Tasks.0501.1000/0633.SumOfSquareNumbers bin/0633.SumOfSquareNumbers)
 add_subdirectory(Algorithms/Tasks.0501.1000/0636.ExclusiveTimeOfFunctions bin/0636.ExclusiveTimeOfFunctions)
 add_subdirectory(Algorithms/Tasks.0501.1000/0637.AverageOfLevelsInBinaryTree bin/0637.AverageOfLevelsInBinaryTree)

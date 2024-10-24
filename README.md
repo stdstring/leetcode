@@ -427,6 +427,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
 * [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/)
 * [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
+* [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 * [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 * [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
