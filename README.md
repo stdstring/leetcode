@@ -1331,6 +1331,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2453. Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/description/)
 * [2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/description/)
 * [2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/description/)
+* [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/)
 * [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
 * [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)
 * [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
