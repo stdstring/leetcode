@@ -1142,6 +1142,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1945.SumDigitsOfStringAfterConvert b
 add_subdirectory(Algorithms/Tasks.1501.2000/1946.LargestNumberAfterMutatingSubstr bin/1946.LargestNumberAfterMutatingSubstr)
 add_subdirectory(Algorithms/Tasks.1501.2000/1952.ThreeDivisors bin/1952.ThreeDivisors)
 add_subdirectory(Algorithms/Tasks.1501.2000/1954.MinGardenPerimeterCollectEnoughApples bin/1954.MinGardenPerimeterCollectEnoughApples)
+add_subdirectory(Algorithms/Tasks.1501.2000/1957.DeleteCharsToMakeFancyString bin/1957.DeleteCharsToMakeFancyString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1958.CheckIfMoveIsLegal bin/1958.CheckIfMoveIsLegal)
 add_subdirectory(Algorithms/Tasks.1501.2000/1962.RemoveStonesToMinimizeTotal bin/1962.RemoveStonesToMinimizeTotal)
 add_subdirectory(Algorithms/Tasks.1501.2000/1963.MinNumberSwapsMakeStringBalanced bin/1963.MinNumberSwapsMakeStringBalanced)
