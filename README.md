@@ -1090,6 +1090,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 * [1825. Finding MK Average](https://leetcode.com/problems/finding-mk-average/description/)
 * [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
+* [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/)
 * [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 * [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 * [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)

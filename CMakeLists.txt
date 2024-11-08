@@ -1101,6 +1101,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1822.SignOfProductOfArray bin/1822.S
 add_subdirectory(Algorithms/Tasks.1501.2000/1823.FindWinnerOfCircularGame bin/1823.FindWinnerOfCircularGame)
 add_subdirectory(Algorithms/Tasks.1501.2000/1825.FindingMKAverage bin/1825.FindingMKAverage)
 add_subdirectory(Algorithms/Tasks.1501.2000/1828.QueriesNumberOfPointsInsideCircle bin/1828.QueriesNumberOfPointsInsideCircle)
+add_subdirectory(Algorithms/Tasks.1501.2000/1829.MaxXorForEachQuery bin/1829.MaxXorForEachQuery)
 add_subdirectory(Algorithms/Tasks.1501.2000/1832.CheckIfSentenceIsPangram bin/1832.CheckIfSentenceIsPangram)
 add_subdirectory(Algorithms/Tasks.1501.2000/1833.MaxIceCreamBars bin/1833.MaxIceCreamBars)
 add_subdirectory(Algorithms/Tasks.1501.2000/1834.SingleThreadedCPU bin/1834.SingleThreadedCPU)
