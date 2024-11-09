@@ -1526,6 +1526,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
 * [3132. Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/)
+* [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/)
 * [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
 * [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
 * [3152. Special Array II](https://leetcode.com/problems/special-array-ii/description/)
