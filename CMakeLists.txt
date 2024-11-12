@@ -1183,6 +1183,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2056.NumberValidMoveCombinationsOnCh
 add_subdirectory(Algorithms/Tasks.2001.2500/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints bin/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints)
 add_subdirectory(Algorithms/Tasks.2001.2500/2063.VowelsOfAllSubstrings bin/2063.VowelsOfAllSubstrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2069.WalkingRobotSimulationII bin/2069.WalkingRobotSimulationII)
+add_subdirectory(Algorithms/Tasks.2001.2500/2070.MostBeautifulItemForEachQuery bin/2070.MostBeautifulItemForEachQuery)
 add_subdirectory(Algorithms/Tasks.2001.2500/2073.TimeNeededBuyTickets bin/2073.TimeNeededBuyTickets)
 add_subdirectory(Algorithms/Tasks.2001.2500/2074.ReverseNodesInEvenLengthGroups bin/2074.ReverseNodesInEvenLengthGroups)
 add_subdirectory(Algorithms/Tasks.2001.2500/2075.DecodeSlantedCiphertext bin/2075.DecodeSlantedCiphertext)
