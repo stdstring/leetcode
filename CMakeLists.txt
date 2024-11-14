@@ -1182,6 +1182,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2053.KthDistinctStringInArray bin/20
 add_subdirectory(Algorithms/Tasks.2001.2500/2056.NumberValidMoveCombinationsOnChessboard bin/2056.NumberValidMoveCombinationsOnChessboard)
 add_subdirectory(Algorithms/Tasks.2001.2500/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints bin/2058.FindMinMaxNumberOfNodesBetweenCriticalPoints)
 add_subdirectory(Algorithms/Tasks.2001.2500/2063.VowelsOfAllSubstrings bin/2063.VowelsOfAllSubstrings)
+add_subdirectory(Algorithms/Tasks.2001.2500/2064.MinMaxProductsDistributedAnyStore bin/2064.MinMaxProductsDistributedAnyStore)
 add_subdirectory(Algorithms/Tasks.2001.2500/2069.WalkingRobotSimulationII bin/2069.WalkingRobotSimulationII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2070.MostBeautifulItemForEachQuery bin/2070.MostBeautifulItemForEachQuery)
 add_subdirectory(Algorithms/Tasks.2001.2500/2073.TimeNeededBuyTickets bin/2073.TimeNeededBuyTickets)

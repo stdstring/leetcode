@@ -1171,6 +1171,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2056. Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/)
 * [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 * [2063. Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/)
+* [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/)
 * [2069. Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
 * [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/)
 * [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
