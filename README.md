@@ -986,6 +986,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
 * [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 * [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/)
+* [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/)
 * [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
 * [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/)
 * [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
