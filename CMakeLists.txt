@@ -1374,6 +1374,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2508.AddEdgesMakeDegreesAllNodesEven
 add_subdirectory(Algorithms/Tasks.2501.3000/2509.CycleLengthQueriesInTree bin/2509.CycleLengthQueriesInTree)
 add_subdirectory(Algorithms/Tasks.2501.3000/2512.RewardTopKStudents bin/2512.RewardTopKStudents)
 add_subdirectory(Algorithms/Tasks.2501.3000/2514.CountAnagrams bin/2514.CountAnagrams)
+add_subdirectory(Algorithms/Tasks.2501.3000/2516.TakeKEachCharFromLeftAndRight bin/2516.TakeKEachCharFromLeftAndRight)
 add_subdirectory(Algorithms/Tasks.2501.3000/2521.DistinctPrimeFactorsOfArrayProduct bin/2521.DistinctPrimeFactorsOfArrayProduct)
 add_subdirectory(Algorithms/Tasks.2501.3000/2522.PartitionStringWithValuesAtMostK bin/2522.PartitionStringWithValuesAtMostK)
 add_subdirectory(Algorithms/Tasks.2501.3000/2523.ClosestPrimeNumbersInRange bin/2523.ClosestPrimeNumbersInRange)

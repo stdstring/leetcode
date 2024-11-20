@@ -1363,6 +1363,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
 * [2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/description/)
 * [2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/description/)
+* [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
 * [2521. Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)
 * [2522. Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/description/)
 * [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)
