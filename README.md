@@ -740,6 +740,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/)
 * [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 * [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+* [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 * [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
 * [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
 * [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/)

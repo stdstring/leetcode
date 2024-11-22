@@ -751,6 +751,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1053.PreviousPermutationWithOneSwap 
 add_subdirectory(Algorithms/Tasks.1001.1500/1054.DistantBarcodes bin/1054.DistantBarcodes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1061.LexSmallestEquivalentString bin/1061.LexSmallestEquivalentString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1071.GreatestCommonDivisorOfStrings bin/1071.GreatestCommonDivisorOfStrings)
+add_subdirectory(Algorithms/Tasks.1001.1500/1072.FlipColumnsForMaxNumberEqualRows bin/1072.FlipColumnsForMaxNumberEqualRows)
 add_subdirectory(Algorithms/Tasks.1001.1500/1073.AddingTwoNegabinaryNumbers bin/1073.AddingTwoNegabinaryNumbers)
 add_subdirectory(Algorithms/Tasks.1001.1500/1074.NumberSubmatricesThatSumToTarget bin/1074.NumberSubmatricesThatSumToTarget)
 add_subdirectory(Algorithms/Tasks.1001.1500/1078.OccurrencesAfterBigram bin/1078.OccurrencesAfterBigram)
