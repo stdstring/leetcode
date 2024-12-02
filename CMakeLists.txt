@@ -938,6 +938,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1447.SimplifiedFractions bin/1447.Si
 add_subdirectory(Algorithms/Tasks.1001.1500/1448.CountGoodNodesInBinaryTree bin/1448.CountGoodNodesInBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1451.RearrangeWordsInSentence bin/1451.RearrangeWordsInSentence)
 add_subdirectory(Algorithms/Tasks.1001.1500/1452.PeopleWhoseCompaniesIsNotSubsetOfAnother bin/1452.PeopleWhoseCompaniesIsNotSubsetOfAnother)
+add_subdirectory(Algorithms/Tasks.1001.1500/1455.CheckIfWordPrefixOfAnyWordInSentence bin/1455.CheckIfWordPrefixOfAnyWordInSentence)
 add_subdirectory(Algorithms/Tasks.1001.1500/1456.MaxNumberOfVowelsInSubstrOfGivenLength bin/1456.MaxNumberOfVowelsInSubstrOfGivenLength)
 add_subdirectory(Algorithms/Tasks.1001.1500/1457.PseudoPalindromicPathsInBinaryTree bin/1457.PseudoPalindromicPathsInBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1458.MaxDotProductOf2Subsequences bin/1458.MaxDotProductOf2Subsequences)
