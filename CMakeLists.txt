@@ -1294,6 +1294,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2316.CountUnreachableNodesPairsInGra
 add_subdirectory(Algorithms/Tasks.2001.2500/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 add_subdirectory(Algorithms/Tasks.2001.2500/2331.EvaluateBooleanBinaryTree bin/2331.EvaluateBooleanBinaryTree)
 add_subdirectory(Algorithms/Tasks.2001.2500/2336.SmallestNumberInInfiniteSet bin/2336.SmallestNumberInInfiniteSet)
+add_subdirectory(Algorithms/Tasks.2001.2500/2337.MovePiecesObtainString bin/2337.MovePiecesObtainString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2342.MaxSumPairWithEqualDigitsSum bin/2342.MaxSumPairWithEqualDigitsSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2348.NumberOfZeroFilledSubarrays bin/2348.NumberOfZeroFilledSubarrays)
 add_subdirectory(Algorithms/Tasks.2001.2500/2349.DesignNumberContainerSystem bin/2349.DesignNumberContainerSystem)
