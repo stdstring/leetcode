@@ -1077,6 +1077,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1750.MinLengthAfterDeletingSimilarEn
 add_subdirectory(Algorithms/Tasks.1501.2000/1751.MaxNumberEventsThatCanBeAttended2 bin/1751.MaxNumberEventsThatCanBeAttended2)
 add_subdirectory(Algorithms/Tasks.1501.2000/1758.MinChangesToMakeAlternatingBinString bin/1758.MinChangesToMakeAlternatingBinString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1759.CountNumberOfHomogenousSubstrings bin/1759.CountNumberOfHomogenousSubstrings)
+add_subdirectory(Algorithms/Tasks.1501.2000/1760.MinLimitOfBallsInBag bin/1760.MinLimitOfBallsInBag)
 add_subdirectory(Algorithms/Tasks.1501.2000/1764.FormArrayConcatSubarraysAnotherArray bin/1764.FormArrayConcatSubarraysAnotherArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1765.MapHighestPeak bin/1765.MapHighestPeak)
 add_subdirectory(Algorithms/Tasks.1501.2000/1768.MergeStringsAlternately bin/1768.MergeStringsAlternately)
