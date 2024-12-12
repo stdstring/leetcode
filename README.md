@@ -1386,6 +1386,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/)
 * [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
 * [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/)
+* [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)
 * [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/)
 * [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
 * [2564. Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/)
