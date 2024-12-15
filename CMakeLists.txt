@@ -1091,6 +1091,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1784.CheckBinStrHasAtMostOneSegmentO
 add_subdirectory(Algorithms/Tasks.1501.2000/1785.MinElementsAddToFormGivenSum bin/1785.MinElementsAddToFormGivenSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1790.CheckIfOneSwapCanMakeStringsEqual bin/1790.CheckIfOneSwapCanMakeStringsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1791.FindCenterOfStarGraph bin/1791.FindCenterOfStarGraph)
+add_subdirectory(Algorithms/Tasks.1501.2000/1792.MaxAveragePassRatio bin/1792.MaxAveragePassRatio)
 add_subdirectory(Algorithms/Tasks.1501.2000/1796.SecondLargestDigitInString bin/1796.SecondLargestDigitInString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1797.DesignAuthenticationManager bin/1797.DesignAuthenticationManager)
 add_subdirectory(Algorithms/Tasks.1501.2000/1798.MaxNumberConsecutiveValuesYouCanMake bin/1798.MaxNumberConsecutiveValuesYouCanMake)
