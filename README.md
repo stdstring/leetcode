@@ -1575,5 +1575,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)
 * [3255. Find the Power of K-Size Subarrays II](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/)
 * [3259. Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/description/)
+* [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)
 * [3265. Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/)

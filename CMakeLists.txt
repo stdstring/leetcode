@@ -1586,5 +1586,6 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3249.CountNumberGoodNodes bin/3249.C
 add_subdirectory(Algorithms/Tasks.3001.3500/3254.FindPowerKSizeSubarrays1 bin/3254.FindPowerKSizeSubarrays1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3255.FindPowerKSizeSubarrays2 bin/3255.FindPowerKSizeSubarrays2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3259.MaxEnergyBoostFromTwoDrinks bin/3259.MaxEnergyBoostFromTwoDrinks)
+add_subdirectory(Algorithms/Tasks.3001.3500/3264.FinalArrayStateAfterKMultOps1 bin/3264.FinalArrayStateAfterKMultOps1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3265.CountAlmostEqualPairs1 bin/3265.CountAlmostEqualPairs1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3271.HashDividedString bin/3271.HashDividedString)
