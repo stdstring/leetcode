@@ -951,6 +951,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1466.ReorderRoutesMakeAllPathsLeadTo
 add_subdirectory(Algorithms/Tasks.1001.1500/1470.ShuffleArray bin/1470.ShuffleArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1471.KStrongestValuesInArray bin/1471.KStrongestValuesInArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1472.DesignBrowserHistory bin/1472.DesignBrowserHistory)
+add_subdirectory(Algorithms/Tasks.1001.1500/1475.FinalPricesWithSpecialDiscountInShop bin/1475.FinalPricesWithSpecialDiscountInShop)
 add_subdirectory(Algorithms/Tasks.1001.1500/1476.SubrectangleQueries bin/1476.SubrectangleQueries)
 add_subdirectory(Algorithms/Tasks.1001.1500/1477.Find2NonOverlappingSubarraysWithTargetSum bin/1477.Find2NonOverlappingSubarraysWithTargetSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1480.RunningSumOf1DArray bin/1480.RunningSumOf1DArray)

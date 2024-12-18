@@ -940,6 +940,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 * [1471. The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/description/)
 * [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+* [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
 * [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)
 * [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/)
 * [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
