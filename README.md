@@ -1264,6 +1264,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/)
 * [2267. Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)
 * [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
+* [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/)
 * [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 * [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)
 * [2274. Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/description/)
