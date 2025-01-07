@@ -913,6 +913,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1401.CircleRectangleOverlapping bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1402.ReducingDishes bin/1402.ReducingDishes)
 add_subdirectory(Algorithms/Tasks.1001.1500/1404.NumberOfStepsToReduceBinaryNumberToOne bin/1404.NumberOfStepsToReduceBinaryNumberToOne)
 add_subdirectory(Algorithms/Tasks.1001.1500/1405.LongestHappyString bin/1405.LongestHappyString)
+add_subdirectory(Algorithms/Tasks.1001.1500/1408.StringMatchingInArray bin/1408.StringMatchingInArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
 add_subdirectory(Algorithms/Tasks.1001.1500/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1414.FindMinNumOfFibonacciNumsWhoseSumK bin/1414.FindMinNumOfFibonacciNumsWhoseSumK)
