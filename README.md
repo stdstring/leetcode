@@ -1523,6 +1523,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3030. Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/description/)
 * [3035. Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)
 * [3039. Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)
+* [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)
 * [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)
 * [3044. Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/)
 * [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)
