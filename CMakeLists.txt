@@ -1240,6 +1240,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2178.MaxSplitOfPositiveEvenIntegers 
 add_subdirectory(Algorithms/Tasks.2001.2500/2180.CountIntegersWithEvenDigitSum bin/2180.CountIntegersWithEvenDigitSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2181.MergeNodesInBetweenZeros bin/2181.MergeNodesInBetweenZeros)
 add_subdirectory(Algorithms/Tasks.2001.2500/2182.ConstructStringWithRepeatLimit bin/2182.ConstructStringWithRepeatLimit)
+add_subdirectory(Algorithms/Tasks.2001.2500/2185.CountingWordsWithGivenPrefix bin/2185.CountingWordsWithGivenPrefix)
 add_subdirectory(Algorithms/Tasks.2001.2500/2186.MinNumberStepsMake2StringsAnagramII bin/2186.MinNumberStepsMake2StringsAnagramII)
 add_subdirectory(Algorithms/Tasks.2001.2500/2187.MinTimeToCompleteTrips bin/2187.MinTimeToCompleteTrips)
 add_subdirectory(Algorithms/Tasks.2001.2500/2191.SortJumbledNumbers bin/2191.SortJumbledNumbers)
