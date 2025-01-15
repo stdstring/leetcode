@@ -1346,6 +1346,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2419.LongestSubarrayWithMaxBitwiseAN
 add_subdirectory(Algorithms/Tasks.2001.2500/2424.LongestUploadedPrefix bin/2424.LongestUploadedPrefix)
 add_subdirectory(Algorithms/Tasks.2001.2500/2425.BitwiseXORAllPairings bin/2425.BitwiseXORAllPairings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2428.MaxSumOfHourglass bin/2428.MaxSumOfHourglass)
+add_subdirectory(Algorithms/Tasks.2001.2500/2429.MinimizeXOR bin/2429.MinimizeXOR)
 add_subdirectory(Algorithms/Tasks.2001.2500/2433.FindOriginalArrayOfPrefixXor bin/2433.FindOriginalArrayOfPrefixXor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2434.UsingRobotToPrintLexSmallestString bin/2434.UsingRobotToPrintLexSmallestString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2435.PathsInMatrixWhoseSumDivisibleByK bin/2435.PathsInMatrixWhoseSumDivisibleByK)

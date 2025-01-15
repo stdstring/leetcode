@@ -1335,6 +1335,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/description/)
 * [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 * [2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/)
+* [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/)
 * [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)
 * [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
