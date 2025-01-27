@@ -936,6 +936,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/)
 * [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/)
 * [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)
+* [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/)
 * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/)
 * [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
 * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)
