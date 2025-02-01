@@ -1566,6 +1566,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3132.FindIntegerAddedToArray2 bin/31
 add_subdirectory(Algorithms/Tasks.3001.3500/3133.MinArrayEnd bin/3133.MinArrayEnd)
 add_subdirectory(Algorithms/Tasks.3001.3500/3138.MinLengthAnagramConcat bin/3138.MinLengthAnagramConcat)
 add_subdirectory(Algorithms/Tasks.3001.3500/3143.MaxPointsInsideSquare bin/3143.MaxPointsInsideSquare)
+add_subdirectory(Algorithms/Tasks.3001.3500/3151.SpecialArray1 bin/3151.SpecialArray1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3152.SpecialArray2 bin/3152.SpecialArray2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3153.SumDigitDifferencesAllPairs bin/3153.SumDigitDifferencesAllPairs)
 add_subdirectory(Algorithms/Tasks.3001.3500/3159.FindOccurrencesOfElementInArray bin/3159.FindOccurrencesOfElementInArray)
