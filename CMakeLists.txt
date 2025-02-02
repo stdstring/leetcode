@@ -1080,6 +1080,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1738.FindKthLargestXORCoordinateValu
 add_subdirectory(Algorithms/Tasks.1501.2000/1743.RestoreArrayFromAdjacentPairs bin/1743.RestoreArrayFromAdjacentPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1750.MinLengthAfterDeletingSimilarEnds bin/1750.MinLengthAfterDeletingSimilarEnds)
 add_subdirectory(Algorithms/Tasks.1501.2000/1751.MaxNumberEventsThatCanBeAttended2 bin/1751.MaxNumberEventsThatCanBeAttended2)
+add_subdirectory(Algorithms/Tasks.1501.2000/1752.CheckIfArraySortedAndRotated bin/1752.CheckIfArraySortedAndRotated)
 add_subdirectory(Algorithms/Tasks.1501.2000/1758.MinChangesToMakeAlternatingBinString bin/1758.MinChangesToMakeAlternatingBinString)
 add_subdirectory(Algorithms/Tasks.1501.2000/1759.CountNumberOfHomogenousSubstrings bin/1759.CountNumberOfHomogenousSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1760.MinLimitOfBallsInBag bin/1760.MinLimitOfBallsInBag)
