@@ -1546,6 +1546,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
 * [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/)
 * [3101. Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/)
+* [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/)
 * [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/)
 * [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/)
 * [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/)

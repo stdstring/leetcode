@@ -1557,6 +1557,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3092.MostFrequentIDs bin/3092.MostFr
 add_subdirectory(Algorithms/Tasks.3001.3500/3097.ShortestSubarrayWithOrAtLeastK2 bin/3097.ShortestSubarrayWithOrAtLeastK2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3100.WaterBottles2 bin/3100.WaterBottles2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3101.CountAlternatingSubarrays bin/3101.CountAlternatingSubarrays)
+add_subdirectory(Algorithms/Tasks.3001.3500/3105.LongestStrictlyIncOrDecSubarray bin/3105.LongestStrictlyIncOrDecSubarray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3106.LexSmallestStrAfterOpsConstraint bin/3106.LexSmallestStrAfterOpsConstraint)
 add_subdirectory(Algorithms/Tasks.3001.3500/3107.MinOpsMakeMedianOfArrayEqualK bin/3107.MinOpsMakeMedianOfArrayEqualK)
 add_subdirectory(Algorithms/Tasks.3001.3500/3110.ScoreOfString bin/3110.ScoreOfString)
