@@ -1566,6 +1566,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)
 * [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)
 * [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/)
+* [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/)
 * [3175. Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/submissions/)
 * [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/)
 * [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/description/)
