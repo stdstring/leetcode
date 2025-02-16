@@ -1060,6 +1060,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1711. Count Good Meals](https://leetcode.com/problems/count-good-meals/description/)
 * [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/)
 * [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
+* [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/)
 * [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)
 * [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 * [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)

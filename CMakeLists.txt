@@ -1071,6 +1071,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1710.MaxUnitsOnTruck bin/1710.MaxUni
 add_subdirectory(Algorithms/Tasks.1501.2000/1711.CountGoodMeals bin/1711.CountGoodMeals)
 add_subdirectory(Algorithms/Tasks.1501.2000/1716.CalculateMoneyInLeetcodeBank bin/1716.CalculateMoneyInLeetcodeBank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1717.MaxScoreFromRemovingSubstrings bin/1717.MaxScoreFromRemovingSubstrings)
+add_subdirectory(Algorithms/Tasks.1501.2000/1718.ConstructLexLargestValidSequence bin/1718.ConstructLexLargestValidSequence)
 add_subdirectory(Algorithms/Tasks.1501.2000/1720.DecodeXORedArray bin/1720.DecodeXORedArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1721.SwappingNodesInLinkedList bin/1721.SwappingNodesInLinkedList)
 add_subdirectory(Algorithms/Tasks.1501.2000/1726.TupleWithSameProduct bin/1726.TupleWithSameProduct)
