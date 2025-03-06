@@ -1524,6 +1524,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2948.MakeLexSmallestArrayBySwappingE
 add_subdirectory(Algorithms/Tasks.2501.3000/2958.LengthLongestSubarrayWithMostKFreq bin/2958.LengthLongestSubarrayWithMostKFreq)
 add_subdirectory(Algorithms/Tasks.2501.3000/2961.DoubleModularExponentiation bin/2961.DoubleModularExponentiation)
 add_subdirectory(Algorithms/Tasks.2501.3000/2962.CountSubarraysWithMaxElements bin/2962.CountSubarraysWithMaxElements)
+add_subdirectory(Algorithms/Tasks.2501.3000/2965.FindMissingRepeatedValues bin/2965.FindMissingRepeatedValues)
 add_subdirectory(Algorithms/Tasks.2501.3000/2966.DivideArrayIntoArraysWithMaxDiff bin/2966.DivideArrayIntoArraysWithMaxDiff)
 add_subdirectory(Algorithms/Tasks.2501.3000/2967.MinCostMakeArrayEqualindromic bin/2967.MinCostMakeArrayEqualindromic)
 add_subdirectory(Algorithms/Tasks.2501.3000/2971.FindPolygonWithLargestPerimeter bin/2971.FindPolygonWithLargestPerimeter)
