@@ -1315,6 +1315,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/description/)
 * [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
 * [2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/description/)
+* [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/)
 * [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/)
 * [2384. Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)
 * [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
