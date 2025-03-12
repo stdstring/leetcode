@@ -1400,6 +1400,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2521.DistinctPrimeFactorsOfArrayProd
 add_subdirectory(Algorithms/Tasks.2501.3000/2522.PartitionStringWithValuesAtMostK bin/2522.PartitionStringWithValuesAtMostK)
 add_subdirectory(Algorithms/Tasks.2501.3000/2523.ClosestPrimeNumbersInRange bin/2523.ClosestPrimeNumbersInRange)
 add_subdirectory(Algorithms/Tasks.2501.3000/2526.FindConsecutiveIntegersFromDataStream bin/2526.FindConsecutiveIntegersFromDataStream)
+add_subdirectory(Algorithms/Tasks.2501.3000/2529.MaxCountPositiveNegativeInteger bin/2529.MaxCountPositiveNegativeInteger)
 add_subdirectory(Algorithms/Tasks.2501.3000/2530.MaxScoreAfterApplyingKOperations bin/2530.MaxScoreAfterApplyingKOperations)
 add_subdirectory(Algorithms/Tasks.2501.3000/2531.MakeNumberDistinctCharsEqual bin/2531.MakeNumberDistinctCharsEqual)
 add_subdirectory(Algorithms/Tasks.2501.3000/2535.DiffBetweenElementDigitSumOfArray bin/2535.DiffBetweenElementDigitSumOfArray)
