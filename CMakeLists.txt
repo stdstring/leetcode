@@ -1265,6 +1265,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2220.MinBitFlipsToConvertNumber bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2221.FindTriangularSumOfArray bin/2221.FindTriangularSumOfArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2222.NumberWaysSelectBuildings bin/2222.NumberWaysSelectBuildings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2225.FindPlayersWithZeroOneLosses bin/2225.FindPlayersWithZeroOneLosses)
+add_subdirectory(Algorithms/Tasks.2001.2500/2226.MaxCandiesAllocatedKChildren bin/2226.MaxCandiesAllocatedKChildren)
 add_subdirectory(Algorithms/Tasks.2001.2500/2227.EncryptAndDecryptStrings bin/2227.EncryptAndDecryptStrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2232.MinResultAddingParenthesesToExpr bin/2232.MinResultAddingParenthesesToExpr)
 add_subdirectory(Algorithms/Tasks.2001.2500/2233.MaxProductAfterKIncrements bin/2233.MaxProductAfterKIncrements)
