@@ -1613,4 +1613,5 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3259.MaxEnergyBoostFromTwoDrinks bin
 add_subdirectory(Algorithms/Tasks.3001.3500/3264.FinalArrayStateAfterKMultOps1 bin/3264.FinalArrayStateAfterKMultOps1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3265.CountAlmostEqualPairs1 bin/3265.CountAlmostEqualPairs1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3271.HashDividedString bin/3271.HashDividedString)
+add_subdirectory(Algorithms/Tasks.3001.3500/3306.CountSubstrsWithVowelKConsonants2 bin/3306.CountSubstrsWithVowelKConsonants2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)

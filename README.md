@@ -1602,4 +1602,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)
 * [3265. Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/)
+* [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
 * [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)
