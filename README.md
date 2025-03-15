@@ -1405,6 +1405,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/)
 * [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)
 * [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/)
+* [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/)
 * [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
 * [2564. Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/)
 * [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/)
