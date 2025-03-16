@@ -1421,6 +1421,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)
 * [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/description/)
 * [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)
+* [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/)
 * [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/)
 * [2597. The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
 * [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/)
