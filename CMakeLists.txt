@@ -1571,6 +1571,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3101.CountAlternatingSubarrays bin/3
 add_subdirectory(Algorithms/Tasks.3001.3500/3105.LongestStrictlyIncOrDecSubarray bin/3105.LongestStrictlyIncOrDecSubarray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3106.LexSmallestStrAfterOpsConstraint bin/3106.LexSmallestStrAfterOpsConstraint)
 add_subdirectory(Algorithms/Tasks.3001.3500/3107.MinOpsMakeMedianOfArrayEqualK bin/3107.MinOpsMakeMedianOfArrayEqualK)
+add_subdirectory(Algorithms/Tasks.3001.3500/3108.MinCostWalkInWeightedGraph bin/3108.MinCostWalkInWeightedGraph)
 add_subdirectory(Algorithms/Tasks.3001.3500/3110.ScoreOfString bin/3110.ScoreOfString)
 add_subdirectory(Algorithms/Tasks.3001.3500/3111.MinRectanglesToCoverPoints bin/3111.MinRectanglesToCoverPoints)
 add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.MaxPrimeDifference)

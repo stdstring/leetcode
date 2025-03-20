@@ -1560,6 +1560,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/)
 * [3106. Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/)
 * [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/)
+* [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)
 * [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/)
 * [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)
 * [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/)
