@@ -1217,6 +1217,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.Water
 add_subdirectory(Algorithms/Tasks.2001.2500/2108.FindFirstPalindromicStringInArray bin/2108.FindFirstPalindromicStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2110.NumberSmoothDescentPeriodsOfStock bin/2110.NumberSmoothDescentPeriodsOfStock)
+add_subdirectory(Algorithms/Tasks.2001.2500/2115.FindAllPossibleRecipes bin/2115.FindAllPossibleRecipes)
 add_subdirectory(Algorithms/Tasks.2001.2500/2116.CheckIfParenthesesStringCanBeValid bin/2116.CheckIfParenthesesStringCanBeValid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2117.AbbreviatingProductOfRange bin/2117.AbbreviatingProductOfRange)
 add_subdirectory(Algorithms/Tasks.2001.2500/2119.NumberAfterDoubleReversal bin/2119.NumberAfterDoubleReversal)
