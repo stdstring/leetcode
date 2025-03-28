@@ -1382,6 +1382,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/description/)
 * [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)
 * [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/description/)
+* [2503. Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
 * [2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/description/)
 * [2508. Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/)
 * [2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
