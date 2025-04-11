@@ -1504,6 +1504,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2831.FindLongestEqualSubarray bin/28
 add_subdirectory(Algorithms/Tasks.2501.3000/2834.FindMinPossibleSumOfBeautifulArray bin/2834.FindMinPossibleSumOfBeautifulArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2840.CheckStringsCanMadeEqualWithOps2 bin/2840.CheckStringsCanMadeEqualWithOps2)
 add_subdirectory(Algorithms/Tasks.2501.3000/2841.MaxSumOfAlmostUniqueSubarray bin/2841.MaxSumOfAlmostUniqueSubarray)
+add_subdirectory(Algorithms/Tasks.2501.3000/2843.CountSymmetricIntegers bin/2843.CountSymmetricIntegers)
 add_subdirectory(Algorithms/Tasks.2501.3000/2844.MinOperationsToMakeSpecialNumber bin/2844.MinOperationsToMakeSpecialNumber)
 add_subdirectory(Algorithms/Tasks.2501.3000/2849.DetermineIfCellIsReachableAtGivenTime bin/2849.DetermineIfCellIsReachableAtGivenTime)
 add_subdirectory(Algorithms/Tasks.2501.3000/2857.CountPairsPointsWithDistanceK bin/2857.CountPairsPointsWithDistanceK)
