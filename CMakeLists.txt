@@ -533,6 +533,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0771.JewelsAndStones bin/0771.Jewels
 add_subdirectory(Algorithms/Tasks.0501.1000/0773.SlidingPuzzle bin/0773.SlidingPuzzle)
 add_subdirectory(Algorithms/Tasks.0501.1000/0775.GlobalAndLocalInversions bin/0775.GlobalAndLocalInversions)
 add_subdirectory(Algorithms/Tasks.0501.1000/0779.KthSymbolInGrammar bin/0779.KthSymbolInGrammar)
+add_subdirectory(Algorithms/Tasks.0501.1000/0781.RabbitsInForest bin/0781.RabbitsInForest)
 add_subdirectory(Algorithms/Tasks.0501.1000/0783.MinimumDistanceBetweenBSTNodes bin/0783.MinimumDistanceBetweenBSTNodes)
 add_subdirectory(Algorithms/Tasks.0501.1000/0784.LetterCasePermutation bin/0784.LetterCasePermutation)
 add_subdirectory(Algorithms/Tasks.0501.1000/0785.IsGraphBipartite bin/0785.IsGraphBipartite)
