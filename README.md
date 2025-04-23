@@ -900,6 +900,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
 * [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/)
 * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/description/)
+* [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)
 * [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/)
 * [1401. Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
