@@ -1631,5 +1631,6 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3271.HashDividedString bin/3271.Hash
 add_subdirectory(Algorithms/Tasks.3001.3500/3306.CountSubstrsWithVowelKConsonants2 bin/3306.CountSubstrsWithVowelKConsonants2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3375.MinOperationsMakeArrayValuesEqualK bin/3375.MinOperationsMakeArrayValuesEqualK)
+add_subdirectory(Algorithms/Tasks.3001.3500/3392.CountSubarraysLength3WithCondition bin/3392.CountSubarraysLength3WithCondition)
 add_subdirectory(Algorithms/Tasks.3001.3500/3394.CheckIfGridCanBeCutIntoSections bin/3394.CheckIfGridCanBeCutIntoSections)
 add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDistinct bin/3396.MinNumberOperationsMakeArrayDistinct)
