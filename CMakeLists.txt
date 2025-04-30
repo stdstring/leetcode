@@ -844,6 +844,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1290.ConvertBinNumberInLinkedListToI
 add_subdirectory(Algorithms/Tasks.1001.1500/1291.SequentialDigits bin/1291.SequentialDigits)
 add_subdirectory(Algorithms/Tasks.1001.1500/1292.MaxSideLengthOfSquareSumLTEThreshold bin/1292.MaxSideLengthOfSquareSumLTEThreshold)
 add_subdirectory(Algorithms/Tasks.1001.1500/1293.ShortestPathInGridWithObstaclesElimination bin/1293.ShortestPathInGridWithObstaclesElimination)
+add_subdirectory(Algorithms/Tasks.1001.1500/1295.FindNumbersWithEvenNumberDigits bin/1295.FindNumbersWithEvenNumberDigits)
 add_subdirectory(Algorithms/Tasks.1001.1500/1296.DivideArrayInSetsKConsecutiveNumbers bin/1296.DivideArrayInSetsKConsecutiveNumbers)
 add_subdirectory(Algorithms/Tasks.1001.1500/1297.MaxNumberOfOccurrencesOfSubstring bin/1297.MaxNumberOfOccurrencesOfSubstring)
 add_subdirectory(Algorithms/Tasks.1001.1500/1300.SumOfMutatedArrayClosestToTarget bin/1300.SumOfMutatedArrayClosestToTarget)
