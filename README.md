@@ -1137,6 +1137,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)
 * [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
 * [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/)
+* [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 * [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/)
 * [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)
 * [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/)
