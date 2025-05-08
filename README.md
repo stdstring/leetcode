@@ -1620,6 +1620,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3265. Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/)
 * [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
+* [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/)
 * [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)
 * [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)
 * [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/)
