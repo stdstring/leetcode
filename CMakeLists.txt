@@ -1632,6 +1632,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3264.FinalArrayStateAfterKMultOps1 b
 add_subdirectory(Algorithms/Tasks.3001.3500/3265.CountAlmostEqualPairs1 bin/3265.CountAlmostEqualPairs1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3271.HashDividedString bin/3271.HashDividedString)
 add_subdirectory(Algorithms/Tasks.3001.3500/3306.CountSubstrsWithVowelKConsonants2 bin/3306.CountSubstrsWithVowelKConsonants2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3335.TotalCharactersAfterTransform1 bin/3335.TotalCharactersAfterTransform1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3341.FindMinTimeToReachLastRoom1 bin/3341.FindMinTimeToReachLastRoom1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3342.FindMinTimeToReachLastRoom2 bin/3342.FindMinTimeToReachLastRoom2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)

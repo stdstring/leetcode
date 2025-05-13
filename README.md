@@ -1621,6 +1621,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3265. Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/)
 * [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
+* [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/)
 * [3341. Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/)
 * [3342. Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)
 * [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)
