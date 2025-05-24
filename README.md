@@ -1530,6 +1530,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2933. High-Access Employees](https://leetcode.com/problems/high-access-employees/description/)
 * [2937. Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)
 * [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)
+* [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)
 * [2947. Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/)
 * [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/)
 * [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)

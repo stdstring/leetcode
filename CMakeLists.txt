@@ -1541,6 +1541,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2929.DistributeCandiesAmongChildren2
 add_subdirectory(Algorithms/Tasks.2501.3000/2933.HighAccessEmployees bin/2933.HighAccessEmployees)
 add_subdirectory(Algorithms/Tasks.2501.3000/2937.MakeThreeStringsEqual bin/2937.MakeThreeStringsEqual)
 add_subdirectory(Algorithms/Tasks.2501.3000/2938.SeparateBlackWhiteBalls bin/2938.SeparateBlackWhiteBalls)
+add_subdirectory(Algorithms/Tasks.2501.3000/2942.FindWordsContainingCharacter bin/2942.FindWordsContainingCharacter)
 add_subdirectory(Algorithms/Tasks.2501.3000/2947.CountBeautifulSubstrings1 bin/2947.CountBeautifulSubstrings1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2948.MakeLexSmallestArrayBySwappingElements bin/2948.MakeLexSmallestArrayBySwappingElements)
 add_subdirectory(Algorithms/Tasks.2501.3000/2958.LengthLongestSubarrayWithMostKFreq bin/2958.LengthLongestSubarrayWithMostKFreq)
