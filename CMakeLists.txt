@@ -1642,6 +1642,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3342.FindMinTimeToReachLastRoom2 bin
 add_subdirectory(Algorithms/Tasks.3001.3500/3355.ZeroArrayTransformation1 bin/3355.ZeroArrayTransformation1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3372.MaxNumberTargetNodesAfterConnectTrees1 bin/3372.MaxNumberTargetNodesAfterConnectTrees1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3373.MaxNumberTargetNodesAfterConnectTrees2 bin/3373.MaxNumberTargetNodesAfterConnectTrees2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3375.MinOperationsMakeArrayValuesEqualK bin/3375.MinOperationsMakeArrayValuesEqualK)
 add_subdirectory(Algorithms/Tasks.3001.3500/3392.CountSubarraysLength3WithCondition bin/3392.CountSubarraysLength3WithCondition)
 add_subdirectory(Algorithms/Tasks.3001.3500/3394.CheckIfGridCanBeCutIntoSections bin/3394.CheckIfGridCanBeCutIntoSections)
