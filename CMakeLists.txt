@@ -1648,3 +1648,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3375.MinOperationsMakeArrayValuesEqu
 add_subdirectory(Algorithms/Tasks.3001.3500/3392.CountSubarraysLength3WithCondition bin/3392.CountSubarraysLength3WithCondition)
 add_subdirectory(Algorithms/Tasks.3001.3500/3394.CheckIfGridCanBeCutIntoSections bin/3394.CheckIfGridCanBeCutIntoSections)
 add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDistinct bin/3396.MinNumberOperationsMakeArrayDistinct)
+add_subdirectory(Algorithms/Tasks.3001.3500/3403.FindLexLargestStringFromBox1 bin/3403.FindLexLargestStringFromBox1)
