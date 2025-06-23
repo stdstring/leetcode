@@ -1171,6 +1171,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 * [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 * [2013. Detect Squares](https://leetcode.com/problems/detect-squares/description/)
+* [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/)
 * [2017. Grid Game](https://leetcode.com/problems/grid-game/description/)
 * [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)
 * [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)

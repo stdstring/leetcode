@@ -1182,6 +1182,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2007.FindOriginalArrayFromDoubledArr
 add_subdirectory(Algorithms/Tasks.2001.2500/2009.MinimumOpNumberMakeArrayContinuous bin/2009.MinimumOpNumberMakeArrayContinuous)
 add_subdirectory(Algorithms/Tasks.2001.2500/2011.FinalValueOfVarAfterPerformOp bin/2011.FinalValueOfVarAfterPerformOp)
 add_subdirectory(Algorithms/Tasks.2001.2500/2013.DetectSquares bin/2013.DetectSquares)
+add_subdirectory(Algorithms/Tasks.2001.2500/2016.MaxDiffBetweenIncreasingElements bin/2016.MaxDiffBetweenIncreasingElements)
 add_subdirectory(Algorithms/Tasks.2001.2500/2017.GridGame bin/2017.GridGame)
 add_subdirectory(Algorithms/Tasks.2001.2500/2018.CheckWordCanBePlacedInCrossword bin/2018.CheckWordCanBePlacedInCrossword)
 add_subdirectory(Algorithms/Tasks.2001.2500/2022.Convert1DArrayInto2DArray bin/2022.Convert1DArrayInto2DArray)
