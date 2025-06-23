@@ -1650,3 +1650,4 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3392.CountSubarraysLength3WithCondit
 add_subdirectory(Algorithms/Tasks.3001.3500/3394.CheckIfGridCanBeCutIntoSections bin/3394.CheckIfGridCanBeCutIntoSections)
 add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDistinct bin/3396.MinNumberOperationsMakeArrayDistinct)
 add_subdirectory(Algorithms/Tasks.3001.3500/3403.FindLexLargestStringFromBox1 bin/3403.FindLexLargestStringFromBox1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3443.MaxManhattanDistanceAfterKChanges bin/3443.MaxManhattanDistanceAfterKChanges)
