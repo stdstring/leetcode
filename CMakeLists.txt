@@ -1267,6 +1267,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2192.AllAncestorsOfNodeInDAG bin/219
 add_subdirectory(Algorithms/Tasks.2001.2500/2195.AppendKIntegersWithMinimalSum bin/2195.AppendKIntegersWithMinimalSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2196.CreateBinaryTreeFromDescriptions bin/2196.CreateBinaryTreeFromDescriptions)
 add_subdirectory(Algorithms/Tasks.2001.2500/2197.ReplaceNonCoprimeNumbersInArray bin/2197.ReplaceNonCoprimeNumbersInArray)
+add_subdirectory(Algorithms/Tasks.2001.2500/2200.FindAllKDistantIndicesInArray bin/2200.FindAllKDistantIndicesInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2201.CountArtifactsThatCanBeExtracted bin/2201.CountArtifactsThatCanBeExtracted)
 add_subdirectory(Algorithms/Tasks.2001.2500/2206.DivideArrayIntoEqualPairs bin/2206.DivideArrayIntoEqualPairs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2211.CountCollisionsOnRoad bin/2211.CountCollisionsOnRoad)
