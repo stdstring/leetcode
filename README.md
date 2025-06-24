@@ -1576,6 +1576,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3076. Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)
 * [3081. Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/description/)
 * [3084. Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/description/)
+* [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/)
 * [3092. Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/description/)
 * [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
 * [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/)
