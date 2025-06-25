@@ -1193,6 +1193,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2033.MinOperationsToMakeUniValueGrid
 add_subdirectory(Algorithms/Tasks.2001.2500/2034.StockPriceFluctuation bin/2034.StockPriceFluctuation)
 add_subdirectory(Algorithms/Tasks.2001.2500/2037.MinNumberMovesToSeatEveryone bin/2037.MinNumberMovesToSeatEveryone)
 add_subdirectory(Algorithms/Tasks.2001.2500/2038.RemoveColoredPiecesIfBothNeighborsSame bin/2038.RemoveColoredPiecesIfBothNeighborsSame)
+add_subdirectory(Algorithms/Tasks.2001.2500/2040.KthSmallestProductOfTwoSortedArrays bin/2040.KthSmallestProductOfTwoSortedArrays)
 add_subdirectory(Algorithms/Tasks.2001.2500/2043.SimpleBankSystem bin/2043.SimpleBankSystem)
 add_subdirectory(Algorithms/Tasks.2001.2500/2044.CountNumberMaxBitwiseOrSubsets bin/2044.CountNumberMaxBitwiseOrSubsets)
 add_subdirectory(Algorithms/Tasks.2001.2500/2045.SecondMinTimeReachDestination bin/2045.SecondMinTimeReachDestination)

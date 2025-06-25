@@ -1182,6 +1182,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/description/)
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
 * [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)
+* [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
 * [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/)
 * [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)
 * [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
