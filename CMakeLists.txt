@@ -1320,6 +1320,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2305.FairDistributionOfCookies bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2306.NamingCompany bin/2306.NamingCompany)
 add_subdirectory(Algorithms/Tasks.2001.2500/2309.GreatestEnglishLetterUpperLowerCase bin/2309.GreatestEnglishLetterUpperLowerCase)
 add_subdirectory(Algorithms/Tasks.2001.2500/2310.SumOfNumbersWithUnitsDigitK bin/2310.SumOfNumbersWithUnitsDigitK)
+add_subdirectory(Algorithms/Tasks.2001.2500/2311.LongestBinarySubsequenceLTE2K bin/2311.LongestBinarySubsequenceLTE2K)
 add_subdirectory(Algorithms/Tasks.2001.2500/2316.CountUnreachableNodesPairsInGraph bin/2316.CountUnreachableNodesPairsInGraph)
 add_subdirectory(Algorithms/Tasks.2001.2500/2326.SpiralMatrixIV bin/2326.SpiralMatrixIV)
 add_subdirectory(Algorithms/Tasks.2001.2500/2331.EvaluateBooleanBinaryTree bin/2331.EvaluateBooleanBinaryTree)
