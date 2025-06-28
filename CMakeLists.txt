@@ -1220,6 +1220,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2092.FindAllPeopleWithSecret bin/209
 add_subdirectory(Algorithms/Tasks.2001.2500/2094.Finding3DigitEvenNumbers bin/2094.Finding3DigitEvenNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
 add_subdirectory(Algorithms/Tasks.2001.2500/2096.StepByStepFromBinTreeNodeToAnother bin/2096.StepByStepFromBinTreeNodeToAnother)
+add_subdirectory(Algorithms/Tasks.2001.2500/2099.FindSubseqLengthKWithLargestSum bin/2099.FindSubseqLengthKWithLargestSum)
 add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.DetonateMaxBombs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2102.SequentiallyOrdinalRankTracker bin/2102.SequentiallyOrdinalRankTracker)
 add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.WateringPlantsII)
