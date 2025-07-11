@@ -1663,5 +1663,6 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDis
 add_subdirectory(Algorithms/Tasks.3001.3500/3403.FindLexLargestStringFromBox1 bin/3403.FindLexLargestStringFromBox1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3423.MaxDiffBetweenElementsInCircularArray bin/3423.MaxDiffBetweenElementsInCircularArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3439.RescheduleMeetingsForMaxFreeTime1 bin/3439.RescheduleMeetingsForMaxFreeTime1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3440.RescheduleMeetingsForMaxFreeTime2 bin/3440.RescheduleMeetingsForMaxFreeTime2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3442.MaxDiffBetweenEvenOddFrequency1 bin/3442.MaxDiffBetweenEvenOddFrequency1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3443.MaxManhattanDistanceAfterKChanges bin/3443.MaxManhattanDistanceAfterKChanges)
