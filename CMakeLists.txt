@@ -1607,6 +1607,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.Max
 add_subdirectory(Algorithms/Tasks.3001.3500/3121.CountNumberOfSpecialChars2 bin/3121.CountNumberOfSpecialChars2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3132.FindIntegerAddedToArray2 bin/3132.FindIntegerAddedToArray2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3133.MinArrayEnd bin/3133.MinArrayEnd)
+add_subdirectory(Algorithms/Tasks.3001.3500/3136.ValidWord bin/3136.ValidWord)
 add_subdirectory(Algorithms/Tasks.3001.3500/3138.MinLengthAnagramConcat bin/3138.MinLengthAnagramConcat)
 add_subdirectory(Algorithms/Tasks.3001.3500/3143.MaxPointsInsideSquare bin/3143.MaxPointsInsideSquare)
 add_subdirectory(Algorithms/Tasks.3001.3500/3151.SpecialArray1 bin/3151.SpecialArray1)
