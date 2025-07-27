@@ -1274,6 +1274,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2197.ReplaceNonCoprimeNumbersInArray
 add_subdirectory(Algorithms/Tasks.2001.2500/2200.FindAllKDistantIndicesInArray bin/2200.FindAllKDistantIndicesInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2201.CountArtifactsThatCanBeExtracted bin/2201.CountArtifactsThatCanBeExtracted)
 add_subdirectory(Algorithms/Tasks.2001.2500/2206.DivideArrayIntoEqualPairs bin/2206.DivideArrayIntoEqualPairs)
+add_subdirectory(Algorithms/Tasks.2001.2500/2210.CountHillsAndValleysInArray bin/2210.CountHillsAndValleysInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2211.CountCollisionsOnRoad bin/2211.CountCollisionsOnRoad)
 add_subdirectory(Algorithms/Tasks.2001.2500/2212.MaxPointsInArcheryCompetition bin/2212.MaxPointsInArcheryCompetition)
 add_subdirectory(Algorithms/Tasks.2001.2500/2215.FindDifferenceTwoArrays bin/2215.FindDifferenceTwoArrays)
