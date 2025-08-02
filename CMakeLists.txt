@@ -1439,6 +1439,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2554.MaxNumberToChooseFromRange1 bin
 add_subdirectory(Algorithms/Tasks.2501.3000/2558.TakeGiftsFromRichestPile bin/2558.TakeGiftsFromRichestPile)
 add_subdirectory(Algorithms/Tasks.2501.3000/2559.CountVowelStringsInRanges bin/2559.CountVowelStringsInRanges)
 add_subdirectory(Algorithms/Tasks.2501.3000/2560.HouseRobber4 bin/2560.HouseRobber4)
+add_subdirectory(Algorithms/Tasks.2501.3000/2561.RearrangingFruits bin/2561.RearrangingFruits)
 add_subdirectory(Algorithms/Tasks.2501.3000/2563.CountNumberOfFairPairs bin/2563.CountNumberOfFairPairs)
 add_subdirectory(Algorithms/Tasks.2501.3000/2564.SubstringXORQueries bin/2564.SubstringXORQueries)
 add_subdirectory(Algorithms/Tasks.2501.3000/2566.MaxDiffByRemappingDigit bin/2566.MaxDiffByRemappingDigit)
