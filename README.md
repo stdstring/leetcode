@@ -1659,4 +1659,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/)
 * [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/)
 * [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/)
+* [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
