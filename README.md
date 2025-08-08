@@ -1215,6 +1215,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 * [2102. Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/)
 * [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/description/)
+* [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)
 * [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
 * [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)
 * [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/)

@@ -1226,6 +1226,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2099.FindSubseqLengthKWithLargestSum
 add_subdirectory(Algorithms/Tasks.2001.2500/2101.DetonateMaxBombs bin/2101.DetonateMaxBombs)
 add_subdirectory(Algorithms/Tasks.2001.2500/2102.SequentiallyOrdinalRankTracker bin/2102.SequentiallyOrdinalRankTracker)
 add_subdirectory(Algorithms/Tasks.2001.2500/2105.WateringPlantsII bin/2105.WateringPlantsII)
+add_subdirectory(Algorithms/Tasks.2001.2500/2106.MaxFruitsHarvestedAfterMostKSteps bin/2106.MaxFruitsHarvestedAfterMostKSteps)
 add_subdirectory(Algorithms/Tasks.2001.2500/2108.FindFirstPalindromicStringInArray bin/2108.FindFirstPalindromicStringInArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2109.AddingSpacesToString bin/2109.AddingSpacesToString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2110.NumberSmoothDescentPeriodsOfStock bin/2110.NumberSmoothDescentPeriodsOfStock)
