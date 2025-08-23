@@ -1630,6 +1630,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3185.CountPairsThatFormCompleteDay2 
 add_subdirectory(Algorithms/Tasks.3001.3500/3191.MinOpsMakeBinArrayElementsEqualOne1 bin/3191.MinOpsMakeBinArrayElementsEqualOne1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3192.MinOpsMakeBinArrayElementsEqualOne2 bin/3192.MinOpsMakeBinArrayElementsEqualOne2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3195.FindMinAreaCoverAllOnes1 bin/3195.FindMinAreaCoverAllOnes1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3197.FindMinAreaCoverAllOnes2 bin/3197.FindMinAreaCoverAllOnes2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3201.FindMaxLengthValidSubsequence1 bin/3201.FindMaxLengthValidSubsequence1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3202.FindMaxLengthValidSubsequence2 bin/3202.FindMaxLengthValidSubsequence2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3207.MaxPointsAfterEnemyBattles bin/3207.MaxPointsAfterEnemyBattles)
