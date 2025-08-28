@@ -1675,6 +1675,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3439.RescheduleMeetingsForMaxFreeTim
 add_subdirectory(Algorithms/Tasks.3001.3500/3440.RescheduleMeetingsForMaxFreeTime2 bin/3440.RescheduleMeetingsForMaxFreeTime2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3442.MaxDiffBetweenEvenOddFrequency1 bin/3442.MaxDiffBetweenEvenOddFrequency1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3443.MaxManhattanDistanceAfterKChanges bin/3443.MaxManhattanDistanceAfterKChanges)
+add_subdirectory(Algorithms/Tasks.3001.3500/3446.SortMatrixByDiagonals bin/3446.SortMatrixByDiagonals)
 add_subdirectory(Algorithms/Tasks.3001.3500/3477.FruitsIntoBaskets2 bin/3477.FruitsIntoBaskets2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3479.FruitsIntoBaskets3 bin/3479.FruitsIntoBaskets3)
 add_subdirectory(Algorithms/Tasks.3001.3500/3487.MaxUniqueSubarraySumAfterDeletion bin/3487.MaxUniqueSubarraySumAfterDeletion)
