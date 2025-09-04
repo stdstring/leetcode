@@ -1670,3 +1670,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/)
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
+* [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)
