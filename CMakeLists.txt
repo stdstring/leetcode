@@ -1084,6 +1084,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1721.SwappingNodesInLinkedList bin/1
 add_subdirectory(Algorithms/Tasks.1501.2000/1726.TupleWithSameProduct bin/1726.TupleWithSameProduct)
 add_subdirectory(Algorithms/Tasks.1501.2000/1727.LargestSubmatrixWithRearrangements bin/1727.LargestSubmatrixWithRearrangements)
 add_subdirectory(Algorithms/Tasks.1501.2000/1732.FindHighestAltitude bin/1732.FindHighestAltitude)
+add_subdirectory(Algorithms/Tasks.1501.2000/1733.MinNumberOfPeopleToTeach bin/1733.MinNumberOfPeopleToTeach)
 add_subdirectory(Algorithms/Tasks.1501.2000/1738.FindKthLargestXORCoordinateValue bin/1738.FindKthLargestXORCoordinateValue)
 add_subdirectory(Algorithms/Tasks.1501.2000/1743.RestoreArrayFromAdjacentPairs bin/1743.RestoreArrayFromAdjacentPairs)
 add_subdirectory(Algorithms/Tasks.1501.2000/1749.MaxAbsoluteSumAnySubarray bin/1749.MaxAbsoluteSumAnySubarray)
