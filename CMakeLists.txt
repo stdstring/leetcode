@@ -1684,4 +1684,5 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3459.LengthLongestVDiagonalSegment b
 add_subdirectory(Algorithms/Tasks.3001.3500/3477.FruitsIntoBaskets2 bin/3477.FruitsIntoBaskets2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3479.FruitsIntoBaskets3 bin/3479.FruitsIntoBaskets3)
 add_subdirectory(Algorithms/Tasks.3001.3500/3487.MaxUniqueSubarraySumAfterDeletion bin/3487.MaxUniqueSubarraySumAfterDeletion)
-add_subdirectory(Algorithms/Tasks.3001.3500/3516.FindClosestPerson bin/3516.FindClosestPerson)
+add_subdirectory(Algorithms/Tasks.3501.4000/3516.FindClosestPerson bin/3516.FindClosestPerson)
+add_subdirectory(Algorithms/Tasks.3501.4000/3541.FindMostFrequentVowelConsonant bin/3541.FindMostFrequentVowelConsonant)
