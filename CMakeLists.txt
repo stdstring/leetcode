@@ -1674,6 +1674,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3392.CountSubarraysLength3WithCondit
 add_subdirectory(Algorithms/Tasks.3001.3500/3394.CheckIfGridCanBeCutIntoSections bin/3394.CheckIfGridCanBeCutIntoSections)
 add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDistinct bin/3396.MinNumberOperationsMakeArrayDistinct)
 add_subdirectory(Algorithms/Tasks.3001.3500/3403.FindLexLargestStringFromBox1 bin/3403.FindLexLargestStringFromBox1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3408.DesignTaskManager bin/3408.DesignTaskManager)
 add_subdirectory(Algorithms/Tasks.3001.3500/3423.MaxDiffBetweenElementsInCircularArray bin/3423.MaxDiffBetweenElementsInCircularArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3439.RescheduleMeetingsForMaxFreeTime1 bin/3439.RescheduleMeetingsForMaxFreeTime1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3440.RescheduleMeetingsForMaxFreeTime2 bin/3440.RescheduleMeetingsForMaxFreeTime2)
