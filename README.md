@@ -521,6 +521,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 * [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/)
 * [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)
+* [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)
 * [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
 * [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/)
 * [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
