@@ -1688,6 +1688,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3477.FruitsIntoBaskets2 bin/3477.Fru
 add_subdirectory(Algorithms/Tasks.3001.3500/3479.FruitsIntoBaskets3 bin/3479.FruitsIntoBaskets3)
 add_subdirectory(Algorithms/Tasks.3001.3500/3484.DesignSpreadsheet bin/3484.DesignSpreadsheet)
 add_subdirectory(Algorithms/Tasks.3001.3500/3487.MaxUniqueSubarraySumAfterDeletion bin/3487.MaxUniqueSubarraySumAfterDeletion)
+add_subdirectory(Algorithms/Tasks.3001.3500/3494.FindMinAmountOfTimeToBrewPotions bin/3494.FindMinAmountOfTimeToBrewPotions)
 add_subdirectory(Algorithms/Tasks.3501.4000/3508.ImplementRouter bin/3508.ImplementRouter)
 add_subdirectory(Algorithms/Tasks.3501.4000/3516.FindClosestPerson bin/3516.FindClosestPerson)
 add_subdirectory(Algorithms/Tasks.3501.4000/3541.FindMostFrequentVowelConsonant bin/3541.FindMostFrequentVowelConsonant)
