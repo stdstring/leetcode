@@ -1610,6 +1610,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3136. Valid Word](https://leetcode.com/problems/valid-word/description/)
 * [3138. Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
 * [3143. Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
+* [3147. Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/)
 * [3151. Special Array I](https://leetcode.com/problems/special-array-i/description/)
 * [3152. Special Array II](https://leetcode.com/problems/special-array-ii/description/)
 * [3153. Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/)
