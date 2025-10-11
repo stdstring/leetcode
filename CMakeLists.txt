@@ -1635,6 +1635,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3174.ClearDigits bin/3174.ClearDigit
 add_subdirectory(Algorithms/Tasks.3001.3500/3175.FindFirstPlayerToWinKGamesInRow bin/3175.FindFirstPlayerToWinKGamesInRow)
 add_subdirectory(Algorithms/Tasks.3001.3500/3179.FindNValueAfterKSeconds bin/3179.FindNValueAfterKSeconds)
 add_subdirectory(Algorithms/Tasks.3001.3500/3185.CountPairsThatFormCompleteDay2 bin/3185.CountPairsThatFormCompleteDay2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3186.MaxTotalDamageWithSpellCasting bin/3186.MaxTotalDamageWithSpellCasting)
 add_subdirectory(Algorithms/Tasks.3001.3500/3191.MinOpsMakeBinArrayElementsEqualOne1 bin/3191.MinOpsMakeBinArrayElementsEqualOne1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3192.MinOpsMakeBinArrayElementsEqualOne2 bin/3192.MinOpsMakeBinArrayElementsEqualOne2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3195.FindMinAreaCoverAllOnes1 bin/3195.FindMinAreaCoverAllOnes1)
