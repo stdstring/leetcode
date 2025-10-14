@@ -1668,6 +1668,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3330.FindOriginalTypedString1 bin/33
 add_subdirectory(Algorithms/Tasks.3001.3500/3335.TotalCharactersAfterTransform1 bin/3335.TotalCharactersAfterTransform1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3341.FindMinTimeToReachLastRoom1 bin/3341.FindMinTimeToReachLastRoom1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3342.FindMinTimeToReachLastRoom2 bin/3342.FindMinTimeToReachLastRoom2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3349.AdjacentIncrSubarraysDetection1 bin/3349.AdjacentIncrSubarraysDetection1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3355.ZeroArrayTransformation1 bin/3355.ZeroArrayTransformation1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3363.FindMaxNumberFruitsCollected bin/3363.FindMaxNumberFruitsCollected)
