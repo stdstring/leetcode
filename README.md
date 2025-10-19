@@ -1026,6 +1026,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 * [1616. Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/description/)
 * [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/)
+* [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
 * [1629. Slowest Key](https://leetcode.com/problems/slowest-key/description/)
 * [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)

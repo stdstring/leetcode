@@ -1037,6 +1037,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1614.MaxNestingDepthOfParentheses bi
 add_subdirectory(Algorithms/Tasks.1501.2000/1615.MaxNetworkRank bin/1615.MaxNetworkRank)
 add_subdirectory(Algorithms/Tasks.1501.2000/1616.SplitTwoStringsMakePalindrome bin/1616.SplitTwoStringsMakePalindrome)
 add_subdirectory(Algorithms/Tasks.1501.2000/1624.LargestSubstringBetweenTwoEqualChars bin/1624.LargestSubstringBetweenTwoEqualChars)
+add_subdirectory(Algorithms/Tasks.1501.2000/1625.LexSmallestStringAfterApplyingOps bin/1625.LexSmallestStringAfterApplyingOps)
 add_subdirectory(Algorithms/Tasks.1501.2000/1626.BestTeamWithNoConflicts bin/1626.BestTeamWithNoConflicts)
 add_subdirectory(Algorithms/Tasks.1501.2000/1629.SlowestKey bin/1629.SlowestKey)
 add_subdirectory(Algorithms/Tasks.1501.2000/1630.ArithmeticSubarrays bin/1630.ArithmeticSubarrays)
