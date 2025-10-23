@@ -1679,6 +1679,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/)
 * [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)
 * [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/)
+* [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/)
 * [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/)

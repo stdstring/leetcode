@@ -1690,6 +1690,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3442.MaxDiffBetweenEvenOddFrequency1
 add_subdirectory(Algorithms/Tasks.3001.3500/3443.MaxManhattanDistanceAfterKChanges bin/3443.MaxManhattanDistanceAfterKChanges)
 add_subdirectory(Algorithms/Tasks.3001.3500/3446.SortMatrixByDiagonals bin/3446.SortMatrixByDiagonals)
 add_subdirectory(Algorithms/Tasks.3001.3500/3459.LengthLongestVDiagonalSegment bin/3459.LengthLongestVDiagonalSegment)
+add_subdirectory(Algorithms/Tasks.3001.3500/3461.CheckIfDigitsEqualInStringAfterOps1 bin/3461.CheckIfDigitsEqualInStringAfterOps1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3477.FruitsIntoBaskets2 bin/3477.FruitsIntoBaskets2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3479.FruitsIntoBaskets3 bin/3479.FruitsIntoBaskets3)
 add_subdirectory(Algorithms/Tasks.3001.3500/3484.DesignSpreadsheet bin/3484.DesignSpreadsheet)
