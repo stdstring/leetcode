@@ -1675,6 +1675,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3354.MakeArrayElementsEqualZero bin/
 add_subdirectory(Algorithms/Tasks.3001.3500/3355.ZeroArrayTransformation1 bin/3355.ZeroArrayTransformation1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3363.FindMaxNumberFruitsCollected bin/3363.FindMaxNumberFruitsCollected)
+add_subdirectory(Algorithms/Tasks.3001.3500/3370.SmallestNumberWithAllSetBits bin/3370.SmallestNumberWithAllSetBits)
 add_subdirectory(Algorithms/Tasks.3001.3500/3372.MaxNumberTargetNodesAfterConnectTrees1 bin/3372.MaxNumberTargetNodesAfterConnectTrees1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3373.MaxNumberTargetNodesAfterConnectTrees2 bin/3373.MaxNumberTargetNodesAfterConnectTrees2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3375.MinOperationsMakeArrayValuesEqualK bin/3375.MinOperationsMakeArrayValuesEqualK)

@@ -1664,6 +1664,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/)
 * [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)
 * [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)
+* [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/)
 * [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/)
 * [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)
 * [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/)
