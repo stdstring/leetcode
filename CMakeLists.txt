@@ -941,6 +941,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1431.KidsWithGreatestNumberOfCandies
 add_subdirectory(Algorithms/Tasks.1001.1500/1432.MaxDiffFromChangingInteger bin/1432.MaxDiffFromChangingInteger)
 add_subdirectory(Algorithms/Tasks.1001.1500/1433.CheckIfStringCanBreakAnotherString bin/1433.CheckIfStringCanBreakAnotherString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1436.DestinationCity bin/1436.DestinationCity)
+add_subdirectory(Algorithms/Tasks.1001.1500/1437.CheckIfAll1AtLeastLengthKPlacesAway bin/1437.CheckIfAll1AtLeastLengthKPlacesAway)
 add_subdirectory(Algorithms/Tasks.1001.1500/1438.LongestContSubarrayAbsDiffLTELimit bin/1438.LongestContSubarrayAbsDiffLTELimit)
 add_subdirectory(Algorithms/Tasks.1001.1500/1441.BuildArrayWithStackOperations bin/1441.BuildArrayWithStackOperations)
 add_subdirectory(Algorithms/Tasks.1001.1500/1442.CountTripletsCanForm2ArraysEqualXOR bin/1442.CountTripletsCanForm2ArraysEqualXOR)
