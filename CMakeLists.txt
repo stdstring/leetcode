@@ -1257,6 +1257,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2145.CountHiddenSequences bin/2145.C
 add_subdirectory(Algorithms/Tasks.2001.2500/2147.NumberOfWaysToDivideLongCorridor bin/2147.NumberOfWaysToDivideLongCorridor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2149.RearrangeArrayElementsBySign bin/2149.RearrangeArrayElementsBySign)
 add_subdirectory(Algorithms/Tasks.2001.2500/2150.FindAllLonelyNumbersInArray bin/2150.FindAllLonelyNumbersInArray)
+add_subdirectory(Algorithms/Tasks.2001.2500/2154.KeepMultiplyingFoundValuesByTwo bin/2154.KeepMultiplyingFoundValuesByTwo)
 add_subdirectory(Algorithms/Tasks.2001.2500/2160.MinSumOfFourDigitNumberAfterSplitting bin/2160.MinSumOfFourDigitNumberAfterSplitting)
 add_subdirectory(Algorithms/Tasks.2001.2500/2161.PartitionArrayAccordingToGivenPivot bin/2161.PartitionArrayAccordingToGivenPivot)
 add_subdirectory(Algorithms/Tasks.2001.2500/2162.MinCostToSetCookingTime bin/2162.MinCostToSetCookingTime)
