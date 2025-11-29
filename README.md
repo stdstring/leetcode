@@ -1696,5 +1696,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
 * [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/)
 * [3508. Implement Router](https://leetcode.com/problems/implement-router/description/)
+* [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/)
 * [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)
 * [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/)

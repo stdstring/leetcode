@@ -12,8 +12,7 @@ public:
     [[nodiscard]] long long maxSubarraySum(std::vector<int> const &nums, int k) const
     {
         std::vector<long long> kSum(k, std::numeric_limits<long long>::max() / 2);
-        // kSum[k-1] = 0 represents prefixSum of index -1,
-        // enabling subarrays starting at index 0 whose lengths are divisible by k.
+        // kSum[k-1] = 0 for taking into account subarrays starting at index 0 whose lengths are divisible by k.
         kSum.back() = 0;
         long long maxSum = std::numeric_limits<long long>::min();
         long long prefixSum = 0;
