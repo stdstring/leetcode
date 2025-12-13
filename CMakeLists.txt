@@ -1714,4 +1714,5 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3516.FindClosestPerson bin/3516.Find
 add_subdirectory(Algorithms/Tasks.3501.4000/3531.CountCoveredBuildings bin/3531.CountCoveredBuildings)
 add_subdirectory(Algorithms/Tasks.3501.4000/3541.FindMostFrequentVowelConsonant bin/3541.FindMostFrequentVowelConsonant)
 add_subdirectory(Algorithms/Tasks.3501.4000/3583.CountSpecialTriplets bin/3583.CountSpecialTriplets)
+add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.CouponCodeValidator)
 add_subdirectory(Algorithms/Tasks.3501.4000/3623.CountNumberOfTrapezoids1 bin/3623.CountNumberOfTrapezoids1)

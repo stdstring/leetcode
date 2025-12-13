@@ -1703,4 +1703,5 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/)
 * [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/)
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
+* [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/)
