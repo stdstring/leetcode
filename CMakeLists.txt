@@ -1603,6 +1603,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3047.FindMaxSquareAreaInside2Rectang
 add_subdirectory(Algorithms/Tasks.3001.3500/3066.MinOpsExceedThresholdValue2 bin/3066.MinOpsExceedThresholdValue2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3070.CountSubmatricesWithSumLessThanK bin/3070.CountSubmatricesWithSumLessThanK)
 add_subdirectory(Algorithms/Tasks.3001.3500/3071.MinOperationsWriteLetterYOnGrid bin/3071.MinOperationsWriteLetterYOnGrid)
+add_subdirectory(Algorithms/Tasks.3001.3500/3074.AppleRedistributionIntoBoxes bin/3074.AppleRedistributionIntoBoxes)
 add_subdirectory(Algorithms/Tasks.3001.3500/3075.MaxHappinessOfSelectedChildren bin/3075.MaxHappinessOfSelectedChildren)
 add_subdirectory(Algorithms/Tasks.3001.3500/3076.ShortestUncommonSubstrInArray bin/3076.ShortestUncommonSubstrInArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3081.ReplaceQMarksInStringMinItsValue bin/3081.ReplaceQMarksInStringMinItsValue)
