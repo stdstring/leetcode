@@ -522,6 +522,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0747.LargestNumberAtLeastTwiceOthers
 add_subdirectory(Algorithms/Tasks.0501.1000/0748.ShortestCompletingWord bin/0748.ShortestCompletingWord)
 add_subdirectory(Algorithms/Tasks.0501.1000/0752.OpenLock bin/0752.OpenLock)
 add_subdirectory(Algorithms/Tasks.0501.1000/0754.ReachNumber bin/0754.ReachNumber)
+add_subdirectory(Algorithms/Tasks.0501.1000/0756.PyramidTransitionMatrix bin/0756.PyramidTransitionMatrix)
 add_subdirectory(Algorithms/Tasks.0501.1000/0762.PrimeNumberOfSetBitsInBinRepr bin/0762.PrimeNumberOfSetBitsInBinRepr)
 add_subdirectory(Algorithms/Tasks.0501.1000/0763.PartitionLabels bin/0763.PartitionLabels)
 add_subdirectory(Algorithms/Tasks.0501.1000/0764.LargestPlusSign bin/0764.LargestPlusSign)
