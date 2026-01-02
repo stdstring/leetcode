@@ -676,6 +676,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0955.DeleteColumnsToMakeSortedII bin
 add_subdirectory(Algorithms/Tasks.0501.1000/0957.PrisonCellsAfterNDays bin/0957.PrisonCellsAfterNDays)
 add_subdirectory(Algorithms/Tasks.0501.1000/0958.CheckCompletenessOfBinaryTree bin/0958.CheckCompletenessOfBinaryTree)
 add_subdirectory(Algorithms/Tasks.0501.1000/0959.RegionsCutBySlashes bin/0959.RegionsCutBySlashes)
+add_subdirectory(Algorithms/Tasks.0501.1000/0961.NRepeatedElementInSize2NArray bin/0961.NRepeatedElementInSize2NArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0962.MaxWidthRamp bin/0962.MaxWidthRamp)
 add_subdirectory(Algorithms/Tasks.0501.1000/0963.MinAreaRectangle2 bin/0963.MinAreaRectangle2)
 add_subdirectory(Algorithms/Tasks.0501.1000/0965.UnivaluedBinaryTree bin/0965.UnivaluedBinaryTree)

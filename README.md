@@ -665,6 +665,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 * [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
 * [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/)
+* [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
 * [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)
 * [963. Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/description/)
 * [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
