@@ -918,6 +918,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
+* [1411. Number of Ways to Paint N x 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/)
 * [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/)
 * [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
 * [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)

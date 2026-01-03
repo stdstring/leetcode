@@ -929,6 +929,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1404.NumberOfStepsToReduceBinaryNumb
 add_subdirectory(Algorithms/Tasks.1001.1500/1405.LongestHappyString bin/1405.LongestHappyString)
 add_subdirectory(Algorithms/Tasks.1001.1500/1408.StringMatchingInArray bin/1408.StringMatchingInArray)
 add_subdirectory(Algorithms/Tasks.1001.1500/1410.HTMLEntityParser bin/1410.HTMLEntityParser)
+add_subdirectory(Algorithms/Tasks.1001.1500/1411.NumberWaysPaintN3Grid bin/1411.NumberWaysPaintN3Grid)
 add_subdirectory(Algorithms/Tasks.1001.1500/1413.MinValueToGetPositiveStepByStepSum bin/1413.MinValueToGetPositiveStepByStepSum)
 add_subdirectory(Algorithms/Tasks.1001.1500/1414.FindMinNumOfFibonacciNumsWhoseSumK bin/1414.FindMinNumOfFibonacciNumsWhoseSumK)
 add_subdirectory(Algorithms/Tasks.1001.1500/1415.KLexStringOfAllHappyStringsLengthN bin/1415.KLexStringOfAllHappyStringsLengthN)
