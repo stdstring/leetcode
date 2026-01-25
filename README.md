@@ -1173,6 +1173,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
 * [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 * [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/)
+* [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)
 * [1985. Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/description/)
 * [1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/)
 * [1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/description/)

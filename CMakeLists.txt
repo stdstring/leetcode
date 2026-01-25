@@ -1184,6 +1184,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1971.FindIfPathExistsInGraph bin/197
 add_subdirectory(Algorithms/Tasks.1501.2000/1975.MaxMatrixSum bin/1975.MaxMatrixSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1976.NumberWaysArriveAtDestination bin/1976.NumberWaysArriveAtDestination)
 add_subdirectory(Algorithms/Tasks.1501.2000/1980.FindUniqueBinaryString bin/1980.FindUniqueBinaryString)
+add_subdirectory(Algorithms/Tasks.1501.2000/1984.MinDiffBetweenHighestLowestKScores bin/1984.MinDiffBetweenHighestLowestKScores)
 add_subdirectory(Algorithms/Tasks.1501.2000/1985.FindKthLargestIntegerInArray bin/1985.FindKthLargestIntegerInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1992.FindAllGroupsFarmland bin/1992.FindAllGroupsFarmland)
 add_subdirectory(Algorithms/Tasks.1501.2000/1993.OperationsOnTree bin/1993.OperationsOnTree)
