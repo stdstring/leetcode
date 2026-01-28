@@ -1713,3 +1713,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
 * [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/)
+* [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/)
