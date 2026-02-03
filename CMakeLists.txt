@@ -1725,4 +1725,5 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3541.FindMostFrequentVowelConsonant 
 add_subdirectory(Algorithms/Tasks.3501.4000/3583.CountSpecialTriplets bin/3583.CountSpecialTriplets)
 add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.CouponCodeValidator)
 add_subdirectory(Algorithms/Tasks.3501.4000/3623.CountNumberOfTrapezoids1 bin/3623.CountNumberOfTrapezoids1)
+add_subdirectory(Algorithms/Tasks.3501.4000/3637.TrionicArray1 bin/3637.TrionicArray1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3650.MinCostPathWithEdgeReversals bin/3650.MinCostPathWithEdgeReversals)
