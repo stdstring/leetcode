@@ -471,6 +471,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
 * [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
+* [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 * [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 * [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 * [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
