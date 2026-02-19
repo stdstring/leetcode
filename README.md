@@ -1719,3 +1719,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
 * [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/)
+* [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/)
