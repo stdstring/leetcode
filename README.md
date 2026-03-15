@@ -1031,6 +1031,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 * [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/)
 * [1616. Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/description/)
+* [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/)
 * [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/)
 * [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
 * [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
