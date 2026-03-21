@@ -1731,5 +1731,6 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.Co
 add_subdirectory(Algorithms/Tasks.3501.4000/3623.CountNumberOfTrapezoids1 bin/3623.CountNumberOfTrapezoids1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3634.MinRemovalsToBalanceArray bin/3634.MinRemovalsToBalanceArray)
 add_subdirectory(Algorithms/Tasks.3501.4000/3637.TrionicArray1 bin/3637.TrionicArray1)
+add_subdirectory(Algorithms/Tasks.3501.4000/3643.FlipSquareSubmatrixVertically bin/3643.FlipSquareSubmatrixVertically)
 add_subdirectory(Algorithms/Tasks.3501.4000/3650.MinCostPathWithEdgeReversals bin/3650.MinCostPathWithEdgeReversals)
 add_subdirectory(Algorithms/Tasks.3501.4000/3713.LongestBalancedSubstring1 bin/3713.LongestBalancedSubstring1)
