@@ -1141,6 +1141,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/)
 * [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)
 * [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/)
+* [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/)
 * [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/)
 * [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)
 * [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/)

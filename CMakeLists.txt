@@ -1152,6 +1152,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctCh
 add_subdirectory(Algorithms/Tasks.1501.2000/1877.MinMaxPairSumInArray bin/1877.MinMaxPairSumInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1878.GetBiggest3RhombusSumsInGrid bin/1878.GetBiggest3RhombusSumsInGrid)
 add_subdirectory(Algorithms/Tasks.1501.2000/1881.MaxValueAfterInsertion bin/1881.MaxValueAfterInsertion)
+add_subdirectory(Algorithms/Tasks.1501.2000/1886.CanMatrixBeObtainedByRotation bin/1886.CanMatrixBeObtainedByRotation)
 add_subdirectory(Algorithms/Tasks.1501.2000/1887.ReductionOpsMakeArrayElementsEqual bin/1887.ReductionOpsMakeArrayElementsEqual)
 add_subdirectory(Algorithms/Tasks.1501.2000/1894.FindStudentThatWillReplaceChalk bin/1894.FindStudentThatWillReplaceChalk)
 add_subdirectory(Algorithms/Tasks.1501.2000/1895.LargestMagicSquare bin/1895.LargestMagicSquare)
