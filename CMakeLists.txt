@@ -159,6 +159,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0150.EvaluateReversePolishNotation b
 add_subdirectory(Algorithms/Tasks.0001.0500/0151.ReverseWordsInString bin/0151.ReverseWordsInString)
 add_subdirectory(Algorithms/Tasks.0001.0500/0152.MaximumProductSubarray bin/0152.MaximumProductSubarray)
 add_subdirectory(Algorithms/Tasks.0001.0500/0153.FindMinimumInRotatedSortedArray bin/0153.FindMinimumInRotatedSortedArray)
+add_subdirectory(Algorithms/Tasks.0001.0500/0154.FindMinInRotatedSortedArray2 bin/0154.FindMinInRotatedSortedArray2)
 add_subdirectory(Algorithms/Tasks.0001.0500/0155.MinStack bin/0155.MinStack)
 add_subdirectory(Algorithms/Tasks.0001.0500/0160.IntersectionOfTwoLinkedLists bin/0160.IntersectionOfTwoLinkedLists)
 add_subdirectory(Algorithms/Tasks.0001.0500/0162.FindPeakElement bin/0162.FindPeakElement)
