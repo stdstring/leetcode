@@ -1529,6 +1529,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/description/)
 * [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/description/)
 * [2834. Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/)
+* [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/)
 * [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 * [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/)
 * [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/)
