@@ -1708,6 +1708,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3396.MinNumberOperationsMakeArrayDis
 add_subdirectory(Algorithms/Tasks.3001.3500/3397.MaxNumberDistinctElementsAfterOps bin/3397.MaxNumberDistinctElementsAfterOps)
 add_subdirectory(Algorithms/Tasks.3001.3500/3403.FindLexLargestStringFromBox1 bin/3403.FindLexLargestStringFromBox1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3408.DesignTaskManager bin/3408.DesignTaskManager)
+add_subdirectory(Algorithms/Tasks.3001.3500/3418.MaxAmountMoneyRobotCanEarn bin/3418.MaxAmountMoneyRobotCanEarn)
 add_subdirectory(Algorithms/Tasks.3001.3500/3423.MaxDiffBetweenElementsInCircularArray bin/3423.MaxDiffBetweenElementsInCircularArray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3432.CountPartitionsWithEvenSumDiff bin/3432.CountPartitionsWithEvenSumDiff)
 add_subdirectory(Algorithms/Tasks.3001.3500/3433.CountMentionsPerUser bin/3433.CountMentionsPerUser)
