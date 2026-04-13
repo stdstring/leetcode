@@ -1131,6 +1131,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/description/)
 * [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/)
 * [1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/)
+* [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/)
 * [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
 * [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/)
 * [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/)
