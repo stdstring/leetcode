@@ -1219,6 +1219,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
 * [2074. Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
 * [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/)
+* [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/)
 * [2079. Watering Plants](https://leetcode.com/problems/watering-plants/description/)
 * [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/description/)
 * [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
