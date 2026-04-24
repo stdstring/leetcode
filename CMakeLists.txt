@@ -1543,6 +1543,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2825.MakeStringSubseqUsingCyclicInc 
 add_subdirectory(Algorithms/Tasks.2501.3000/2828.CheckIfStringIsAcronymOfWords bin/2828.CheckIfStringIsAcronymOfWords)
 add_subdirectory(Algorithms/Tasks.2501.3000/2829.DetermineMinSumOfKAvoidingArray bin/2829.DetermineMinSumOfKAvoidingArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2831.FindLongestEqualSubarray bin/2831.FindLongestEqualSubarray)
+add_subdirectory(Algorithms/Tasks.2501.3000/2833.FurthestPointFromOrigin bin/2833.FurthestPointFromOrigin)
 add_subdirectory(Algorithms/Tasks.2501.3000/2834.FindMinPossibleSumOfBeautifulArray bin/2834.FindMinPossibleSumOfBeautifulArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2839.CheckStringsCanMadeEqualOperations1 bin/2839.CheckStringsCanMadeEqualOperations1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2840.CheckStringsCanMadeEqualWithOps2 bin/2840.CheckStringsCanMadeEqualWithOps2)
