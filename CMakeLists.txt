@@ -1751,5 +1751,6 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3661.MaxWallsDestroyedByRobots bin/3
 add_subdirectory(Algorithms/Tasks.3501.4000/3713.LongestBalancedSubstring1 bin/3713.LongestBalancedSubstring1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3740.MinDistanceBetween3EqualElements1 bin/3740.MinDistanceBetween3EqualElements1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3741.MinDistanceBetween3EqualElements2 bin/3741.MinDistanceBetween3EqualElements2)
+add_subdirectory(Algorithms/Tasks.3501.4000/3742.MaxPathScoreInGrid bin/3742.MaxPathScoreInGrid)
 add_subdirectory(Algorithms/Tasks.3501.4000/3761.MinAbsDistanceBetweenMirrorPairs bin/3761.MinAbsDistanceBetweenMirrorPairs)
 add_subdirectory(Algorithms/Tasks.3501.4000/3783.MirrorDistanceOfInteger bin/3783.MirrorDistanceOfInteger)
