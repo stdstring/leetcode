@@ -1456,6 +1456,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2546.ApplyBitwiseOpsMakeStringsEqual
 add_subdirectory(Algorithms/Tasks.2501.3000/2549.CountDistinctNumbersOnBoard bin/2549.CountDistinctNumbersOnBoard)
 add_subdirectory(Algorithms/Tasks.2501.3000/2550.CountCollisionsMonkeysOnPolygon bin/2550.CountCollisionsMonkeysOnPolygon)
 add_subdirectory(Algorithms/Tasks.2501.3000/2551.PutMarblesInBags bin/2551.PutMarblesInBags)
+add_subdirectory(Algorithms/Tasks.2501.3000/2553.SeparateDigitsInArray bin/2553.SeparateDigitsInArray)
 add_subdirectory(Algorithms/Tasks.2501.3000/2554.MaxNumberToChooseFromRange1 bin/2554.MaxNumberToChooseFromRange1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2558.TakeGiftsFromRichestPile bin/2558.TakeGiftsFromRichestPile)
 add_subdirectory(Algorithms/Tasks.2501.3000/2559.CountVowelStringsInRanges bin/2559.CountVowelStringsInRanges)
