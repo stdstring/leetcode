@@ -1058,6 +1058,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/)
 * [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/)
 * [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
+* [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/)
 * [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/)
 * [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)

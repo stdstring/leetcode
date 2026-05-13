@@ -1069,6 +1069,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1664.WaysToMakeFairArray bin/1664.Wa
 add_subdirectory(Algorithms/Tasks.1501.2000/1669.MergeInBetweenLinkedLists bin/1669.MergeInBetweenLinkedLists)
 add_subdirectory(Algorithms/Tasks.1501.2000/1670.DesignFrontMiddleBackQueue bin/1670.DesignFrontMiddleBackQueue)
 add_subdirectory(Algorithms/Tasks.1501.2000/1672.RichestCustomerWealth bin/1672.RichestCustomerWealth)
+add_subdirectory(Algorithms/Tasks.1501.2000/1674.MinMovesMakeArrayComplementary bin/1674.MinMovesMakeArrayComplementary)
 add_subdirectory(Algorithms/Tasks.1501.2000/1675.MinimizeDeviationInArray bin/1675.MinimizeDeviationInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1678.GoalParserInterpretation bin/1678.GoalParserInterpretation)
 add_subdirectory(Algorithms/Tasks.1501.2000/1679.MaxNumberOfKSumPairs bin/1679.MaxNumberOfKSumPairs)
