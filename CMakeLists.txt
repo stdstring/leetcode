@@ -1532,6 +1532,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2770.MaxNumberJumpsToReachLastIndex 
 add_subdirectory(Algorithms/Tasks.2501.3000/2779.MaxBeautyOfArrayAfterOperation bin/2779.MaxBeautyOfArrayAfterOperation)
 add_subdirectory(Algorithms/Tasks.2501.3000/2780.MinIndexOfValidSplit bin/2780.MinIndexOfValidSplit)
 add_subdirectory(Algorithms/Tasks.2501.3000/2781.LengthOfLongestValidSubstring bin/2781.LengthOfLongestValidSubstring)
+add_subdirectory(Algorithms/Tasks.2501.3000/2784.CheckIfArrayGood bin/2784.CheckIfArrayGood)
 add_subdirectory(Algorithms/Tasks.2501.3000/2785.SortVowelsInString bin/2785.SortVowelsInString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2787.WaysExpressIntegerAsPowersSum bin/2787.WaysExpressIntegerAsPowersSum)
 add_subdirectory(Algorithms/Tasks.2501.3000/2799.CountCompleteSubarraysInArray bin/2799.CountCompleteSubarraysInArray)

@@ -1521,6 +1521,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)
 * [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/)
 * [2781. Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/)
+* [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/)
 * [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)
 * [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)
 * [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/)
