@@ -1628,6 +1628,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/)
 * [3111. Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)
 * [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/)
+* [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/)
 * [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)
 * [3132. Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/)
 * [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/)

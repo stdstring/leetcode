@@ -1639,6 +1639,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3108.MinCostWalkInWeightedGraph bin/
 add_subdirectory(Algorithms/Tasks.3001.3500/3110.ScoreOfString bin/3110.ScoreOfString)
 add_subdirectory(Algorithms/Tasks.3001.3500/3111.MinRectanglesToCoverPoints bin/3111.MinRectanglesToCoverPoints)
 add_subdirectory(Algorithms/Tasks.3001.3500/3115.MaxPrimeDifference bin/3115.MaxPrimeDifference)
+add_subdirectory(Algorithms/Tasks.3001.3500/3120.CountNumberOfSpecialChars1 bin/3120.CountNumberOfSpecialChars1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3121.CountNumberOfSpecialChars2 bin/3121.CountNumberOfSpecialChars2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3132.FindIntegerAddedToArray2 bin/3132.FindIntegerAddedToArray2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3133.MinArrayEnd bin/3133.MinArrayEnd)
