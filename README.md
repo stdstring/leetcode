@@ -1677,6 +1677,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3265. Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/description/)
 * [3271. Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/)
 * [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)
+* [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)
 * [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/)
 * [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
 * [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/)
