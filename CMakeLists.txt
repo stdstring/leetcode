@@ -1266,6 +1266,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2138.DivideStringIntoGroupsSizeK bin
 add_subdirectory(Algorithms/Tasks.2001.2500/2139.MinMovesToReachTargetScore bin/2139.MinMovesToReachTargetScore)
 add_subdirectory(Algorithms/Tasks.2001.2500/2140.SolvingQuestionsWithBrainpower bin/2140.SolvingQuestionsWithBrainpower)
 add_subdirectory(Algorithms/Tasks.2001.2500/2141.MaxRunningTimeOfNComputers bin/2141.MaxRunningTimeOfNComputers)
+add_subdirectory(Algorithms/Tasks.2001.2500/2144.MinCostBuyingCandiesWithDiscount bin/2144.MinCostBuyingCandiesWithDiscount)
 add_subdirectory(Algorithms/Tasks.2001.2500/2145.CountHiddenSequences bin/2145.CountHiddenSequences)
 add_subdirectory(Algorithms/Tasks.2001.2500/2147.NumberOfWaysToDivideLongCorridor bin/2147.NumberOfWaysToDivideLongCorridor)
 add_subdirectory(Algorithms/Tasks.2001.2500/2149.RearrangeArrayElementsBySign bin/2149.RearrangeArrayElementsBySign)
