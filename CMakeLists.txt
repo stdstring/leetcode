@@ -1748,6 +1748,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3567.MinAbsoluteDiffSlidingSubmatrix
 add_subdirectory(Algorithms/Tasks.3501.4000/3583.CountSpecialTriplets bin/3583.CountSpecialTriplets)
 add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.CouponCodeValidator)
 add_subdirectory(Algorithms/Tasks.3501.4000/3623.CountNumberOfTrapezoids1 bin/3623.CountNumberOfTrapezoids1)
+add_subdirectory(Algorithms/Tasks.3501.4000/3633.EarliestFinishTime4LandWaterRides1 bin/3633.EarliestFinishTime4LandWaterRides1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3634.MinRemovalsToBalanceArray bin/3634.MinRemovalsToBalanceArray)
 add_subdirectory(Algorithms/Tasks.3501.4000/3637.TrionicArray1 bin/3637.TrionicArray1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3643.FlipSquareSubmatrixVertically bin/3643.FlipSquareSubmatrixVertically)

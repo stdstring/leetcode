@@ -1737,6 +1737,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
 * [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/)
+* [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 * [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)
 * [3643. Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/description/)
