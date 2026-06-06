@@ -1460,6 +1460,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2568. Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/description/)
 * [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)
 * [2571. Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/)
+* [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)
 * [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)
 * [2576. Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/description/)
 * [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/)

@@ -1471,6 +1471,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2567.MinScoreByChangingTwoElements b
 add_subdirectory(Algorithms/Tasks.2501.3000/2568.MinImpossibleOR bin/2568.MinImpossibleOR)
 add_subdirectory(Algorithms/Tasks.2501.3000/2570.MergeTwo2DArraysBySumValues bin/2570.MergeTwo2DArraysBySumValues)
 add_subdirectory(Algorithms/Tasks.2501.3000/2571.MinOpsReduceIntegerTo0 bin/2571.MinOpsReduceIntegerTo0)
+add_subdirectory(Algorithms/Tasks.2501.3000/2574.LeftRightSumDifferences bin/2574.LeftRightSumDifferences)
 add_subdirectory(Algorithms/Tasks.2501.3000/2575.FindDivisibilityArrayOfString bin/2575.FindDivisibilityArrayOfString)
 add_subdirectory(Algorithms/Tasks.2501.3000/2576.FindMaxNumberOfMarkedIndices bin/2576.FindMaxNumberOfMarkedIndices)
 add_subdirectory(Algorithms/Tasks.2501.3000/2579.CountTotalNumberColoredCells bin/2579.CountTotalNumberColoredCells)
