@@ -1766,3 +1766,4 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3742.MaxPathScoreInGrid bin/3742.Max
 add_subdirectory(Algorithms/Tasks.3501.4000/3751.TotalWavinessOfNumbersInRange1 bin/3751.TotalWavinessOfNumbersInRange1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3761.MinAbsDistanceBetweenMirrorPairs bin/3761.MinAbsDistanceBetweenMirrorPairs)
 add_subdirectory(Algorithms/Tasks.3501.4000/3783.MirrorDistanceOfInteger bin/3783.MirrorDistanceOfInteger)
+add_subdirectory(Algorithms/Tasks.3501.4000/3838.WeightedWordMapping bin/3838.WeightedWordMapping)

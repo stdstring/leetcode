@@ -1755,3 +1755,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/)
 * [3761. Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/)
 * [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
+* [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
