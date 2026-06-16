@@ -1738,6 +1738,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3567. Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/)
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
 * [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
+* [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/)
 * [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
 * [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
