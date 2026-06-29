@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.7 FATAL_ERROR)
 
 project(LeetCodeTasks CXX)
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include_directories("external/googletest/include")
@@ -1186,6 +1186,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1958.CheckIfMoveIsLegal bin/1958.Che
 add_subdirectory(Algorithms/Tasks.1501.2000/1962.RemoveStonesToMinimizeTotal bin/1962.RemoveStonesToMinimizeTotal)
 add_subdirectory(Algorithms/Tasks.1501.2000/1963.MinNumberSwapsMakeStringBalanced bin/1963.MinNumberSwapsMakeStringBalanced)
 add_subdirectory(Algorithms/Tasks.1501.2000/1964.FindLongestValidObstacleCourse bin/1964.FindLongestValidObstacleCourse)
+add_subdirectory(Algorithms/Tasks.1501.2000/1967.NumberStringsThatAppearAsSubstrings bin/1967.NumberStringsThatAppearAsSubstrings)
 add_subdirectory(Algorithms/Tasks.1501.2000/1968.ArrayWithElementsNEqAverageNeighbors bin/1968.ArrayWithElementsNEqAverageNeighbors)
 add_subdirectory(Algorithms/Tasks.1501.2000/1971.FindIfPathExistsInGraph bin/1971.FindIfPathExistsInGraph)
 add_subdirectory(Algorithms/Tasks.1501.2000/1975.MaxMatrixSum bin/1975.MaxMatrixSum)
