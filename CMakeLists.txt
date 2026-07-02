@@ -1690,6 +1690,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3259.MaxEnergyBoostFromTwoDrinks bin
 add_subdirectory(Algorithms/Tasks.3001.3500/3264.FinalArrayStateAfterKMultOps1 bin/3264.FinalArrayStateAfterKMultOps1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3265.CountAlmostEqualPairs1 bin/3265.CountAlmostEqualPairs1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3271.HashDividedString bin/3271.HashDividedString)
+add_subdirectory(Algorithms/Tasks.3001.3500/3286.FindSafeWalkThroughGrid bin/3286.FindSafeWalkThroughGrid)
 add_subdirectory(Algorithms/Tasks.3001.3500/3289.TwoSneakyNumbersOfDigitville bin/3289.TwoSneakyNumbersOfDigitville)
 add_subdirectory(Algorithms/Tasks.3001.3500/3300.MinElementAfterReplaceWithDigitSum bin/3300.MinElementAfterReplaceWithDigitSum)
 add_subdirectory(Algorithms/Tasks.3001.3500/3304.FindKCharacterInStringGame1 bin/3304.FindKCharacterInStringGame1)
