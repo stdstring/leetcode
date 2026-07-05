@@ -845,6 +845,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1297. Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/)
 * [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/)
 * [1300. Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/)
+* [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/)
 * [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)
 * [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)
