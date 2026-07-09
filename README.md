@@ -1734,6 +1734,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/)
 * [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/)
+* [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/)
 * [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/)
 * [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/description/)
 * [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/description/)
