@@ -1741,6 +1741,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3484.DesignSpreadsheet bin/3484.Desi
 add_subdirectory(Algorithms/Tasks.3001.3500/3487.MaxUniqueSubarraySumAfterDeletion bin/3487.MaxUniqueSubarraySumAfterDeletion)
 add_subdirectory(Algorithms/Tasks.3001.3500/3488.ClosestEqualElementQueries bin/3488.ClosestEqualElementQueries)
 add_subdirectory(Algorithms/Tasks.3001.3500/3494.FindMinAmountOfTimeToBrewPotions bin/3494.FindMinAmountOfTimeToBrewPotions)
+add_subdirectory(Algorithms/Tasks.3001.3500/3499.MaxActiveSectionWithTrade1 bin/3499.MaxActiveSectionWithTrade1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3507.MinPairRemovalToSortArray1 bin/3507.MinPairRemovalToSortArray1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3508.ImplementRouter bin/3508.ImplementRouter)
 add_subdirectory(Algorithms/Tasks.3501.4000/3512.MinOpsMakeArraySumDivisibleByK bin/3512.MinOpsMakeArraySumDivisibleByK)
