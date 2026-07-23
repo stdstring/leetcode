@@ -1734,6 +1734,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/)
 * [3508. Implement Router](https://leetcode.com/problems/implement-router/description/)
 * [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/)
+* [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/)
 * [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/)
 * [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/)
