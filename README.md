@@ -1737,6 +1737,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3513. Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/description/)
 * [3514. Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/)
 * [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)
+* [3517. Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/description/)
 * [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/)
 * [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/)
 * [3536. Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/description/)
