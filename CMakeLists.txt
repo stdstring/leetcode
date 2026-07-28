@@ -1748,6 +1748,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3512.MinOpsMakeArraySumDivisibleByK 
 add_subdirectory(Algorithms/Tasks.3501.4000/3513.NumberUniqueXORTriplets1 bin/3513.NumberUniqueXORTriplets1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3514.NumberUniqueXORTriplets2 bin/3514.NumberUniqueXORTriplets2)
 add_subdirectory(Algorithms/Tasks.3501.4000/3516.FindClosestPerson bin/3516.FindClosestPerson)
+add_subdirectory(Algorithms/Tasks.3501.4000/3517.SmallestPalindromicRearrangement1 bin/3517.SmallestPalindromicRearrangement1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3531.CountCoveredBuildings bin/3531.CountCoveredBuildings)
 add_subdirectory(Algorithms/Tasks.3501.4000/3532.PathExistenceQueriesInGraph1 bin/3532.PathExistenceQueriesInGraph1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3536.MaxProductTwoDigits bin/3536.MaxProductTwoDigits)
