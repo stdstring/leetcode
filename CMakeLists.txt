@@ -1609,6 +1609,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3005.CountElementsWithMaxFreq bin/30
 add_subdirectory(Algorithms/Tasks.3001.3500/3006.FindBeautifulIndicesInGivenArray1 bin/3006.FindBeautifulIndicesInGivenArray1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3010.DivideArrayIntoSubarraysWithMinCost1 bin/3010.DivideArrayIntoSubarraysWithMinCost1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3011.FindIfArrayCanBeSorted bin/3011.FindIfArrayCanBeSorted)
+add_subdirectory(Algorithms/Tasks.3001.3500/3014.MinNumberPushes2TypeWord1 bin/3014.MinNumberPushes2TypeWord1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3015.CountNumberHousesAtCertainDistance1 bin/3015.CountNumberHousesAtCertainDistance1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3016.MinNumberPushesToTypeWord2 bin/3016.MinNumberPushesToTypeWord2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3020.FindMaxNumberOfElementsInSubset bin/3020.FindMaxNumberOfElementsInSubset)
