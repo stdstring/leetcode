@@ -919,6 +919,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)
 * [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/)
 * [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)
+* [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)
 * [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/)
 * [1411. Number of Ways to Paint N x 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/)
