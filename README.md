@@ -1763,6 +1763,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)
 * [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/)
+* [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/)
 * [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/)
 * [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/)
 * [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/)
