@@ -1700,6 +1700,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3300.MinElementAfterReplaceWithDigit
 add_subdirectory(Algorithms/Tasks.3001.3500/3304.FindKCharacterInStringGame1 bin/3304.FindKCharacterInStringGame1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3306.CountSubstrsWithVowelKConsonants2 bin/3306.CountSubstrsWithVowelKConsonants2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3307.FindKCharacterInStringGame2 bin/3307.FindKCharacterInStringGame2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3310.RemoveMethodsFromProject bin/3310.RemoveMethodsFromProject)
 add_subdirectory(Algorithms/Tasks.3001.3500/3314.ConstructMinBitwiseArray1 bin/3314.ConstructMinBitwiseArray1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3315.ConstructMinBitwiseArray2 bin/3315.ConstructMinBitwiseArray2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3318.FindXSumOfAllKLongSubarrays1 bin/3318.FindXSumOfAllKLongSubarrays1)
