@@ -1709,6 +1709,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3330.FindOriginalTypedString1 bin/33
 add_subdirectory(Algorithms/Tasks.3001.3500/3335.TotalCharactersAfterTransform1 bin/3335.TotalCharactersAfterTransform1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3341.FindMinTimeToReachLastRoom1 bin/3341.FindMinTimeToReachLastRoom1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3342.FindMinTimeToReachLastRoom2 bin/3342.FindMinTimeToReachLastRoom2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3345.SmallestDivisibleDigitProduct1 bin/3345.SmallestDivisibleDigitProduct1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3349.AdjacentIncrSubarraysDetection1 bin/3349.AdjacentIncrSubarraysDetection1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3350.AdjacentIncrSubarraysDetection2 bin/3350.AdjacentIncrSubarraysDetection2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3354.MakeArrayElementsEqualZero bin/3354.MakeArrayElementsEqualZero)
