@@ -1602,6 +1602,7 @@ add_subdirectory(Algorithms/Tasks.2501.3000/2975.MaxSquareAreaByRemovingFences b
 add_subdirectory(Algorithms/Tasks.2501.3000/2976.MinCostConvertString1 bin/2976.MinCostConvertString1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2981.FindLongestSpecialSubstrOccursThrice1 bin/2981.FindLongestSpecialSubstrOccursThrice1)
 add_subdirectory(Algorithms/Tasks.2501.3000/2982.FindLongestSpecialSubstrOccursThrice2 bin/2982.FindLongestSpecialSubstrOccursThrice2)
+add_subdirectory(Algorithms/Tasks.2501.3000/2996.SmallestMissingIntGTSeqPrefixSum bin/2996.SmallestMissingIntGTSeqPrefixSum)
 add_subdirectory(Algorithms/Tasks.2501.3000/2997.MinNumberOpsMakeArrayXOREqual2K bin/2997.MinNumberOpsMakeArrayXOREqual2K)
 add_subdirectory(Algorithms/Tasks.3001.3500/3000.MaxAreaLongestDiagonalRectangle bin/3000.MaxAreaLongestDiagonalRectangle)
 add_subdirectory(Algorithms/Tasks.3001.3500/3001.MinMovesToCaptureQueen bin/3001.MinMovesToCaptureQueen)
