@@ -1202,6 +1202,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/description/)
 * [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)
 * [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)
+* [2029. Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/)
 * [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 * [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/description/)
 * [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
