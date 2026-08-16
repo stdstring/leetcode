@@ -1213,6 +1213,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2022.Convert1DArrayInto2DArray bin/2
 add_subdirectory(Algorithms/Tasks.2001.2500/2023.NumberPairsOfStringsWithConcatEqualTarget bin/2023.NumberPairsOfStringsWithConcatEqualTarget)
 add_subdirectory(Algorithms/Tasks.2001.2500/2024.MaximizeConfusionOfExam bin/2024.MaximizeConfusionOfExam)
 add_subdirectory(Algorithms/Tasks.2001.2500/2028.FindMissingObservations bin/2028.FindMissingObservations)
+add_subdirectory(Algorithms/Tasks.2001.2500/2029.StoneGameIX bin/2029.StoneGameIX)
 add_subdirectory(Algorithms/Tasks.2001.2500/2033.MinOperationsToMakeUniValueGrid bin/2033.MinOperationsToMakeUniValueGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2034.StockPriceFluctuation bin/2034.StockPriceFluctuation)
 add_subdirectory(Algorithms/Tasks.2001.2500/2037.MinNumberMovesToSeatEveryone bin/2037.MinNumberMovesToSeatEveryone)
