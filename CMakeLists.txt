@@ -1176,6 +1176,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1921.EliminateMaxNumberMonsters bin/
 add_subdirectory(Algorithms/Tasks.1501.2000/1922.CountGoodNumbers bin/1922.CountGoodNumbers)
 add_subdirectory(Algorithms/Tasks.1501.2000/1925.CountSquareSumTriples bin/1925.CountSquareSumTriples)
 add_subdirectory(Algorithms/Tasks.1501.2000/1926.NearestExitFromEntranceInMaze bin/1926.NearestExitFromEntranceInMaze)
+add_subdirectory(Algorithms/Tasks.1501.2000/1927.SumGame bin/1927.SumGame)
 add_subdirectory(Algorithms/Tasks.1501.2000/1930.UniqueLength3PalindromicSubseq bin/1930.UniqueLength3PalindromicSubseq)
 add_subdirectory(Algorithms/Tasks.1501.2000/1935.MaxNumberOfWordsYouCanType bin/1935.MaxNumberOfWordsYouCanType)
 add_subdirectory(Algorithms/Tasks.1501.2000/1937.MaxNumberPointsWithCost bin/1937.MaxNumberPointsWithCost)
