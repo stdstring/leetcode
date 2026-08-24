@@ -1144,6 +1144,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/)
 * [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/)
 * [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/)
+* [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/)
 * [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/)
 * [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/)
 * [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)

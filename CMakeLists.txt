@@ -1155,6 +1155,7 @@ add_subdirectory(Algorithms/Tasks.1501.2000/1863.SumAllSubsetXORTotals bin/1863.
 add_subdirectory(Algorithms/Tasks.1501.2000/1865.FindingPairsWithCertainSum bin/1865.FindingPairsWithCertainSum)
 add_subdirectory(Algorithms/Tasks.1501.2000/1870.MinSpeedToArriveOnTime bin/1870.MinSpeedToArriveOnTime)
 add_subdirectory(Algorithms/Tasks.1501.2000/1871.JumpGameVII bin/1871.JumpGameVII)
+add_subdirectory(Algorithms/Tasks.1501.2000/1872.StoneGameVIII bin/1872.StoneGameVIII)
 add_subdirectory(Algorithms/Tasks.1501.2000/1876.SubstringsOfSize3WithDistinctChars bin/1876.SubstringsOfSize3WithDistinctChars)
 add_subdirectory(Algorithms/Tasks.1501.2000/1877.MinMaxPairSumInArray bin/1877.MinMaxPairSumInArray)
 add_subdirectory(Algorithms/Tasks.1501.2000/1878.GetBiggest3RhombusSumsInGrid bin/1878.GetBiggest3RhombusSumsInGrid)
