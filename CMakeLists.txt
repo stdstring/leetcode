@@ -1787,6 +1787,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3661.MaxWallsDestroyedByRobots bin/3
 add_subdirectory(Algorithms/Tasks.3501.4000/3689.MaxTotalSubarrayValue1 bin/3689.MaxTotalSubarrayValue1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3702.LongestSubseqWithNonZeroBitwiseXOR bin/3702.LongestSubseqWithNonZeroBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.3501.4000/3713.LongestBalancedSubstring1 bin/3713.LongestBalancedSubstring1)
+add_subdirectory(Algorithms/Tasks.3501.4000/3718.SmallestMissingMultipleOfK bin/3718.SmallestMissingMultipleOfK)
 add_subdirectory(Algorithms/Tasks.3501.4000/3731.FindMissingElements bin/3731.FindMissingElements)
 add_subdirectory(Algorithms/Tasks.3501.4000/3737.CountSubarraysWithMajorityElement1 bin/3737.CountSubarraysWithMajorityElement1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3739.CountSubarraysWithMajorityElement2 bin/3739.CountSubarraysWithMajorityElement2)

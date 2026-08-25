@@ -1776,6 +1776,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/)
 * [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/description/)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/)
+* [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/)
 * [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/)
 * [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/)
 * [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/)
