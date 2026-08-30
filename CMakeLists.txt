@@ -1245,6 +1245,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2080.RangeFrequencyQueries bin/2080.
 add_subdirectory(Algorithms/Tasks.2001.2500/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2090.KRadiusSubarrayAverages bin/2090.KRadiusSubarrayAverages)
+add_subdirectory(Algorithms/Tasks.2001.2500/2091.RemovingMinMaxFromArray bin/2091.RemovingMinMaxFromArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2092.FindAllPeopleWithSecret bin/2092.FindAllPeopleWithSecret)
 add_subdirectory(Algorithms/Tasks.2001.2500/2094.Finding3DigitEvenNumbers bin/2094.Finding3DigitEvenNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2095.DeleteMiddleNodeOfLinkedList bin/2095.DeleteMiddleNodeOfLinkedList)
