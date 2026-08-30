@@ -1234,6 +1234,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
 * [2087. Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
 * [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/)
+* [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/)
 * [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/)
 * [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/)
 * [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
