@@ -1802,3 +1802,4 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3761.MinAbsDistanceBetweenMirrorPair
 add_subdirectory(Algorithms/Tasks.3501.4000/3783.MirrorDistanceOfInteger bin/3783.MirrorDistanceOfInteger)
 add_subdirectory(Algorithms/Tasks.3501.4000/3838.WeightedWordMapping bin/3838.WeightedWordMapping)
 add_subdirectory(Algorithms/Tasks.3501.4000/3867.SumGCDFormedPairs bin/3867.SumGCDFormedPairs)
+add_subdirectory(Algorithms/Tasks.3501.4000/3875.ConstructUniformParityArray1 bin/3875.ConstructUniformParityArray1)
