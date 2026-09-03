@@ -1760,6 +1760,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3548. Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/description/)
 * [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/)
 * [3567. Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/description/)
+* [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/)
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
 * [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
 * [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/)

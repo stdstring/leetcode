@@ -1771,6 +1771,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3546.EqualSumGridPartition1 bin/3546
 add_subdirectory(Algorithms/Tasks.3501.4000/3548.EqualSumGridPartition2 bin/3548.EqualSumGridPartition2)
 add_subdirectory(Algorithms/Tasks.3501.4000/3558.NumberWaysAssignEdgeWeights1 bin/3558.NumberWaysAssignEdgeWeights1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3567.MinAbsoluteDiffSlidingSubmatrix bin/3567.MinAbsoluteDiffSlidingSubmatrix)
+add_subdirectory(Algorithms/Tasks.3501.4000/3568.MinMoves2CleanClassroom bin/3568.MinMoves2CleanClassroom)
 add_subdirectory(Algorithms/Tasks.3501.4000/3583.CountSpecialTriplets bin/3583.CountSpecialTriplets)
 add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.CouponCodeValidator)
 add_subdirectory(Algorithms/Tasks.3501.4000/3612.ProcessStringWithSpecialOps1 bin/3612.ProcessStringWithSpecialOps1)
