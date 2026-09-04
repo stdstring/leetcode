@@ -1805,3 +1805,4 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3838.WeightedWordMapping bin/3838.We
 add_subdirectory(Algorithms/Tasks.3501.4000/3867.SumGCDFormedPairs bin/3867.SumGCDFormedPairs)
 add_subdirectory(Algorithms/Tasks.3501.4000/3875.ConstructUniformParityArray1 bin/3875.ConstructUniformParityArray1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3876.ConstructUniformParityArray2 bin/3876.ConstructUniformParityArray2)
+add_subdirectory(Algorithms/Tasks.3501.4000/3903.SmallestStableIndex1 bin/3903.SmallestStableIndex1)
