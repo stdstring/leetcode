@@ -651,6 +651,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/)
 * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 * [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
+* [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/)
 * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
 * [942. DI String Match](https://leetcode.com/problems/di-string-match/description/)
 * [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)

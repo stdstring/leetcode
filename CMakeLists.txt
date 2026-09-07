@@ -662,6 +662,7 @@ add_subdirectory(Algorithms/Tasks.0501.1000/0935.KnightDialer bin/0935.KnightDia
 add_subdirectory(Algorithms/Tasks.0501.1000/0937.ReorderDataInLogFiles bin/0937.ReorderDataInLogFiles)
 add_subdirectory(Algorithms/Tasks.0501.1000/0938.RangeSumOfBST bin/0938.RangeSumOfBST)
 add_subdirectory(Algorithms/Tasks.0501.1000/0939.MinimumAreaRectangle bin/0939.MinimumAreaRectangle)
+add_subdirectory(Algorithms/Tasks.0501.1000/0940.DistinctSubsequences2 bin/0940.DistinctSubsequences2)
 add_subdirectory(Algorithms/Tasks.0501.1000/0941.ValidMountainArray bin/0941.ValidMountainArray)
 add_subdirectory(Algorithms/Tasks.0501.1000/0942.DIStringMatch bin/0942.DIStringMatch)
 add_subdirectory(Algorithms/Tasks.0501.1000/0944.DeleteColumnsToMakeSorted bin/0944.DeleteColumnsToMakeSorted)
