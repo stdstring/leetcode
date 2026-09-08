@@ -29,17 +29,17 @@ public:
 
 }
 
-namespace TwoSumTask
+namespace SumGCDFormedPairsTask
 {
 
-TEST(TwoSumTaskTests, Examples)
+TEST(SumGCDFormedPairsTaskTests, Examples)
 {
     constexpr Solution solution;
     ASSERT_EQ(2, solution.gcdSum({2, 6, 4}));
     ASSERT_EQ(5, solution.gcdSum({3, 6, 2, 8}));
 }
 
-TEST(TwoSumTaskTests, CustomExamples)
+TEST(SumGCDFormedPairsTaskTests, CustomExamples)
 {
     constexpr Solution solution;
     ASSERT_EQ(0, solution.gcdSum({2}));

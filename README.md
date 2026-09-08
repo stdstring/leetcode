@@ -1793,6 +1793,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
 * [3867. Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/)
+* [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/)
 * [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/)
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/)
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/)
