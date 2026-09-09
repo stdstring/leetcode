@@ -21,10 +21,10 @@ public:
 
 }
 
-namespace CountCommasInRangeTask
+namespace CountCommasInRange1Task
 {
 
-TEST(CountCommasInRangeTaskTests, Examples)
+TEST(CountCommasInRange1TaskTests, Examples)
 {
     constexpr Solution solution;
     ASSERT_EQ(3, solution.countCommas(1002));
