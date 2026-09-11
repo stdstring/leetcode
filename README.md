@@ -1741,6 +1741,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3471. Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)
 * [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/)
 * [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/)
+* [3483. Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/description/)
 * [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/)
 * [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
 * [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/description/)

@@ -1752,6 +1752,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3461.CheckIfDigitsEqualInStringAfter
 add_subdirectory(Algorithms/Tasks.3001.3500/3471.FindLargestAlmostMissingInt bin/3471.FindLargestAlmostMissingInt)
 add_subdirectory(Algorithms/Tasks.3001.3500/3477.FruitsIntoBaskets2 bin/3477.FruitsIntoBaskets2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3479.FruitsIntoBaskets3 bin/3479.FruitsIntoBaskets3)
+add_subdirectory(Algorithms/Tasks.3001.3500/3483.Unique3DigitEvenNumbers bin/3483.Unique3DigitEvenNumbers)
 add_subdirectory(Algorithms/Tasks.3001.3500/3484.DesignSpreadsheet bin/3484.DesignSpreadsheet)
 add_subdirectory(Algorithms/Tasks.3001.3500/3487.MaxUniqueSubarraySumAfterDeletion bin/3487.MaxUniqueSubarraySumAfterDeletion)
 add_subdirectory(Algorithms/Tasks.3001.3500/3488.ClosestEqualElementQueries bin/3488.ClosestEqualElementQueries)
