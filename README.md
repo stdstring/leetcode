@@ -572,6 +572,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)
 * [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 * [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
+* [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)
 * [837. New 21 Game](https://leetcode.com/problems/new-21-game/description/)
 * [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/)
 * [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
