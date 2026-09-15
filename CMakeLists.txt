@@ -1429,6 +1429,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2466.CountWaysToBuildGoodStrings bin
 add_subdirectory(Algorithms/Tasks.2001.2500/2467.MostProfitablePathInTree bin/2467.MostProfitablePathInTree)
 add_subdirectory(Algorithms/Tasks.2001.2500/2468.SplitMessageBasedOnLimit bin/2468.SplitMessageBasedOnLimit)
 add_subdirectory(Algorithms/Tasks.2001.2500/2471.MinNumberOpsToSortBinaryTreeByLevel bin/2471.MinNumberOpsToSortBinaryTreeByLevel)
+add_subdirectory(Algorithms/Tasks.2001.2500/2472.MaxNumberPalindromeSubstrings bin/2472.MaxNumberPalindromeSubstrings)
 add_subdirectory(Algorithms/Tasks.2001.2500/2476.ClosestNodesQueriesInBST bin/2476.ClosestNodesQueriesInBST)
 add_subdirectory(Algorithms/Tasks.2001.2500/2477.MinFuelCostToReportToCapital bin/2477.MinFuelCostToReportToCapital)
 add_subdirectory(Algorithms/Tasks.2001.2500/2482.DiffBetweenOnesZerosInRowColumn bin/2482.DiffBetweenOnesZerosInRowColumn)
