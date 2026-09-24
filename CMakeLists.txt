@@ -1774,6 +1774,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3536.MaxProductTwoDigits bin/3536.Ma
 add_subdirectory(Algorithms/Tasks.3501.4000/3541.FindMostFrequentVowelConsonant bin/3541.FindMostFrequentVowelConsonant)
 add_subdirectory(Algorithms/Tasks.3501.4000/3546.EqualSumGridPartition1 bin/3546.EqualSumGridPartition1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3548.EqualSumGridPartition2 bin/3548.EqualSumGridPartition2)
+add_subdirectory(Algorithms/Tasks.3501.4000/3550.SmallestIndexEqualDigitSum bin/3550.SmallestIndexEqualDigitSum)
 add_subdirectory(Algorithms/Tasks.3501.4000/3558.NumberWaysAssignEdgeWeights1 bin/3558.NumberWaysAssignEdgeWeights1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3567.MinAbsoluteDiffSlidingSubmatrix bin/3567.MinAbsoluteDiffSlidingSubmatrix)
 add_subdirectory(Algorithms/Tasks.3501.4000/3568.MinMoves2CleanClassroom bin/3568.MinMoves2CleanClassroom)
