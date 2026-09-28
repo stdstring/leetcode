@@ -774,6 +774,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1091.ShortestPathInBinaryMatrix bin/
 add_subdirectory(Algorithms/Tasks.1001.1500/1093.StatisticsFromLargeSample bin/1093.StatisticsFromLargeSample)
 add_subdirectory(Algorithms/Tasks.1001.1500/1094.CarPooling bin/1094.CarPooling)
 add_subdirectory(Algorithms/Tasks.1001.1500/1095.FindInMountainArray bin/1095.FindInMountainArray)
+add_subdirectory(Algorithms/Tasks.1001.1500/1096.BraceExpansion2 bin/1096.BraceExpansion2)
 add_subdirectory(Algorithms/Tasks.1001.1500/1104.PathInZigzagLabelledBinaryTree bin/1104.PathInZigzagLabelledBinaryTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1105.FillingBookcaseShelves bin/1105.FillingBookcaseShelves)
 add_subdirectory(Algorithms/Tasks.1001.1500/1106.ParsingBooleanExpression bin/1106.ParsingBooleanExpression)
