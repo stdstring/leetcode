@@ -241,6 +241,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0295.FindMedianFromDataStream bin/02
 add_subdirectory(Algorithms/Tasks.0001.0500/0297.SerializeAndDeserializeBinaryTree bin/0297.SerializeAndDeserializeBinaryTree)
 add_subdirectory(Algorithms/Tasks.0001.0500/0299.BullsAndCows bin/0299.BullsAndCows)
 add_subdirectory(Algorithms/Tasks.0001.0500/0300.LongestIncreasingSubsequence bin/0300.LongestIncreasingSubsequence)
+add_subdirectory(Algorithms/Tasks.0001.0500/0301.RemoveInvalidParentheses bin/0301.RemoveInvalidParentheses)
 add_subdirectory(Algorithms/Tasks.0001.0500/0303.RangeSumQueryImmutable bin/0303.RangeSumQueryImmutable)
 add_subdirectory(Algorithms/Tasks.0001.0500/0304.RangeSumQuery2DImmutable bin/0304.RangeSumQuery2DImmutable)
 add_subdirectory(Algorithms/Tasks.0001.0500/0306.AdditiveNumber bin/0306.AdditiveNumber)
