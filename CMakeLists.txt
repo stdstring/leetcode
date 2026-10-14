@@ -1802,6 +1802,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3689.MaxTotalSubarrayValue1 bin/3689
 add_subdirectory(Algorithms/Tasks.3501.4000/3702.LongestSubseqWithNonZeroBitwiseXOR bin/3702.LongestSubseqWithNonZeroBitwiseXOR)
 add_subdirectory(Algorithms/Tasks.3501.4000/3713.LongestBalancedSubstring1 bin/3713.LongestBalancedSubstring1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3718.SmallestMissingMultipleOfK bin/3718.SmallestMissingMultipleOfK)
+add_subdirectory(Algorithms/Tasks.3501.4000/3723.MaxSumOfDigitsSquares bin/3723.MaxSumOfDigitsSquares)
 add_subdirectory(Algorithms/Tasks.3501.4000/3727.MaxAlternatingSquaresSum bin/3727.MaxAlternatingSquaresSum)
 add_subdirectory(Algorithms/Tasks.3501.4000/3731.FindMissingElements bin/3731.FindMissingElements)
 add_subdirectory(Algorithms/Tasks.3501.4000/3737.CountSubarraysWithMajorityElement1 bin/3737.CountSubarraysWithMajorityElement1)
