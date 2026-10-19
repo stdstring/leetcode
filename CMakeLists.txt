@@ -1249,6 +1249,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2079.WateringPlants bin/2079.Waterin
 add_subdirectory(Algorithms/Tasks.2001.2500/2080.RangeFrequencyQueries bin/2080.RangeFrequencyQueries)
 add_subdirectory(Algorithms/Tasks.2001.2500/2081.SumOfKMirrorNumbers bin/2081.SumOfKMirrorNumbers)
 add_subdirectory(Algorithms/Tasks.2001.2500/2087.MinCostHomecomingOfRobotInGrid bin/2087.MinCostHomecomingOfRobotInGrid)
+add_subdirectory(Algorithms/Tasks.2001.2500/2089.FindTargetIndicesAfterSortingArray bin/2089.FindTargetIndicesAfterSortingArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2090.KRadiusSubarrayAverages bin/2090.KRadiusSubarrayAverages)
 add_subdirectory(Algorithms/Tasks.2001.2500/2091.RemovingMinMaxFromArray bin/2091.RemovingMinMaxFromArray)
 add_subdirectory(Algorithms/Tasks.2001.2500/2092.FindAllPeopleWithSecret bin/2092.FindAllPeopleWithSecret)

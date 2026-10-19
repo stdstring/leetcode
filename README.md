@@ -1238,6 +1238,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/description/)
 * [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
 * [2087. Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
+* [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
 * [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/)
 * [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/)
 * [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/)
