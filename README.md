@@ -1808,6 +1808,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3761. Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/)
 * [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
 * [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/)
+* [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/)
 * [3867. Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/)
 * [3870. Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/)
 * [3871. Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/)
