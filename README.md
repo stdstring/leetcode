@@ -1816,3 +1816,4 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/description/)
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/)
+* [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/)
