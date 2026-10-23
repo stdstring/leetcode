@@ -1797,6 +1797,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3634.MinRemovalsToBalanceArray bin/3
 add_subdirectory(Algorithms/Tasks.3501.4000/3635.EarliestFinishTime4LandWaterRides2 bin/3635.EarliestFinishTime4LandWaterRides2)
 add_subdirectory(Algorithms/Tasks.3501.4000/3637.TrionicArray1 bin/3637.TrionicArray1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3643.FlipSquareSubmatrixVertically bin/3643.FlipSquareSubmatrixVertically)
+add_subdirectory(Algorithms/Tasks.3501.4000/3644.MaxKToSortPermutation bin/3644.MaxKToSortPermutation)
 add_subdirectory(Algorithms/Tasks.3501.4000/3650.MinCostPathWithEdgeReversals bin/3650.MinCostPathWithEdgeReversals)
 add_subdirectory(Algorithms/Tasks.3501.4000/3653.XORAfterRangeMultiplicationQueries1 bin/3653.XORAfterRangeMultiplicationQueries1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3658.GCDOddEvenSums bin/3658.GCDOddEvenSums)
