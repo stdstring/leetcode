@@ -1790,6 +1790,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3568.MinMoves2CleanClassroom bin/356
 add_subdirectory(Algorithms/Tasks.3501.4000/3583.CountSpecialTriplets bin/3583.CountSpecialTriplets)
 add_subdirectory(Algorithms/Tasks.3501.4000/3606.CouponCodeValidator bin/3606.CouponCodeValidator)
 add_subdirectory(Algorithms/Tasks.3501.4000/3612.ProcessStringWithSpecialOps1 bin/3612.ProcessStringWithSpecialOps1)
+add_subdirectory(Algorithms/Tasks.3501.4000/3619.CountIslandsWithValueDivisibleByK bin/3619.CountIslandsWithValueDivisibleByK)
 add_subdirectory(Algorithms/Tasks.3501.4000/3622.CheckDivisibilityByDigitSumProduct bin/3622.CheckDivisibilityByDigitSumProduct)
 add_subdirectory(Algorithms/Tasks.3501.4000/3623.CountNumberOfTrapezoids1 bin/3623.CountNumberOfTrapezoids1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3633.EarliestFinishTime4LandWaterRides1 bin/3633.EarliestFinishTime4LandWaterRides1)
