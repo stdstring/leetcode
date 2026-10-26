@@ -1779,6 +1779,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)
 * [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/)
 * [3612. Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/description/)
+* [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/)
 * [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/)
 * [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/)
 * [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
