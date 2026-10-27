@@ -1830,3 +1830,4 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3876.ConstructUniformParityArray2 bi
 add_subdirectory(Algorithms/Tasks.3501.4000/3903.SmallestStableIndex1 bin/3903.SmallestStableIndex1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3904.SmallestStableIndex2 bin/3904.SmallestStableIndex2)
 add_subdirectory(Algorithms/Tasks.3501.4000/3942.MinOperationsToSortPermutation bin/3942.MinOperationsToSortPermutation)
+add_subdirectory(Algorithms/Tasks.3501.4000/3963.CreateGridWithExactlyOnePath bin/3963.CreateGridWithExactlyOnePath)
