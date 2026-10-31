@@ -1792,6 +1792,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3653. XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/)
 * [3658. GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/description/)
 * [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)
+* [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/)
 * [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/)
 * [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/description/)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/)
