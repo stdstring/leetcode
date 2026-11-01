@@ -343,6 +343,7 @@ add_subdirectory(Algorithms/Tasks.0001.0500/0449.SerializeAndDeserializeBST bin/
 add_subdirectory(Algorithms/Tasks.0001.0500/0450.DeleteNodeInBST bin/0450.DeleteNodeInBST)
 add_subdirectory(Algorithms/Tasks.0001.0500/0451.SortCharactersByFrequency bin/0451.SortCharactersByFrequency)
 add_subdirectory(Algorithms/Tasks.0001.0500/0452.MinNumberOfArrowsToBurstBalloons bin/0452.MinNumberOfArrowsToBurstBalloons)
+add_subdirectory(Algorithms/Tasks.0001.0500/0453.MinMovesToEqualArrayElements bin/0453.MinMovesToEqualArrayElements)
 add_subdirectory(Algorithms/Tasks.0001.0500/0454.4SumII bin/0454.4SumII)
 add_subdirectory(Algorithms/Tasks.0001.0500/0455.AssignCookies bin/0455.AssignCookies)
 add_subdirectory(Algorithms/Tasks.0001.0500/0456.132Pattern bin/0456.132Pattern)
