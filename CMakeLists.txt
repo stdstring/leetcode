@@ -1812,6 +1812,7 @@ add_subdirectory(Algorithms/Tasks.3501.4000/3718.SmallestMissingMultipleOfK bin/
 add_subdirectory(Algorithms/Tasks.3501.4000/3723.MaxSumOfDigitsSquares bin/3723.MaxSumOfDigitsSquares)
 add_subdirectory(Algorithms/Tasks.3501.4000/3727.MaxAlternatingSquaresSum bin/3727.MaxAlternatingSquaresSum)
 add_subdirectory(Algorithms/Tasks.3501.4000/3731.FindMissingElements bin/3731.FindMissingElements)
+add_subdirectory(Algorithms/Tasks.3501.4000/3736.MinMovesToEqualArrayElements3 bin/3736.MinMovesToEqualArrayElements3)
 add_subdirectory(Algorithms/Tasks.3501.4000/3737.CountSubarraysWithMajorityElement1 bin/3737.CountSubarraysWithMajorityElement1)
 add_subdirectory(Algorithms/Tasks.3501.4000/3739.CountSubarraysWithMajorityElement2 bin/3739.CountSubarraysWithMajorityElement2)
 add_subdirectory(Algorithms/Tasks.3501.4000/3740.MinDistanceBetween3EqualElements1 bin/3740.MinDistanceBetween3EqualElements1)
