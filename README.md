@@ -911,6 +911,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 * [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 * [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
+* [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
 * [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/)
 * [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/)
 * [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/)
