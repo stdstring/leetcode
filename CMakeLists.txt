@@ -922,6 +922,7 @@ add_subdirectory(Algorithms/Tasks.1001.1500/1380.LuckyNumbersInMatrix bin/1380.L
 add_subdirectory(Algorithms/Tasks.1001.1500/1381.DesignStackWithIncrementOp bin/1381.DesignStackWithIncrementOp)
 add_subdirectory(Algorithms/Tasks.1001.1500/1382.BalanceBinarySearchTree bin/1382.BalanceBinarySearchTree)
 add_subdirectory(Algorithms/Tasks.1001.1500/1383.MaxPerformanceOfTeam bin/1383.MaxPerformanceOfTeam)
+add_subdirectory(Algorithms/Tasks.1001.1500/1385.FindDistanceValueBetweenTwoArrays bin/1385.FindDistanceValueBetweenTwoArrays)
 add_subdirectory(Algorithms/Tasks.1001.1500/1386.CinemaSeatAllocation bin/1386.CinemaSeatAllocation)
 add_subdirectory(Algorithms/Tasks.1001.1500/1387.SortIntegersByPowerValue bin/1387.SortIntegersByPowerValue)
 add_subdirectory(Algorithms/Tasks.1001.1500/1390.FourDivisors bin/1390.FourDivisors)
