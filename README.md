@@ -1798,6 +1798,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)
 * [3665. Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/description/)
 * [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/)
+* [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/description/)
 * [3702. Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/description/)
 * [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/)
 * [3718. Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/)
