@@ -1332,6 +1332,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2233.MaxProductAfterKIncrements bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2236.RootEqualsSumOfChildren bin/2236.RootEqualsSumOfChildren)
 add_subdirectory(Algorithms/Tasks.2001.2500/2240.NumberWaysToBuyPensPencils bin/2240.NumberWaysToBuyPensPencils)
 add_subdirectory(Algorithms/Tasks.2001.2500/2241.DesignATMMachine bin/2241.DesignATMMachine)
+add_subdirectory(Algorithms/Tasks.2001.2500/2243.CalculateDigitSumOfString bin/2243.CalculateDigitSumOfString)
 add_subdirectory(Algorithms/Tasks.2001.2500/2244.MinRoundsCompleteAllTasks bin/2244.MinRoundsCompleteAllTasks)
 add_subdirectory(Algorithms/Tasks.2001.2500/2246.LongestPathWithDiffAdjacentChars bin/2246.LongestPathWithDiffAdjacentChars)
 add_subdirectory(Algorithms/Tasks.2001.2500/2249.CountLatticePointsInsideCircle bin/2249.CountLatticePointsInsideCircle)
