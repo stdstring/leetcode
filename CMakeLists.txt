@@ -1731,6 +1731,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3315.ConstructMinBitwiseArray2 bin/3
 add_subdirectory(Algorithms/Tasks.3001.3500/3318.FindXSumOfAllKLongSubarrays1 bin/3318.FindXSumOfAllKLongSubarrays1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3321.FindXSumOfAllKLongSubarrays2 bin/3321.FindXSumOfAllKLongSubarrays2)
 add_subdirectory(Algorithms/Tasks.3001.3500/3330.FindOriginalTypedString1 bin/3330.FindOriginalTypedString1)
+add_subdirectory(Algorithms/Tasks.3001.3500/3331.FindSubtreeSizesAfterChanges bin/3331.FindSubtreeSizesAfterChanges)
 add_subdirectory(Algorithms/Tasks.3001.3500/3335.TotalCharactersAfterTransform1 bin/3335.TotalCharactersAfterTransform1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3341.FindMinTimeToReachLastRoom1 bin/3341.FindMinTimeToReachLastRoom1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3342.FindMinTimeToReachLastRoom2 bin/3342.FindMinTimeToReachLastRoom2)
