@@ -1274,6 +1274,7 @@ add_subdirectory(Algorithms/Tasks.2001.2500/2117.AbbreviatingProductOfRange bin/
 add_subdirectory(Algorithms/Tasks.2001.2500/2119.NumberAfterDoubleReversal bin/2119.NumberAfterDoubleReversal)
 add_subdirectory(Algorithms/Tasks.2001.2500/2120.ExecAllSuffixInstructionsStayingInGrid bin/2120.ExecAllSuffixInstructionsStayingInGrid)
 add_subdirectory(Algorithms/Tasks.2001.2500/2121.IntervalsBetweenIdenticalElements bin/2121.IntervalsBetweenIdenticalElements)
+add_subdirectory(Algorithms/Tasks.2001.2500/2124.CheckIfAllAAppearsBeforeAllB bin/2124.CheckIfAllAAppearsBeforeAllB)
 add_subdirectory(Algorithms/Tasks.2001.2500/2125.NumberOfLaserBeamsInBank bin/2125.NumberOfLaserBeamsInBank)
 add_subdirectory(Algorithms/Tasks.2001.2500/2126.DestroyingAsteroids bin/2126.DestroyingAsteroids)
 add_subdirectory(Algorithms/Tasks.2001.2500/2130.MaxTwinSumOfLinkedList bin/2130.MaxTwinSumOfLinkedList)
