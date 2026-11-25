@@ -1831,5 +1831,6 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/)
 * [3903. Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/)
 * [3904. Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/description/)
+* [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/description/)
 * [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/)
 * [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/description/)
