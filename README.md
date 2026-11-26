@@ -1731,6 +1731,7 @@ My solutions for tasks from [LeetCode](https://leetcode.com/problemset/all/):
 * [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/)
 * [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/)
 * [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)
+* [3360. Stone Removal Game](https://leetcode.com/problems/stone-removal-game/description/)
 * [3363. Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)
 * [3364. Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/description/)
 * [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/)

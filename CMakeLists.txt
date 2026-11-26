@@ -1742,6 +1742,7 @@ add_subdirectory(Algorithms/Tasks.3001.3500/3350.AdjacentIncrSubarraysDetection2
 add_subdirectory(Algorithms/Tasks.3001.3500/3354.MakeArrayElementsEqualZero bin/3354.MakeArrayElementsEqualZero)
 add_subdirectory(Algorithms/Tasks.3001.3500/3355.ZeroArrayTransformation1 bin/3355.ZeroArrayTransformation1)
 add_subdirectory(Algorithms/Tasks.3001.3500/3356.ZeroArrayTransformation2 bin/3356.ZeroArrayTransformation2)
+add_subdirectory(Algorithms/Tasks.3001.3500/3360.StoneRemovalGame bin/3360.StoneRemovalGame)
 add_subdirectory(Algorithms/Tasks.3001.3500/3363.FindMaxNumberFruitsCollected bin/3363.FindMaxNumberFruitsCollected)
 add_subdirectory(Algorithms/Tasks.3001.3500/3364.MinPositiveSumSubarray bin/3364.MinPositiveSumSubarray)
 add_subdirectory(Algorithms/Tasks.3001.3500/3370.SmallestNumberWithAllSetBits bin/3370.SmallestNumberWithAllSetBits)
